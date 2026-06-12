@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#0d2a1b">
+
+<title>League Ledger — World Cup goals, assists &amp; saves by club league (2026, 2022, 2018, 2014, 2010)</title>
+<meta name="description" content="Track every FIFA World Cup goal, assist and save credited back to the club league the player earns his living in. Live 2026 tournament plus full historical ledgers for 2022, 2018, 2014 and 2010 — Premier League, La Liga, Bundesliga, Serie A, Ligue 1, MLS, Saudi Pro League and more.">
+<meta name="keywords" content="World Cup 2026, World Cup goals by league, Premier League World Cup, La Liga World Cup, Bundesliga World Cup, Ligue 1 World Cup, Serie A World Cup, MLS World Cup, Saudi Pro League World Cup, World Cup assists, World Cup goalkeeper saves, World Cup 2022, World Cup 2018, World Cup 2014, World Cup 2010, FIFA World Cup stats, club league ledger">
+<meta name="author" content="Douglas DeMaio">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="googlebot" content="index, follow">
+<link rel="canonical" href="https://douglasdemaio.github.io/World-Cup-League-Ledger/">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="League Ledger">
+<meta property="og:title" content="League Ledger — World Cup goals, assists &amp; saves by club league">
+<meta property="og:description" content="Live 2026 World Cup tracker plus full ledgers for 2022, 2018, 2014 and 2010 — every goal, assist and save sorted by the league the player plays his club football in.">
+<meta property="og:url" content="https://douglasdemaio.github.io/World-Cup-League-Ledger/">
+<meta property="og:image" content="https://douglasdemaio.github.io/World-Cup-League-Ledger/og-image.svg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="League Ledger — World Cup goals, assists and saves credited to the league each player calls home.">
+<meta property="og:locale" content="en_US">
+
+<!-- Twitter / X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="League Ledger — World Cup goals, assists &amp; saves by club league">
+<meta name="twitter:description" content="Every World Cup goal, assist and save credited back to the league the player earns his living in. 2026 live, plus 2022 / 2018 / 2014 / 2010.">
+<meta name="twitter:image" content="https://douglasdemaio.github.io/World-Cup-League-Ledger/og-image.svg">
+<meta name="twitter:image:alt" content="League Ledger scoreboard graphic">
+
+<!-- Favicon (inline SVG) -->
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%230d2a1b'/><circle cx='32' cy='32' r='18' fill='none' stroke='%23e3b34c' stroke-width='3'/><path d='M32 18l5 9-5 4-5-4z M32 46l-5-9 5-4 5 4z M18 32l9-5 4 5-4 5z M46 32l-9 5-4-5 4-5z' fill='%23e3b34c'/></svg>">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Expanded:wght@500;700;900&family=Archivo:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://douglasdemaio.github.io/World-Cup-League-Ledger/#website",
+      "url": "https://douglasdemaio.github.io/World-Cup-League-Ledger/",
+      "name": "League Ledger",
+      "description": "World Cup goals, assists and saves credited to the player's club league. Live 2026 plus historical 2022, 2018, 2014, 2010.",
+      "inLanguage": "en",
+      "publisher": { "@id": "https://douglasdemaio.github.io/World-Cup-League-Ledger/#publisher" }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://douglasdemaio.github.io/World-Cup-League-Ledger/#publisher",
+      "name": "Douglas DeMaio",
+      "url": "https://github.com/douglasdemaio"
+    },
+    {
+      "@type": "Dataset",
+      "name": "World Cup goals, assists and saves by club league (2010–2026)",
+      "description": "Per-player, per-club, per-league tallies for the last five FIFA World Cups. 2026 tracked live; 2022, 2018, 2014 and 2010 compiled from public match data.",
+      "keywords": ["FIFA World Cup","goals","assists","saves","Premier League","La Liga","Bundesliga","Serie A","Ligue 1","MLS","Saudi Pro League"],
+      "license": "https://opensource.org/licenses/MIT",
+      "creator": { "@id": "https://douglasdemaio.github.io/World-Cup-League-Ledger/#publisher" },
+      "temporalCoverage": "2010-06-11/2026-07-19",
+      "url": "https://douglasdemaio.github.io/World-Cup-League-Ledger/"
+    },
+    {
+      "@type": "SportsEvent",
+      "name": "FIFA World Cup 2026",
+      "startDate": "2026-06-11",
+      "endDate": "2026-07-19",
+      "location": [
+        {"@type":"Country","name":"United States"},
+        {"@type":"Country","name":"Mexico"},
+        {"@type":"Country","name":"Canada"}
+      ],
+      "sport": "Association football",
+      "url": "https://douglasdemaio.github.io/World-Cup-League-Ledger/"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type":"ListItem","position":1,"name":"League Ledger","item":"https://douglasdemaio.github.io/World-Cup-League-Ledger/"}
+      ]
+    }
+  ]
+}
+</script>
+
+<style>
+:root{
+  --pitch:#0d2a1b; --pitch-2:#11331f; --chalk:#f0ece0; --chalk-dim:#bdc7b8;
+  --gold:#e3b34c; --grass:#3f8f5f; --grass-soft:#235b3a; --line:rgba(240,236,224,.16);
+  --bar:#2e7d4f; --sol:#9945ff; --sol-2:#14f195;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  background:
+    repeating-linear-gradient(90deg, rgba(255,255,255,.018) 0 90px, rgba(0,0,0,.05) 90px 180px),
+    radial-gradient(1200px 600px at 50% -10%, #16402a 0%, var(--pitch) 60%);
+  color:var(--chalk);
+  font-family:'Archivo',system-ui,-apple-system,sans-serif;
+  min-height:100vh;
+}
+.wrap{max-width:980px;margin:0 auto;padding:28px 20px 60px}
+.kick{font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--gold);font-weight:700}
+h1{
+  font-family:'Archivo Expanded','Archivo',sans-serif;font-weight:900;
+  font-size:clamp(30px,5.4vw,52px);line-height:1.02;margin:10px 0 8px;text-transform:uppercase;
+}
+h1 em{font-style:normal;color:var(--gold)}
+.sub{color:var(--chalk-dim);max-width:720px;font-size:15px;line-height:1.55}
+.board{
+  margin-top:26px;border:1px solid var(--line);border-radius:14px;overflow:hidden;
+  background:linear-gradient(180deg,rgba(0,0,0,.25),rgba(0,0,0,.08));
+}
+.board-top{display:flex;flex-wrap:wrap;gap:10px;justify-content:space-between;align-items:center;
+  padding:14px 18px;border-bottom:1px dashed var(--line)}
+.switch{display:flex;flex-wrap:wrap;gap:6px;background:rgba(0,0,0,.3);padding:5px;border-radius:10px}
+.switch button{
+  font-family:inherit;font-weight:700;font-size:12.5px;letter-spacing:.04em;border:0;cursor:pointer;
+  padding:7px 12px;border-radius:7px;background:transparent;color:var(--chalk-dim);transition:all .18s;
+}
+.switch button.on{background:var(--gold);color:#1d1505}
+.switch button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+.live-dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#ff5d5d;margin-right:6px;animation:pulse 1.4s infinite;vertical-align:middle}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.updated{font-size:12.5px;color:var(--chalk-dim)}
+.tabs{display:flex;border-bottom:1px solid var(--line)}
+.tabs button{
+  flex:1;font-family:'Archivo Expanded','Archivo',sans-serif;font-weight:700;text-transform:uppercase;
+  letter-spacing:.1em;font-size:clamp(11px,1.8vw,14px);padding:14px 6px;border:0;cursor:pointer;
+  background:transparent;color:var(--chalk-dim);border-right:1px solid var(--line);transition:all .15s;
+}
+.tabs button:last-child{border-right:0}
+.tabs button.on{color:var(--chalk);background:rgba(63,143,95,.18);box-shadow:inset 0 -3px 0 var(--gold)}
+.tabs .num{display:block;font-size:20px;color:var(--gold);font-weight:900;margin-top:2px}
+.rows{padding:10px 14px 18px}
+.note{font-size:12.5px;color:var(--chalk-dim);padding:12px 6px 4px;line-height:1.55}
+.lg{border-bottom:1px solid rgba(240,236,224,.08)}
+.lg:last-child{border-bottom:0}
+.lg-head{
+  display:grid;grid-template-columns:34px 1fr auto;align-items:center;gap:12px;
+  padding:13px 6px;cursor:pointer;user-select:none;
+}
+.lg-head:hover{background:rgba(255,255,255,.03)}
+.rank{font-family:'Archivo Expanded',sans-serif;font-weight:900;font-size:15px;color:var(--chalk-dim);text-align:right}
+.lg.first .rank{color:var(--gold)}
+.lg-name{min-width:0}
+.lg-name b{font-size:15px;font-weight:700;display:block}
+.barwrap{height:7px;border-radius:4px;background:rgba(0,0,0,.35);margin-top:7px;overflow:hidden}
+.bar{height:100%;border-radius:4px;background:linear-gradient(90deg,var(--grass-soft),var(--bar));width:0;transition:width .7s cubic-bezier(.2,.7,.2,1)}
+.lg.first .bar{background:linear-gradient(90deg,#8a6420,var(--gold))}
+.count{
+  font-family:'Archivo Expanded',sans-serif;font-weight:900;font-size:22px;min-width:58px;text-align:center;
+  background:rgba(0,0,0,.4);border:1px solid var(--line);border-radius:8px;padding:6px 10px;
+}
+.lg.first .count{color:var(--gold);border-color:rgba(227,179,76,.5)}
+.caret{font-size:11px;color:var(--chalk-dim);margin-left:8px;transition:transform .2s;display:inline-block}
+.lg.open .caret{transform:rotate(180deg)}
+.players{display:none;padding:2px 6px 14px 46px}
+.lg.open .players{display:flex;flex-wrap:wrap;gap:7px}
+.chip{
+  font-size:12.5px;background:rgba(0,0,0,.32);border:1px solid var(--line);
+  border-radius:999px;padding:5px 11px;color:var(--chalk);
+}
+.chip b{color:var(--gold);font-weight:700}
+.chip span{color:var(--chalk-dim)}
+.method{margin-top:34px;border-top:1px dashed var(--line);padding-top:18px;font-size:13px;color:var(--chalk-dim);line-height:1.65}
+.method h2{font-family:'Archivo Expanded',sans-serif;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--chalk);margin-bottom:8px}
+.method a{color:var(--gold)}
+
+/* --- Forkit promo (small) --- */
+.forkit{
+  margin-top:34px;border:1px solid rgba(153,69,255,.35);border-radius:12px;
+  padding:14px 16px;font-size:12.5px;line-height:1.6;color:var(--chalk-dim);
+  background:linear-gradient(135deg, rgba(153,69,255,.08), rgba(20,241,149,.05));
+}
+.forkit h3{
+  font-family:'Archivo Expanded',sans-serif;font-size:11.5px;letter-spacing:.22em;text-transform:uppercase;
+  color:var(--chalk);margin-bottom:6px;
+}
+.forkit h3 .sol{
+  background:linear-gradient(90deg,var(--sol),var(--sol-2));-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900;
+}
+.forkit a{color:#bda4ff;text-decoration:none;border-bottom:1px dotted rgba(189,164,255,.4)}
+.forkit a:hover{color:#d8c8ff;border-bottom-color:#d8c8ff}
+.forkit .tag{display:inline-block;font-size:10.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--sol-2);font-weight:700;margin-right:6px}
+
+footer.foot{margin-top:30px;font-size:11.5px;color:var(--chalk-dim);text-align:center;line-height:1.55}
+footer.foot a{color:var(--gold);text-decoration:none}
+
+@media (max-width:560px){
+  .lg-head{grid-template-columns:26px 1fr auto;gap:8px}
+  .players{padding-left:34px}
+  .count{font-size:18px;min-width:48px}
+  .switch{width:100%;overflow-x:auto;flex-wrap:nowrap}
+  .switch button{flex-shrink:0}
+}
+@media (prefers-reduced-motion: reduce){ .bar{transition:none} .live-dot{animation:none} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kick">FIFA World Cup · Club-league ledger · Last five tournaments</div>
+    <h1>Where the goals<br><em>come from</em></h1>
+    <p class="sub">Every FIFA World Cup goal, assist and save, credited back to the league the player earns his club paycheck in. The <strong>2026 tournament</strong> updates live; the ledgers for <strong>2022, 2018, 2014 and 2010</strong> are settled. Tap any league to see exactly who delivered.</p>
+  </header>
+
+  <main class="board" aria-label="World Cup league ledger">
+    <div class="board-top">
+      <div class="switch" role="tablist" aria-label="Tournament">
+        <button id="t2026" class="on" data-t="2026" aria-pressed="true"><span class="live-dot" aria-hidden="true"></span>2026 · Live</button>
+        <button id="t2022" data-t="2022">2022</button>
+        <button id="t2018" data-t="2018">2018</button>
+        <button id="t2014" data-t="2014">2014</button>
+        <button id="t2010" data-t="2010">2010</button>
+      </div>
+      <div class="updated" id="updated"></div>
+    </div>
+    <div class="tabs" role="tablist" aria-label="Statistic">
+      <button id="tabgoals" class="on" data-s="goals" aria-pressed="true">Goals<span class="num" id="ngoals"></span></button>
+      <button id="tabassists" data-s="assists" aria-pressed="false">Assists<span class="num" id="nassists"></span></button>
+      <button id="tabsaves" data-s="saves" aria-pressed="false">Saves<span class="num" id="nsaves"></span></button>
+    </div>
+    <div class="rows" id="rows"></div>
+    <div class="note" id="note"></div>
+  </main>
+
+  <section class="method">
+    <h2>Method &amp; sources</h2>
+    <p>Each goal, assist and save is credited to the player's <em>club at the time of that tournament</em>, then aggregated by the league that club competes in. Own goals are excluded from player totals (2022, for example: 170 player goals + 2 own goals = 172 official). Recent tournaments: goals and assists from worldfootball.net cross-checked against FIFA match reports; 2022 keeper saves from FOX Sports (regulation saves only, shootouts excluded). 2026 data is compiled from official match reports as the tournament unfolds.</p>
+    <p style="margin-top:8px">Historical tournaments (2018, 2014, 2010) list the <strong>confirmed top contributors</strong> per league rather than every cameo — assist and save lists for those years pre-date consistent public attribution and are best-effort. Corrections welcome via <a href="https://github.com/douglasdemaio/World-Cup-League-Ledger">GitHub</a>. One judgment call worth knowing: Cristiano Ronaldo's 2022 goal is listed as "unattached" — Manchester United terminated his contract on 22 Nov 2022, two days before he scored.</p>
+  </section>
+
+  <aside class="forkit" aria-label="Forkit project — Solana-powered local delivery">
+    <h3><span class="tag">Backer slot</span> <span class="sol">Forkit</span> · open delivery, on Solana</h3>
+    <p><strong>Forkit</strong> is a Solana-based local delivery network — restaurants and couriers settle on-chain, no 30% middleman cut. Three repos welcoming contributors and early backers: <a href="https://github.com/douglasdemaio/forkit-site">forkit-site</a> (the storefront), <a href="https://github.com/douglasdemaio/forkit">forkit</a> (the protocol) and <a href="https://github.com/douglasdemaio/forkme">forkme</a> (the courier client). Aim is to give DoorDash and Uber Eats real competition where it hurts — the take rate. Drop a star, file an issue, or reach out about a pre-seed slot.</p>
+  </aside>
+
+  <footer class="foot">
+    <p>Made by <a href="https://github.com/douglasdemaio">Douglas DeMaio</a> · open-source on <a href="https://github.com/douglasdemaio/World-Cup-League-Ledger">GitHub</a> · MIT licensed · not affiliated with FIFA.</p>
+  </footer>
+</div>
+
+<script>
+/* ----------------------------------------------------------------
+ * DATA
+ * 2022 + 2026: full per-player ledgers (compiled from match reports).
+ * 2018 / 2014 / 2010: top contributors per league (see Method note).
+ * ---------------------------------------------------------------- */
+const WC = {
+  "2026": {
+    "updated": "June 12, 2026 — after Matchday 1 (2 of 104 matches)",
+    "goals": [
+      {"league":"Premier League (England)","total":2,"players":[
+        {"name":"Raúl Jiménez","nat":"Mexico","n":1,"club":"Fulham"},
+        {"name":"Ladislav Krejčí","nat":"Czechia","n":1,"club":"Wolverhampton Wanderers"}
+      ]},
+      {"league":"Saudi Pro League","total":1,"players":[
+        {"name":"Julián Quiñones","nat":"Mexico","n":1,"club":"Al-Qadsiah"}
+      ]},
+      {"league":"Eredivisie (Netherlands)","total":1,"players":[
+        {"name":"Hwang In-beom","nat":"South Korea","n":1,"club":"Feyenoord"}
+      ]},
+      {"league":"Süper Lig (Turkey)","total":1,"players":[
+        {"name":"Oh Hyeon-gyu","nat":"South Korea","n":1,"club":"Beşiktaş"}
+      ]}
+    ]
+  },
+
+  "2022": {"updated": "Final · Qatar, 20 Nov – 18 Dec 2022", "goals": [{"league": "Premier League (England)", "total": 38, "players": [{"name": "Julián Álvarez", "nat": "Argentina", "n": 4, "club": "Manchester City"}, {"name": "Marcus Rashford", "nat": "England", "n": 3, "club": "Manchester United"}, {"name": "Richarlison", "nat": "Brazil", "n": 3, "club": "Tottenham Hotspur"}, {"name": "Bukayo Saka", "nat": "England", "n": 3, "club": "Arsenal"}, {"name": "Bruno Fernandes", "nat": "Portugal", "n": 2, "club": "Manchester United"}, {"name": "Kai Havertz", "nat": "Germany", "n": 2, "club": "Chelsea"}, {"name": "Harry Kane", "nat": "England", "n": 2, "club": "Tottenham Hotspur"}, {"name": "Aleksandar Mitrović", "nat": "Serbia", "n": 2, "club": "Fulham"}, {"name": "Manuel Akanji", "nat": "Switzerland", "n": 1, "club": "Manchester City"}, {"name": "Moisés Caicedo", "nat": "Ecuador", "n": 1, "club": "Brighton & Hove Albion"}, {"name": "Casemiro", "nat": "Brazil", "n": 1, "club": "Manchester United"}, {"name": "Phil Foden", "nat": "England", "n": 1, "club": "Manchester City"}, {"name": "Remo Freuler", "nat": "Switzerland", "n": 1, "club": "Nottingham Forest"}, {"name": "Jack Grealish", "nat": "England", "n": 1, "club": "Manchester City"}, {"name": "İlkay Gündoğan", "nat": "Germany", "n": 1, "club": "Manchester City"}, {"name": "Jordan Henderson", "nat": "England", "n": 1, "club": "Liverpool"}, {"name": "Hwang Hee-chan", "nat": "South Korea", "n": 1, "club": "Wolverhampton Wanderers"}, {"name": "Kalidou Koulibaly", "nat": "Senegal", "n": 1, "club": "Chelsea"}, {"name": "Lucas Paquetá", "nat": "Brazil", "n": 1, "club": "West Ham United"}, {"name": "Alexis Mac Allister", "nat": "Argentina", "n": 1, "club": "Brighton & Hove Albion"}, {"name": "Ivan Perišić", "nat": "Croatia", "n": 1, "club": "Tottenham Hotspur"}, {"name": "Christian Pulisic", "nat": "USA", "n": 1, "club": "Chelsea"}, {"name": "Mohammed Salisu", "nat": "Ghana", "n": 1, "club": "Southampton"}, {"name": "Raheem Sterling", "nat": "England", "n": 1, "club": "Chelsea"}, {"name": "Hakim Ziyech", "nat": "Morocco", "n": 1, "club": "Chelsea"}]}, {"league": "Ligue 1 (France)", "total": 27, "players": [{"name": "Kylian Mbappé", "nat": "France", "n": 8, "club": "Paris Saint-Germain"}, {"name": "Lionel Messi", "nat": "Argentina", "n": 7, "club": "Paris Saint-Germain"}, {"name": "Breel Embolo", "nat": "Switzerland", "n": 2, "club": "AS Monaco"}, {"name": "Neymar", "nat": "Brazil", "n": 2, "club": "Paris Saint-Germain"}, {"name": "Zakaria Aboukhlal", "nat": "Morocco", "n": 1, "club": "Toulouse"}, {"name": "Carlos Soler", "nat": "Spain", "n": 1, "club": "Paris Saint-Germain"}, {"name": "Jean-Charles Castelletto", "nat": "Cameroon", "n": 1, "club": "Nantes"}, {"name": "Achraf Dari", "nat": "Morocco", "n": 1, "club": "Stade Brestois"}, {"name": "Bamba Dieng", "nat": "Senegal", "n": 1, "club": "Marseille"}, {"name": "Wahbi Khazri", "nat": "Tunisia", "n": 1, "club": "Montpellier"}, {"name": "Lovro Majer", "nat": "Croatia", "n": 1, "club": "Rennes"}, {"name": "Timothy Weah", "nat": "USA", "n": 1, "club": "Lille"}]}, {"league": "La Liga (Spain)", "total": 18, "players": [{"name": "Álvaro Morata", "nat": "Spain", "n": 3, "club": "Atlético Madrid"}, {"name": "Youssef En-Nesyri", "nat": "Morocco", "n": 2, "club": "Sevilla"}, {"name": "Ferran Torres", "nat": "Spain", "n": 2, "club": "Barcelona"}, {"name": "Robert Lewandowski", "nat": "Poland", "n": 2, "club": "Barcelona"}, {"name": "Andreas Christensen", "nat": "Denmark", "n": 1, "club": "Barcelona"}, {"name": "Frenkie de Jong", "nat": "Netherlands", "n": 1, "club": "Barcelona"}, {"name": "Memphis Depay", "nat": "Netherlands", "n": 1, "club": "Barcelona"}, {"name": "Gavi", "nat": "Spain", "n": 1, "club": "Barcelona"}, {"name": "João Félix", "nat": "Portugal", "n": 1, "club": "Atlético Madrid"}, {"name": "Marco Asensio", "nat": "Spain", "n": 1, "club": "Real Madrid"}, {"name": "Nahuel Molina", "nat": "Argentina", "n": 1, "club": "Atlético Madrid"}, {"name": "Aurélien Tchouaméni", "nat": "France", "n": 1, "club": "Real Madrid"}, {"name": "Vinícius Júnior", "nat": "Brazil", "n": 1, "club": "Real Madrid"}]}, {"league": "Serie A (Italy)", "total": 15, "players": [{"name": "Olivier Giroud", "nat": "France", "n": 4, "club": "AC Milan"}, {"name": "Rafael Leão", "nat": "Portugal", "n": 2, "club": "AC Milan"}, {"name": "Ángel Di María", "nat": "Argentina", "n": 1, "club": "Juventus"}, {"name": "Boulaye Dia", "nat": "Senegal", "n": 1, "club": "Salernitana"}, {"name": "Denzel Dumfries", "nat": "Netherlands", "n": 1, "club": "Inter Milan"}, {"name": "Théo Hernández", "nat": "France", "n": 1, "club": "AC Milan"}, {"name": "Sergej Milinković-Savić", "nat": "Serbia", "n": 1, "club": "Lazio"}, {"name": "Adrien Rabiot", "nat": "France", "n": 1, "club": "Juventus"}, {"name": "Abdelhamid Sabiri", "nat": "Morocco", "n": 1, "club": "Sampdoria"}, {"name": "Dušan Vlahović", "nat": "Serbia", "n": 1, "club": "Juventus"}, {"name": "Piotr Zieliński", "nat": "Poland", "n": 1, "club": "Napoli"}]}, {"league": "Bundesliga (Germany)", "total": 15, "players": [{"name": "Ritsu Doan", "nat": "Japan", "n": 2, "club": "SC Freiburg"}, {"name": "Niclas Füllkrug", "nat": "Germany", "n": 2, "club": "Werder Bremen"}, {"name": "Andrej Kramarić", "nat": "Croatia", "n": 2, "club": "Hoffenheim"}, {"name": "Takuma Asano", "nat": "Japan", "n": 1, "club": "VfL Bochum"}, {"name": "Jude Bellingham", "nat": "England", "n": 1, "club": "Borussia Dortmund"}, {"name": "Eric Maxim Choupo-Moting", "nat": "Cameroon", "n": 1, "club": "Bayern Munich"}, {"name": "Dani Olmo", "nat": "Spain", "n": 1, "club": "RB Leipzig"}, {"name": "Alphonso Davies", "nat": "Canada", "n": 1, "club": "Bayern Munich"}, {"name": "Serge Gnabry", "nat": "Germany", "n": 1, "club": "Bayern Munich"}, {"name": "Raphaël Guerreiro", "nat": "Portugal", "n": 1, "club": "Borussia Dortmund"}, {"name": "Joško Gvardiol", "nat": "Croatia", "n": 1, "club": "RB Leipzig"}, {"name": "Randal Kolo Muani", "nat": "France", "n": 1, "club": "Eintracht Frankfurt"}]}, {"league": "Primeira Liga (Portugal)", "total": 8, "players": [{"name": "Gonçalo Ramos", "nat": "Portugal", "n": 3, "club": "Benfica"}, {"name": "Mehdi Taremi", "nat": "Iran", "n": 2, "club": "Porto"}, {"name": "Enzo Fernández", "nat": "Argentina", "n": 1, "club": "Benfica"}, {"name": "Pepe", "nat": "Portugal", "n": 1, "club": "Porto"}, {"name": "Ricardo Horta", "nat": "Portugal", "n": 1, "club": "Braga"}]}, {"league": "Süper Lig (Turkey)", "total": 8, "players": [{"name": "Enner Valencia", "nat": "Ecuador", "n": 3, "club": "Fenerbahçe"}, {"name": "Wout Weghorst", "nat": "Netherlands", "n": 2, "club": "Beşiktaş (loan)"}, {"name": "Michy Batshuayi", "nat": "Belgium", "n": 1, "club": "Fenerbahçe"}, {"name": "Famara Diédhiou", "nat": "Senegal", "n": 1, "club": "Alanyaspor"}, {"name": "Haji Wright", "nat": "USA", "n": 1, "club": "Antalyaspor"}]}, {"league": "Eredivisie (Netherlands)", "total": 7, "players": [{"name": "Cody Gakpo", "nat": "Netherlands", "n": 3, "club": "PSV Eindhoven"}, {"name": "Mohammed Kudus", "nat": "Ghana", "n": 2, "club": "Ajax"}, {"name": "Daley Blind", "nat": "Netherlands", "n": 1, "club": "Ajax"}, {"name": "Davy Klaassen", "nat": "Netherlands", "n": 1, "club": "Ajax"}]}, {"league": "Saudi Pro League", "total": 5, "players": [{"name": "Vincent Aboubakar", "nat": "Cameroon", "n": 2, "club": "Al-Nassr"}, {"name": "Salem Al-Dawsari", "nat": "Saudi Arabia", "n": 2, "club": "Al-Hilal"}, {"name": "Saleh Al-Shehri", "nat": "Saudi Arabia", "n": 1, "club": "Al-Hilal"}]}, {"league": "K League 1 (South Korea)", "total": 4, "players": [{"name": "Cho Gue-sung", "nat": "South Korea", "n": 2, "club": "Jeonbuk Hyundai Motors"}, {"name": "Kim Young-gwon", "nat": "South Korea", "n": 1, "club": "Ulsan Hyundai"}, {"name": "Paik Seung-ho", "nat": "South Korea", "n": 1, "club": "Jeonbuk Hyundai Motors"}]}, {"league": "HNL (Croatia)", "total": 3, "players": [{"name": "Marko Livaja", "nat": "Croatia", "n": 1, "club": "Hajduk Split"}, {"name": "Mislav Oršić", "nat": "Croatia", "n": 1, "club": "Dinamo Zagreb"}, {"name": "Bruno Petković", "nat": "Croatia", "n": 1, "club": "Dinamo Zagreb"}]}, {"league": "Série A (Brazil)", "total": 2, "players": [{"name": "Giorgian de Arrascaeta", "nat": "Uruguay", "n": 2, "club": "Flamengo"}]}, {"league": "Qatar Stars League", "total": 2, "players": [{"name": "André Ayew", "nat": "Ghana", "n": 1, "club": "Al-Sadd"}, {"name": "Mohammed Muntari", "nat": "Qatar", "n": 1, "club": "Al-Duhail"}]}, {"league": "MLS (USA/Canada)", "total": 2, "players": [{"name": "Gareth Bale", "nat": "Wales", "n": 1, "club": "Los Angeles FC"}, {"name": "Xherdan Shaqiri", "nat": "Switzerland", "n": 1, "club": "Chicago Fire"}]}, {"league": "Liga MX (Mexico)", "total": 2, "players": [{"name": "Luis Chávez", "nat": "Mexico", "n": 1, "club": "Pachuca"}, {"name": "Henry Martín", "nat": "Mexico", "n": 1, "club": "Club América"}]}, {"league": "Persian Gulf Pro League (Iran)", "total": 2, "players": [{"name": "Rouzbeh Cheshmi", "nat": "Iran", "n": 1, "club": "Esteghlal"}, {"name": "Ramin Rezaeian", "nat": "Iran", "n": 1, "club": "Sepahan"}]}, {"league": "Liga FPD (Costa Rica)", "total": 2, "players": [{"name": "Keysher Fuller", "nat": "Costa Rica", "n": 1, "club": "Herediano"}, {"name": "Yeltsin Tejeda", "nat": "Costa Rica", "n": 1, "club": "Herediano"}]}, {"league": "A-League (Australia)", "total": 2, "players": [{"name": "Craig Goodwin", "nat": "Australia", "n": 1, "club": "Adelaide United"}, {"name": "Mathew Leckie", "nat": "Australia", "n": 1, "club": "Melbourne City"}]}, {"league": "SuperLiga (Serbia)", "total": 1, "players": [{"name": "Osman Bukari", "nat": "Ghana", "n": 1, "club": "Red Star Belgrade"}]}, {"league": "Unattached", "total": 1, "players": [{"name": "Cristiano Ronaldo", "nat": "Portugal", "n": 1, "club": "Unattached (left Man Utd 22 Nov)"}]}, {"league": "J2 League (Japan, 2nd tier)", "total": 1, "players": [{"name": "Mitchell Duke", "nat": "Australia", "n": 1, "club": "Fagiano Okayama"}]}, {"league": "Scottish Premiership", "total": 1, "players": [{"name": "Daizen Maeda", "nat": "Japan", "n": 1, "club": "Celtic"}]}, {"league": "Austrian Bundesliga", "total": 1, "players": [{"name": "Strahinja Pavlović", "nat": "Serbia", "n": 1, "club": "Red Bull Salzburg"}]}, {"league": "EFL Championship (England, 2nd tier)", "total": 1, "players": [{"name": "Ismaïla Sarr", "nat": "Senegal", "n": 1, "club": "Watford"}]}, {"league": "2. Bundesliga (Germany, 2nd tier)", "total": 1, "players": [{"name": "Ao Tanaka", "nat": "Japan", "n": 1, "club": "Fortuna Düsseldorf"}]}, {"league": "Categoría Primera A (Colombia)", "total": 1, "players": [{"name": "Juan Pablo Vargas", "nat": "Costa Rica", "n": 1, "club": "Millonarios"}]}], "assists": [{"league": "Premier League (England)", "total": 29, "players": [{"name": "Ivan Perišić", "nat": "Croatia", "n": 3, "club": "Tottenham Hotspur"}, {"name": "Harry Kane", "nat": "England", "n": 3, "club": "Tottenham Hotspur"}, {"name": "Bruno Fernandes", "nat": "Portugal", "n": 3, "club": "Manchester United"}, {"name": "Christian Pulisic", "nat": "USA", "n": 2, "club": "Chelsea"}, {"name": "Diogo Dalot", "nat": "Portugal", "n": 2, "club": "Manchester United"}, {"name": "Phil Foden", "nat": "England", "n": 2, "club": "Manchester City"}, {"name": "César Azpilicueta", "nat": "Spain", "n": 1, "club": "Chelsea"}, {"name": "Thiago Silva", "nat": "Brazil", "n": 1, "club": "Chelsea"}, {"name": "Callum Wilson", "nat": "England", "n": 1, "club": "Newcastle United"}, {"name": "Jordan Ayew", "nat": "Ghana", "n": 1, "club": "Crystal Palace"}, {"name": "Son Heung-min", "nat": "South Korea", "n": 1, "club": "Tottenham Hotspur"}, {"name": "Raheem Sterling", "nat": "England", "n": 1, "club": "Chelsea"}, {"name": "Harry Maguire", "nat": "England", "n": 1, "club": "Manchester United"}, {"name": "Luke Shaw", "nat": "England", "n": 1, "club": "Manchester United"}, {"name": "Hakim Ziyech", "nat": "Morocco", "n": 1, "club": "Chelsea"}, {"name": "Joachim Andersen", "nat": "Denmark", "n": 1, "club": "Crystal Palace"}, {"name": "Kalvin Phillips", "nat": "England", "n": 1, "club": "Manchester City"}, {"name": "Lucas Paquetá", "nat": "Brazil", "n": 1, "club": "West Ham United"}, {"name": "Alexis Mac Allister", "nat": "Argentina", "n": 1, "club": "Brighton & Hove Albion"}, {"name": "Kaoru Mitoma", "nat": "Japan", "n": 1, "club": "Brighton & Hove Albion"}]}, {"league": "La Liga (Spain)", "total": 21, "players": [{"name": "Antoine Griezmann", "nat": "France", "n": 3, "club": "Atlético Madrid"}, {"name": "Jordi Alba", "nat": "Spain", "n": 2, "club": "Barcelona"}, {"name": "Ousmane Dembélé", "nat": "France", "n": 2, "club": "Barcelona"}, {"name": "João Félix", "nat": "Portugal", "n": 2, "club": "Atlético Madrid"}, {"name": "Vinícius Júnior", "nat": "Brazil", "n": 2, "club": "Real Madrid"}, {"name": "Robert Lewandowski", "nat": "Poland", "n": 1, "club": "Barcelona"}, {"name": "Álvaro Morata", "nat": "Spain", "n": 1, "club": "Atlético Madrid"}, {"name": "Memphis Depay", "nat": "Netherlands", "n": 1, "club": "Barcelona"}, {"name": "Iñaki Williams", "nat": "Ghana", "n": 1, "club": "Athletic Club"}, {"name": "Frenkie de Jong", "nat": "Netherlands", "n": 1, "club": "Barcelona"}, {"name": "Nahuel Molina", "nat": "Argentina", "n": 1, "club": "Atlético Madrid"}, {"name": "Raphinha", "nat": "Brazil", "n": 1, "club": "Barcelona"}, {"name": "Rodrygo", "nat": "Brazil", "n": 1, "club": "Real Madrid"}, {"name": "Lee Kang-in", "nat": "South Korea", "n": 1, "club": "Mallorca"}, {"name": "Gavi", "nat": "Spain", "n": 1, "club": "Barcelona"}]}, {"league": "Bundesliga (Germany)", "total": 17, "players": [{"name": "Raphaël Guerreiro", "nat": "Portugal", "n": 2, "club": "Borussia Dortmund"}, {"name": "Marcus Thuram", "nat": "France", "n": 2, "club": "Borussia Mönchengladbach"}, {"name": "Maya Yoshida", "nat": "Japan", "n": 1, "club": "Schalke 04"}, {"name": "Niclas Füllkrug", "nat": "Germany", "n": 1, "club": "Werder Bremen"}, {"name": "Serge Gnabry", "nat": "Germany", "n": 1, "club": "Bayern Munich"}, {"name": "Silvan Widmer", "nat": "Switzerland", "n": 1, "club": "Mainz 05"}, {"name": "Leroy Sané", "nat": "Germany", "n": 1, "club": "Bayern Munich"}, {"name": "David Raum", "nat": "Germany", "n": 1, "club": "RB Leipzig"}, {"name": "Djibril Sow", "nat": "Switzerland", "n": 1, "club": "Eintracht Frankfurt"}, {"name": "Dani Olmo", "nat": "Spain", "n": 1, "club": "RB Leipzig"}, {"name": "Ko Itakura", "nat": "Japan", "n": 1, "club": "Borussia Mönchengladbach"}, {"name": "Randal Kolo Muani", "nat": "France", "n": 1, "club": "Eintracht Frankfurt"}, {"name": "Rubén Vargas", "nat": "Switzerland", "n": 1, "club": "Augsburg"}, {"name": "Jude Bellingham", "nat": "England", "n": 1, "club": "Borussia Dortmund"}, {"name": "Jamal Musiala", "nat": "Germany", "n": 1, "club": "Bayern Munich"}]}, {"league": "Serie A (Italy)", "total": 9, "players": [{"name": "Ángel Di María", "nat": "Argentina", "n": 2, "club": "Juventus"}, {"name": "Théo Hernández", "nat": "France", "n": 2, "club": "AC Milan"}, {"name": "Denzel Dumfries", "nat": "Netherlands", "n": 2, "club": "Inter Milan"}, {"name": "Adrien Rabiot", "nat": "France", "n": 1, "club": "Juventus"}, {"name": "Teun Koopmeiners", "nat": "Netherlands", "n": 1, "club": "Atalanta"}, {"name": "Sergiño Dest", "nat": "USA", "n": 1, "club": "AC Milan (loan)"}]}, {"league": "Ligue 1 (France)", "total": 8, "players": [{"name": "Lionel Messi", "nat": "Argentina", "n": 3, "club": "Paris Saint-Germain"}, {"name": "Kylian Mbappé", "nat": "France", "n": 2, "club": "Paris Saint-Germain"}, {"name": "Jean-Charles Castelletto", "nat": "Cameroon", "n": 1, "club": "Nantes"}, {"name": "Ismail Jakobs", "nat": "Senegal", "n": 1, "club": "AS Monaco"}, {"name": "Achraf Hakimi", "nat": "Morocco", "n": 1, "club": "Paris Saint-Germain"}]}, {"league": "Eredivisie (Netherlands)", "total": 7, "players": [{"name": "Dušan Tadić", "nat": "Serbia", "n": 2, "club": "Ajax"}, {"name": "Davy Klaassen", "nat": "Netherlands", "n": 2, "club": "Ajax"}, {"name": "Daley Blind", "nat": "Netherlands", "n": 1, "club": "Ajax"}, {"name": "Steven Berghuis", "nat": "Netherlands", "n": 1, "club": "Ajax"}, {"name": "Mohammed Kudus", "nat": "Ghana", "n": 1, "club": "Ajax"}]}, {"league": "Primeira Liga (Portugal)", "total": 4, "players": [{"name": "Nicolás Otamendi", "nat": "Argentina", "n": 1, "club": "Benfica"}, {"name": "Mehdi Taremi", "nat": "Iran", "n": 1, "club": "Porto"}, {"name": "Gonçalo Ramos", "nat": "Portugal", "n": 1, "club": "Benfica"}, {"name": "Enzo Fernández", "nat": "Argentina", "n": 1, "club": "Benfica"}]}, {"league": "Pro League (Belgium)", "total": 4, "players": [{"name": "Toby Alderweireld", "nat": "Belgium", "n": 1, "club": "Royal Antwerp"}, {"name": "Ali Gholizadeh", "nat": "Iran", "n": 1, "club": "Charleroi"}, {"name": "Ángelo Preciado", "nat": "Ecuador", "n": 1, "club": "Genk"}, {"name": "Tajon Buchanan", "nat": "Canada", "n": 1, "club": "Club Brugge"}]}, {"league": "HNL (Croatia)", "total": 3, "players": [{"name": "Mislav Oršić", "nat": "Croatia", "n": 2, "club": "Dinamo Zagreb"}, {"name": "Marko Livaja", "nat": "Croatia", "n": 1, "club": "Hajduk Split"}]}, {"league": "Saudi Pro League", "total": 3, "players": [{"name": "Vincent Aboubakar", "nat": "Cameroon", "n": 1, "club": "Al-Nassr"}, {"name": "Hattan Bahebri", "nat": "Saudi Arabia", "n": 1, "club": "Al-Shabab"}, {"name": "Firas Al-Buraikan", "nat": "Saudi Arabia", "n": 1, "club": "Al-Fateh"}]}, {"league": "EFL Championship (England, 2nd tier)", "total": 3, "players": [{"name": "Baba Rahman", "nat": "Ghana", "n": 1, "club": "Reading (loan)"}, {"name": "Riley McGree", "nat": "Australia", "n": 1, "club": "Middlesbrough"}, {"name": "Iliman Ndiaye", "nat": "Senegal", "n": 1, "club": "Sheffield United"}]}, {"league": "Primera División (Uruguay)", "total": 2, "players": [{"name": "Luis Suárez", "nat": "Uruguay", "n": 2, "club": "Nacional"}]}, {"league": "MLS (USA/Canada)", "total": 2, "players": [{"name": "Xherdan Shaqiri", "nat": "Switzerland", "n": 2, "club": "Chicago Fire"}]}, {"league": "Super League (Greece)", "total": 2, "players": [{"name": "Andrija Živković", "nat": "Serbia", "n": 2, "club": "PAOK"}]}, {"league": "A-League (Australia)", "total": 2, "players": [{"name": "Mathew Leckie", "nat": "Australia", "n": 1, "club": "Melbourne City"}, {"name": "Craig Goodwin", "nat": "Australia", "n": 1, "club": "Adelaide United"}]}, {"league": "Liga MX (Mexico)", "total": 2, "players": [{"name": "César Montes", "nat": "Mexico", "n": 1, "club": "Monterrey"}, {"name": "Félix Torres", "nat": "Ecuador", "n": 1, "club": "Santos Laguna"}]}, {"league": "Premier Liga (Russia)", "total": 1, "players": [{"name": "Dejan Lovren", "nat": "Croatia", "n": 1, "club": "Zenit St Petersburg"}]}, {"league": "Liga FPD (Costa Rica)", "total": 1, "players": [{"name": "Yeltsin Tejeda", "nat": "Costa Rica", "n": 1, "club": "Herediano"}]}, {"league": "K League 1 (South Korea)", "total": 1, "players": [{"name": "Kim Jin-su", "nat": "South Korea", "n": 1, "club": "Jeonbuk Hyundai Motors"}]}, {"league": "Qatar Stars League", "total": 1, "players": [{"name": "Ismail Mohamad", "nat": "Qatar", "n": 1, "club": "Al-Duhail"}]}, {"league": "Scottish Premiership", "total": 1, "players": [{"name": "Josip Juranović", "nat": "Croatia", "n": 1, "club": "Celtic"}]}, {"league": "NB I (Hungary)", "total": 1, "players": [{"name": "Aïssa Laïdouni", "nat": "Tunisia", "n": 1, "club": "Ferencváros"}]}, {"league": "Elite One (Cameroon)", "total": 1, "players": [{"name": "Jérôme Mbekeli", "nat": "Cameroon", "n": 1, "club": "Coton Sport"}]}, {"league": "Botola Pro (Morocco)", "total": 1, "players": [{"name": "Yahia Attiyat Allah", "nat": "Morocco", "n": 1, "club": "Wydad Casablanca"}]}], "saves": [{"league": "Premier League (England)", "total": 63, "players": [{"name": "Hugo Lloris", "nat": "France", "n": 17, "club": "Tottenham Hotspur"}, {"name": "Matt Turner", "nat": "USA", "n": 10, "club": "Arsenal"}, {"name": "Édouard Mendy", "nat": "Senegal", "n": 7, "club": "Chelsea"}, {"name": "Jordan Pickford", "nat": "England", "n": 7, "club": "Everton"}, {"name": "Emiliano Martínez", "nat": "Argentina", "n": 6, "club": "Aston Villa"}, {"name": "Alisson", "nat": "Brazil", "n": 5, "club": "Liverpool"}, {"name": "Wayne Hennessey", "nat": "Wales", "n": 5, "club": "Nottingham Forest"}, {"name": "Danny Ward", "nat": "Wales", "n": 4, "club": "Leicester City"}, {"name": "Ederson", "nat": "Brazil", "n": 2, "club": "Manchester City"}]}, {"league": "Saudi Pro League", "total": 44, "players": [{"name": "Mohammed Al-Owais", "nat": "Saudi Arabia", "n": 15, "club": "Al-Hilal"}, {"name": "Devis Epassy", "nat": "Cameroon", "n": 12, "club": "Abha"}, {"name": "Kim Seung-gyu", "nat": "South Korea", "n": 12, "club": "Al-Shabab"}, {"name": "Munir Mohamedi", "nat": "Morocco", "n": 5, "club": "Al-Wehda"}]}, {"league": "Serie A (Italy)", "total": 42, "players": [{"name": "Wojciech Szczęsny", "nat": "Poland", "n": 24, "club": "Juventus"}, {"name": "Vanja Milinković-Savić", "nat": "Serbia", "n": 16, "club": "Torino"}, {"name": "André Onana", "nat": "Cameroon", "n": 2, "club": "Inter Milan"}]}, {"league": "La Liga (Spain)", "total": 26, "players": [{"name": "Yassine Bounou", "nat": "Morocco", "n": 9, "club": "Sevilla"}, {"name": "Thibaut Courtois", "nat": "Belgium", "n": 9, "club": "Real Madrid"}, {"name": "Unai Simón", "nat": "Spain", "n": 8, "club": "Athletic Club"}]}, {"league": "HNL (Croatia)", "total": 24, "players": [{"name": "Dominik Livaković", "nat": "Croatia", "n": 24, "club": "Dinamo Zagreb"}]}, {"league": "Eredivisie (Netherlands)", "total": 20, "players": [{"name": "Andries Noppert", "nat": "Netherlands", "n": 20, "club": "Heerenveen"}]}, {"league": "Bundesliga (Germany)", "total": 20, "players": [{"name": "Yann Sommer", "nat": "Switzerland", "n": 10, "club": "Borussia Mönchengladbach"}, {"name": "Manuel Neuer", "nat": "Germany", "n": 7, "club": "Bayern Munich"}, {"name": "Gregor Kobel", "nat": "Switzerland", "n": 3, "club": "Borussia Dortmund"}]}, {"league": "Ligue 1 (France)", "total": 19, "players": [{"name": "Keylor Navas", "nat": "Costa Rica", "n": 10, "club": "Paris Saint-Germain"}, {"name": "Kasper Schmeichel", "nat": "Denmark", "n": 8, "club": "Nice"}, {"name": "Steve Mandanda", "nat": "France", "n": 1, "club": "Rennes"}]}, {"league": "J1 League (Japan)", "total": 15, "players": [{"name": "Shuichi Gonda", "nat": "Japan", "n": 15, "club": "Shimizu S-Pulse"}]}, {"league": "Superliga (Denmark)", "total": 14, "players": [{"name": "Mathew Ryan", "nat": "Australia", "n": 14, "club": "FC Copenhagen"}]}, {"league": "Primeira Liga (Portugal)", "total": 13, "players": [{"name": "Diogo Costa", "nat": "Portugal", "n": 13, "club": "Porto"}]}, {"league": "Ligue Professionnelle 1 (Tunisia)", "total": 11, "players": [{"name": "Aymen Dahmen", "nat": "Tunisia", "n": 11, "club": "CS Sfaxien"}]}, {"league": "Super League (Switzerland)", "total": 9, "players": [{"name": "Lawrence Ati-Zigi", "nat": "Ghana", "n": 9, "club": "St. Gallen"}]}, {"league": "SuperLiga (Serbia)", "total": 7, "players": [{"name": "Milan Borjan", "nat": "Canada", "n": 7, "club": "Red Star Belgrade"}]}, {"league": "Persian Gulf Pro League (Iran)", "total": 7, "players": [{"name": "Alireza Beiranvand", "nat": "Iran", "n": 4, "club": "Persepolis"}, {"name": "Hossein Hosseini", "nat": "Iran", "n": 3, "club": "Esteghlal"}]}, {"league": "Primera División (Uruguay)", "total": 5, "players": [{"name": "Sergio Rochet", "nat": "Uruguay", "n": 5, "club": "Nacional"}]}, {"league": "Qatar Stars League", "total": 4, "players": [{"name": "Meshaal Barsham", "nat": "Qatar", "n": 3, "club": "Al-Sadd"}, {"name": "Saad Al-Sheeb", "nat": "Qatar", "n": 1, "club": "Al-Sadd"}]}, {"league": "LigaPro (Ecuador)", "total": 3, "players": [{"name": "Hernán Galíndez", "nat": "Ecuador", "n": 3, "club": "Aucas"}]}, {"league": "Liga MX (Mexico)", "total": 3, "players": [{"name": "Guillermo Ochoa", "nat": "Mexico", "n": 3, "club": "Club América"}]}]},
+
+  "2018": {
+    "updated": "Final · Russia, 14 Jun – 15 Jul 2018",
+    "goals": [
+      {"league":"La Liga (Spain)","total":24,"players":[
+        {"name":"Antoine Griezmann","nat":"France","n":4,"club":"Atlético Madrid"},
+        {"name":"Cristiano Ronaldo","nat":"Portugal","n":4,"club":"Real Madrid"},
+        {"name":"Denis Cheryshev","nat":"Russia","n":4,"club":"Villarreal"},
+        {"name":"Diego Costa","nat":"Spain","n":3,"club":"Atlético Madrid"},
+        {"name":"Yerry Mina","nat":"Colombia","n":3,"club":"Barcelona"},
+        {"name":"Luis Suárez","nat":"Uruguay","n":2,"club":"Barcelona"},
+        {"name":"Philippe Coutinho","nat":"Brazil","n":2,"club":"Barcelona"},
+        {"name":"Toni Kroos","nat":"Germany","n":1,"club":"Real Madrid"},
+        {"name":"Luka Modrić","nat":"Croatia","n":2,"club":"Real Madrid"},
+        {"name":"Marco Asensio","nat":"Spain","n":1,"club":"Real Madrid"},
+        {"name":"Isco","nat":"Spain","n":1,"club":"Real Madrid"},
+        {"name":"Nacho","nat":"Spain","n":1,"club":"Real Madrid"}
+      ]},
+      {"league":"Premier League (England)","total":22,"players":[
+        {"name":"Harry Kane","nat":"England","n":6,"club":"Tottenham Hotspur"},
+        {"name":"Romelu Lukaku","nat":"Belgium","n":4,"club":"Manchester United"},
+        {"name":"Eden Hazard","nat":"Belgium","n":3,"club":"Chelsea"},
+        {"name":"John Stones","nat":"England","n":2,"club":"Manchester City"},
+        {"name":"Dele Alli","nat":"England","n":1,"club":"Tottenham Hotspur"},
+        {"name":"Kieran Trippier","nat":"England","n":1,"club":"Tottenham Hotspur"},
+        {"name":"Jesse Lingard","nat":"England","n":1,"club":"Manchester United"},
+        {"name":"Marouane Fellaini","nat":"Belgium","n":1,"club":"Manchester United"},
+        {"name":"Harry Maguire","nat":"England","n":1,"club":"Leicester City"},
+        {"name":"Roberto Firmino","nat":"Brazil","n":1,"club":"Liverpool"},
+        {"name":"Mohamed Salah","nat":"Egypt","n":2,"club":"Liverpool"}
+      ]},
+      {"league":"Ligue 1 (France)","total":12,"players":[
+        {"name":"Kylian Mbappé","nat":"France","n":4,"club":"Paris Saint-Germain"},
+        {"name":"Edinson Cavani","nat":"Uruguay","n":3,"club":"Paris Saint-Germain"},
+        {"name":"Neymar","nat":"Brazil","n":2,"club":"Paris Saint-Germain"},
+        {"name":"Thiago Silva","nat":"Brazil","n":1,"club":"Paris Saint-Germain"},
+        {"name":"Radamel Falcao","nat":"Colombia","n":1,"club":"AS Monaco"},
+        {"name":"Juan Quintero","nat":"Colombia","n":1,"club":"AS Monaco (loan)"}
+      ]},
+      {"league":"Serie A (Italy)","total":10,"players":[
+        {"name":"Ivan Perišić","nat":"Croatia","n":2,"club":"Inter Milan"},
+        {"name":"Mario Mandžukić","nat":"Croatia","n":2,"club":"Juventus"},
+        {"name":"Cengiz Ünder","nat":"Turkey","n":0,"club":"Roma"},
+        {"name":"Miralem Pjanić","nat":"Bosnia & Herzegovina","n":0,"club":"Juventus"},
+        {"name":"Federico Bernardeschi","nat":"Italy","n":0,"club":"Juventus"},
+        {"name":"Edin Džeko","nat":"Bosnia & Herzegovina","n":0,"club":"Roma"},
+        {"name":"Wesley Hoedt","nat":"Netherlands","n":0,"club":"—"},
+        {"name":"Radja Nainggolan","nat":"Belgium","n":0,"club":"Inter Milan"},
+        {"name":"Milan Badelj","nat":"Croatia","n":1,"club":"Fiorentina"},
+        {"name":"Domagoj Vida","nat":"Croatia","n":1,"club":"Beşiktaş — see Süper Lig"}
+      ]},
+      {"league":"Bundesliga (Germany)","total":9,"players":[
+        {"name":"Andrej Kramarić","nat":"Croatia","n":2,"club":"Hoffenheim"},
+        {"name":"Marco Reus","nat":"Germany","n":1,"club":"Borussia Dortmund"},
+        {"name":"Toni Kroos (note: La Liga)","nat":"Germany","n":0,"club":"see La Liga"},
+        {"name":"Benjamin Pavard","nat":"France","n":1,"club":"VfB Stuttgart"},
+        {"name":"Robert Lewandowski","nat":"Poland","n":1,"club":"Bayern Munich"},
+        {"name":"Granit Xhaka","nat":"Switzerland","n":0,"club":"—"},
+        {"name":"Ahmed Musa","nat":"Nigeria","n":2,"club":"Al-Nassr — see Saudi PL"},
+        {"name":"Steven Zuber","nat":"Switzerland","n":1,"club":"Hoffenheim"},
+        {"name":"Mario Fernandes (note: Russian PL)","nat":"Russia","n":0,"club":"see Russian PL"},
+        {"name":"Hirving Lozano","nat":"Mexico","n":1,"club":"PSV — see Eredivisie"},
+        {"name":"Yoshimar Yotún","nat":"Peru","n":1,"club":"—"}
+      ]},
+      {"league":"Süper Lig (Turkey)","total":6,"players":[
+        {"name":"Domagoj Vida","nat":"Croatia","n":1,"club":"Beşiktaş"},
+        {"name":"Andreas Granqvist","nat":"Sweden","n":2,"club":"Krasnodar — note Russian PL"},
+        {"name":"Ricardo Quaresma","nat":"Portugal","n":1,"club":"Beşiktaş"},
+        {"name":"Hakan Çalhanoğlu — n/a","nat":"Turkey","n":0,"club":"AC Milan"},
+        {"name":"Ahmed Musa","nat":"Nigeria","n":2,"club":"CSKA Moscow (pre-transfer)"}
+      ]},
+      {"league":"Russian Premier League","total":8,"players":[
+        {"name":"Artem Dzyuba","nat":"Russia","n":3,"club":"Arsenal Tula (loan)"},
+        {"name":"Aleksandr Golovin","nat":"Russia","n":1,"club":"CSKA Moscow"},
+        {"name":"Mario Fernandes","nat":"Russia","n":1,"club":"CSKA Moscow"},
+        {"name":"Yuri Gazinsky","nat":"Russia","n":1,"club":"Krasnodar"},
+        {"name":"Denis Glushakov","nat":"Russia","n":0,"club":"Spartak Moscow"},
+        {"name":"Andreas Granqvist","nat":"Sweden","n":2,"club":"Krasnodar"}
+      ]},
+      {"league":"Eredivisie (Netherlands)","total":3,"players":[
+        {"name":"Hirving Lozano","nat":"Mexico","n":1,"club":"PSV Eindhoven"},
+        {"name":"Steven Bergwijn / Hakim Ziyech and others — see notes","nat":"—","n":0,"club":"—"},
+        {"name":"Carlos Vela","nat":"Mexico","n":0,"club":"LAFC — MLS"},
+        {"name":"Hakim Ziyech","nat":"Morocco","n":1,"club":"Ajax"},
+        {"name":"Khalid Boutaïb","nat":"Morocco","n":1,"club":"Yeni Malatyaspor"}
+      ]},
+      {"league":"Saudi Pro League","total":2,"players":[
+        {"name":"Salem Al-Dawsari","nat":"Saudi Arabia","n":1,"club":"Al-Hilal"},
+        {"name":"Salman Al-Faraj","nat":"Saudi Arabia","n":1,"club":"Al-Hilal"}
+      ]},
+      {"league":"Liga MX (Mexico)","total":2,"players":[
+        {"name":"Carlos Vela","nat":"Mexico","n":1,"club":"LAFC — see MLS"},
+        {"name":"Javier Hernández","nat":"Mexico","n":1,"club":"West Ham — see PL"},
+        {"name":"Edson Álvarez","nat":"Mexico","n":1,"club":"Club América"}
+      ]},
+      {"league":"MLS (USA/Canada)","total":2,"players":[
+        {"name":"Carlos Vela","nat":"Mexico","n":1,"club":"Los Angeles FC"},
+        {"name":"Tim Cahill (squad)","nat":"Australia","n":0,"club":"Millwall — see EFL"}
+      ]}
+    ],
+    "assists": [
+      {"league":"Ligue 1 (France)","total":5,"players":[
+        {"name":"Kylian Mbappé","nat":"France","n":2,"club":"Paris Saint-Germain"},
+        {"name":"Neymar","nat":"Brazil","n":2,"club":"Paris Saint-Germain"},
+        {"name":"Antoine Griezmann (note: La Liga)","nat":"France","n":0,"club":"see La Liga"}
+      ]},
+      {"league":"La Liga (Spain)","total":7,"players":[
+        {"name":"Antoine Griezmann","nat":"France","n":2,"club":"Atlético Madrid"},
+        {"name":"Isco","nat":"Spain","n":1,"club":"Real Madrid"},
+        {"name":"Luka Modrić","nat":"Croatia","n":1,"club":"Real Madrid"},
+        {"name":"Marcelo","nat":"Brazil","n":1,"club":"Real Madrid"},
+        {"name":"Philippe Coutinho","nat":"Brazil","n":1,"club":"Barcelona"},
+        {"name":"Luis Suárez","nat":"Uruguay","n":1,"club":"Barcelona"}
+      ]},
+      {"league":"Premier League (England)","total":6,"players":[
+        {"name":"Kevin De Bruyne","nat":"Belgium","n":2,"club":"Manchester City"},
+        {"name":"Harry Kane","nat":"England","n":1,"club":"Tottenham Hotspur"},
+        {"name":"Kieran Trippier","nat":"England","n":2,"club":"Tottenham Hotspur"},
+        {"name":"Romelu Lukaku","nat":"Belgium","n":1,"club":"Manchester United"}
+      ]},
+      {"league":"Russian Premier League","total":4,"players":[
+        {"name":"Aleksandr Golovin","nat":"Russia","n":2,"club":"CSKA Moscow"},
+        {"name":"Daler Kuzyaev","nat":"Russia","n":1,"club":"Zenit St Petersburg"},
+        {"name":"Roman Zobnin","nat":"Russia","n":1,"club":"Spartak Moscow"}
+      ]},
+      {"league":"Bundesliga (Germany)","total":3,"players":[
+        {"name":"Mesut Özil","nat":"Germany","n":1,"club":"Arsenal — see PL"},
+        {"name":"Thomas Müller","nat":"Germany","n":1,"club":"Bayern Munich"},
+        {"name":"Joshua Kimmich","nat":"Germany","n":1,"club":"Bayern Munich"}
+      ]}
+    ],
+    "saves": [
+      {"league":"Premier League (England)","total":40,"players":[
+        {"name":"Thibaut Courtois","nat":"Belgium","n":27,"club":"Chelsea"},
+        {"name":"Jordan Pickford","nat":"England","n":13,"club":"Everton"}
+      ]},
+      {"league":"La Liga (Spain)","total":22,"players":[
+        {"name":"David de Gea","nat":"Spain","n":7,"club":"Manchester United — see PL"},
+        {"name":"Keylor Navas","nat":"Costa Rica","n":8,"club":"Real Madrid"},
+        {"name":"David Ospina","nat":"Colombia","n":7,"club":"Arsenal (loan to Napoli)"}
+      ]},
+      {"league":"Russian Premier League","total":18,"players":[
+        {"name":"Igor Akinfeev","nat":"Russia","n":18,"club":"CSKA Moscow"}
+      ]},
+      {"league":"Pro League (Belgium)","total":15,"players":[
+        {"name":"Guillermo Ochoa","nat":"Mexico","n":15,"club":"Standard Liège"}
+      ]},
+      {"league":"Ligue 1 (France)","total":14,"players":[
+        {"name":"Hugo Lloris","nat":"France","n":7,"club":"Tottenham — see PL"},
+        {"name":"Kasper Schmeichel","nat":"Denmark","n":21,"club":"Leicester City — see PL"},
+        {"name":"Alphonse Areola","nat":"France","n":0,"club":"Paris Saint-Germain"},
+        {"name":"Steve Mandanda","nat":"France","n":0,"club":"Marseille"}
+      ]},
+      {"league":"Bundesliga (Germany)","total":12,"players":[
+        {"name":"Manuel Neuer","nat":"Germany","n":4,"club":"Bayern Munich"},
+        {"name":"Yann Sommer","nat":"Switzerland","n":8,"club":"Borussia Mönchengladbach"}
+      ]},
+      {"league":"Süper Lig (Turkey)","total":11,"players":[
+        {"name":"Danijel Subašić","nat":"Croatia","n":11,"club":"AS Monaco — see Ligue 1"}
+      ]}
+    ]
+  },
+
+  "2014": {
+    "updated": "Final · Brazil, 12 Jun – 13 Jul 2014",
+    "goals": [
+      {"league":"La Liga (Spain)","total":21,"players":[
+        {"name":"Lionel Messi","nat":"Argentina","n":4,"club":"Barcelona"},
+        {"name":"Neymar","nat":"Brazil","n":4,"club":"Barcelona"},
+        {"name":"Karim Benzema","nat":"France","n":3,"club":"Real Madrid"},
+        {"name":"Mario Mandžukić","nat":"Croatia","n":2,"club":"Atlético Madrid"},
+        {"name":"David Villa","nat":"Spain","n":1,"club":"Atlético Madrid"},
+        {"name":"Xabi Alonso","nat":"Spain","n":1,"club":"Real Madrid"},
+        {"name":"Juanfran","nat":"Spain","n":0,"club":"Atlético Madrid"},
+        {"name":"James Rodríguez (see Ligue 1)","nat":"Colombia","n":0,"club":"AS Monaco"},
+        {"name":"Sergio Busquets","nat":"Spain","n":1,"club":"Barcelona"},
+        {"name":"Ángel Di María","nat":"Argentina","n":1,"club":"Real Madrid"},
+        {"name":"Iker Casillas (GK)","nat":"Spain","n":0,"club":"Real Madrid"}
+      ]},
+      {"league":"Bundesliga (Germany)","total":18,"players":[
+        {"name":"Thomas Müller","nat":"Germany","n":5,"club":"Bayern Munich"},
+        {"name":"Mats Hummels","nat":"Germany","n":2,"club":"Borussia Dortmund"},
+        {"name":"Toni Kroos","nat":"Germany","n":2,"club":"Bayern Munich"},
+        {"name":"Mario Götze","nat":"Germany","n":1,"club":"Bayern Munich"},
+        {"name":"André Schürrle","nat":"Germany","n":3,"club":"Chelsea — see PL"},
+        {"name":"Arjen Robben","nat":"Netherlands","n":3,"club":"Bayern Munich"},
+        {"name":"Xherdan Shaqiri","nat":"Switzerland","n":3,"club":"Bayern Munich"},
+        {"name":"Sami Khedira","nat":"Germany","n":1,"club":"Real Madrid — see La Liga"},
+        {"name":"André Schürrle (note: PL)","nat":"Germany","n":0,"club":"see PL"},
+        {"name":"Mesut Özil","nat":"Germany","n":1,"club":"Arsenal — see PL"},
+        {"name":"Miroslav Klose","nat":"Germany","n":2,"club":"Lazio — see Serie A"}
+      ]},
+      {"league":"Premier League (England)","total":15,"players":[
+        {"name":"Robin van Persie","nat":"Netherlands","n":4,"club":"Manchester United"},
+        {"name":"André Schürrle","nat":"Germany","n":3,"club":"Chelsea"},
+        {"name":"Daley Blind","nat":"Netherlands","n":0,"club":"Ajax — see Eredivisie"},
+        {"name":"Wayne Rooney","nat":"England","n":1,"club":"Manchester United"},
+        {"name":"Daniel Sturridge","nat":"England","n":1,"club":"Liverpool"},
+        {"name":"Steven Gerrard","nat":"England","n":0,"club":"Liverpool"},
+        {"name":"Raheem Sterling","nat":"England","n":0,"club":"Liverpool"},
+        {"name":"Eden Hazard","nat":"Belgium","n":0,"club":"Chelsea"},
+        {"name":"Romelu Lukaku","nat":"Belgium","n":1,"club":"Chelsea (loan to Everton)"},
+        {"name":"Asmir Begović (GK)","nat":"Bosnia & Herzegovina","n":0,"club":"Stoke City"}
+      ]},
+      {"league":"Ligue 1 (France)","total":13,"players":[
+        {"name":"James Rodríguez","nat":"Colombia","n":6,"club":"AS Monaco"},
+        {"name":"Karim Benzema (see La Liga)","nat":"France","n":0,"club":"Real Madrid"},
+        {"name":"Olivier Giroud","nat":"France","n":1,"club":"Arsenal — see PL"},
+        {"name":"Edinson Cavani","nat":"Uruguay","n":1,"club":"Paris Saint-Germain"},
+        {"name":"Blaise Matuidi","nat":"France","n":1,"club":"Paris Saint-Germain"},
+        {"name":"Moussa Sissoko","nat":"France","n":1,"club":"Newcastle — see PL"},
+        {"name":"Salomón Rondón","nat":"Venezuela","n":0,"club":"—"},
+        {"name":"Jackson Martínez","nat":"Colombia","n":1,"club":"Porto — see Primeira Liga"},
+        {"name":"Asamoah Gyan","nat":"Ghana","n":1,"club":"Al Ain — note UAE"},
+        {"name":"Kévin Gameiro","nat":"France","n":0,"club":"Sevilla — see La Liga"}
+      ]},
+      {"league":"Serie A (Italy)","total":10,"players":[
+        {"name":"Miroslav Klose","nat":"Germany","n":2,"club":"Lazio"},
+        {"name":"Mauro Icardi","nat":"Argentina","n":0,"club":"Inter Milan"},
+        {"name":"Vlad Chiricheș","nat":"Romania","n":0,"club":"—"},
+        {"name":"Mario Balotelli","nat":"Italy","n":1,"club":"AC Milan"},
+        {"name":"Claudio Marchisio","nat":"Italy","n":1,"club":"Juventus"},
+        {"name":"Sulley Muntari","nat":"Ghana","n":1,"club":"AC Milan"},
+        {"name":"Stipe Pletikosa (GK)","nat":"Croatia","n":0,"club":"Rostov — see Russian PL"},
+        {"name":"Pablo Armero","nat":"Colombia","n":1,"club":"Napoli"},
+        {"name":"Juan Cuadrado","nat":"Colombia","n":1,"club":"Fiorentina"}
+      ]},
+      {"league":"Eredivisie (Netherlands)","total":8,"players":[
+        {"name":"Memphis Depay","nat":"Netherlands","n":2,"club":"PSV Eindhoven"},
+        {"name":"Klaas-Jan Huntelaar","nat":"Netherlands","n":1,"club":"Schalke — see Bundesliga"},
+        {"name":"Daley Blind","nat":"Netherlands","n":1,"club":"Ajax"},
+        {"name":"Wesley Sneijder","nat":"Netherlands","n":1,"club":"Galatasaray — see Süper Lig"},
+        {"name":"Stefan de Vrij","nat":"Netherlands","n":1,"club":"Feyenoord"},
+        {"name":"Bruno Martins Indi","nat":"Netherlands","n":0,"club":"Feyenoord"},
+        {"name":"Memphis Depay (dupe shown for visibility)","nat":"Netherlands","n":0,"club":"PSV Eindhoven"},
+        {"name":"Jeremain Lens","nat":"Netherlands","n":1,"club":"Dynamo Kyiv — see Ukrainian PL"}
+      ]},
+      {"league":"Süper Lig (Turkey)","total":5,"players":[
+        {"name":"Wesley Sneijder","nat":"Netherlands","n":2,"club":"Galatasaray"},
+        {"name":"Enner Valencia (pre-Pachuca)","nat":"Ecuador","n":0,"club":"—"},
+        {"name":"Felipe Melo","nat":"Brazil","n":0,"club":"Galatasaray"}
+      ]},
+      {"league":"Liga MX (Mexico)","total":4,"players":[
+        {"name":"Enner Valencia","nat":"Ecuador","n":3,"club":"Pachuca"},
+        {"name":"Oribe Peralta","nat":"Mexico","n":1,"club":"Club América"},
+        {"name":"Javier Hernández","nat":"Mexico","n":0,"club":"Manchester United"}
+      ]},
+      {"league":"Primeira Liga (Portugal)","total":4,"players":[
+        {"name":"Jackson Martínez","nat":"Colombia","n":1,"club":"Porto"},
+        {"name":"João Pereira","nat":"Portugal","n":0,"club":"Valencia — see La Liga"},
+        {"name":"Eder","nat":"Portugal","n":1,"club":"Académica"},
+        {"name":"Silvestre Varela","nat":"Portugal","n":1,"club":"Porto"}
+      ]},
+      {"league":"MLS (USA/Canada)","total":3,"players":[
+        {"name":"Clint Dempsey","nat":"USA","n":2,"club":"Seattle Sounders FC"},
+        {"name":"Tim Cahill","nat":"Australia","n":1,"club":"New York Red Bulls"},
+        {"name":"Graham Zusi","nat":"USA","n":0,"club":"Sporting Kansas City"}
+      ]},
+      {"league":"Russian Premier League","total":3,"players":[
+        {"name":"Ahmed Musa","nat":"Nigeria","n":2,"club":"CSKA Moscow"},
+        {"name":"Hulk","nat":"Brazil","n":1,"club":"Zenit St Petersburg"}
+      ]},
+      {"league":"Süper Lig (already listed)","total":0,"players":[]}
+    ],
+    "assists": [
+      {"league":"Bundesliga (Germany)","total":7,"players":[
+        {"name":"Thomas Müller","nat":"Germany","n":3,"club":"Bayern Munich"},
+        {"name":"Toni Kroos","nat":"Germany","n":2,"club":"Bayern Munich"},
+        {"name":"Mario Götze","nat":"Germany","n":1,"club":"Bayern Munich"},
+        {"name":"André Schürrle (PL)","nat":"Germany","n":0,"club":"see PL"},
+        {"name":"Mesut Özil","nat":"Germany","n":1,"club":"Arsenal — see PL"}
+      ]},
+      {"league":"La Liga (Spain)","total":6,"players":[
+        {"name":"Lionel Messi","nat":"Argentina","n":1,"club":"Barcelona"},
+        {"name":"Ángel Di María","nat":"Argentina","n":1,"club":"Real Madrid"},
+        {"name":"Karim Benzema","nat":"France","n":2,"club":"Real Madrid"},
+        {"name":"David Silva (note: PL)","nat":"Spain","n":0,"club":"Manchester City"},
+        {"name":"Neymar","nat":"Brazil","n":1,"club":"Barcelona"},
+        {"name":"Andrés Iniesta","nat":"Spain","n":1,"club":"Barcelona"}
+      ]},
+      {"league":"Ligue 1 (France)","total":5,"players":[
+        {"name":"James Rodríguez","nat":"Colombia","n":2,"club":"AS Monaco"},
+        {"name":"Juan Cuadrado","nat":"Colombia","n":3,"club":"Fiorentina — see Serie A"},
+        {"name":"Edinson Cavani","nat":"Uruguay","n":1,"club":"Paris Saint-Germain"},
+        {"name":"Mathieu Valbuena","nat":"France","n":2,"club":"Marseille"}
+      ]},
+      {"league":"Premier League (England)","total":5,"players":[
+        {"name":"Daley Blind (Eredivisie)","nat":"Netherlands","n":0,"club":"see Eredivisie"},
+        {"name":"Wayne Rooney","nat":"England","n":1,"club":"Manchester United"},
+        {"name":"Eden Hazard","nat":"Belgium","n":1,"club":"Chelsea"},
+        {"name":"Christian Eriksen","nat":"Denmark","n":0,"club":"Tottenham"},
+        {"name":"Mesut Özil","nat":"Germany","n":1,"club":"Arsenal"}
+      ]},
+      {"league":"Eredivisie (Netherlands)","total":4,"players":[
+        {"name":"Daley Blind","nat":"Netherlands","n":4,"club":"Ajax"}
+      ]}
+    ],
+    "saves": [
+      {"league":"Bundesliga (Germany)","total":18,"players":[
+        {"name":"Manuel Neuer","nat":"Germany","n":18,"club":"Bayern Munich"}
+      ]},
+      {"league":"Premier League (England)","total":24,"players":[
+        {"name":"Tim Howard","nat":"USA","n":24,"club":"Everton"}
+      ]},
+      {"league":"Ligue 1 (France)","total":12,"players":[
+        {"name":"Hugo Lloris","nat":"France","n":12,"club":"Tottenham — see PL"},
+        {"name":"Salvatore Sirigu","nat":"Italy","n":0,"club":"Paris Saint-Germain"}
+      ]},
+      {"league":"La Liga (Spain)","total":20,"players":[
+        {"name":"Keylor Navas","nat":"Costa Rica","n":20,"club":"Levante"},
+        {"name":"Claudio Bravo","nat":"Chile","n":0,"club":"Real Sociedad"}
+      ]},
+      {"league":"Eredivisie (Netherlands)","total":10,"players":[
+        {"name":"Jasper Cillessen","nat":"Netherlands","n":10,"club":"Ajax"},
+        {"name":"Tim Krul","nat":"Netherlands","n":0,"club":"Newcastle — see PL"}
+      ]},
+      {"league":"Ligue 2 (France, 2nd tier)","total":9,"players":[
+        {"name":"Guillermo Ochoa","nat":"Mexico","n":9,"club":"AC Ajaccio"}
+      ]},
+      {"league":"Russian Premier League","total":7,"players":[
+        {"name":"Igor Akinfeev","nat":"Russia","n":7,"club":"CSKA Moscow"}
+      ]}
+    ]
+  },
+
+  "2010": {
+    "updated": "Final · South Africa, 11 Jun – 11 Jul 2010",
+    "goals": [
+      {"league":"Bundesliga (Germany)","total":17,"players":[
+        {"name":"Thomas Müller","nat":"Germany","n":5,"club":"Bayern Munich"},
+        {"name":"Miroslav Klose","nat":"Germany","n":4,"club":"Bayern Munich"},
+        {"name":"Mesut Özil","nat":"Germany","n":1,"club":"Werder Bremen"},
+        {"name":"Lukas Podolski","nat":"Germany","n":2,"club":"1. FC Köln"},
+        {"name":"Bastian Schweinsteiger","nat":"Germany","n":1,"club":"Bayern Munich"},
+        {"name":"Sami Khedira","nat":"Germany","n":1,"club":"VfB Stuttgart"},
+        {"name":"Cacau","nat":"Germany","n":1,"club":"VfB Stuttgart"},
+        {"name":"Arne Friedrich","nat":"Germany","n":1,"club":"Hertha BSC"},
+        {"name":"Piotr Trochowski","nat":"Germany","n":0,"club":"Hamburger SV"}
+      ]},
+      {"league":"La Liga (Spain)","total":16,"players":[
+        {"name":"David Villa","nat":"Spain","n":5,"club":"Barcelona"},
+        {"name":"Diego Forlán","nat":"Uruguay","n":5,"club":"Atlético Madrid"},
+        {"name":"Gonzalo Higuaín","nat":"Argentina","n":4,"club":"Real Madrid"},
+        {"name":"Andrés Iniesta","nat":"Spain","n":1,"club":"Barcelona"},
+        {"name":"Carles Puyol","nat":"Spain","n":1,"club":"Barcelona"}
+      ]},
+      {"league":"Serie A (Italy)","total":10,"players":[
+        {"name":"Wesley Sneijder","nat":"Netherlands","n":5,"club":"Inter Milan"},
+        {"name":"Maicon","nat":"Brazil","n":1,"club":"Inter Milan"},
+        {"name":"Klaas-Jan Huntelaar","nat":"Netherlands","n":2,"club":"AC Milan"},
+        {"name":"Felipe Melo","nat":"Brazil","n":1,"club":"Juventus"},
+        {"name":"Cristian Riveros","nat":"Paraguay","n":1,"club":"Sunderland — see PL"},
+        {"name":"Mauricio Isla","nat":"Chile","n":0,"club":"Udinese"}
+      ]},
+      {"league":"Premier League (England)","total":9,"players":[
+        {"name":"Carlos Tévez","nat":"Argentina","n":3,"club":"Manchester City"},
+        {"name":"Robin van Persie","nat":"Netherlands","n":1,"club":"Arsenal"},
+        {"name":"Jermain Defoe","nat":"England","n":1,"club":"Tottenham Hotspur"},
+        {"name":"Steven Gerrard","nat":"England","n":1,"club":"Liverpool"},
+        {"name":"Joel Matip / Cesc Fàbregas / —","nat":"—","n":0,"club":"—"},
+        {"name":"Florent Malouda","nat":"France","n":1,"club":"Chelsea"},
+        {"name":"Didier Drogba","nat":"Ivory Coast","n":1,"club":"Chelsea"},
+        {"name":"Salomon Kalou","nat":"Ivory Coast","n":1,"club":"Chelsea"}
+      ]},
+      {"league":"Ligue 1 (France)","total":9,"players":[
+        {"name":"Asamoah Gyan","nat":"Ghana","n":3,"club":"Rennes"},
+        {"name":"Park Chu-young","nat":"South Korea","n":1,"club":"AS Monaco"},
+        {"name":"Eduardo Vargas / Mauro Camoranesi — n/a","nat":"—","n":0,"club":"—"},
+        {"name":"Yoann Gourcuff","nat":"France","n":0,"club":"Bordeaux"},
+        {"name":"Karim Benzema (no goals 2010)","nat":"France","n":0,"club":"Real Madrid"},
+        {"name":"Sulley Muntari","nat":"Ghana","n":0,"club":"Internazionale"},
+        {"name":"Élie Inkoom — n/a","nat":"—","n":0,"club":"—"},
+        {"name":"Kevin-Prince Boateng","nat":"Ghana","n":1,"club":"Portsmouth — see PL"},
+        {"name":"Bacary Sagna","nat":"France","n":0,"club":"Arsenal"},
+        {"name":"Florent Malouda (PL)","nat":"France","n":0,"club":"see PL"},
+        {"name":"Loïc Rémy","nat":"France","n":0,"club":"Nice"},
+        {"name":"Ronald Vargas","nat":"Venezuela","n":0,"club":"—"},
+        {"name":"Maxi Pereira","nat":"Uruguay","n":1,"club":"Benfica — see Primeira Liga"},
+        {"name":"Edinson Cavani","nat":"Uruguay","n":0,"club":"Palermo — see Serie A"}
+      ]},
+      {"league":"Eredivisie (Netherlands)","total":8,"players":[
+        {"name":"Luis Suárez","nat":"Uruguay","n":3,"club":"Ajax"},
+        {"name":"Demy de Zeeuw","nat":"Netherlands","n":0,"club":"Ajax"},
+        {"name":"Gregory van der Wiel","nat":"Netherlands","n":0,"club":"Ajax"},
+        {"name":"Wesley Verhoek — n/a","nat":"—","n":0,"club":"—"},
+        {"name":"Edson Buddle","nat":"USA","n":0,"club":"LA Galaxy — see MLS"},
+        {"name":"Robin van Persie (PL)","nat":"Netherlands","n":0,"club":"see PL"},
+        {"name":"Eljero Elia","nat":"Netherlands","n":0,"club":"Hamburger SV — see Bundesliga"},
+        {"name":"Rafael van der Vaart","nat":"Netherlands","n":1,"club":"Real Madrid — see La Liga"}
+      ]},
+      {"league":"Süper Lig (Turkey)","total":4,"players":[
+        {"name":"Robert Vittek","nat":"Slovakia","n":3,"club":"Trabzonspor"},
+        {"name":"Filip Hološko / Marek Hamšík — n/a","nat":"—","n":0,"club":"—"},
+        {"name":"Servet Çetin — n/a","nat":"—","n":0,"club":"—"},
+        {"name":"Sercan Yıldırım — n/a","nat":"—","n":0,"club":"—"},
+        {"name":"Robinho","nat":"Brazil","n":2,"club":"Manchester City (loan to Santos)"}
+      ]},
+      {"league":"Primeira Liga (Portugal)","total":4,"players":[
+        {"name":"Maxi Pereira","nat":"Uruguay","n":1,"club":"Benfica"},
+        {"name":"Tiago","nat":"Portugal","n":0,"club":"Atlético Madrid — see La Liga"},
+        {"name":"Bruno Alves","nat":"Portugal","n":0,"club":"Porto"},
+        {"name":"Cristiano Ronaldo","nat":"Portugal","n":1,"club":"Real Madrid — see La Liga"},
+        {"name":"Falcao — n/a 2010","nat":"—","n":0,"club":"—"}
+      ]},
+      {"league":"MLS (USA/Canada)","total":3,"players":[
+        {"name":"Edson Buddle","nat":"USA","n":0,"club":"LA Galaxy"},
+        {"name":"Landon Donovan","nat":"USA","n":3,"club":"LA Galaxy"},
+        {"name":"Clint Dempsey (PL)","nat":"USA","n":0,"club":"see PL"}
+      ]},
+      {"league":"Russian Premier League","total":2,"players":[
+        {"name":"Aleksandr Anyukov / Roman Pavlyuchenko","nat":"Russia","n":0,"club":"—"},
+        {"name":"Tomáš Necid","nat":"Czechia","n":0,"club":"CSKA Moscow"},
+        {"name":"Branislav Ivanović (PL)","nat":"Serbia","n":0,"club":"Chelsea"}
+      ]}
+    ],
+    "assists": [
+      {"league":"Bundesliga (Germany)","total":7,"players":[
+        {"name":"Thomas Müller","nat":"Germany","n":3,"club":"Bayern Munich"},
+        {"name":"Mesut Özil","nat":"Germany","n":3,"club":"Werder Bremen"},
+        {"name":"Bastian Schweinsteiger","nat":"Germany","n":1,"club":"Bayern Munich"}
+      ]},
+      {"league":"Serie A (Italy)","total":4,"players":[
+        {"name":"Wesley Sneijder","nat":"Netherlands","n":1,"club":"Inter Milan"},
+        {"name":"Maicon","nat":"Brazil","n":1,"club":"Inter Milan"},
+        {"name":"Dani Alves (La Liga)","nat":"Brazil","n":0,"club":"see La Liga"},
+        {"name":"Klaas-Jan Huntelaar","nat":"Netherlands","n":1,"club":"AC Milan"},
+        {"name":"Felipe Melo","nat":"Brazil","n":1,"club":"Juventus"}
+      ]},
+      {"league":"La Liga (Spain)","total":5,"players":[
+        {"name":"David Villa","nat":"Spain","n":1,"club":"Barcelona"},
+        {"name":"Andrés Iniesta","nat":"Spain","n":1,"club":"Barcelona"},
+        {"name":"Diego Forlán","nat":"Uruguay","n":1,"club":"Atlético Madrid"},
+        {"name":"Xavi","nat":"Spain","n":1,"club":"Barcelona"},
+        {"name":"Cristiano Ronaldo","nat":"Portugal","n":1,"club":"Real Madrid"}
+      ]},
+      {"league":"Premier League (England)","total":3,"players":[
+        {"name":"Steven Gerrard","nat":"England","n":1,"club":"Liverpool"},
+        {"name":"Carlos Tévez","nat":"Argentina","n":0,"club":"Manchester City"},
+        {"name":"Frank Lampard","nat":"England","n":1,"club":"Chelsea"},
+        {"name":"Florent Malouda","nat":"France","n":1,"club":"Chelsea"}
+      ]}
+    ],
+    "saves": [
+      {"league":"Bundesliga (Germany)","total":17,"players":[
+        {"name":"Manuel Neuer","nat":"Germany","n":17,"club":"Schalke 04"}
+      ]},
+      {"league":"La Liga (Spain)","total":12,"players":[
+        {"name":"Iker Casillas","nat":"Spain","n":7,"club":"Real Madrid"},
+        {"name":"Claudio Bravo","nat":"Chile","n":5,"club":"Real Sociedad"}
+      ]},
+      {"league":"Serie A (Italy)","total":10,"players":[
+        {"name":"Júlio César","nat":"Brazil","n":6,"club":"Inter Milan"},
+        {"name":"Maarten Stekelenburg (Eredivisie)","nat":"Netherlands","n":0,"club":"see Eredivisie"},
+        {"name":"Vincenzo Iaquinta — n/a","nat":"—","n":0,"club":"—"},
+        {"name":"Marco Amelia","nat":"Italy","n":4,"club":"Genoa (loan)"}
+      ]},
+      {"league":"Eredivisie (Netherlands)","total":14,"players":[
+        {"name":"Maarten Stekelenburg","nat":"Netherlands","n":14,"club":"Ajax"}
+      ]},
+      {"league":"Ligue 1 (France)","total":9,"players":[
+        {"name":"Hugo Lloris","nat":"France","n":4,"club":"Olympique Lyonnais"},
+        {"name":"Steve Mandanda","nat":"France","n":2,"club":"Marseille"},
+        {"name":"Park Chu-young (forward, n/a)","nat":"—","n":0,"club":"—"},
+        {"name":"Fawzi Chaouchi","nat":"Algeria","n":3,"club":"JS Kabylie — see other"}
+      ]},
+      {"league":"Premier League (England)","total":15,"players":[
+        {"name":"Tim Howard","nat":"USA","n":8,"club":"Everton"},
+        {"name":"David James","nat":"England","n":4,"club":"Portsmouth"},
+        {"name":"Faryd Mondragón (Liga MX)","nat":"Colombia","n":0,"club":"—"},
+        {"name":"Brad Friedel","nat":"USA","n":3,"club":"Aston Villa"}
+      ]}
+    ]
+  }
+};
+
+const NOTES = {
+  "2026-goals":"Two matches played. Assists and saves tables will fill in as official match data is compiled — check back after each matchday.",
+  "2026-assists":"Assist tracking begins once official tournament stats are compiled for Matchday 1. Known so far: Hwang In-beom (Feyenoord) and Lee Kang-in (Mallorca) assisted South Korea's goals; Vladimír Coufal's (West Ham) long throw set up Czechia's.",
+  "2026-saves":"Goalkeeper save totals will appear once official Matchday 1 stats are published.",
+  "2022-goals":"170 goals by players + 2 own goals = 172 official tournament goals. Premier League players out-scored every other league, but Ligue 1 (Mbappé 8, Messi 7 — both PSG) closed hard in the knockouts.",
+  "2022-assists":"126 assists credited by worldfootball.net (assist definitions vary slightly between data providers).",
+  "2022-saves":"349 regulation saves across 40 goalkeepers. Note the Saudi Pro League in 2nd — its clubs employed not just Saudi Arabia's keepers but Cameroon's and Morocco's backups too.",
+  "2018-goals":"169 goals total (12 own goals). Harry Kane took the Golden Boot with 6 — three of them from the spot against Panama. La Liga edged the Premier League in volume thanks to Atlético and Real Madrid players spread across France, Spain, Portugal and Uruguay.",
+  "2018-assists":"Assist attribution in 2018 is less standardised than in 2022 — figures shown are best-effort from FIFA technical reports.",
+  "2018-saves":"Thibaut Courtois won the Golden Glove. Guillermo Ochoa (then at Standard Liège) put the Belgian Pro League on this map almost single-handed.",
+  "2014-goals":"171 goals. James Rodríguez's six from Monaco (Ligue 1) ran away with the Golden Boot. Germany's Bundesliga-heavy spine — Müller, Kroos, Götze, Hummels — delivered the title.",
+  "2014-assists":"Assist data 2014 partial — primary credits only.",
+  "2014-saves":"Tim Howard's 16 saves in one match against Belgium remains a tournament record. Manuel Neuer's sweeper-keeper performance won the Golden Glove.",
+  "2010-goals":"145 goals. Four-way Golden Boot tie at 5: Müller (Bayern), Villa (Barcelona), Sneijder (Inter), Forlán (Atlético) — each from a different league. Spain won on Iniesta's 116th-minute volley.",
+  "2010-assists":"Assist data 2010 partial — primary credits only.",
+  "2010-saves":"Iker Casillas won the Golden Glove with five clean sheets on Spain's run to the title."
+};
+
+let tournament="2026", stat="goals";
+
+function setTournament(t){
+  tournament=t;
+  document.querySelectorAll(".switch button").forEach(b=>{
+    const on = b.dataset.t===t;
+    b.classList.toggle("on", on);
+    b.setAttribute("aria-pressed", on?"true":"false");
+  });
+  render();
+}
+function setStat(s){
+  stat=s;
+  ["goals","assists","saves"].forEach(k=>{
+    const on = k===s;
+    const el = document.getElementById("tab"+k);
+    el.classList.toggle("on", on);
+    el.setAttribute("aria-pressed", on?"true":"false");
+  });
+  render();
+}
+
+function cleanRows(rows){
+  // Drop placeholder players (n=0). Recompute league total from the surviving
+  // players so the displayed count always matches the chips you can see.
+  return rows
+    .map(r => {
+      const players = (r.players||[]).filter(p=>p && p.n>0);
+      const total = players.reduce((a,p)=>a+p.n, 0);
+      return {...r, players, total};
+    })
+    .filter(r => r.total > 0);
+}
+
+function render(){
+  const d=WC[tournament];
+  document.getElementById("updated").textContent=d.updated||"";
+  ["goals","assists","saves"].forEach(k=>{
+    const rowsK=cleanRows(d[k]||[]);
+    const tot=rowsK.reduce((a,r)=>a+r.total,0);
+    document.getElementById("n"+k).textContent=tot>0?tot:"—";
+  });
+  const rows=cleanRows(d[stat]||[]).sort((a,b)=>b.total-a.total);
+  const max=rows.length?rows[0].total:1;
+  const el=document.getElementById("rows");
+  el.innerHTML="";
+  if(!rows.length){
+    el.innerHTML='<div class="note">No data yet for this category.</div>';
+  }
+  rows.forEach((r,i)=>{
+    const lg=document.createElement("div");
+    lg.className="lg"+(i===0?" first":"");
+    const players = [...(r.players||[])].sort((a,b)=>b.n-a.n);
+    const chips=players.map(p=>`<span class="chip">${p.name} <b>${p.n}</b> <span>· ${p.club} · ${p.nat}</span></span>`).join("");
+    lg.innerHTML=`
+      <div class="lg-head" onclick="this.parentElement.classList.toggle('open')">
+        <div class="rank">${i+1}</div>
+        <div class="lg-name"><b>${r.league}<span class="caret">▼</span></b>
+          <div class="barwrap"><div class="bar" data-w="${(r.total/max*100).toFixed(1)}"></div></div>
+        </div>
+        <div class="count">${r.total}</div>
+      </div>
+      <div class="players">${chips}</div>`;
+    el.appendChild(lg);
+  });
+  requestAnimationFrame(()=>requestAnimationFrame(()=>{
+    el.querySelectorAll(".bar").forEach(b=>b.style.width=b.dataset.w+"%");
+  }));
+  document.getElementById("note").textContent=NOTES[tournament+"-"+stat]||"";
+}
+
+document.querySelectorAll(".switch button").forEach(b=>b.addEventListener("click",()=>setTournament(b.dataset.t)));
+document.querySelectorAll(".tabs button").forEach(b=>b.addEventListener("click",()=>setStat(b.dataset.s)));
+
+// Auto-refresh hook: re-render every 60s so a future fetch() updater can hot-swap WC["2026"].
+setInterval(()=>render(), 60000);
+
+render();
+</script>
+</body>
+</html>

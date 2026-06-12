@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://douglasdemaio.github.io/World-Cup-League-Ledger/sitemap.xml
