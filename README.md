@@ -1,6 +1,6 @@
 # World Cup League Ledger
 
-**Live site:** <https://douglasdemaio.github.io/World-Cup-League-Ledger/>
+**Live site:** <https://wcclubtracker.com/>
 
 Every FIFA World Cup goal, assist and save, credited back to the **club league** the player earns his living in. Live tracking for **2026**, plus settled ledgers for **2022, 2018, 2014 and 2010** — the last five tournaments.
 
