@@ -215,6 +215,66 @@ footer.foot a{color:var(--gold);text-decoration:none}
   .switch button{flex-shrink:0}
 }
 @media (prefers-reduced-motion: reduce){ .bar{transition:none} .live-dot{animation:none} }
+
+/* --- Predictions poll --- */
+.poll{
+  margin-top:22px;border:1px solid var(--line);border-radius:14px;
+  background:linear-gradient(180deg,rgba(0,0,0,.25),rgba(0,0,0,.08));
+  padding:16px 18px;
+}
+.poll-head{display:flex;flex-wrap:wrap;gap:14px;justify-content:space-between;align-items:flex-start;margin-bottom:14px}
+.poll-title-wrap{flex:1;min-width:240px}
+.poll h2{
+  font-family:'Archivo Expanded','Archivo',sans-serif;font-size:13px;letter-spacing:.22em;
+  text-transform:uppercase;color:var(--chalk);margin-bottom:6px;
+}
+.poll h2::before{
+  content:"";display:inline-block;width:8px;height:8px;border-radius:50%;
+  background:var(--gold);margin-right:8px;vertical-align:middle;
+}
+.poll-sub{font-size:13px;color:var(--chalk-dim);line-height:1.55;max-width:560px}
+.poll-clock{text-align:right;font-family:'Archivo Expanded',sans-serif;min-width:160px}
+.poll-clock-label{display:block;font-size:10.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--chalk-dim);margin-bottom:3px}
+.poll-clock-time{display:block;font-size:17px;color:var(--gold);font-weight:900;font-variant-numeric:tabular-nums}
+.poll-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px}
+.poll-field{display:flex;flex-direction:column;gap:6px}
+.poll-field>span{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--chalk-dim);font-weight:700}
+.poll-field select{
+  font-family:inherit;font-size:14px;font-weight:600;color:var(--chalk);
+  background:rgba(0,0,0,.4);border:1px solid var(--line);border-radius:8px;
+  padding:9px 30px 9px 11px;appearance:none;cursor:pointer;transition:border-color .15s;
+  background-image:linear-gradient(45deg,transparent 50%,var(--gold) 50%),linear-gradient(135deg,var(--gold) 50%,transparent 50%);
+  background-position:calc(100% - 16px) 50%,calc(100% - 11px) 50%;
+  background-size:5px 5px,5px 5px;background-repeat:no-repeat;
+}
+.poll-field select:hover,.poll-field select:focus-visible{border-color:var(--gold);outline:none}
+.poll-field select:disabled{cursor:not-allowed;opacity:.7;background-image:none}
+.poll-actions{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:14px;padding-top:12px;border-top:1px dashed var(--line)}
+.poll-actions button{
+  font-family:inherit;font-weight:700;font-size:12.5px;letter-spacing:.06em;text-transform:uppercase;
+  border:0;cursor:pointer;padding:9px 16px;border-radius:8px;background:var(--gold);color:#1d1505;
+  transition:transform .15s,opacity .15s;
+}
+.poll-actions button:hover:not(:disabled){transform:translateY(-1px)}
+.poll-actions button:disabled{cursor:not-allowed;opacity:.55;transform:none}
+.poll-status{font-size:12.5px;color:var(--chalk-dim);line-height:1.5;flex:1;min-width:200px}
+.poll-status.ok{color:var(--sol-2)}
+.poll-status.closed{color:var(--gold)}
+.poll-results{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);display:none;gap:8px;flex-direction:column}
+.poll.closed .poll-results{display:flex}
+.poll-result-row{
+  display:grid;grid-template-columns:80px 1fr 1fr;gap:10px;align-items:center;
+  font-size:13px;padding:7px 4px;border-bottom:1px solid rgba(240,236,224,.06);
+}
+.poll-result-row:last-child{border-bottom:0}
+.poll-result-row .stat{font-family:'Archivo Expanded',sans-serif;font-weight:900;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--chalk-dim)}
+.poll-result-row .pick b,.poll-result-row .actual b{display:block;font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--chalk-dim);font-weight:700;margin-bottom:2px}
+.poll-result-row .actual span{color:var(--gold);font-weight:700}
+.poll-result-row.hit .pick span{color:var(--sol-2);font-weight:700}
+@media(max-width:560px){
+  .poll-clock{text-align:left}
+  .poll-result-row{grid-template-columns:1fr;gap:4px}
+}
 </style>
 </head>
 <body>
@@ -224,6 +284,38 @@ footer.foot a{color:var(--gold);text-decoration:none}
     <h1>Where the goals<br><em>come from</em></h1>
     <p class="sub">Every FIFA World Cup goal, assist and save, credited back to the league the player earns his club paycheck in. The <strong>2026 tournament</strong> updates live; the ledgers for <strong>2022, 2018, 2014 and 2010</strong> are settled. Tap any league to see exactly who delivered.</p>
   </header>
+
+  <section class="poll" id="poll" aria-labelledby="poll-heading">
+    <div class="poll-head">
+      <div class="poll-title-wrap">
+        <h2 id="poll-heading">Your call · 2026 ledger</h2>
+        <p class="poll-sub">Pick the league you reckon tops each ledger when the Round of 16 finishes — <strong>7 July 2026, 00:00 UTC</strong>. Voting locks heading into the quarter-finals so broadcasters have a clean snapshot of where the prediction lined up against the live numbers.</p>
+      </div>
+      <div class="poll-clock" aria-live="polite">
+        <span class="poll-clock-label">Voting closes in</span>
+        <span class="poll-clock-time" id="poll-clock-time">—</span>
+      </div>
+    </div>
+    <div class="poll-grid">
+      <label class="poll-field">
+        <span>Top league · Goals</span>
+        <select id="poll-goals" data-stat="goals" aria-label="Predicted top league for goals"></select>
+      </label>
+      <label class="poll-field">
+        <span>Top league · Assists</span>
+        <select id="poll-assists" data-stat="assists" aria-label="Predicted top league for assists"></select>
+      </label>
+      <label class="poll-field">
+        <span>Top league · Saves</span>
+        <select id="poll-saves" data-stat="saves" aria-label="Predicted top league for saves"></select>
+      </label>
+    </div>
+    <div class="poll-actions">
+      <button id="poll-submit" type="button">Lock in my picks</button>
+      <span class="poll-status" id="poll-status" aria-live="polite">Picks are saved in this browser — come back at the R16 deadline to see how you did.</span>
+    </div>
+    <div class="poll-results" id="poll-results" aria-label="Your picks vs the live leader"></div>
+  </section>
 
   <main class="board" aria-label="World Cup league ledger">
     <div class="board-top">
@@ -858,6 +950,139 @@ document.querySelectorAll(".switch button").forEach(b=>b.addEventListener("click
 document.querySelectorAll(".tabs button").forEach(b=>b.addEventListener("click",()=>setStat(b.dataset.s)));
 
 /* ----------------------------------------------------------------
+ * PREDICTIONS POLL — closes 7 July 2026 00:00 UTC (end of R16)
+ * Per-visitor predictions for top league in goals/assists/saves.
+ * Picks live in localStorage; after the deadline the panel locks
+ * and shows pick-vs-live-leader (re-rendered when WC["2026"] refreshes).
+ * ---------------------------------------------------------------- */
+const POLL_DEADLINE = Date.UTC(2026, 6, 7, 0, 0, 0); // July is month 6 (0-indexed)
+const POLL_KEY = "wcll-prediction-v1";
+const POLL_STATS = ["goals","assists","saves"];
+const POLL_LEAGUES = [
+  "Premier League (England)",
+  "La Liga (Spain)",
+  "Bundesliga (Germany)",
+  "Serie A (Italy)",
+  "Ligue 1 (France)",
+  "Primeira Liga (Portugal)",
+  "Eredivisie (Netherlands)",
+  "Saudi Pro League",
+  "Süper Lig (Turkey)",
+  "MLS (USA/Canada)",
+  "Liga MX (Mexico)",
+  "K League 1 (South Korea)",
+  "HNL (Croatia)",
+  "Série A (Brazil)",
+  "Pro League (Belgium)",
+  "Other / a different league"
+];
+
+let pollClosed = false;
+
+function pollStatusEl(){ return document.getElementById("poll-status"); }
+function setPollStatus(msg, cls){
+  const el = pollStatusEl(); if(!el) return;
+  el.textContent = msg;
+  el.className = "poll-status" + (cls?" "+cls:"");
+}
+
+function populatePollSelects(){
+  POLL_STATS.forEach(s=>{
+    const sel = document.getElementById("poll-"+s); if(!sel) return;
+    sel.innerHTML = '<option value="">Pick a league…</option>' +
+      POLL_LEAGUES.map(lg=>`<option value="${lg}">${lg}</option>`).join("");
+  });
+}
+
+function loadPrediction(){
+  try{ const raw = localStorage.getItem(POLL_KEY); return raw ? JSON.parse(raw) : null; }
+  catch(e){ return null; }
+}
+
+function applySavedPrediction(){
+  const saved = loadPrediction(); if(!saved) return;
+  POLL_STATS.forEach(s=>{
+    const sel = document.getElementById("poll-"+s);
+    if(sel && saved[s]) sel.value = saved[s];
+  });
+}
+
+function savePrediction(){
+  const p = {at: Date.now()};
+  POLL_STATS.forEach(s=>{ p[s] = document.getElementById("poll-"+s).value || ""; });
+  if(!p.goals && !p.assists && !p.saves){
+    setPollStatus("Pick at least one league before locking in.","");
+    return;
+  }
+  try{
+    localStorage.setItem(POLL_KEY, JSON.stringify(p));
+    const filled = POLL_STATS.filter(s=>p[s]).length;
+    setPollStatus(`Locked in (${filled} of 3). Picks saved in this browser — head back at the R16 deadline for the verdict.`,"ok");
+  }catch(e){
+    setPollStatus("Couldn't save locally — check that browser storage is enabled.","");
+  }
+}
+
+function pad(n){ return String(n).padStart(2,"0"); }
+
+function tickPollClock(){
+  const el = document.getElementById("poll-clock-time"); if(!el) return;
+  const diff = POLL_DEADLINE - Date.now();
+  if(diff <= 0){ el.textContent = "Voting closed"; closePoll(); return; }
+  const d = Math.floor(diff/86400000);
+  const h = Math.floor((diff%86400000)/3600000);
+  const m = Math.floor((diff%3600000)/60000);
+  const s = Math.floor((diff%60000)/1000);
+  el.textContent = `${d}d ${pad(h)}:${pad(m)}:${pad(s)}`;
+}
+
+function liveLeader(stat){
+  const d = WC["2026"]; if(!d) return null;
+  const rows = cleanRows(d[stat]||[]).sort((a,b)=>b.total-a.total);
+  return rows.length ? rows[0] : null;
+}
+
+function renderPollResults(){
+  if(!pollClosed) return;
+  const wrap = document.getElementById("poll-results"); if(!wrap) return;
+  const saved = loadPrediction() || {};
+  wrap.innerHTML = POLL_STATS.map(stat=>{
+    const pick = saved[stat] || "—";
+    const leader = liveLeader(stat);
+    const leaderName = leader ? leader.league : "—";
+    const leaderTotal = leader ? `${leader.total} ${stat}` : "no data yet";
+    const hit = pick !== "—" && leader && pick === leader.league;
+    return `<div class="poll-result-row${hit?" hit":""}">
+      <div class="stat">${stat}</div>
+      <div class="pick"><b>Your pick</b><span>${pick}</span></div>
+      <div class="actual"><b>Live leader</b><span>${leaderName}</span> · ${leaderTotal}</div>
+    </div>`;
+  }).join("");
+}
+
+function closePoll(){
+  if(pollClosed) return;
+  pollClosed = true;
+  document.getElementById("poll").classList.add("closed");
+  POLL_STATS.forEach(s=>{
+    const sel = document.getElementById("poll-"+s); if(sel) sel.disabled = true;
+  });
+  const btn = document.getElementById("poll-submit");
+  if(btn){ btn.disabled = true; btn.textContent = "Voting closed"; }
+  const saved = loadPrediction();
+  setPollStatus(saved
+    ? "Voting closed at end of R16 — your locked picks shown below against the live 2026 leaders."
+    : "Voting closed at end of R16. No picks were locked in this browser.","closed");
+  renderPollResults();
+}
+
+populatePollSelects();
+applySavedPrediction();
+tickPollClock();
+setInterval(tickPollClock, 1000);
+document.getElementById("poll-submit").addEventListener("click", savePrediction);
+
+/* ----------------------------------------------------------------
  * LIVE UPDATER — 2026
  * The 2026 ledger lives in data/2026.json so it can be updated by a
  * commit (or a scheduled GitHub Action) without touching this file.
@@ -884,6 +1109,7 @@ async function refreshLive(){
     liveEtag = text;
     WC["2026"] = d;
     if(tournament === "2026") render();
+    renderPollResults();
   }catch(e){
     /* offline or fetch blocked — inline fallback data stays on screen */
   }
