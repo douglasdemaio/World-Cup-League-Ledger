@@ -261,19 +261,37 @@ footer.foot a{color:var(--gold);text-decoration:none}
 .poll-status.ok{color:var(--sol-2)}
 .poll-status.closed{color:var(--gold)}
 .poll-tally{
-  margin-top:12px;padding:10px 12px;border-radius:8px;
+  margin-top:12px;padding:12px 14px;border-radius:8px;
   background:rgba(0,0,0,.28);border:1px solid var(--line);
-  font-size:12.5px;color:var(--chalk-dim);line-height:1.55;
+  font-size:12.5px;color:var(--chalk-dim);line-height:1.5;
 }
 .poll-tally[hidden]{display:none}
-.poll-tally b{color:var(--chalk);font-weight:700}
 .poll-tally .tally-head{
-  display:block;font-family:'Archivo Expanded',sans-serif;font-size:10.5px;
-  letter-spacing:.22em;text-transform:uppercase;color:var(--gold);margin-bottom:4px;font-weight:900;
+  display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;
+  font-family:'Archivo Expanded',sans-serif;font-size:10.5px;
+  letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:900;margin-bottom:10px;
 }
-.poll-tally .tally-row{display:block;margin-top:2px}
-.poll-tally .tally-row em{font-style:normal;color:var(--chalk)}
-.poll-tally .tally-row .pct{color:var(--gold);font-weight:700;font-variant-numeric:tabular-nums}
+.poll-tally .tally-head .tally-total{color:var(--chalk-dim);letter-spacing:.14em;font-weight:700}
+.poll-tally .tally-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+.poll-tally .tally-stat{display:flex;flex-direction:column;gap:5px}
+.poll-tally .tally-stat-head{
+  font-family:'Archivo Expanded',sans-serif;font-size:10px;letter-spacing:.22em;text-transform:uppercase;
+  color:var(--chalk);font-weight:900;display:flex;justify-content:space-between;align-items:baseline;
+}
+.poll-tally .tally-stat-head .stat-total{color:var(--chalk-dim);font-weight:700;font-variant-numeric:tabular-nums}
+.poll-tally .tally-bar{
+  display:grid;grid-template-columns:1fr 38px 42px;gap:8px;align-items:center;font-size:12px;
+}
+.poll-tally .tally-bar .name{color:var(--chalk);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.poll-tally .tally-bar.lead .name{color:var(--gold);font-weight:700}
+.poll-tally .tally-bar .barwrap{
+  grid-column:1 / -1;height:4px;border-radius:3px;background:rgba(0,0,0,.4);overflow:hidden;margin-top:-2px;
+}
+.poll-tally .tally-bar .bar{height:100%;background:linear-gradient(90deg,var(--grass-soft),var(--bar));width:0;transition:width .6s cubic-bezier(.2,.7,.2,1)}
+.poll-tally .tally-bar.lead .bar{background:linear-gradient(90deg,#8a6420,var(--gold))}
+.poll-tally .tally-bar .n{color:var(--chalk-dim);font-variant-numeric:tabular-nums;text-align:right;font-size:11.5px}
+.poll-tally .tally-bar .pct{color:var(--gold);font-weight:700;font-variant-numeric:tabular-nums;text-align:right;font-size:11.5px}
+.poll-tally .tally-empty{color:var(--chalk-dim);font-style:italic;font-size:12px}
 .poll-results{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);display:none;gap:8px;flex-direction:column}
 .poll.closed .poll-results{display:flex}
 .poll-result-row{
@@ -974,7 +992,7 @@ document.querySelectorAll(".tabs button").forEach(b=>b.addEventListener("click",
  * locks and shows pick-vs-live-leader (re-rendered when WC["2026"] refreshes).
  * Deploy the worker from poll-worker/ and paste its URL below.
  * ---------------------------------------------------------------- */
-const POLL_API_ENDPOINT = ""; // e.g., "https://wcll-poll.<your-subdomain>.workers.dev" — leave "" for local-only mode
+const POLL_API_ENDPOINT = "https://wcll-poll.douglasdemaio.workers.dev"; // empty string = local-only mode
 const POLL_TALLY_REFRESH_MS = 60000;
 const POLL_DEADLINE = Date.UTC(2026, 6, 7, 0, 0, 0); // July is month 6 (0-indexed)
 const POLL_KEY = "wcll-prediction-v1";
@@ -1189,17 +1207,43 @@ function renderTallySummary(){
   const el = document.getElementById("poll-tally");
   if(!el) return;
   if(!pollTally){ el.hidden = true; return; }
-  const lines = POLL_STATS.map(stat=>{
-    const tp = topPick(pollTally[stat]);
-    const tot = statTotal(pollTally[stat]);
-    if(!tp || tot === 0) return `<span class="tally-row">${cap(stat)} — <em>no votes yet</em></span>`;
-    const pct = Math.round((tp.n / tot) * 100);
-    return `<span class="tally-row">${cap(stat)} — <em>${tp.league}</em> · <span class="pct">${pct}%</span> <span style="opacity:.75">(${tp.n} of ${tot})</span></span>`;
-  });
+  const grandTotal = POLL_STATS.reduce((a,s)=>a + statTotal(pollTally[s]), 0);
+  const participantsApprox = Math.ceil(grandTotal / 3);
+  const statBlocks = POLL_STATS.map(stat=>{
+    const obj = pollTally[stat] || {};
+    const total = statTotal(obj);
+    const entries = Object.entries(obj)
+      .map(([league, n]) => ({league, n: Number(n) || 0}))
+      .filter(e => e.n > 0)
+      .sort((a, b) => b.n - a.n);
+    let body;
+    if(total === 0 || entries.length === 0){
+      body = `<div class="tally-empty">No picks yet — be the first.</div>`;
+    } else {
+      const max = entries[0].n;
+      body = entries.map((e, i) => {
+        const pct = Math.round((e.n / total) * 100);
+        const barW = Math.max(2, Math.round((e.n / max) * 100));
+        return `<div class="tally-bar${i===0?" lead":""}">
+          <span class="name" title="${e.league}">${e.league}</span>
+          <span class="n">${e.n}</span>
+          <span class="pct">${pct}%</span>
+          <div class="barwrap"><div class="bar" style="width:${barW}%"></div></div>
+        </div>`;
+      }).join("");
+    }
+    return `<div class="tally-stat">
+      <div class="tally-stat-head"><span>${cap(stat)}</span><span class="stat-total">${total} pick${total===1?"":"s"}</span></div>
+      ${body}
+    </div>`;
+  }).join("");
+
   el.hidden = false;
   el.innerHTML =
-    `<span class="tally-head">Community picks · live</span>` +
-    lines.join("");
+    `<div class="tally-head"><span>Community picks · live</span>
+      <span class="tally-total">${participantsApprox.toLocaleString()} voter${participantsApprox===1?"":"s"} so far</span>
+    </div>
+    <div class="tally-stats">${statBlocks}</div>`;
 }
 
 function cap(s){ return s.charAt(0).toUpperCase() + s.slice(1); }

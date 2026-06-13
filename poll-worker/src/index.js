@@ -28,7 +28,7 @@ const ALLOWED_LEAGUES = new Set([
   "Pro League (Belgium)",
   "Other / a different league"
 ]);
-const RATE_WINDOW_SECONDS = 5;
+const RATE_WINDOW_SECONDS = 60; // Cloudflare KV's minimum expirationTtl
 const CORS_HEADERS = {
   "access-control-allow-origin": "*",
   "access-control-allow-methods": "GET, POST, OPTIONS",
