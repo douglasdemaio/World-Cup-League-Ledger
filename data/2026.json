@@ -1,5 +1,5 @@
 {
-  "updated": "June 13, 2026 22:05 UTC — 5 of 104 matches played, 1 live",
+  "updated": "June 13, 2026 23:56 UTC — 5 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -22,6 +22,24 @@
           "nat": "Mexico",
           "n": 1,
           "club": "Fulham"
+        }
+      ]
+    },
+    {
+      "league": "Eredivisie (Netherlands)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Hwang Inbeom",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Ismael Saibari",
+          "nat": "Morocco",
+          "n": 1,
+          "club": "PSV Eindhoven"
         }
       ]
     },
@@ -50,14 +68,14 @@
       ]
     },
     {
-      "league": "Eredivisie (Netherlands)",
+      "league": "La Liga (Spain)",
       "total": 1,
       "players": [
         {
-          "name": "Hwang Inbeom",
-          "nat": "South Korea",
+          "name": "Vinicius Junior",
+          "nat": "Brazil",
           "n": 1,
-          "club": "Feyenoord"
+          "club": "Real Madrid"
         }
       ]
     },
@@ -130,6 +148,24 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Alex Freeman",
+          "nat": "USA",
+          "n": 1,
+          "club": "Villarreal"
+        },
+        {
+          "name": "Brahim Diaz",
+          "nat": "Morocco",
+          "n": 1,
+          "club": "Real Madrid"
+        }
+      ]
+    },
+    {
       "league": "Liga MX (Mexico)",
       "total": 2,
       "players": [
@@ -196,14 +232,14 @@
       ]
     },
     {
-      "league": "La Liga (Spain)",
+      "league": "Premier League (England)",
       "total": 1,
       "players": [
         {
-          "name": "Alex Freeman",
-          "nat": "USA",
+          "name": "Bruno Guimaraes",
+          "nat": "Brazil",
           "n": 1,
-          "club": "Villarreal"
+          "club": "Newcastle United"
         }
       ]
     },
