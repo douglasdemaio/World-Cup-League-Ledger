@@ -1,25 +1,290 @@
 {
-  "updated": "June 12, 2026 — after Matchday 1 (2 of 104 matches)",
+  "updated": "June 13, 2026 05:37 UTC — 4 of 104 matches played",
   "goals": [
-    {"league": "Premier League (England)", "total": 2, "players": [
-      {"name": "Raúl Jiménez", "nat": "Mexico", "n": 1, "club": "Fulham"},
-      {"name": "Ladislav Krejčí", "nat": "Czechia", "n": 1, "club": "Wolverhampton Wanderers"}
-    ]},
-    {"league": "Saudi Pro League", "total": 1, "players": [
-      {"name": "Julián Quiñones", "nat": "Mexico", "n": 1, "club": "Al-Qadsiah"}
-    ]},
-    {"league": "Eredivisie (Netherlands)", "total": 1, "players": [
-      {"name": "Hwang In-beom", "nat": "South Korea", "n": 1, "club": "Feyenoord"}
-    ]},
-    {"league": "Süper Lig (Turkey)", "total": 1, "players": [
-      {"name": "Oh Hyeon-gyu", "nat": "South Korea", "n": 1, "club": "Beşiktaş"}
-    ]}
+    {
+      "league": "Premier League (England)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Cyle Larin",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Southampton"
+        },
+        {
+          "name": "Ladislav Krejci",
+          "nat": "Czechia",
+          "n": 1,
+          "club": "Wolverhampton Wanderers"
+        },
+        {
+          "name": "Raul Jimenez",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Fulham"
+        }
+      ]
+    },
+    {
+      "league": "Ligue 1 (France)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Folarin Balogun",
+          "nat": "USA",
+          "n": 2,
+          "club": "Monaco"
+        }
+      ]
+    },
+    {
+      "league": "Bundesliga (Germany)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Giovanni Reyna",
+          "nat": "USA",
+          "n": 1,
+          "club": "Borussia Mönchengladbach"
+        }
+      ]
+    },
+    {
+      "league": "Eredivisie (Netherlands)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Hwang Inbeom",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Feyenoord"
+        }
+      ]
+    },
+    {
+      "league": "Liga I (Romania)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Jovo Lukic",
+          "nat": "Bosnia & Herzegovina",
+          "n": 1,
+          "club": "Universitatea Cluj"
+        }
+      ]
+    },
+    {
+      "league": "Saudi Pro League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Julian Quinones",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Al-Qadsiah"
+        }
+      ]
+    },
+    {
+      "league": "Série A (Brazil)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Mauricio",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Palmeiras"
+        }
+      ]
+    },
+    {
+      "league": "Süper Lig (Turkey)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Oh Hyeongyu",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Beşiktaş"
+        }
+      ]
+    }
   ],
-  "assists": [],
-  "saves": [],
+  "assists": [
+    {
+      "league": "Bundesliga (Germany)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Malik Tillman",
+          "nat": "USA",
+          "n": 1,
+          "club": "Bayer Leverkusen"
+        },
+        {
+          "name": "Vladimir Coufal",
+          "nat": "Czechia",
+          "n": 1,
+          "club": "TSG Hoffenheim"
+        }
+      ]
+    },
+    {
+      "league": "Liga MX (Mexico)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Erik Lira",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Cruz Azul"
+        },
+        {
+          "name": "Roberto Alvarado",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Guadalajara"
+        }
+      ]
+    },
+    {
+      "league": "Ligue 1 (France)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Julio Enciso",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Strasbourg"
+        },
+        {
+          "name": "Lee Kangin",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        }
+      ]
+    },
+    {
+      "league": "Serie A (Italy)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Christian Pulisic",
+          "nat": "USA",
+          "n": 1,
+          "club": "Milan"
+        },
+        {
+          "name": "Sead Kolasinac",
+          "nat": "Bosnia & Herzegovina",
+          "n": 1,
+          "club": "Atalanta"
+        }
+      ]
+    },
+    {
+      "league": "Eredivisie (Netherlands)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Hwang Inbeom",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Feyenoord"
+        }
+      ]
+    },
+    {
+      "league": "La Liga (Spain)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Alex Freeman",
+          "nat": "USA",
+          "n": 1,
+          "club": "Villarreal"
+        }
+      ]
+    },
+    {
+      "league": "Pro League (Belgium)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Promise David",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Union Saint-Gilloise"
+        }
+      ]
+    }
+  ],
+  "saves": [
+    {
+      "league": "Eredivisie (Netherlands)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Matej Kovar",
+          "nat": "Czechia",
+          "n": 5,
+          "club": "PSV Eindhoven"
+        }
+      ]
+    },
+    {
+      "league": "South African Premier Division",
+      "total": 5,
+      "players": [
+        {
+          "name": "Ronwen Williams",
+          "nat": "South Africa",
+          "n": 5,
+          "club": "Mamelodi Sundowns"
+        }
+      ]
+    },
+    {
+      "league": "Bundesliga (Germany)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Nikola Vasilj",
+          "nat": "Bosnia & Herzegovina",
+          "n": 2,
+          "club": "FC St. Pauli"
+        }
+      ]
+    },
+    {
+      "league": "J1 League (Japan)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Kim Seunggyu",
+          "nat": "South Korea",
+          "n": 2,
+          "club": "FC Tokyo"
+        }
+      ]
+    },
+    {
+      "league": "Liga MX (Mexico)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Raul Rangel",
+          "nat": "Mexico",
+          "n": 2,
+          "club": "Guadalajara"
+        }
+      ]
+    }
+  ],
   "notes": {
-    "goals": "Two matches played. Assists and saves tables will fill in as official match data is compiled — check back after each matchday.",
-    "assists": "Assist tracking begins once official tournament stats are compiled for Matchday 1. Known so far: Hwang In-beom (Feyenoord) and Lee Kang-in (Mallorca) assisted South Korea's goals; Vladimír Coufal's (West Ham) long throw set up Czechia's.",
-    "saves": "Goalkeeper save totals will appear once official Matchday 1 stats are published."
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (4/104 matches)",
+    "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
+    "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted."
   }
 }

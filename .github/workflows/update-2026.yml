@@ -1,0 +1,40 @@
+name: update-2026-ledger
+
+on:
+  schedule:
+    - cron: "0 * * * *"     # every hour, on the hour
+  workflow_dispatch: {}     # manual trigger from the Actions tab
+
+permissions:
+  contents: write           # needed to push data/2026.json back to main
+
+concurrency:
+  group: update-2026-ledger
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build ledger from FIFA timelines
+        run: python3 scripts/build_ledger.py
+
+      - name: Commit if changed
+        run: |
+          if [[ -z "$(git status --porcelain data/2026.json)" ]]; then
+            echo "No data/2026.json change. Nothing to commit."
+            exit 0
+          fi
+          git config user.name  "wc-ledger-bot"
+          git config user.email "wc-ledger-bot@users.noreply.github.com"
+          git add data/2026.json
+          git commit -m "data: refresh 2026 ledger from FIFA [skip ci]"
+          git push
