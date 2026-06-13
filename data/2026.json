@@ -1,5 +1,5 @@
 {
-  "updated": "June 13, 2026 08:44 UTC — 4 of 104 matches played",
+  "updated": "June 13, 2026 22:05 UTC — 5 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -295,7 +295,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (4/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (5/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted."
   }
