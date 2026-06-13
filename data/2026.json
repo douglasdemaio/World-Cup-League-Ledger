@@ -1,5 +1,5 @@
 {
-  "updated": "June 13, 2026 05:37 UTC — 4 of 104 matches played",
+  "updated": "June 13, 2026 08:44 UTC — 4 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -242,6 +242,18 @@
           "nat": "South Africa",
           "n": 5,
           "club": "Mamelodi Sundowns"
+        }
+      ]
+    },
+    {
+      "league": "Primera División (Argentina)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Orlando Gill",
+          "nat": "Paraguay",
+          "n": 3,
+          "club": "San Lorenzo"
         }
       ]
     },
