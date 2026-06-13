@@ -260,6 +260,20 @@ footer.foot a{color:var(--gold);text-decoration:none}
 .poll-status{font-size:12.5px;color:var(--chalk-dim);line-height:1.5;flex:1;min-width:200px}
 .poll-status.ok{color:var(--sol-2)}
 .poll-status.closed{color:var(--gold)}
+.poll-tally{
+  margin-top:12px;padding:10px 12px;border-radius:8px;
+  background:rgba(0,0,0,.28);border:1px solid var(--line);
+  font-size:12.5px;color:var(--chalk-dim);line-height:1.55;
+}
+.poll-tally[hidden]{display:none}
+.poll-tally b{color:var(--chalk);font-weight:700}
+.poll-tally .tally-head{
+  display:block;font-family:'Archivo Expanded',sans-serif;font-size:10.5px;
+  letter-spacing:.22em;text-transform:uppercase;color:var(--gold);margin-bottom:4px;font-weight:900;
+}
+.poll-tally .tally-row{display:block;margin-top:2px}
+.poll-tally .tally-row em{font-style:normal;color:var(--chalk)}
+.poll-tally .tally-row .pct{color:var(--gold);font-weight:700;font-variant-numeric:tabular-nums}
 .poll-results{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);display:none;gap:8px;flex-direction:column}
 .poll.closed .poll-results{display:flex}
 .poll-result-row{
@@ -314,6 +328,7 @@ footer.foot a{color:var(--gold);text-decoration:none}
       <button id="poll-submit" type="button">Lock in my picks</button>
       <span class="poll-status" id="poll-status" aria-live="polite">Picks are saved in this browser — come back at the R16 deadline to see how you did.</span>
     </div>
+    <div class="poll-tally" id="poll-tally" aria-live="polite" hidden></div>
     <div class="poll-results" id="poll-results" aria-label="Your picks vs the live leader"></div>
   </section>
 
@@ -952,11 +967,18 @@ document.querySelectorAll(".tabs button").forEach(b=>b.addEventListener("click",
 /* ----------------------------------------------------------------
  * PREDICTIONS POLL — closes 7 July 2026 00:00 UTC (end of R16)
  * Per-visitor predictions for top league in goals/assists/saves.
- * Picks live in localStorage; after the deadline the panel locks
- * and shows pick-vs-live-leader (re-rendered when WC["2026"] refreshes).
+ * Picks live in localStorage (always); when POLL_API_ENDPOINT is set
+ * they're also POSTed to a Cloudflare Worker for aggregate tallying.
+ * Aggregate counts (when available) render under the actions row and
+ * inside the closed-state results panel. After the deadline the panel
+ * locks and shows pick-vs-live-leader (re-rendered when WC["2026"] refreshes).
+ * Deploy the worker from poll-worker/ and paste its URL below.
  * ---------------------------------------------------------------- */
+const POLL_API_ENDPOINT = ""; // e.g., "https://wcll-poll.<your-subdomain>.workers.dev" — leave "" for local-only mode
+const POLL_TALLY_REFRESH_MS = 60000;
 const POLL_DEADLINE = Date.UTC(2026, 6, 7, 0, 0, 0); // July is month 6 (0-indexed)
 const POLL_KEY = "wcll-prediction-v1";
+const POLL_CID_KEY = "wcll-cid-v1";
 const POLL_STATS = ["goals","assists","saves"];
 const POLL_LEAGUES = [
   "Premier League (England)",
@@ -1007,6 +1029,35 @@ function applySavedPrediction(){
   });
 }
 
+function pollClientId(){
+  try{
+    let cid = localStorage.getItem(POLL_CID_KEY);
+    if(cid && /^[A-Za-z0-9_-]{8,64}$/.test(cid)) return cid;
+    cid = (typeof crypto !== "undefined" && crypto.randomUUID)
+      ? crypto.randomUUID().replace(/-/g,"")
+      : (Math.random().toString(36).slice(2) + Math.random().toString(36).slice(2)).slice(0,32);
+    localStorage.setItem(POLL_CID_KEY, cid);
+    return cid;
+  }catch(e){ return null; }
+}
+
+async function postVoteRemote(p){
+  if(!POLL_API_ENDPOINT) return null;
+  const cid = pollClientId();
+  if(!cid) return null;
+  try{
+    const res = await fetch(POLL_API_ENDPOINT.replace(/\/$/,"") + "/vote", {
+      method: "POST",
+      headers: {"content-type":"application/json"},
+      body: JSON.stringify({clientId: cid, ...p})
+    });
+    if(!res.ok) return {ok:false, status: res.status};
+    return await res.json();
+  }catch(e){
+    return {ok:false, error: "network"};
+  }
+}
+
 function savePrediction(){
   const p = {at: Date.now()};
   POLL_STATS.forEach(s=>{ p[s] = document.getElementById("poll-"+s).value || ""; });
@@ -1016,10 +1067,29 @@ function savePrediction(){
   }
   try{
     localStorage.setItem(POLL_KEY, JSON.stringify(p));
-    const filled = POLL_STATS.filter(s=>p[s]).length;
-    setPollStatus(`Locked in (${filled} of 3). Picks saved in this browser — head back at the R16 deadline for the verdict.`,"ok");
   }catch(e){
     setPollStatus("Couldn't save locally — check that browser storage is enabled.","");
+    return;
+  }
+  const filled = POLL_STATS.filter(s=>p[s]).length;
+  setPollStatus(`Locked in (${filled} of 3). Picks saved in this browser — head back at the R16 deadline for the verdict.`,"ok");
+
+  if(POLL_API_ENDPOINT){
+    const btn = document.getElementById("poll-submit");
+    if(btn) btn.disabled = true;
+    postVoteRemote(p).then(r=>{
+      if(btn && !pollClosed){ btn.disabled = false; }
+      if(r && r.ok){
+        setPollStatus(`Locked in (${filled} of 3) and counted in the community tally.`,"ok");
+        refreshTally();
+      }else if(r && r.status === 429){
+        setPollStatus("Slow down — wait a few seconds before re-locking your picks.","");
+      }else if(r && r.status === 403){
+        setPollStatus("Voting has just closed — your local picks are still saved.","closed");
+        closePoll();
+      }
+      // null / network error: silently keep local-only state.
+    });
   }
 }
 
@@ -1052,10 +1122,19 @@ function renderPollResults(){
     const leaderName = leader ? leader.league : "—";
     const leaderTotal = leader ? `${leader.total} ${stat}` : "no data yet";
     const hit = pick !== "—" && leader && pick === leader.league;
+    let communityCell = "";
+    if(pollTally){
+      const tp = topPick(pollTally[stat]);
+      const tot = statTotal(pollTally[stat]);
+      if(tp && tot > 0){
+        const pct = Math.round((tp.n / tot) * 100);
+        communityCell = ` · <span style="opacity:.85">Community: <b style="color:var(--chalk);font-weight:700">${tp.league}</b> ${pct}%</span>`;
+      }
+    }
     return `<div class="poll-result-row${hit?" hit":""}">
       <div class="stat">${stat}</div>
       <div class="pick"><b>Your pick</b><span>${pick}</span></div>
-      <div class="actual"><b>Live leader</b><span>${leaderName}</span> · ${leaderTotal}</div>
+      <div class="actual"><b>Live leader</b><span>${leaderName}</span> · ${leaderTotal}${communityCell}</div>
     </div>`;
   }).join("");
 }
@@ -1076,11 +1155,65 @@ function closePoll(){
   renderPollResults();
 }
 
+let pollTally = null;
+
+async function refreshTally(){
+  if(!POLL_API_ENDPOINT) return;
+  try{
+    const res = await fetch(POLL_API_ENDPOINT.replace(/\/$/,"") + "/tally", {cache:"no-store"});
+    if(!res.ok) return;
+    const d = await res.json();
+    if(!d || typeof d !== "object") return;
+    pollTally = d;
+    renderTallySummary();
+    if(pollClosed) renderPollResults();
+  }catch(e){ /* offline — keep last good state */ }
+}
+
+function topPick(obj){
+  if(!obj) return null;
+  let best = null;
+  for(const k of Object.keys(obj)){
+    const v = Number(obj[k]) || 0;
+    if(!best || v > best.n) best = {league: k, n: v};
+  }
+  return best && best.n > 0 ? best : null;
+}
+
+function statTotal(obj){
+  if(!obj) return 0;
+  return Object.values(obj).reduce((a,b)=>a+(Number(b)||0), 0);
+}
+
+function renderTallySummary(){
+  const el = document.getElementById("poll-tally");
+  if(!el) return;
+  if(!pollTally){ el.hidden = true; return; }
+  const lines = POLL_STATS.map(stat=>{
+    const tp = topPick(pollTally[stat]);
+    const tot = statTotal(pollTally[stat]);
+    if(!tp || tot === 0) return `<span class="tally-row">${cap(stat)} — <em>no votes yet</em></span>`;
+    const pct = Math.round((tp.n / tot) * 100);
+    return `<span class="tally-row">${cap(stat)} — <em>${tp.league}</em> · <span class="pct">${pct}%</span> <span style="opacity:.75">(${tp.n} of ${tot})</span></span>`;
+  });
+  el.hidden = false;
+  el.innerHTML =
+    `<span class="tally-head">Community picks · live</span>` +
+    lines.join("");
+}
+
+function cap(s){ return s.charAt(0).toUpperCase() + s.slice(1); }
+
 populatePollSelects();
 applySavedPrediction();
 tickPollClock();
 setInterval(tickPollClock, 1000);
 document.getElementById("poll-submit").addEventListener("click", savePrediction);
+if(POLL_API_ENDPOINT){
+  refreshTally();
+  setInterval(refreshTally, POLL_TALLY_REFRESH_MS);
+  document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) refreshTally(); });
+}
 
 /* ----------------------------------------------------------------
  * LIVE UPDATER — 2026

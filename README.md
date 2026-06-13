@@ -17,6 +17,7 @@ Sort by Premier League, La Liga, Bundesliga, Serie A, Ligue 1, MLS, Saudi Pro Le
 - `.github/workflows/update-2026.yml` — runs `build_ledger.py` every hour and commits `data/2026.json` back to `main` only when the payload changed.
 - `robots.txt`, `sitemap.xml` — SEO basics
 - `world-cup-league-tracker.html` — original prototype, kept for history
+- `poll-worker/` — optional Cloudflare Worker that aggregates the R16 predictions poll. Deploy with `cd poll-worker && npx wrangler deploy`, then paste the worker URL into `POLL_API_ENDPOINT` in `index.html`. Without it, the poll runs in local-only mode (each visitor sees only their own picks).
 
 ## Hosting
 
