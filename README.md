@@ -9,6 +9,7 @@ Sort by Premier League, La Liga, Bundesliga, Serie A, Ligue 1, MLS, Saudi Pro Le
 ## Files
 
 - `index.html` — the single-page app (vanilla JS, no build step)
+- `data/2026.json` — the live 2026 ledger. The page polls this file every 60s, so committing an update here goes live to open tabs within about a minute. Schema: `{updated, goals[], assists[], saves[], notes{}}`, each stat an array of `{league, total, players:[{name, nat, n, club}]}`.
 - `robots.txt`, `sitemap.xml` — SEO basics
 - `world-cup-league-tracker.html` — original prototype, kept for history
 
