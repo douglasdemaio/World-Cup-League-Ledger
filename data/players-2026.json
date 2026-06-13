@@ -1,0 +1,7490 @@
+{
+  "201200": {
+    "club": "Al-Nassr",
+    "clubnat": "KSA",
+    "name": "CRISTIANO RONALDO",
+    "nat": "POR"
+  },
+  "215285": {
+    "club": "AEL Limassol",
+    "clubnat": "CYP",
+    "name": "Guillermo OCHOA",
+    "nat": "MEX"
+  },
+  "215553": {
+    "club": "Heart of Midlothian",
+    "clubnat": "SCO",
+    "name": "Craig GORDON",
+    "nat": "SCO"
+  },
+  "228686": {
+    "club": "Atlético Nacional",
+    "clubnat": "COL",
+    "name": "David OSPINA",
+    "nat": "COL"
+  },
+  "228912": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Manuel NEUER",
+    "nat": "GER"
+  },
+  "229397": {
+    "club": "Inter Miami CF",
+    "clubnat": "USA",
+    "name": "Lionel MESSI",
+    "nat": "ARG"
+  },
+  "229498": {
+    "club": "Estudiantes",
+    "clubnat": "ARG",
+    "name": "Fernando MUSLERA",
+    "nat": "URU"
+  },
+  "241559": {
+    "club": "Milan",
+    "clubnat": "ITA",
+    "name": "Luka MODRIC",
+    "nat": "CRO"
+  },
+  "261367": {
+    "club": "Minnesota United FC",
+    "clubnat": "USA",
+    "name": "Michael BOXALL",
+    "nat": "NZL"
+  },
+  "267702": {
+    "club": "Nacional",
+    "clubnat": "URU",
+    "name": "Luis MEJIA",
+    "nat": "PAN"
+  },
+  "269058": {
+    "club": "Minnesota United FC",
+    "clubnat": "USA",
+    "name": "James RODRIGUEZ",
+    "nat": "COL"
+  },
+  "269514": {
+    "club": "San Diego FC",
+    "clubnat": "USA",
+    "name": "Anibal GODOY",
+    "nat": "PAN"
+  },
+  "269592": {
+    "club": "Western Sydney Wanderers",
+    "clubnat": "AUS",
+    "name": "Kosta BARBAROUSES",
+    "nat": "NZL"
+  },
+  "271116": {
+    "club": "Plaza Amador",
+    "clubnat": "PAN",
+    "name": "Alberto QUINTERO",
+    "nat": "PAN"
+  },
+  "274078": {
+    "club": "Nottingham Forest",
+    "clubnat": "ENG",
+    "name": "Chris WOOD",
+    "nat": "NZL"
+  },
+  "274102": {
+    "club": "Braintree Town",
+    "clubnat": "ENG",
+    "name": "Tommy SMITH",
+    "nat": "NZL"
+  },
+  "274281": {
+    "club": "FC Tokyo",
+    "clubnat": "JPN",
+    "name": "KIM Seunggyu",
+    "nat": "KOR"
+  },
+  "275917": {
+    "club": "LDU Quito",
+    "clubnat": "ECU",
+    "name": "Ricardo Ade",
+    "nat": "HAI"
+  },
+  "284190": {
+    "club": "Al-Sadd",
+    "clubnat": "QAT",
+    "name": "HASSAN ALHAYDOS",
+    "nat": "QAT"
+  },
+  "288961": {
+    "club": "Sepahan",
+    "clubnat": "IRN",
+    "name": "Ehsan HAJISAFI",
+    "nat": "IRN"
+  },
+  "290821": {
+    "club": "Girona",
+    "clubnat": "ESP",
+    "name": "Axel WITSEL",
+    "nat": "BEL"
+  },
+  "291372": {
+    "club": "FC Tokyo",
+    "clubnat": "JPN",
+    "name": "Yuto NAGATOMO",
+    "nat": "JPN"
+  },
+  "295922": {
+    "club": "Bastia",
+    "clubnat": "FRA",
+    "name": "Johny Placide",
+    "nat": "HAI"
+  },
+  "297266": {
+    "club": "Torreense",
+    "clubnat": "POR",
+    "name": "STOPIRA",
+    "nat": "CPV"
+  },
+  "299200": {
+    "club": "Red Star Belgrade",
+    "clubnat": "SRB",
+    "name": "Marko ARNAUTOVIC",
+    "nat": "AUT"
+  },
+  "300409": {
+    "club": "Schalke 04",
+    "clubnat": "GER",
+    "name": "Edin DZEKO",
+    "nat": "BIH"
+  },
+  "306538": {
+    "club": "TSG Hoffenheim",
+    "clubnat": "GER",
+    "name": "Oliver Baumann",
+    "nat": "GER"
+  },
+  "307849": {
+    "club": "Los Angeles FC",
+    "clubnat": "USA",
+    "name": "SON Heungmin",
+    "nat": "KOR"
+  },
+  "308300": {
+    "club": "Aston Villa",
+    "clubnat": "ENG",
+    "name": "Emiliano MARTINEZ",
+    "nat": "ARG"
+  },
+  "308322": {
+    "club": "Lyon",
+    "clubnat": "FRA",
+    "name": "Nicolas TAGLIAFICO",
+    "nat": "ARG"
+  },
+  "308370": {
+    "club": "Liverpool",
+    "clubnat": "ENG",
+    "name": "ALISSON",
+    "nat": "BRA"
+  },
+  "308386": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "CASEMIRO",
+    "nat": "BRA"
+  },
+  "310116": {
+    "club": "Benfica",
+    "clubnat": "POR",
+    "name": "Nicolas OTAMENDI",
+    "nat": "ARG"
+  },
+  "311558": {
+    "club": "Sunderland",
+    "clubnat": "ENG",
+    "name": "Granit XHAKA",
+    "nat": "SUI"
+  },
+  "313559": {
+    "club": "Real Betis",
+    "clubnat": "ESP",
+    "name": "Ricardo RODRIGUEZ",
+    "nat": "SUI"
+  },
+  "314197": {
+    "club": "Santos",
+    "clubnat": "BRA",
+    "name": "NEYMAR JR",
+    "nat": "BRA"
+  },
+  "314255": {
+    "club": "Sepahan",
+    "clubnat": "IRN",
+    "name": "Hossein HOSSEINI",
+    "nat": "IRN"
+  },
+  "315614": {
+    "club": "Independiente",
+    "clubnat": "ARG",
+    "name": "Santiago ARIAS",
+    "nat": "COL"
+  },
+  "316002": {
+    "club": "Real Madrid",
+    "clubnat": "ESP",
+    "name": "David ALABA",
+    "nat": "AUT"
+  },
+  "318647": {
+    "club": "Cerro Porteño",
+    "clubnat": "PAR",
+    "name": "Gatito FERNANDEZ",
+    "nat": "PAR"
+  },
+  "321697": {
+    "club": "Melbourne City",
+    "clubnat": "AUS",
+    "name": "Mathew LECKIE",
+    "nat": "AUS"
+  },
+  "331135": {
+    "club": "Randers",
+    "clubnat": "DEN",
+    "name": "Paul Izzo",
+    "nat": "AUS"
+  },
+  "331149": {
+    "club": "APOEL",
+    "clubnat": "CYP",
+    "name": "Milos DEGENEK",
+    "nat": "AUS"
+  },
+  "331463": {
+    "club": "Wellington Phoenix",
+    "clubnat": "NZL",
+    "name": "Tim PAYNE",
+    "nat": "NZL"
+  },
+  "331732": {
+    "club": "Orlando City SC",
+    "clubnat": "USA",
+    "name": "Maxime CREPEAU",
+    "nat": "CAN"
+  },
+  "332314": {
+    "club": "Everton",
+    "clubnat": "ENG",
+    "name": "Idrissa Gana GUEYE",
+    "nat": "SEN"
+  },
+  "332847": {
+    "club": "Boca Juniors",
+    "clubnat": "ARG",
+    "name": "Leandro PAREDES",
+    "nat": "ARG"
+  },
+  "332897": {
+    "club": "Tigres UANL",
+    "clubnat": "MEX",
+    "name": "Rodrigo AGUIRRE",
+    "nat": "URU"
+  },
+  "332946": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "MARQUINHOS",
+    "nat": "BRA"
+  },
+  "335656": {
+    "club": "Flamengo",
+    "clubnat": "BRA",
+    "name": "DANILO",
+    "nat": "BRA"
+  },
+  "335658": {
+    "club": "Flamengo",
+    "clubnat": "BRA",
+    "name": "ALEX SANDRO",
+    "nat": "BRA"
+  },
+  "335807": {
+    "club": "Maribor",
+    "clubnat": "SVN",
+    "name": "Jean Michael SERI",
+    "nat": "CIV"
+  },
+  "335999": {
+    "club": "Athletic Bilbao",
+    "clubnat": "ESP",
+    "name": "Aymeric LAPORTE",
+    "nat": "ESP"
+  },
+  "336022": {
+    "club": "Everton",
+    "clubnat": "ENG",
+    "name": "Jordan PICKFORD",
+    "nat": "ENG"
+  },
+  "336088": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Nathan AKE",
+    "nat": "NED"
+  },
+  "336098": {
+    "club": "Corinthians",
+    "clubnat": "BRA",
+    "name": "Memphis DEPAY",
+    "nat": "NED"
+  },
+  "336170": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Kaan Ayhan",
+    "nat": "TUR"
+  },
+  "336425": {
+    "club": "Real Betis",
+    "clubnat": "ESP",
+    "name": "Cedric BAKAMBU",
+    "nat": "COD"
+  },
+  "336439": {
+    "club": "AEL",
+    "clubnat": "GRE",
+    "name": "Gael KAKUTA",
+    "nat": "COD"
+  },
+  "336459": {
+    "club": "Union Berlin",
+    "clubnat": "GER",
+    "name": "Rani Khedira",
+    "nat": "TUN"
+  },
+  "336472": {
+    "club": "TSG Hoffenheim",
+    "clubnat": "GER",
+    "name": "Andrej KRAMARIC",
+    "nat": "CRO"
+  },
+  "336641": {
+    "club": "PEC Zwolle",
+    "clubnat": "NED",
+    "name": "Ryan THOMAS",
+    "nat": "NZL"
+  },
+  "337232": {
+    "club": "Plaza Amador",
+    "clubnat": "PAN",
+    "name": "Eric DAVIS",
+    "nat": "PAN"
+  },
+  "337251": {
+    "club": "Universidad de Concepción",
+    "clubnat": "CHI",
+    "name": "Cecilio Waterman",
+    "nat": "PAN"
+  },
+  "337389": {
+    "club": "Celtic",
+    "clubnat": "SCO",
+    "name": "Anthony RALSTON",
+    "nat": "SCO"
+  },
+  "339112": {
+    "club": "Albirex Niigata",
+    "clubnat": "JPN",
+    "name": "Jason GERIA",
+    "nat": "AUS"
+  },
+  "339117": {
+    "club": "Levante",
+    "clubnat": "ESP",
+    "name": "Mathew RYAN",
+    "nat": "AUS"
+  },
+  "339510": {
+    "club": "Charlotte FC",
+    "clubnat": "USA",
+    "name": "Tim REAM",
+    "nat": "USA"
+  },
+  "339745": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "SALEM ALDAWSARI",
+    "nat": "KSA"
+  },
+  "339746": {
+    "club": "Al-Qadsiah",
+    "clubnat": "KSA",
+    "name": "AHMED ALKASSAR",
+    "nat": "KSA"
+  },
+  "339820": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "Kalidou KOULIBALY",
+    "nat": "SEN"
+  },
+  "339987": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Mateo KOVACIC",
+    "nat": "CRO"
+  },
+  "344582": {
+    "club": "Turan Tovuz",
+    "clubnat": "AZE",
+    "name": "Roderick MILLER",
+    "nat": "PAN"
+  },
+  "344654": {
+    "club": "Liverpool",
+    "clubnat": "ENG",
+    "name": "MOHAMED SALAH",
+    "nat": "EGY"
+  },
+  "344661": {
+    "club": "Al Ain",
+    "clubnat": "UAE",
+    "name": "RAMY RABIA",
+    "nat": "EGY"
+  },
+  "345059": {
+    "club": "Al-Rayyan",
+    "clubnat": "QAT",
+    "name": "ABDULAZIZ HATEM",
+    "nat": "QAT"
+  },
+  "346743": {
+    "club": "Tractor",
+    "clubnat": "IRN",
+    "name": "Shoja KHALILZADEH",
+    "nat": "IRN"
+  },
+  "347085": {
+    "club": "Al-Zawraa",
+    "clubnat": "IRQ",
+    "name": "JALAL HASSAN",
+    "nat": "IRQ"
+  },
+  "349342": {
+    "club": "Melbourne City",
+    "clubnat": "AUS",
+    "name": "Aziz BEHICH",
+    "nat": "AUS"
+  },
+  "353235": {
+    "club": "Leicester City",
+    "clubnat": "ENG",
+    "name": "Jordan AYEW",
+    "nat": "GHA"
+  },
+  "353251": {
+    "club": "Al-Rayyan",
+    "clubnat": "QAT",
+    "name": "AHMED ALAAELDIN",
+    "nat": "QAT"
+  },
+  "353790": {
+    "club": "Al-Nassr",
+    "clubnat": "KSA",
+    "name": "Sadio MANE",
+    "nat": "SEN"
+  },
+  "354861": {
+    "club": "Al-Duhail",
+    "clubnat": "QAT",
+    "name": "KARIM BOUDIAF",
+    "nat": "QAT"
+  },
+  "355642": {
+    "club": "Iğdır",
+    "clubnat": "TUR",
+    "name": "RYAN MENDES",
+    "nat": "CPV"
+  },
+  "355775": {
+    "club": "FC St. Pauli",
+    "clubnat": "GER",
+    "name": "Jackson IRVINE",
+    "nat": "AUS"
+  },
+  "356189": {
+    "club": "Brentford",
+    "clubnat": "ENG",
+    "name": "Jordan HENDERSON",
+    "nat": "ENG"
+  },
+  "356412": {
+    "club": "Mainz 05",
+    "clubnat": "GER",
+    "name": "Silvan WIDMER",
+    "nat": "SUI"
+  },
+  "356532": {
+    "club": "Lille",
+    "clubnat": "FRA",
+    "name": "Chancel MBEMBA",
+    "nat": "COD"
+  },
+  "356673": {
+    "club": "Al-Wakrah",
+    "clubnat": "QAT",
+    "name": "LUCAS MENDES",
+    "nat": "QAT"
+  },
+  "356704": {
+    "club": "River Plate",
+    "clubnat": "ARG",
+    "name": "Juan QUINTERO",
+    "nat": "COL"
+  },
+  "356731": {
+    "club": "Fulham",
+    "clubnat": "ENG",
+    "name": "Raul JIMENEZ",
+    "nat": "MEX"
+  },
+  "356956": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "Yassine BOUNOU",
+    "nat": "MAR"
+  },
+  "358003": {
+    "club": "Hradec Králové",
+    "clubnat": "CZE",
+    "name": "Vladimir DARIDA",
+    "nat": "CZE"
+  },
+  "358106": {
+    "club": "Real Madrid",
+    "clubnat": "ESP",
+    "name": "Thibaut COURTOIS",
+    "nat": "BEL"
+  },
+  "358112": {
+    "club": "Napoli",
+    "clubnat": "ITA",
+    "name": "Romelu LUKAKU",
+    "nat": "BEL"
+  },
+  "358120": {
+    "club": "Napoli",
+    "clubnat": "ITA",
+    "name": "Kevin DE BRUYNE",
+    "nat": "BEL"
+  },
+  "358122": {
+    "club": "Lille",
+    "clubnat": "FRA",
+    "name": "Thomas MEUNIER",
+    "nat": "BEL"
+  },
+  "358241": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Marcel SABITZER",
+    "nat": "AUT"
+  },
+  "359381": {
+    "club": "PSV Eindhoven",
+    "clubnat": "NED",
+    "name": "Ivan PERISIC",
+    "nat": "CRO"
+  },
+  "359634": {
+    "club": "Hibernian",
+    "clubnat": "SCO",
+    "name": "Grant Hanley",
+    "nat": "SCO"
+  },
+  "360496": {
+    "club": "AIK",
+    "clubnat": "SWE",
+    "name": "Kristoffer NORDFELDT",
+    "nat": "SWE"
+  },
+  "360498": {
+    "club": "Fenerbahçe",
+    "clubnat": "TUR",
+    "name": "Mert GUNOK",
+    "nat": "TUR"
+  },
+  "360642": {
+    "club": "Atlas",
+    "clubnat": "MEX",
+    "name": "Camilo VARGAS",
+    "nat": "COL"
+  },
+  "363863": {
+    "club": "Al Ahly",
+    "clubnat": "EGY",
+    "name": "TREZEGUET",
+    "nat": "EGY"
+  },
+  "364752": {
+    "club": "Chaves",
+    "clubnat": "POR",
+    "name": "VOZINHA",
+    "nat": "CPV"
+  },
+  "367536": {
+    "club": "PAOK",
+    "clubnat": "GRE",
+    "name": "Baba RAHMAN",
+    "nat": "GHA"
+  },
+  "367981": {
+    "club": "Zenit Saint Petersburg",
+    "clubnat": "RUS",
+    "name": "DOUGLAS SANTOS",
+    "nat": "BRA"
+  },
+  "368535": {
+    "club": "Millwall",
+    "clubnat": "ENG",
+    "name": "Max CROCOMBE",
+    "nat": "NZL"
+  },
+  "368545": {
+    "club": "Neftchi Fergana",
+    "clubnat": "UZB",
+    "name": "Jamshid ISKANDEROV",
+    "nat": "UZB"
+  },
+  "368546": {
+    "club": "Persepolis",
+    "clubnat": "IRN",
+    "name": "Igor Sergeev",
+    "nat": "UZB"
+  },
+  "368560": {
+    "club": "Esteghlal",
+    "clubnat": "IRN",
+    "name": "Jaloliddin Masharipov",
+    "nat": "UZB"
+  },
+  "368649": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "JOAO CANCELO",
+    "nat": "POR"
+  },
+  "368652": {
+    "club": "Flamengo",
+    "clubnat": "BRA",
+    "name": "Giorgian DE ARRASCAETA",
+    "nat": "URU"
+  },
+  "368655": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Jose Maria GIMENEZ",
+    "nat": "URU"
+  },
+  "368660": {
+    "club": "Flamengo",
+    "clubnat": "BRA",
+    "name": "Guillermo VARELA",
+    "nat": "URU"
+  },
+  "368664": {
+    "club": "Internacional",
+    "clubnat": "BRA",
+    "name": "Sergio ROCHET",
+    "nat": "URU"
+  },
+  "368689": {
+    "club": "Wolverhampton Wanderers",
+    "clubnat": "ENG",
+    "name": "JOSE SA",
+    "nat": "POR"
+  },
+  "368744": {
+    "club": "Al-Talaba",
+    "clubnat": "IRQ",
+    "name": "FAHAD TALIB",
+    "nat": "IRQ"
+  },
+  "368860": {
+    "club": "Aston Villa",
+    "clubnat": "ENG",
+    "name": "Lucas Digne",
+    "nat": "FRA"
+  },
+  "369029": {
+    "club": "Dinamo Zagreb",
+    "clubnat": "CRO",
+    "name": "Dominik LIVAKOVIC",
+    "nat": "CRO"
+  },
+  "369089": {
+    "club": "Villarreal",
+    "clubnat": "ESP",
+    "name": "Thomas PARTEY",
+    "nat": "GHA"
+  },
+  "369267": {
+    "club": "Al Ahly",
+    "clubnat": "EGY",
+    "name": "YASSER IBRAHIM",
+    "nat": "EGY"
+  },
+  "369304": {
+    "club": "Inter Milan",
+    "clubnat": "ITA",
+    "name": "Hakan CALHANOGLU",
+    "nat": "TUR"
+  },
+  "369419": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Harry KANE",
+    "nat": "ENG"
+  },
+  "369434": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "John STONES",
+    "nat": "ENG"
+  },
+  "369530": {
+    "club": "Krasnodar",
+    "clubnat": "RUS",
+    "name": "Jhon CORDOBA",
+    "nat": "COL"
+  },
+  "369744": {
+    "club": "Palmeiras",
+    "clubnat": "BRA",
+    "name": "Gustavo GOMEZ",
+    "nat": "PAR"
+  },
+  "369749": {
+    "club": "Atlético Mineiro",
+    "clubnat": "BRA",
+    "name": "Junior ALONSO",
+    "nat": "PAR"
+  },
+  "369761": {
+    "club": "Atlanta United FC",
+    "clubnat": "USA",
+    "name": "Miguel ALMIRON",
+    "nat": "PAR"
+  },
+  "369768": {
+    "club": "Cremonese",
+    "clubnat": "ITA",
+    "name": "Antonio SANABRIA",
+    "nat": "PAR"
+  },
+  "370171": {
+    "club": "Maccabi Haifa",
+    "clubnat": "ISR",
+    "name": "Abdoulaye Seck",
+    "nat": "SEN"
+  },
+  "370986": {
+    "club": "Toronto FC",
+    "clubnat": "CAN",
+    "name": "Jonathan OSORIO",
+    "nat": "CAN"
+  },
+  "371142": {
+    "club": "Wellington Phoenix",
+    "clubnat": "NZL",
+    "name": "Alex RUFER",
+    "nat": "NZL"
+  },
+  "371345": {
+    "club": "Tractor",
+    "clubnat": "IRN",
+    "name": "Odiljon XAMROBEKOV",
+    "nat": "UZB"
+  },
+  "371348": {
+    "club": "Baniyas",
+    "clubnat": "UAE",
+    "name": "Otabek Shukurov",
+    "nat": "UZB"
+  },
+  "371393": {
+    "club": "Pakhtakor",
+    "clubnat": "UZB",
+    "name": "Dostonbek Khamdamov",
+    "nat": "UZB"
+  },
+  "371415": {
+    "club": "Esteghlal",
+    "clubnat": "IRN",
+    "name": "Rustam ASHURMATOV",
+    "nat": "UZB"
+  },
+  "371553": {
+    "club": "AS FAR",
+    "clubnat": "MAR",
+    "name": "Ahmed Reda TAGNAOUTI",
+    "nat": "MAR"
+  },
+  "371609": {
+    "club": "Al-Ahli",
+    "clubnat": "KSA",
+    "name": "Franck KESSIE",
+    "nat": "CIV"
+  },
+  "371736": {
+    "club": "Shabab Al Ahli",
+    "clubnat": "UAE",
+    "name": "Saeid EZATOLAHI",
+    "nat": "IRN"
+  },
+  "371739": {
+    "club": "Red Bull Salzburg",
+    "clubnat": "AUT",
+    "name": "Alexander SCHLAGER",
+    "nat": "AUT"
+  },
+  "371956": {
+    "club": "Flamengo",
+    "clubnat": "BRA",
+    "name": "LEO PEREIRA",
+    "nat": "BRA"
+  },
+  "371958": {
+    "club": "Rangers",
+    "clubnat": "SCO",
+    "name": "Derek CORNELIUS",
+    "nat": "CAN"
+  },
+  "372090": {
+    "club": "AEK Athens",
+    "clubnat": "GRE",
+    "name": "Orbelin PINEDA",
+    "nat": "MEX"
+  },
+  "372243": {
+    "club": "SC Freiburg",
+    "clubnat": "GER",
+    "name": "Philipp Lienhart",
+    "nat": "AUT"
+  },
+  "372266": {
+    "club": "Real Betis",
+    "clubnat": "ESP",
+    "name": "Sofyan AMRABAT",
+    "nat": "MAR"
+  },
+  "372294": {
+    "club": "Étoile du Sahel",
+    "clubnat": "TUN",
+    "name": "Sabri BEN HESSEN",
+    "nat": "TUN"
+  },
+  "372342": {
+    "club": "León",
+    "clubnat": "MEX",
+    "name": "Ismael DIAZ",
+    "nat": "PAN"
+  },
+  "372424": {
+    "club": "Real Sociedad",
+    "clubnat": "ESP",
+    "name": "Duje CALETA-CAR",
+    "nat": "CRO"
+  },
+  "372436": {
+    "club": "Pafos",
+    "clubnat": "CYP",
+    "name": "Ivan SUNJIC",
+    "nat": "BIH"
+  },
+  "373235": {
+    "club": "Sevilla",
+    "clubnat": "ESP",
+    "name": "Orjan NYLAND",
+    "nat": "NOR"
+  },
+  "373344": {
+    "club": "Apollon Limassol",
+    "clubnat": "CYP",
+    "name": "GARRY RODRIGUES",
+    "nat": "CPV"
+  },
+  "373400": {
+    "club": "Pachuca",
+    "clubnat": "MEX",
+    "name": "Enner VALENCIA",
+    "nat": "ECU"
+  },
+  "375600": {
+    "club": "Wolfsberger AC",
+    "clubnat": "AUT",
+    "name": "Alessandro SCHOEPF",
+    "nat": "AUT"
+  },
+  "376230": {
+    "club": "Atalanta",
+    "clubnat": "ITA",
+    "name": "Sead KOLASINAC",
+    "nat": "BIH"
+  },
+  "376285": {
+    "club": "Lille",
+    "clubnat": "FRA",
+    "name": "Aissa MANDI",
+    "nat": "ALG"
+  },
+  "379886": {
+    "club": "Dender",
+    "clubnat": "BEL",
+    "name": "Alireza JAHANBAKHSH",
+    "nat": "IRN"
+  },
+  "379939": {
+    "club": "Lille",
+    "clubnat": "FRA",
+    "name": "Nabil Bentaleb",
+    "nat": "ALG"
+  },
+  "379942": {
+    "club": "Al-Ahli",
+    "clubnat": "KSA",
+    "name": "Riyad Mahrez",
+    "nat": "ALG"
+  },
+  "379953": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Leon GORETZKA",
+    "nat": "GER"
+  },
+  "379955": {
+    "club": "Real Madrid",
+    "clubnat": "ESP",
+    "name": "Antonio RUEDIGER",
+    "nat": "GER"
+  },
+  "380005": {
+    "club": "Atalanta",
+    "clubnat": "ITA",
+    "name": "Mario PASALIC",
+    "nat": "CRO"
+  },
+  "380007": {
+    "club": "Tractor",
+    "clubnat": "IRN",
+    "name": "Alireza BEIRANVAND",
+    "nat": "IRN"
+  },
+  "382312": {
+    "club": "Swansea City",
+    "clubnat": "WAL",
+    "name": "Cameron BURGESS",
+    "nat": "AUS"
+  },
+  "382739": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Marcos LLORENTE",
+    "nat": "ESP"
+  },
+  "384751": {
+    "club": "Real Sociedad",
+    "clubnat": "ESP",
+    "name": "GONCALO GUEDES",
+    "nat": "POR"
+  },
+  "384752": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "RUBEN DIAS",
+    "nat": "POR"
+  },
+  "384797": {
+    "club": "Foolad",
+    "clubnat": "IRN",
+    "name": "Ramin REZAEIAN",
+    "nat": "IRN"
+  },
+  "384850": {
+    "club": "Al-Hussein",
+    "clubnat": "JOR",
+    "name": "RAJAEI AYED",
+    "nat": "JOR"
+  },
+  "385030": {
+    "club": "Saprissa",
+    "clubnat": "CRC",
+    "name": "Fidel ESCOBAR",
+    "nat": "PAN"
+  },
+  "385031": {
+    "club": "Beşiktaş",
+    "clubnat": "TUR",
+    "name": "Amir MURILLO",
+    "nat": "PAN"
+  },
+  "385067": {
+    "club": "Al-Sadd",
+    "clubnat": "QAT",
+    "name": "BOUALEM KHOUKHI",
+    "nat": "QAT"
+  },
+  "385070": {
+    "club": "Al-Gharafa",
+    "clubnat": "QAT",
+    "name": "MOHAMMED MUNTARI",
+    "nat": "QAT"
+  },
+  "385139": {
+    "club": "Neftchi Fergana",
+    "clubnat": "UZB",
+    "name": "Farrukh SAYFIEV",
+    "nat": "UZB"
+  },
+  "385248": {
+    "club": "Braga",
+    "clubnat": "POR",
+    "name": "Florian GRILLITSCH",
+    "nat": "AUT"
+  },
+  "385259": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Konrad LAIMER",
+    "nat": "AUT"
+  },
+  "385306": {
+    "club": "Vancouver Whitecaps FC",
+    "clubnat": "CAN",
+    "name": "Andres CUBAS",
+    "nat": "PAR"
+  },
+  "385472": {
+    "club": "Neftchi Fergana",
+    "clubnat": "UZB",
+    "name": "Botirali ERGASHEV",
+    "nat": "UZB"
+  },
+  "385475": {
+    "club": "İstanbul Başakşehir",
+    "clubnat": "TUR",
+    "name": "Eldor SHOMURODOV",
+    "nat": "UZB"
+  },
+  "385531": {
+    "club": "RB Leipzig",
+    "clubnat": "GER",
+    "name": "Xaver Schlager",
+    "nat": "AUT"
+  },
+  "385833": {
+    "club": "Pumas UNAM",
+    "clubnat": "MEX",
+    "name": "Adalberto CARRASQUILLA",
+    "nat": "PAN"
+  },
+  "385994": {
+    "club": "Seattle Sounders FC",
+    "clubnat": "USA",
+    "name": "Cristian ROLDAN",
+    "nat": "USA"
+  },
+  "385998": {
+    "club": "Vélez Sarsfield",
+    "clubnat": "ARG",
+    "name": "Alvaro MONTERO",
+    "nat": "COL"
+  },
+  "386013": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Davinson SANCHEZ",
+    "nat": "COL"
+  },
+  "386339": {
+    "club": "Pumas UNAM",
+    "clubnat": "MEX",
+    "name": "Guillermo MARTINEZ",
+    "nat": "MEX"
+  },
+  "386347": {
+    "club": "Al-Sadd",
+    "clubnat": "QAT",
+    "name": "AKRAM AFIF",
+    "nat": "QAT"
+  },
+  "386348": {
+    "club": "Al-Wakrah",
+    "clubnat": "QAT",
+    "name": "ASSIM MADIBO",
+    "nat": "QAT"
+  },
+  "386366": {
+    "club": "Al-Duhail",
+    "clubnat": "QAT",
+    "name": "ALMOEZ ALI",
+    "nat": "QAT"
+  },
+  "386387": {
+    "club": "Al-Duhail",
+    "clubnat": "QAT",
+    "name": "SULTAN ALBRAKE",
+    "nat": "QAT"
+  },
+  "386413": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Joshua KIMMICH",
+    "nat": "GER"
+  },
+  "386458": {
+    "club": "Talleres",
+    "clubnat": "ARG",
+    "name": "Alejandro ROMERO GAMARRA",
+    "nat": "PAR"
+  },
+  "386473": {
+    "club": "St. Gallen",
+    "clubnat": "SUI",
+    "name": "Lawrence Ati ZIGI",
+    "nat": "GHA"
+  },
+  "386538": {
+    "club": "Tottenham Hotspur",
+    "clubnat": "ENG",
+    "name": "Rodrigo BENTANCUR",
+    "nat": "URU"
+  },
+  "388475": {
+    "club": "Olympiacos",
+    "clubnat": "GRE",
+    "name": "Mehdi TAREMI",
+    "nat": "IRN"
+  },
+  "389437": {
+    "club": "Al-Hussein",
+    "clubnat": "JOR",
+    "name": "EHSAN HADDAD",
+    "nat": "JOR"
+  },
+  "389485": {
+    "club": "Bayer Leverkusen",
+    "clubnat": "GER",
+    "name": "Exequiel PALACIOS",
+    "nat": "ARG"
+  },
+  "389740": {
+    "club": "Midtjylland",
+    "clubnat": "DEN",
+    "name": "Martin ERLIC",
+    "nat": "CRO"
+  },
+  "389753": {
+    "club": "Bologna",
+    "clubnat": "ITA",
+    "name": "Nikola Moro",
+    "nat": "CRO"
+  },
+  "389754": {
+    "club": "FC Dallas",
+    "clubnat": "USA",
+    "name": "Petar Musa",
+    "nat": "CRO"
+  },
+  "389782": {
+    "club": "Milan",
+    "clubnat": "ITA",
+    "name": "Pervis ESTUPINAN",
+    "nat": "ECU"
+  },
+  "389784": {
+    "club": "Atlético Mineiro",
+    "clubnat": "BRA",
+    "name": "Alan FRANCO",
+    "nat": "ECU"
+  },
+  "389867": {
+    "club": "Real Madrid",
+    "clubnat": "ESP",
+    "name": "Kylian MBAPPE",
+    "nat": "FRA"
+  },
+  "389876": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Dayot UPAMECANO",
+    "nat": "FRA"
+  },
+  "389879": {
+    "club": "Granada",
+    "clubnat": "ESP",
+    "name": "Luca ZIDANE",
+    "nat": "ALG"
+  },
+  "389886": {
+    "club": "Karlsruher SC",
+    "clubnat": "GER",
+    "name": "Dzenis BURNIC",
+    "nat": "BIH"
+  },
+  "389907": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Salih OZCAN",
+    "nat": "TUR"
+  },
+  "390181": {
+    "club": "Viking",
+    "clubnat": "NOR",
+    "name": "Joe BELL",
+    "nat": "NZL"
+  },
+  "390196": {
+    "club": "Silkeborg",
+    "clubnat": "DEN",
+    "name": "Callum McCOWATT",
+    "nat": "NZL"
+  },
+  "390209": {
+    "club": "Wellington Phoenix",
+    "clubnat": "NZL",
+    "name": "Sarpreet SINGH",
+    "nat": "NZL"
+  },
+  "390218": {
+    "club": "Auckland FC",
+    "clubnat": "NZL",
+    "name": "Michael WOUD",
+    "nat": "NZL"
+  },
+  "390238": {
+    "club": "Bournemouth",
+    "clubnat": "ENG",
+    "name": "Tyler ADAMS",
+    "nat": "USA"
+  },
+  "390259": {
+    "club": "Juventus",
+    "clubnat": "ITA",
+    "name": "Weston McKENNIE",
+    "nat": "USA"
+  },
+  "390267": {
+    "club": "Milan",
+    "clubnat": "ITA",
+    "name": "Christian PULISIC",
+    "nat": "USA"
+  },
+  "390272": {
+    "club": "Celtic",
+    "clubnat": "SCO",
+    "name": "Auston TRUSTY",
+    "nat": "USA"
+  },
+  "390276": {
+    "club": "Coventry City",
+    "clubnat": "ENG",
+    "name": "Haji WRIGHT",
+    "nat": "USA"
+  },
+  "390278": {
+    "club": "América",
+    "clubnat": "MEX",
+    "name": "Alex ZENDEJAS",
+    "nat": "USA"
+  },
+  "390475": {
+    "club": "Tondela",
+    "clubnat": "POR",
+    "name": "Sphephelo SITHOLE",
+    "nat": "RSA"
+  },
+  "390525": {
+    "club": "Mainz 05",
+    "clubnat": "GER",
+    "name": "LEE Jaesung",
+    "nat": "KOR"
+  },
+  "390534": {
+    "club": "Persepolis",
+    "clubnat": "IRN",
+    "name": "Hossein KANANI",
+    "nat": "IRN"
+  },
+  "390535": {
+    "club": "Tractor",
+    "clubnat": "IRN",
+    "name": "Mehdi TORABI",
+    "nat": "IRN"
+  },
+  "390537": {
+    "club": "Persepolis",
+    "clubnat": "IRN",
+    "name": "Milad MOHAMMADI",
+    "nat": "IRN"
+  },
+  "390541": {
+    "club": "Sint-Truiden",
+    "clubnat": "BEL",
+    "name": "Shogo TANIGUCHI",
+    "nat": "JPN"
+  },
+  "390650": {
+    "club": "Miami FC",
+    "clubnat": "USA",
+    "name": "Eloy ROOM",
+    "nat": "CUW"
+  },
+  "390670": {
+    "club": "Southampton",
+    "clubnat": "ENG",
+    "name": "Cyle LARIN",
+    "nat": "CAN"
+  },
+  "391297": {
+    "club": "Bayer Leverkusen",
+    "clubnat": "GER",
+    "name": "Alex GRIMALDO",
+    "nat": "ESP"
+  },
+  "391646": {
+    "club": "Eintracht Frankfurt",
+    "clubnat": "GER",
+    "name": "Ritsu DOAN",
+    "nat": "JPN"
+  },
+  "393480": {
+    "club": "Rennes",
+    "clubnat": "FRA",
+    "name": "Breel EMBOLO",
+    "nat": "SUI"
+  },
+  "394376": {
+    "club": "Nantes",
+    "clubnat": "FRA",
+    "name": "Deiver MACHADO",
+    "nat": "COL"
+  },
+  "394456": {
+    "club": "Al-Ittihad",
+    "clubnat": "KSA",
+    "name": "FABINHO",
+    "nat": "BRA"
+  },
+  "394500": {
+    "club": "Mallorca",
+    "clubnat": "ESP",
+    "name": "Johan MOJICA",
+    "nat": "COL"
+  },
+  "394824": {
+    "club": "Marseille",
+    "clubnat": "FRA",
+    "name": "Geronimo RULLI",
+    "nat": "ARG"
+  },
+  "394829": {
+    "club": "Grêmio",
+    "clubnat": "BRA",
+    "name": "Fabian BALBUENA",
+    "nat": "PAR"
+  },
+  "394993": {
+    "club": "Esteghlal",
+    "clubnat": "IRN",
+    "name": "Duckens NAZON",
+    "nat": "HAI"
+  },
+  "395050": {
+    "club": "Mamelodi Sundowns",
+    "clubnat": "RSA",
+    "name": "Aubrey MODIBA",
+    "nat": "RSA"
+  },
+  "395059": {
+    "club": "Siwelele",
+    "clubnat": "RSA",
+    "name": "Ricardo GOSS",
+    "nat": "RSA"
+  },
+  "395083": {
+    "club": "Wolverhampton Wanderers",
+    "clubnat": "ENG",
+    "name": "HWANG Heechan",
+    "nat": "KOR"
+  },
+  "395084": {
+    "club": "Feyenoord",
+    "clubnat": "NED",
+    "name": "HWANG Inbeom",
+    "nat": "KOR"
+  },
+  "395088": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "KIM Minjae",
+    "nat": "KOR"
+  },
+  "395113": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Ramy BENSEBAINI",
+    "nat": "ALG"
+  },
+  "395186": {
+    "club": "Al-Karma",
+    "clubnat": "IRQ",
+    "name": "AYMEN HUSSEIN",
+    "nat": "IRQ"
+  },
+  "395205": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "BERNARDO SILVA",
+    "nat": "POR"
+  },
+  "395206": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "BRUNO FERNANDES",
+    "nat": "POR"
+  },
+  "395212": {
+    "club": "Fenerbahçe",
+    "clubnat": "TUR",
+    "name": "NELSON SEMEDO",
+    "nat": "POR"
+  },
+  "395216": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "RUBEN NEVES",
+    "nat": "POR"
+  },
+  "395283": {
+    "club": "Aston Villa",
+    "clubnat": "ENG",
+    "name": "Victor LINDELOF",
+    "nat": "SWE"
+  },
+  "395286": {
+    "club": "Pafos",
+    "clubnat": "CYP",
+    "name": "Ken SEMA",
+    "nat": "SWE"
+  },
+  "395321": {
+    "club": "Genk",
+    "clubnat": "BEL",
+    "name": "Junya ITO",
+    "nat": "JPN"
+  },
+  "395414": {
+    "club": "Real Betis",
+    "clubnat": "ESP",
+    "name": "Giovani Lo Celso",
+    "nat": "ARG"
+  },
+  "395427": {
+    "club": "Fenerbahçe",
+    "clubnat": "TUR",
+    "name": "EDERSON",
+    "nat": "BRA"
+  },
+  "395471": {
+    "club": "Mainz 05",
+    "clubnat": "GER",
+    "name": "Nadiem Amiri",
+    "nat": "GER"
+  },
+  "395516": {
+    "club": "Lokomotiv Moscow",
+    "clubnat": "RUS",
+    "name": "Cesar MONTES",
+    "nat": "MEX"
+  },
+  "395550": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Jefferson LERMA",
+    "nat": "COL"
+  },
+  "395552": {
+    "club": "Cagliari",
+    "clubnat": "ITA",
+    "name": "Yerry MINA",
+    "nat": "COL"
+  },
+  "395581": {
+    "club": "Ironi Kiryat Shmona",
+    "clubnat": "ISR",
+    "name": "Cristian MARTINEZ",
+    "nat": "PAN"
+  },
+  "395755": {
+    "club": "Roma",
+    "clubnat": "ITA",
+    "name": "Munir EL KAJOUI",
+    "nat": "MAR"
+  },
+  "395760": {
+    "club": "Al-Fateh",
+    "clubnat": "KSA",
+    "name": "Marwane SAADANE",
+    "nat": "MAR"
+  },
+  "395860": {
+    "club": "Zamalek",
+    "clubnat": "EGY",
+    "name": "MAHDY SOLIMAN",
+    "nat": "EGY"
+  },
+  "395984": {
+    "club": "Mamelodi Sundowns",
+    "clubnat": "RSA",
+    "name": "Themba ZWANE",
+    "nat": "RSA"
+  },
+  "395986": {
+    "club": "Mamelodi Sundowns",
+    "clubnat": "RSA",
+    "name": "Ronwen WILLIAMS",
+    "nat": "RSA"
+  },
+  "396158": {
+    "club": "Port",
+    "clubnat": "THA",
+    "name": "REBIN SULAKA",
+    "nat": "IRQ"
+  },
+  "396315": {
+    "club": "Grêmio",
+    "clubnat": "BRA",
+    "name": "WEVERTON",
+    "nat": "BRA"
+  },
+  "396885": {
+    "club": "Al-Ula",
+    "clubnat": "KSA",
+    "name": "MOHAMMED ALOWAIS",
+    "nat": "KSA"
+  },
+  "396950": {
+    "club": "Al-Hussein",
+    "clubnat": "JOR",
+    "name": "MAHMOUD ALMARDI",
+    "nat": "JOR"
+  },
+  "397753": {
+    "club": "Ulsan HD",
+    "clubnat": "KOR",
+    "name": "JO Hyeonwoo",
+    "nat": "KOR"
+  },
+  "397775": {
+    "club": "Angers",
+    "clubnat": "FRA",
+    "name": "Carlens ARCUS",
+    "nat": "HAI"
+  },
+  "397786": {
+    "club": "Liverpool",
+    "clubnat": "ENG",
+    "name": "Virgil VAN DIJK",
+    "nat": "NED"
+  },
+  "397894": {
+    "club": "Al-Hussein",
+    "clubnat": "JOR",
+    "name": "YAZEED ABULAILA",
+    "nat": "JOR"
+  },
+  "398509": {
+    "club": "Borussia Mönchengladbach",
+    "clubnat": "GER",
+    "name": "Nico ELVEDI",
+    "nat": "SUI"
+  },
+  "398569": {
+    "club": "Konyaspor",
+    "clubnat": "TUR",
+    "name": "Riechedly Bazoer",
+    "nat": "CUW"
+  },
+  "398588": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Alexander SORLOTH",
+    "nat": "NOR"
+  },
+  "398680": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "Ousmane DEMBELE",
+    "nat": "FRA"
+  },
+  "398681": {
+    "club": "Fenerbahçe",
+    "clubnat": "TUR",
+    "name": "Ngolo KANTE",
+    "nat": "FRA"
+  },
+  "400416": {
+    "club": "Mazatlán",
+    "clubnat": "MEX",
+    "name": "Edgar Yoel BARCENAS",
+    "nat": "PAN"
+  },
+  "400511": {
+    "club": "Ajax",
+    "clubnat": "NED",
+    "name": "Kou ITAKURA",
+    "nat": "JPN"
+  },
+  "400514": {
+    "club": "Leeds United",
+    "clubnat": "ENG",
+    "name": "Ao TANAKA",
+    "nat": "JPN"
+  },
+  "400634": {
+    "club": "Fenerbahçe",
+    "clubnat": "TUR",
+    "name": "Edson ALVAREZ",
+    "nat": "MEX"
+  },
+  "400716": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Martin ODEGAARD",
+    "nat": "NOR"
+  },
+  "400721": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "Achraf HAKIMI",
+    "nat": "MAR"
+  },
+  "401023": {
+    "club": "Kayserispor",
+    "clubnat": "TUR",
+    "name": "Joshua BRENET",
+    "nat": "CUW"
+  },
+  "401131": {
+    "club": "FC Augsburg",
+    "clubnat": "GER",
+    "name": "Michael Gregoritsch",
+    "nat": "AUT"
+  },
+  "401167": {
+    "club": "Fenerbahçe",
+    "clubnat": "TUR",
+    "name": "Caglar SOYUNCU",
+    "nat": "TUR"
+  },
+  "401334": {
+    "club": "Aston Villa",
+    "clubnat": "ENG",
+    "name": "John McGinn",
+    "nat": "SCO"
+  },
+  "401339": {
+    "club": "Liverpool",
+    "clubnat": "ENG",
+    "name": "Andy ROBERTSON",
+    "nat": "SCO"
+  },
+  "401378": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Jonathan TAH",
+    "nat": "GER"
+  },
+  "401444": {
+    "club": "Aston Villa",
+    "clubnat": "ENG",
+    "name": "Youri TIELEMANS",
+    "nat": "BEL"
+  },
+  "401448": {
+    "club": "Monaco",
+    "clubnat": "FRA",
+    "name": "Denis ZAKARIA",
+    "nat": "SUI"
+  },
+  "401470": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "Marcus RASHFORD",
+    "nat": "ENG"
+  },
+  "401481": {
+    "club": "Bayer Leverkusen",
+    "clubnat": "GER",
+    "name": "Patrik Schick",
+    "nat": "CZE"
+  },
+  "401712": {
+    "club": "Celtic",
+    "clubnat": "SCO",
+    "name": "Kieran Tierney",
+    "nat": "SCO"
+  },
+  "401889": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Ismaila SARR",
+    "nat": "SEN"
+  },
+  "401893": {
+    "club": "İstanbul Başakşehir",
+    "clubnat": "TUR",
+    "name": "NUNO DA COSTA",
+    "nat": "CPV"
+  },
+  "401894": {
+    "club": "PEC Zwolle",
+    "clubnat": "NED",
+    "name": "JAMIRO MONTEIRO",
+    "nat": "CPV"
+  },
+  "401924": {
+    "club": "Al-Ittihad",
+    "clubnat": "KSA",
+    "name": "HASSAN KADISH",
+    "nat": "KSA"
+  },
+  "402021": {
+    "club": "Bologna",
+    "clubnat": "ITA",
+    "name": "Remo FREULER",
+    "nat": "SUI"
+  },
+  "402022": {
+    "club": "Lorient",
+    "clubnat": "FRA",
+    "name": "Yvon MVOGO",
+    "nat": "SUI"
+  },
+  "402044": {
+    "club": "Atalanta",
+    "clubnat": "ITA",
+    "name": "Marten DE ROON",
+    "nat": "NED"
+  },
+  "402047": {
+    "club": "Milan",
+    "clubnat": "ITA",
+    "name": "Adrien RABIOT",
+    "nat": "FRA"
+  },
+  "402261": {
+    "club": "Villarreal",
+    "clubnat": "ESP",
+    "name": "Nicolas PEPE",
+    "nat": "CIV"
+  },
+  "402772": {
+    "club": "Toluca",
+    "clubnat": "MEX",
+    "name": "Jesus GALLARDO",
+    "nat": "MEX"
+  },
+  "402817": {
+    "club": "Birmingham City",
+    "clubnat": "ENG",
+    "name": "PAIK Seungho",
+    "nat": "KOR"
+  },
+  "402820": {
+    "club": "Jeonbuk Hyundai Motors",
+    "clubnat": "KOR",
+    "name": "SONG Bumkeun",
+    "nat": "KOR"
+  },
+  "402876": {
+    "club": "Fluminense",
+    "clubnat": "BRA",
+    "name": "Agustin CANOBBIO",
+    "nat": "URU"
+  },
+  "402884": {
+    "club": "Real Madrid",
+    "clubnat": "ESP",
+    "name": "Federico VALVERDE",
+    "nat": "URU"
+  },
+  "402893": {
+    "club": "Napoli",
+    "clubnat": "ITA",
+    "name": "Mathias OLIVERA",
+    "nat": "URU"
+  },
+  "402895": {
+    "club": "River Plate",
+    "clubnat": "ARG",
+    "name": "Matias VINA",
+    "nat": "URU"
+  },
+  "402897": {
+    "club": "Monterrey",
+    "clubnat": "MEX",
+    "name": "Santiago MELE",
+    "nat": "URU"
+  },
+  "402898": {
+    "club": "Flamengo",
+    "clubnat": "BRA",
+    "name": "Nicolas DE LA CRUZ",
+    "nat": "URU"
+  },
+  "402904": {
+    "club": "Wolverhampton Wanderers",
+    "clubnat": "ENG",
+    "name": "Santiago BUENO",
+    "nat": "URU"
+  },
+  "402920": {
+    "club": "Inter Milan",
+    "clubnat": "ITA",
+    "name": "Lautaro MARTINEZ",
+    "nat": "ARG"
+  },
+  "402921": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "Lisandro MARTINEZ",
+    "nat": "ARG"
+  },
+  "402925": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Nahuel MOLINA",
+    "nat": "ARG"
+  },
+  "402926": {
+    "club": "River Plate",
+    "clubnat": "ARG",
+    "name": "Gonzalo MONTIEL",
+    "nat": "ARG"
+  },
+  "402934": {
+    "club": "Bournemouth",
+    "clubnat": "ENG",
+    "name": "Marcos SENESI",
+    "nat": "ARG"
+  },
+  "402974": {
+    "club": "Atlético Mineiro",
+    "clubnat": "BRA",
+    "name": "Angelo PRECIADO",
+    "nat": "ECU"
+  },
+  "402979": {
+    "club": "Internacional",
+    "clubnat": "BRA",
+    "name": "Felix TORRES",
+    "nat": "ECU"
+  },
+  "402985": {
+    "club": "Huracán",
+    "clubnat": "ARG",
+    "name": "Jordy CAICEDO",
+    "nat": "ECU"
+  },
+  "403001": {
+    "club": "Porto",
+    "clubnat": "POR",
+    "name": "DIOGO COSTA",
+    "nat": "POR"
+  },
+  "403002": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "DIOGO DALOT",
+    "nat": "POR"
+  },
+  "403046": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Dean Henderson",
+    "nat": "ENG"
+  },
+  "403049": {
+    "club": "Aston Villa",
+    "clubnat": "ENG",
+    "name": "Ezri KONSA",
+    "nat": "ENG"
+  },
+  "403063": {
+    "club": "Burnley",
+    "clubnat": "ENG",
+    "name": "Axel Tuanzebe",
+    "nat": "COD"
+  },
+  "403083": {
+    "club": "Fulham",
+    "clubnat": "ENG",
+    "name": "Issa Diop",
+    "nat": "MAR"
+  },
+  "403090": {
+    "club": "Panathinaikos",
+    "clubnat": "GRE",
+    "name": "Alban Lafont",
+    "nat": "CIV"
+  },
+  "403094": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Jean-Philippe MATETA",
+    "nat": "FRA"
+  },
+  "403109": {
+    "club": "Inter Milan",
+    "clubnat": "ITA",
+    "name": "Marcus THURAM",
+    "nat": "FRA"
+  },
+  "403236": {
+    "club": "Al Nasr",
+    "clubnat": "UAE",
+    "name": "Mehdi GHAYEDI",
+    "nat": "IRN"
+  },
+  "403274": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Hiroki ITO",
+    "nat": "JPN"
+  },
+  "403289": {
+    "club": "Ajax",
+    "clubnat": "NED",
+    "name": "Takehiro TOMIYASU",
+    "nat": "JPN"
+  },
+  "403293": {
+    "club": "NEC",
+    "clubnat": "NED",
+    "name": "Koki OGAWA",
+    "nat": "JPN"
+  },
+  "403304": {
+    "club": "Real Sociedad",
+    "clubnat": "ESP",
+    "name": "Takefusa KUBO",
+    "nat": "JPN"
+  },
+  "403305": {
+    "club": "Sanfrecce Hiroshima",
+    "clubnat": "JPN",
+    "name": "Keisuke OSAKO",
+    "nat": "JPN"
+  },
+  "403312": {
+    "club": "Al-Nassr",
+    "clubnat": "KSA",
+    "name": "Abdulelah ALAMRI",
+    "nat": "KSA"
+  },
+  "403319": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "NASSER ALDAWSARI",
+    "nat": "KSA"
+  },
+  "403335": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "HASSAN ALTAMBAKTI",
+    "nat": "KSA"
+  },
+  "403585": {
+    "club": "Guadalajara",
+    "clubnat": "MEX",
+    "name": "Roberto ALVARADO",
+    "nat": "MEX"
+  },
+  "403596": {
+    "club": "PAOK",
+    "clubnat": "GRE",
+    "name": "Jorge SANCHEZ",
+    "nat": "MEX"
+  },
+  "403616": {
+    "club": "Mamelodi Sundowns",
+    "clubnat": "RSA",
+    "name": "Teboho MOKOENA",
+    "nat": "RSA"
+  },
+  "403642": {
+    "club": "Monaco",
+    "clubnat": "FRA",
+    "name": "Krepin DIATTA",
+    "nat": "SEN"
+  },
+  "404319": {
+    "club": "Heracles Almelo",
+    "clubnat": "NED",
+    "name": "Ajdin HRUSTIC",
+    "nat": "AUS"
+  },
+  "404353": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Leroy SANE",
+    "nat": "GER"
+  },
+  "404645": {
+    "club": "Fulham",
+    "clubnat": "ENG",
+    "name": "Sander BERGE",
+    "nat": "NOR"
+  },
+  "404885": {
+    "club": "West Ham United",
+    "clubnat": "ENG",
+    "name": "Tomas SOUCEK",
+    "nat": "CZE"
+  },
+  "405175": {
+    "club": "Porto",
+    "clubnat": "POR",
+    "name": "Seko Fofana",
+    "nat": "CIV"
+  },
+  "405178": {
+    "club": "Inter Milan",
+    "clubnat": "ITA",
+    "name": "Manuel AKANJI",
+    "nat": "SUI"
+  },
+  "405263": {
+    "club": "Tottenham Hotspur",
+    "clubnat": "ENG",
+    "name": "Kevin Danso",
+    "nat": "AUT"
+  },
+  "405454": {
+    "club": "Motherwell",
+    "clubnat": "SCO",
+    "name": "Elijah JUST",
+    "nat": "NZL"
+  },
+  "405469": {
+    "club": "Wrexham",
+    "clubnat": "WAL",
+    "name": "Liberato CACACE",
+    "nat": "NZL"
+  },
+  "405522": {
+    "club": "Reims",
+    "clubnat": "FRA",
+    "name": "Keito Nakamura",
+    "nat": "JPN"
+  },
+  "405527": {
+    "club": "Le Havre",
+    "clubnat": "FRA",
+    "name": "Ayumu SEKO",
+    "nat": "JPN"
+  },
+  "405528": {
+    "club": "Werder Bremen",
+    "clubnat": "GER",
+    "name": "Yukinari Sugawara",
+    "nat": "JPN"
+  },
+  "405530": {
+    "club": "Parma",
+    "clubnat": "ITA",
+    "name": "Zion Suzuki",
+    "nat": "JPN"
+  },
+  "405545": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "Ferran TORRES",
+    "nat": "ESP"
+  },
+  "405562": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "Eric GARCIA",
+    "nat": "ESP"
+  },
+  "405639": {
+    "club": "Tractor",
+    "clubnat": "IRN",
+    "name": "Amirhossein Hosseinzadeh",
+    "nat": "IRN"
+  },
+  "405742": {
+    "club": "Real Madrid",
+    "clubnat": "ESP",
+    "name": "VINICIUS JUNIOR",
+    "nat": "BRA"
+  },
+  "405755": {
+    "club": "Rosario Central",
+    "clubnat": "ARG",
+    "name": "Jaminton CAMPAZ",
+    "nat": "COL"
+  },
+  "405841": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Marc GUEHI",
+    "nat": "ENG"
+  },
+  "405873": {
+    "club": "Çaykur Rizespor",
+    "clubnat": "TUR",
+    "name": "Yahia Fofana",
+    "nat": "CIV"
+  },
+  "405877": {
+    "club": "Marseille",
+    "clubnat": "FRA",
+    "name": "Amine GOUIRI",
+    "nat": "ALG"
+  },
+  "405879": {
+    "club": "Sunderland",
+    "clubnat": "ENG",
+    "name": "Wilson Isidor",
+    "nat": "HAI"
+  },
+  "405881": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Maxence Lacroix",
+    "nat": "FRA"
+  },
+  "405893": {
+    "club": "Real Madrid",
+    "clubnat": "ESP",
+    "name": "Aurelien TCHOUAMENI",
+    "nat": "FRA"
+  },
+  "405920": {
+    "club": "Venezia",
+    "clubnat": "ITA",
+    "name": "John YEBOAH",
+    "nat": "ECU"
+  },
+  "406135": {
+    "club": "Anderlecht",
+    "clubnat": "BEL",
+    "name": "Cesar HUERTA",
+    "nat": "MEX"
+  },
+  "406205": {
+    "club": "Orlando City SC",
+    "clubnat": "USA",
+    "name": "Braian OJEDA",
+    "nat": "PAR"
+  },
+  "406231": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Yunus AKGUN",
+    "nat": "TUR"
+  },
+  "406249": {
+    "club": "TSG Hoffenheim",
+    "clubnat": "GER",
+    "name": "Ozan KABAK",
+    "nat": "TUR"
+  },
+  "406280": {
+    "club": "PSV Eindhoven",
+    "clubnat": "NED",
+    "name": "Sergino DEST",
+    "nat": "USA"
+  },
+  "406281": {
+    "club": "San Diego FC",
+    "clubnat": "USA",
+    "name": "CJ DOS SANTOS",
+    "nat": "CPV"
+  },
+  "406304": {
+    "club": "Marseille",
+    "clubnat": "FRA",
+    "name": "Timothy WEAH",
+    "nat": "USA"
+  },
+  "406595": {
+    "club": "Esteghlal",
+    "clubnat": "IRN",
+    "name": "Roozbeh CHESHMI",
+    "nat": "IRN"
+  },
+  "406606": {
+    "club": "Castellón",
+    "clubnat": "ESP",
+    "name": "Awer MABIL",
+    "nat": "AUS"
+  },
+  "407022": {
+    "club": "Pyramids",
+    "clubnat": "EGY",
+    "name": "KARIM HAFEZ",
+    "nat": "EGY"
+  },
+  "407114": {
+    "club": "Montana",
+    "clubnat": "BUL",
+    "name": "MARCIO ROSA",
+    "nat": "CPV"
+  },
+  "407343": {
+    "club": "Gil Vicente",
+    "clubnat": "POR",
+    "name": "Ghislain KONAN",
+    "nat": "CIV"
+  },
+  "407680": {
+    "club": "Miami FC",
+    "clubnat": "USA",
+    "name": "Juergen LOCADIA",
+    "nat": "CUW"
+  },
+  "407993": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "MOHAMED KANNO",
+    "nat": "KSA"
+  },
+  "408042": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "Theo HERNANDEZ",
+    "nat": "FRA"
+  },
+  "408948": {
+    "club": "Al Ahly",
+    "clubnat": "EGY",
+    "name": "MOHAMED ELSHENAWY",
+    "nat": "EGY"
+  },
+  "408950": {
+    "club": "Al Ahly",
+    "clubnat": "EGY",
+    "name": "MOHAMED HANY",
+    "nat": "EGY"
+  },
+  "409191": {
+    "club": "Torino",
+    "clubnat": "ITA",
+    "name": "Nikola VLASIC",
+    "nat": "CRO"
+  },
+  "409241": {
+    "club": "Al Bataeh",
+    "clubnat": "UAE",
+    "name": "DINEY BORGES",
+    "nat": "CPV"
+  },
+  "411174": {
+    "club": "Universidad Católica",
+    "clubnat": "ECU",
+    "name": "Jose FAJARDO",
+    "nat": "PAN"
+  },
+  "411176": {
+    "club": "Juárez",
+    "clubnat": "MEX",
+    "name": "Jose Luis RODRIGUEZ",
+    "nat": "PAN"
+  },
+  "411226": {
+    "club": "Sevilla",
+    "clubnat": "ESP",
+    "name": "Djibril SOW",
+    "nat": "SUI"
+  },
+  "411301": {
+    "club": "Nottingham Forest",
+    "clubnat": "ENG",
+    "name": "Angus Gunn",
+    "nat": "SCO"
+  },
+  "411367": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Kai HAVERTZ",
+    "nat": "GER"
+  },
+  "411375": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "RODRI",
+    "nat": "ESP"
+  },
+  "411376": {
+    "club": "Athletic Bilbao",
+    "clubnat": "ESP",
+    "name": "Inaki WILLIAMS",
+    "nat": "GHA"
+  },
+  "411443": {
+    "club": "Fulham",
+    "clubnat": "ENG",
+    "name": "Timothy CASTAGNE",
+    "nat": "BEL"
+  },
+  "411470": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "Lucas HERNANDEZ",
+    "nat": "FRA"
+  },
+  "411624": {
+    "club": "Al-Nassr",
+    "clubnat": "KSA",
+    "name": "ABDULLAH ALKHAIBARI",
+    "nat": "KSA"
+  },
+  "411644": {
+    "club": "Kalba",
+    "clubnat": "UAE",
+    "name": "Saman GHODDOS",
+    "nat": "IRN"
+  },
+  "411653": {
+    "club": "Servette",
+    "clubnat": "SUI",
+    "name": "Dylan BRONN",
+    "nat": "TUN"
+  },
+  "411658": {
+    "club": "Eintracht Frankfurt",
+    "clubnat": "GER",
+    "name": "Ellyes SKHIRI",
+    "nat": "TUN"
+  },
+  "411678": {
+    "club": "Olympiacos",
+    "clubnat": "GRE",
+    "name": "Ayoub El Kaabi",
+    "nat": "MAR"
+  },
+  "411680": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "Noussair MAZRAOUI",
+    "nat": "MAR"
+  },
+  "411726": {
+    "club": "Flamengo",
+    "clubnat": "BRA",
+    "name": "LUCAS PAQUETA",
+    "nat": "BRA"
+  },
+  "412144": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Alphonso DAVIES",
+    "nat": "CAN"
+  },
+  "416051": {
+    "club": "Al-Sadd",
+    "clubnat": "QAT",
+    "name": "PEDRO MIGUEL",
+    "nat": "QAT"
+  },
+  "416056": {
+    "club": "Al-Sadd",
+    "clubnat": "QAT",
+    "name": "MESHAAL BARSHAM",
+    "nat": "QAT"
+  },
+  "416081": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Julian ALVAREZ",
+    "nat": "ARG"
+  },
+  "416576": {
+    "club": "Real Betis",
+    "clubnat": "ESP",
+    "name": "Alvaro FIDALGO",
+    "nat": "MEX"
+  },
+  "416652": {
+    "club": "Auckland FC",
+    "clubnat": "NZL",
+    "name": "Jesse RANDALL",
+    "nat": "NZL"
+  },
+  "416902": {
+    "club": "Nice",
+    "clubnat": "FRA",
+    "name": "MOHAMED ABDELMONEIM",
+    "nat": "EGY"
+  },
+  "416906": {
+    "club": "Al Ahly",
+    "clubnat": "EGY",
+    "name": "MOSTAFA SHOUBIR",
+    "nat": "EGY"
+  },
+  "416989": {
+    "club": "Persepolis",
+    "clubnat": "IRN",
+    "name": "Ali Alipour",
+    "nat": "IRN"
+  },
+  "418485": {
+    "club": "Kashima Antlers",
+    "clubnat": "JPN",
+    "name": "KIM Taehyeon",
+    "nat": "KOR"
+  },
+  "418490": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "LEE Kangin",
+    "nat": "KOR"
+  },
+  "418535": {
+    "club": "Al-Nassr",
+    "clubnat": "KSA",
+    "name": "JOAO FELIX",
+    "nat": "POR"
+  },
+  "418548": {
+    "club": "Chelsea",
+    "clubnat": "ENG",
+    "name": "PEDRO NETO",
+    "nat": "POR"
+  },
+  "418550": {
+    "club": "Milan",
+    "clubnat": "ITA",
+    "name": "RAFAEL LEAO",
+    "nat": "POR"
+  },
+  "418561": {
+    "club": "Sporting CP",
+    "clubnat": "POR",
+    "name": "FRANCISCO TRINCAO",
+    "nat": "POR"
+  },
+  "418715": {
+    "club": "Norwich City",
+    "clubnat": "ENG",
+    "name": "Jose CORDOBA",
+    "nat": "PAN"
+  },
+  "418729": {
+    "club": "Minnesota United FC",
+    "clubnat": "USA",
+    "name": "Carlos HARVEY",
+    "nat": "PAN"
+  },
+  "418747": {
+    "club": "Saprissa",
+    "clubnat": "CRC",
+    "name": "Tomas RODRIGUEZ",
+    "nat": "PAN"
+  },
+  "418781": {
+    "club": "Lorient",
+    "clubnat": "FRA",
+    "name": "Bamba DIENG",
+    "nat": "SEN"
+  },
+  "418795": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Nicolas JACKSON",
+    "nat": "SEN"
+  },
+  "418798": {
+    "club": "Tottenham Hotspur",
+    "clubnat": "ENG",
+    "name": "Pape Matar SARR",
+    "nat": "SEN"
+  },
+  "418881": {
+    "club": "Real Betis",
+    "clubnat": "ESP",
+    "name": "Cucho HERNANDEZ",
+    "nat": "COL"
+  },
+  "418963": {
+    "club": "Marseille",
+    "clubnat": "FRA",
+    "name": "Facundo MEDINA",
+    "nat": "ARG"
+  },
+  "418975": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Thiago ALMADA",
+    "nat": "ARG"
+  },
+  "419002": {
+    "club": "Kifisia",
+    "clubnat": "GRE",
+    "name": "Moises RAMIREZ",
+    "nat": "ECU"
+  },
+  "419003": {
+    "club": "Tijuana",
+    "clubnat": "MEX",
+    "name": "Jackson POROZO",
+    "nat": "ECU"
+  },
+  "419005": {
+    "club": "Independiente del Valle",
+    "clubnat": "ECU",
+    "name": "Jordy ALCIVAR",
+    "nat": "ECU"
+  },
+  "419020": {
+    "club": "Flamengo",
+    "clubnat": "BRA",
+    "name": "Gonzalo PLATA",
+    "nat": "ECU"
+  },
+  "419055": {
+    "club": "Leeds United",
+    "clubnat": "ENG",
+    "name": "Brenden AARONSON",
+    "nat": "USA"
+  },
+  "419062": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Chris RICHARDS",
+    "nat": "USA"
+  },
+  "419068": {
+    "club": "Borussia Mönchengladbach",
+    "clubnat": "GER",
+    "name": "Giovanni REYNA",
+    "nat": "USA"
+  },
+  "419077": {
+    "club": "Toulouse",
+    "clubnat": "FRA",
+    "name": "Mark McKENZIE",
+    "nat": "USA"
+  },
+  "419082": {
+    "club": "PSV Eindhoven",
+    "clubnat": "NED",
+    "name": "Ricardo PEPI",
+    "nat": "USA"
+  },
+  "419100": {
+    "club": "Sporting CP",
+    "clubnat": "POR",
+    "name": "Maxi ARAUJO",
+    "nat": "URU"
+  },
+  "419101": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "Ronald ARAUJO",
+    "nat": "URU"
+  },
+  "419108": {
+    "club": "América",
+    "clubnat": "MEX",
+    "name": "Sebastian CACERES",
+    "nat": "URU"
+  },
+  "419126": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "Darwin NUNEZ",
+    "nat": "URU"
+  },
+  "419132": {
+    "club": "América",
+    "clubnat": "MEX",
+    "name": "Brian RODRIGUEZ",
+    "nat": "URU"
+  },
+  "419134": {
+    "club": "Real Salt Lake",
+    "clubnat": "USA",
+    "name": "Juan Manuel SANABRIA",
+    "nat": "URU"
+  },
+  "419142": {
+    "club": "Braga",
+    "clubnat": "POR",
+    "name": "Rodrigo ZALAZAR",
+    "nat": "URU"
+  },
+  "419166": {
+    "club": "Liverpool",
+    "clubnat": "ENG",
+    "name": "Ibrahima KONATE",
+    "nat": "FRA"
+  },
+  "419172": {
+    "club": "Roma",
+    "clubnat": "ITA",
+    "name": "Evan NDICKA",
+    "nat": "CIV"
+  },
+  "419177": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "William SALIBA",
+    "nat": "FRA"
+  },
+  "419189": {
+    "club": "Young Boys",
+    "clubnat": "SUI",
+    "name": "Yan Valery",
+    "nat": "TUN"
+  },
+  "419211": {
+    "club": "Burnley",
+    "clubnat": "ENG",
+    "name": "Lyle FOSTER",
+    "nat": "RSA"
+  },
+  "419223": {
+    "club": "Orlando Pirates",
+    "clubnat": "RSA",
+    "name": "Oswin APPOLLIS",
+    "nat": "RSA"
+  },
+  "419225": {
+    "club": "Kaizer Chiefs",
+    "clubnat": "RSA",
+    "name": "Bradley Cross",
+    "nat": "RSA"
+  },
+  "419281": {
+    "club": "Lens",
+    "clubnat": "FRA",
+    "name": "SAUD ABDULHAMID",
+    "nat": "KSA"
+  },
+  "419287": {
+    "club": "Al-Nassr",
+    "clubnat": "KSA",
+    "name": "NAWAF ALAQIDI",
+    "nat": "KSA"
+  },
+  "419291": {
+    "club": "Al-Ahli",
+    "clubnat": "KSA",
+    "name": "FERAS ALBRIKAN",
+    "nat": "KSA"
+  },
+  "419300": {
+    "club": "Al-Ettifaq",
+    "clubnat": "KSA",
+    "name": "KHALID ALGHANNAM",
+    "nat": "KSA"
+  },
+  "419302": {
+    "club": "Al-Nassr",
+    "clubnat": "KSA",
+    "name": "ABDULLAH ALHAMDDAN",
+    "nat": "KSA"
+  },
+  "419303": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "MOTEB ALHARBI",
+    "nat": "KSA"
+  },
+  "419326": {
+    "club": "Al-Ahli",
+    "clubnat": "KSA",
+    "name": "ALI MAJRASHI",
+    "nat": "KSA"
+  },
+  "419436": {
+    "club": "Al-Gharafa",
+    "clubnat": "QAT",
+    "name": "AHMED ALGANEHI",
+    "nat": "QAT"
+  },
+  "419441": {
+    "club": "Cultural Leonesa",
+    "clubnat": "ESP",
+    "name": "HOMAM AHMED",
+    "nat": "QAT"
+  },
+  "419459": {
+    "club": "Al-Rayyan",
+    "clubnat": "QAT",
+    "name": "MAHMOUD ABUNADA",
+    "nat": "QAT"
+  },
+  "419461": {
+    "club": "Al-Duhail",
+    "clubnat": "QAT",
+    "name": "SALAH ZAKARIA",
+    "nat": "QAT"
+  },
+  "419463": {
+    "club": "Al-Wakrah",
+    "clubnat": "QAT",
+    "name": "YUSUF ABDURISAG",
+    "nat": "QAT"
+  },
+  "419473": {
+    "club": "Al-Rayyan",
+    "clubnat": "QAT",
+    "name": "JASSEM GABER",
+    "nat": "QAT"
+  },
+  "419518": {
+    "club": "Cruz Azul",
+    "clubnat": "MEX",
+    "name": "Erik LIRA",
+    "nat": "MEX"
+  },
+  "419567": {
+    "club": "Auckland FC",
+    "clubnat": "NZL",
+    "name": "Callan ELLIOT",
+    "nat": "NZL"
+  },
+  "419572": {
+    "club": "Auckland FC",
+    "clubnat": "NZL",
+    "name": "Nando PIJNAKER",
+    "nat": "NZL"
+  },
+  "419577": {
+    "club": "Port Vale",
+    "clubnat": "ENG",
+    "name": "Ben WAINE",
+    "nat": "NZL"
+  },
+  "419652": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Erling HAALAND",
+    "nat": "NOR"
+  },
+  "419654": {
+    "club": "Bodø/Glimt",
+    "clubnat": "NOR",
+    "name": "Jens Petter HAUGE",
+    "nat": "NOR"
+  },
+  "419662": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Jorgen STRAND LARSEN",
+    "nat": "NOR"
+  },
+  "419672": {
+    "club": "Genoa",
+    "clubnat": "ITA",
+    "name": "Leo OSTIGARD",
+    "nat": "NOR"
+  },
+  "419681": {
+    "club": "Sassuolo",
+    "clubnat": "ITA",
+    "name": "Kristian Thorstvedt",
+    "nat": "NOR"
+  },
+  "422657": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "Frenkie DE JONG",
+    "nat": "NED"
+  },
+  "422968": {
+    "club": "Dibba",
+    "clubnat": "UAE",
+    "name": "MOHANAD ALI",
+    "nat": "IRQ"
+  },
+  "423522": {
+    "club": "Feyenoord",
+    "clubnat": "NED",
+    "name": "Jordan BOS",
+    "nat": "AUS"
+  },
+  "423574": {
+    "club": "Lechia Gdańsk",
+    "clubnat": "POL",
+    "name": "Alex PAULSEN",
+    "nat": "NZL"
+  },
+  "423575": {
+    "club": "Saint-Étienne",
+    "clubnat": "FRA",
+    "name": "Ben OLD",
+    "nat": "NZL"
+  },
+  "423595": {
+    "club": "Swansea City",
+    "clubnat": "WAL",
+    "name": "Marko STAMENIC",
+    "nat": "NZL"
+  },
+  "423596": {
+    "club": "Peterborough United",
+    "clubnat": "ENG",
+    "name": "Matthew GARBETT",
+    "nat": "NZL"
+  },
+  "423646": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "PEDRI",
+    "nat": "ESP"
+  },
+  "423658": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Yeremy PINO",
+    "nat": "ESP"
+  },
+  "423700": {
+    "club": "Borussia Mönchengladbach",
+    "clubnat": "GER",
+    "name": "Joe SCALLY",
+    "nat": "USA"
+  },
+  "423855": {
+    "club": "Swansea City",
+    "clubnat": "WAL",
+    "name": "EOM Jisung",
+    "nat": "KOR"
+  },
+  "423874": {
+    "club": "Midtjylland",
+    "clubnat": "DEN",
+    "name": "LEE Hanbeom",
+    "nat": "KOR"
+  },
+  "423880": {
+    "club": "Austria Wien",
+    "clubnat": "AUT",
+    "name": "LEE Taeseok",
+    "nat": "KOR"
+  },
+  "423933": {
+    "club": "Austin FC",
+    "clubnat": "USA",
+    "name": "Jayden Nelson",
+    "nat": "CAN"
+  },
+  "423941": {
+    "club": "Anderlecht",
+    "clubnat": "BEL",
+    "name": "Nathan SALIBA",
+    "nat": "CAN"
+  },
+  "424031": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Piero HINCAPIE",
+    "nat": "ECU"
+  },
+  "424036": {
+    "club": "Pumas UNAM",
+    "clubnat": "MEX",
+    "name": "Pedro VITE",
+    "nat": "ECU"
+  },
+  "424047": {
+    "club": "Kifisia",
+    "clubnat": "GRE",
+    "name": "Jeremy Antonisse",
+    "nat": "CUW"
+  },
+  "424051": {
+    "club": "Sunderland",
+    "clubnat": "ENG",
+    "name": "Brian BROBBEY",
+    "nat": "NED"
+  },
+  "424056": {
+    "club": "Middlesbrough",
+    "clubnat": "ENG",
+    "name": "Sontje HANSEN",
+    "nat": "CUW"
+  },
+  "424071": {
+    "club": "RS Berkane",
+    "clubnat": "MAR",
+    "name": "Anass SALAH EDDINE",
+    "nat": "MAR"
+  },
+  "424081": {
+    "club": "Brighton & Hove Albion",
+    "clubnat": "ENG",
+    "name": "Bart Verbruggen",
+    "nat": "NED"
+  },
+  "424106": {
+    "club": "Oviedo",
+    "clubnat": "ESP",
+    "name": "Haissem HASSAN",
+    "nat": "EGY"
+  },
+  "424119": {
+    "club": "Montpellier",
+    "clubnat": "FRA",
+    "name": "Nathanael MBUKU",
+    "nat": "COD"
+  },
+  "424422": {
+    "club": "Atlanta United FC",
+    "clubnat": "USA",
+    "name": "Matias GALARZA",
+    "nat": "PAR"
+  },
+  "424556": {
+    "club": "El Paso Locomotive FC",
+    "clubnat": "USA",
+    "name": "Carl SAINTE",
+    "nat": "HAI"
+  },
+  "425580": {
+    "club": "Flamengo",
+    "clubnat": "BRA",
+    "name": "Jorge CARRASCAL",
+    "nat": "COL"
+  },
+  "425607": {
+    "club": "Espérance de Tunis",
+    "clubnat": "TUN",
+    "name": "Mohamed Amine BEN HMIDA",
+    "nat": "TUN"
+  },
+  "425701": {
+    "club": "Genoa",
+    "clubnat": "ITA",
+    "name": "Johan VASQUEZ",
+    "nat": "MEX"
+  },
+  "425804": {
+    "club": "Al-Ittihad",
+    "clubnat": "KSA",
+    "name": "SALEH ALSHEHRI",
+    "nat": "KSA"
+  },
+  "426357": {
+    "club": "West Ham United",
+    "clubnat": "ENG",
+    "name": "Aaron WAN-BISSAKA",
+    "nat": "COD"
+  },
+  "426506": {
+    "club": "Alanyaspor",
+    "clubnat": "TUR",
+    "name": "Meschack ELIA",
+    "nat": "COD"
+  },
+  "428882": {
+    "club": "Inter Miami CF",
+    "clubnat": "USA",
+    "name": "Rodrigo DE PAUL",
+    "nat": "ARG"
+  },
+  "428885": {
+    "club": "Chelsea",
+    "clubnat": "ENG",
+    "name": "Moises CAICEDO",
+    "nat": "ECU"
+  },
+  "428886": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Luis DIAZ",
+    "nat": "COL"
+  },
+  "428905": {
+    "club": "Sporting CP",
+    "clubnat": "POR",
+    "name": "Luis SUAREZ",
+    "nat": "COL"
+  },
+  "429063": {
+    "club": "Al-Duhail",
+    "clubnat": "QAT",
+    "name": "EDMILSON JUNIOR",
+    "nat": "QAT"
+  },
+  "429095": {
+    "club": "Al-Wakrah",
+    "clubnat": "QAT",
+    "name": "HAMDY FATHY",
+    "nat": "EGY"
+  },
+  "429157": {
+    "club": "Al-Qadsiah",
+    "clubnat": "KSA",
+    "name": "Julian QUINONES",
+    "nat": "MEX"
+  },
+  "429392": {
+    "club": "Botafogo",
+    "clubnat": "BRA",
+    "name": "DANILO SANTOS",
+    "nat": "BRA"
+  },
+  "429600": {
+    "club": "Ulsan HD",
+    "clubnat": "KOR",
+    "name": "LEE Donggyeong",
+    "nat": "KOR"
+  },
+  "429608": {
+    "club": "Red Star Belgrade",
+    "clubnat": "SRB",
+    "name": "SEOL Youngwoo",
+    "nat": "KOR"
+  },
+  "429639": {
+    "club": "VfB Stuttgart",
+    "clubnat": "GER",
+    "name": "Alexander NUEBEL",
+    "nat": "GER"
+  },
+  "429640": {
+    "club": "VfB Stuttgart",
+    "clubnat": "GER",
+    "name": "Angelo Stiller",
+    "nat": "GER"
+  },
+  "429642": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Jamal MUSIALA",
+    "nat": "GER"
+  },
+  "430070": {
+    "club": "Osasuna",
+    "clubnat": "ESP",
+    "name": "Ante BUDIMIR",
+    "nat": "CRO"
+  },
+  "430097": {
+    "club": "Bournemouth",
+    "clubnat": "ENG",
+    "name": "Ryan Christie",
+    "nat": "SCO"
+  },
+  "430098": {
+    "club": "Charlton Athletic",
+    "clubnat": "ENG",
+    "name": "Lyndon DYKES",
+    "nat": "SCO"
+  },
+  "430100": {
+    "club": "LASK",
+    "clubnat": "AUT",
+    "name": "Sasa KALAJDZIC",
+    "nat": "AUT"
+  },
+  "430120": {
+    "club": "Fenerbahçe",
+    "clubnat": "TUR",
+    "name": "Mert MULDUR",
+    "nat": "TUR"
+  },
+  "430138": {
+    "club": "Villarreal",
+    "clubnat": "ESP",
+    "name": "Tajon BUCHANAN",
+    "nat": "CAN"
+  },
+  "430144": {
+    "club": "Tottenham Hotspur",
+    "clubnat": "ENG",
+    "name": "Pedro PORRO",
+    "nat": "ESP"
+  },
+  "430147": {
+    "club": "Al-Ettifaq",
+    "clubnat": "KSA",
+    "name": "Jack Hendry",
+    "nat": "SCO"
+  },
+  "430150": {
+    "club": "Liverpool",
+    "clubnat": "ENG",
+    "name": "Alexander Isak",
+    "nat": "SWE"
+  },
+  "430176": {
+    "club": "Liverpool",
+    "clubnat": "ENG",
+    "name": "Ryan GRAVENBERCH",
+    "nat": "NED"
+  },
+  "430194": {
+    "club": "Sampdoria",
+    "clubnat": "ITA",
+    "name": "Dennis HADZIKADUNIC",
+    "nat": "BIH"
+  },
+  "430196": {
+    "club": "Hull City",
+    "clubnat": "ENG",
+    "name": "Amir HADZIAHMETOVIC",
+    "nat": "BIH"
+  },
+  "430385": {
+    "club": "Jeonbuk Hyundai Motors",
+    "clubnat": "KOR",
+    "name": "KIM Jingyu",
+    "nat": "KOR"
+  },
+  "430387": {
+    "club": "Midtjylland",
+    "clubnat": "DEN",
+    "name": "CHO Guesung",
+    "nat": "KOR"
+  },
+  "430401": {
+    "club": "Feyenoord",
+    "clubnat": "NED",
+    "name": "Tsuyoshi Watanabe",
+    "nat": "JPN"
+  },
+  "430407": {
+    "club": "Celtic",
+    "clubnat": "SCO",
+    "name": "Daizen MAEDA",
+    "nat": "JPN"
+  },
+  "430413": {
+    "club": "Feyenoord",
+    "clubnat": "NED",
+    "name": "Ayase UEDA",
+    "nat": "JPN"
+  },
+  "430437": {
+    "club": "Heart of Midlothian",
+    "clubnat": "SCO",
+    "name": "Cameron DEVLIN",
+    "nat": "AUS"
+  },
+  "430440": {
+    "club": "New York City FC",
+    "clubnat": "USA",
+    "name": "Aiden ONEILL",
+    "nat": "AUS"
+  },
+  "430442": {
+    "club": "Leicester City",
+    "clubnat": "ENG",
+    "name": "Harry SOUTTAR",
+    "nat": "AUS"
+  },
+  "430450": {
+    "club": "Grazer AK",
+    "clubnat": "AUT",
+    "name": "Jacob ITALIANO",
+    "nat": "AUS"
+  },
+  "430452": {
+    "club": "FC St. Pauli",
+    "clubnat": "GER",
+    "name": "Connor METCALFE",
+    "nat": "AUS"
+  },
+  "430465": {
+    "club": "Nordsjælland",
+    "clubnat": "DEN",
+    "name": "IBRAHIM ADEL",
+    "nat": "EGY"
+  },
+  "430476": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "OMAR MARMOUSH",
+    "nat": "EGY"
+  },
+  "430477": {
+    "club": "Zamalek",
+    "clubnat": "EGY",
+    "name": "AHMED FATOUH",
+    "nat": "EGY"
+  },
+  "430482": {
+    "club": "Al Ahly",
+    "clubnat": "EGY",
+    "name": "EMAM ASHOUR",
+    "nat": "EGY"
+  },
+  "430512": {
+    "club": "Al-Nassr",
+    "clubnat": "KSA",
+    "name": "AIMAN YAHYA",
+    "nat": "KSA"
+  },
+  "430518": {
+    "club": "Al-Nassr",
+    "clubnat": "KSA",
+    "name": "NAWAF BU WASHL",
+    "nat": "KSA"
+  },
+  "430594": {
+    "club": "Al-Ahli",
+    "clubnat": "KSA",
+    "name": "ROGER IBANEZ",
+    "nat": "BRA"
+  },
+  "430597": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "GABRIEL MARTINELLI",
+    "nat": "BRA"
+  },
+  "430601": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "GABRIEL MAGALHAES",
+    "nat": "BRA"
+  },
+  "430605": {
+    "club": "Newcastle United",
+    "clubnat": "ENG",
+    "name": "BRUNO GUIMARAES",
+    "nat": "BRA"
+  },
+  "430609": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "MATHEUS CUNHA",
+    "nat": "BRA"
+  },
+  "430624": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Juan MUSSO",
+    "nat": "ARG"
+  },
+  "430628": {
+    "club": "Liverpool",
+    "clubnat": "ENG",
+    "name": "Alexis MAC ALLISTER",
+    "nat": "ARG"
+  },
+  "430631": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Nico GONZALEZ",
+    "nat": "ARG"
+  },
+  "430657": {
+    "club": "RB Leipzig",
+    "clubnat": "GER",
+    "name": "David RAUM",
+    "nat": "GER"
+  },
+  "430658": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Waldemar ANTON",
+    "nat": "GER"
+  },
+  "430667": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Nico SCHLOTTERBECK",
+    "nat": "GER"
+  },
+  "430669": {
+    "club": "Liverpool",
+    "clubnat": "ENG",
+    "name": "Florian WIRTZ",
+    "nat": "GER"
+  },
+  "430671": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Ismail JAKOBS",
+    "nat": "SEN"
+  },
+  "430690": {
+    "club": "Lyon",
+    "clubnat": "FRA",
+    "name": "Moussa Niakhate",
+    "nat": "SEN"
+  },
+  "430697": {
+    "club": "Wolverhampton Wanderers",
+    "clubnat": "ENG",
+    "name": "Jean-Ricner Bellegarde",
+    "nat": "HAI"
+  },
+  "430698": {
+    "club": "Al-Ittihad",
+    "clubnat": "KSA",
+    "name": "Houssem Aouar",
+    "nat": "ALG"
+  },
+  "430707": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "Jules KOUNDE",
+    "nat": "FRA"
+  },
+  "430718": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "Fabian RUIZ",
+    "nat": "ESP"
+  },
+  "430733": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Mikel MERINO",
+    "nat": "ESP"
+  },
+  "430735": {
+    "club": "Chelsea",
+    "clubnat": "ENG",
+    "name": "Marc CUCURELLA",
+    "nat": "ESP"
+  },
+  "430740": {
+    "club": "Real Madrid",
+    "clubnat": "ESP",
+    "name": "Brahim DIAZ",
+    "nat": "MAR"
+  },
+  "430750": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "Dani OLMO",
+    "nat": "ESP"
+  },
+  "430751": {
+    "club": "Real Sociedad",
+    "clubnat": "ESP",
+    "name": "Mikel OYARZABAL",
+    "nat": "ESP"
+  },
+  "430753": {
+    "club": "Athletic Bilbao",
+    "clubnat": "ESP",
+    "name": "Unai SIMON",
+    "nat": "ESP"
+  },
+  "430754": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Martin ZUBIMENDI",
+    "nat": "ESP"
+  },
+  "430759": {
+    "club": "Milan",
+    "clubnat": "ITA",
+    "name": "Santiago GIMENEZ",
+    "nat": "MEX"
+  },
+  "430763": {
+    "club": "Guadalajara",
+    "clubnat": "MEX",
+    "name": "Luis ROMO",
+    "nat": "MEX"
+  },
+  "430766": {
+    "club": "Toluca",
+    "clubnat": "MEX",
+    "name": "Alexis VEGA",
+    "nat": "MEX"
+  },
+  "430822": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "Amad DIALLO",
+    "nat": "CIV"
+  },
+  "430831": {
+    "club": "Nottingham Forest",
+    "clubnat": "ENG",
+    "name": "Ibrahim SANGARE",
+    "nat": "CIV"
+  },
+  "430834": {
+    "club": "Charleroi",
+    "clubnat": "BEL",
+    "name": "Parfait GUIAGON",
+    "nat": "CIV"
+  },
+  "430854": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Wilfried SINGO",
+    "nat": "CIV"
+  },
+  "430917": {
+    "club": "Orlando Pirates",
+    "clubnat": "RSA",
+    "name": "Evidence MAKGOPA",
+    "nat": "RSA"
+  },
+  "431196": {
+    "club": "Tottenham Hotspur",
+    "clubnat": "ENG",
+    "name": "Cristian ROMERO",
+    "nat": "ARG"
+  },
+  "431200": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Daniel MUNOZ",
+    "nat": "COL"
+  },
+  "431202": {
+    "club": "Sunderland",
+    "clubnat": "ENG",
+    "name": "Omar ALDERETE",
+    "nat": "PAR"
+  },
+  "431208": {
+    "club": "Raja Casablanca",
+    "clubnat": "MAR",
+    "name": "MOHAMMAD ABUZRAIQ",
+    "nat": "JOR"
+  },
+  "431209": {
+    "club": "Al-Karma",
+    "clubnat": "IRQ",
+    "name": "IBRAHIM SADEH",
+    "nat": "JOR"
+  },
+  "431211": {
+    "club": "Rennes",
+    "clubnat": "FRA",
+    "name": "MOUSA ALTAMARI",
+    "nat": "JOR"
+  },
+  "431212": {
+    "club": "Al-Sailiya",
+    "clubnat": "QAT",
+    "name": "ALI OLWAN",
+    "nat": "JOR"
+  },
+  "431219": {
+    "club": "Al-Hussein",
+    "clubnat": "JOR",
+    "name": "SAED ALROSAN",
+    "nat": "JOR"
+  },
+  "431223": {
+    "club": "Al-Wehdat",
+    "clubnat": "JOR",
+    "name": "ABDALLAH ALFAKHORI",
+    "nat": "JOR"
+  },
+  "431225": {
+    "club": "FC Seoul",
+    "clubnat": "KOR",
+    "name": "YAZAN ALARAB",
+    "nat": "JOR"
+  },
+  "431230": {
+    "club": "Selangor",
+    "clubnat": "MAS",
+    "name": "NOOR ALRAWABDEH",
+    "nat": "JOR"
+  },
+  "431693": {
+    "club": "Çaykur Rizespor",
+    "clubnat": "TUR",
+    "name": "Frantzdy Pierrot",
+    "nat": "HAI"
+  },
+  "431696": {
+    "club": "Toronto FC",
+    "clubnat": "CAN",
+    "name": "Richie LARYEA",
+    "nat": "CAN"
+  },
+  "431698": {
+    "club": "Abha",
+    "clubnat": "KSA",
+    "name": "Jurien GAARI",
+    "nat": "CUW"
+  },
+  "431781": {
+    "club": "Gent",
+    "clubnat": "BEL",
+    "name": "Jean-Kevin DUVERNE",
+    "nat": "HAI"
+  },
+  "431788": {
+    "club": "Villarreal",
+    "clubnat": "ESP",
+    "name": "Pape GUEYE",
+    "nat": "SEN"
+  },
+  "431858": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Rayan AIT-NOURI",
+    "nat": "ALG"
+  },
+  "431861": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Rayan CHERKI",
+    "nat": "FRA"
+  },
+  "431889": {
+    "club": "Juventus",
+    "clubnat": "ITA",
+    "name": "BREMER",
+    "nat": "BRA"
+  },
+  "433066": {
+    "club": "Roma",
+    "clubnat": "ITA",
+    "name": "Donyell Malen",
+    "nat": "NED"
+  },
+  "433067": {
+    "club": "Cremonese",
+    "clubnat": "ITA",
+    "name": "Morten Thorsby",
+    "nat": "NOR"
+  },
+  "433072": {
+    "club": "Roma",
+    "clubnat": "ITA",
+    "name": "Zeki CELIK",
+    "nat": "TUR"
+  },
+  "433074": {
+    "club": "Cracovia",
+    "clubnat": "POL",
+    "name": "AMIR ALAMMARI",
+    "nat": "IRQ"
+  },
+  "433076": {
+    "club": "Atromitos",
+    "clubnat": "GRE",
+    "name": "Samuel Moutoussamy",
+    "nat": "COD"
+  },
+  "433092": {
+    "club": "Milan",
+    "clubnat": "ITA",
+    "name": "Alexis SAELEMAEKERS",
+    "nat": "BEL"
+  },
+  "433097": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Declan RICE",
+    "nat": "ENG"
+  },
+  "433118": {
+    "club": "Beşiktaş",
+    "clubnat": "TUR",
+    "name": "Orkun KOKCU",
+    "nat": "TUR"
+  },
+  "433147": {
+    "club": "Pisa",
+    "clubnat": "ITA",
+    "name": "Michel AEBISCHER",
+    "nat": "SUI"
+  },
+  "433161": {
+    "club": "Watford",
+    "clubnat": "ENG",
+    "name": "Edo Kayembe",
+    "nat": "COD"
+  },
+  "433191": {
+    "club": "Torino",
+    "clubnat": "ITA",
+    "name": "Che Adams",
+    "nat": "SCO"
+  },
+  "433195": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "NUNO MENDES",
+    "nat": "POR"
+  },
+  "433361": {
+    "club": "Norwich City",
+    "clubnat": "ENG",
+    "name": "Anis SLIMANE",
+    "nat": "TUN"
+  },
+  "433362": {
+    "club": "Nice",
+    "clubnat": "FRA",
+    "name": "Ali ABDI",
+    "nat": "TUN"
+  },
+  "433365": {
+    "club": "CS Sfaxien",
+    "clubnat": "TUN",
+    "name": "Aymen DAHMEN",
+    "nat": "TUN"
+  },
+  "433367": {
+    "club": "Maribor",
+    "clubnat": "SVN",
+    "name": "Omar Rekik",
+    "nat": "TUN"
+  },
+  "433378": {
+    "club": "Burnley",
+    "clubnat": "ENG",
+    "name": "Hannibal MEJBRI",
+    "nat": "TUN"
+  },
+  "433380": {
+    "club": "Lorient",
+    "clubnat": "FRA",
+    "name": "Montassar TALBI",
+    "nat": "TUN"
+  },
+  "433394": {
+    "club": "Al-Arabi",
+    "clubnat": "QAT",
+    "name": "AHMED FATHY",
+    "nat": "QAT"
+  },
+  "433426": {
+    "club": "Al Ain",
+    "clubnat": "UAE",
+    "name": "Soufiane RAHIMI",
+    "nat": "MAR"
+  },
+  "433439": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "ALI LAJAMI",
+    "nat": "KSA"
+  },
+  "433461": {
+    "club": "Al Ahly",
+    "clubnat": "EGY",
+    "name": "ZIZO",
+    "nat": "EGY"
+  },
+  "433466": {
+    "club": "Al-Najma",
+    "clubnat": "KSA",
+    "name": "NABIL DONGA",
+    "nat": "EGY"
+  },
+  "433469": {
+    "club": "Pyramids",
+    "clubnat": "EGY",
+    "name": "MOHANAD LASHIN",
+    "nat": "EGY"
+  },
+  "433526": {
+    "club": "Al-Karma",
+    "clubnat": "IRQ",
+    "name": "MOHAMMAD ABUHASHEESH",
+    "nat": "JOR"
+  },
+  "433527": {
+    "club": "Al-Zawraa",
+    "clubnat": "IRQ",
+    "name": "ABDALLAH NASIB",
+    "nat": "JOR"
+  },
+  "433534": {
+    "club": "Qatar SC",
+    "clubnat": "QAT",
+    "name": "NIZAR ALRASHDAN",
+    "nat": "JOR"
+  },
+  "433571": {
+    "club": "Al-Shorta",
+    "clubnat": "IRQ",
+    "name": "AHMED BASIL",
+    "nat": "IRQ"
+  },
+  "433585": {
+    "club": "Al Dhafra",
+    "clubnat": "UAE",
+    "name": "IBRAHIM BAYESH",
+    "nat": "IRQ"
+  },
+  "433600": {
+    "club": "Espérance de Tunis",
+    "clubnat": "TUN",
+    "name": "Mohamed Amine TOUGAI",
+    "nat": "ALG"
+  },
+  "433631": {
+    "club": "Charleroi",
+    "clubnat": "BEL",
+    "name": "Yassine TITRAOUI",
+    "nat": "ALG"
+  },
+  "433635": {
+    "club": "Los Angeles FC",
+    "clubnat": "USA",
+    "name": "Stephen EUSTAQUIO",
+    "nat": "CAN"
+  },
+  "433667": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Josip STANISIC",
+    "nat": "CRO"
+  },
+  "433668": {
+    "club": "Slavia Prague",
+    "clubnat": "CZE",
+    "name": "Michal SADILEK",
+    "nat": "CZE"
+  },
+  "433679": {
+    "club": "Twente",
+    "clubnat": "NED",
+    "name": "Ramiz ZERROUKI",
+    "nat": "ALG"
+  },
+  "433694": {
+    "club": "Everton",
+    "clubnat": "ENG",
+    "name": "Nathan PATTERSON",
+    "nat": "SCO"
+  },
+  "433724": {
+    "club": "Omonia",
+    "clubnat": "CYP",
+    "name": "WILLY SEMEDO",
+    "nat": "CPV"
+  },
+  "433754": {
+    "club": "TSG Hoffenheim",
+    "clubnat": "GER",
+    "name": "Adam HLOZEK",
+    "nat": "CZE"
+  },
+  "433755": {
+    "club": "Slavia Prague",
+    "clubnat": "CZE",
+    "name": "David Zima",
+    "nat": "CZE"
+  },
+  "433787": {
+    "club": "Napoli",
+    "clubnat": "ITA",
+    "name": "Scott McTominay",
+    "nat": "SCO"
+  },
+  "433795": {
+    "club": "VfL Wolfsburg",
+    "clubnat": "GER",
+    "name": "Mattias SVANBERG",
+    "nat": "SWE"
+  },
+  "433806": {
+    "club": "Al-Ahli",
+    "clubnat": "KSA",
+    "name": "Edouard MENDY",
+    "nat": "SEN"
+  },
+  "433872": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "RAPHINHA",
+    "nat": "BRA"
+  },
+  "434024": {
+    "club": "Al-Shorta",
+    "clubnat": "IRQ",
+    "name": "MUNAF YOUNUS",
+    "nat": "IRQ"
+  },
+  "434025": {
+    "club": "Pakhtakor",
+    "clubnat": "UZB",
+    "name": "ZAID TAHSEEN",
+    "nat": "IRQ"
+  },
+  "434026": {
+    "club": "Utrecht",
+    "clubnat": "NED",
+    "name": "ZIDANE IQBAL",
+    "nat": "IRQ"
+  },
+  "434029": {
+    "club": "Al-Talaba",
+    "clubnat": "IRQ",
+    "name": "ALI YOUSIF",
+    "nat": "IRQ"
+  },
+  "436537": {
+    "club": "Al-Qadsiah",
+    "clubnat": "KSA",
+    "name": "MUSAB ALJUWAYR",
+    "nat": "KSA"
+  },
+  "436538": {
+    "club": "Al-Ahli",
+    "clubnat": "KSA",
+    "name": "ZIYAD ALJOHANI",
+    "nat": "KSA"
+  },
+  "436572": {
+    "club": "Lens",
+    "clubnat": "FRA",
+    "name": "Arthur MASUAKU",
+    "nat": "COD"
+  },
+  "436599": {
+    "club": "FC Cincinnati",
+    "clubnat": "USA",
+    "name": "Miles ROBINSON",
+    "nat": "USA"
+  },
+  "436612": {
+    "club": "Inter Milan",
+    "clubnat": "ITA",
+    "name": "Denzel DUMFRIES",
+    "nat": "NED"
+  },
+  "436628": {
+    "club": "Luton Town",
+    "clubnat": "ENG",
+    "name": "ALI ALHAMADI",
+    "nat": "IRQ"
+  },
+  "436743": {
+    "club": "VfB Stuttgart",
+    "clubnat": "GER",
+    "name": "Ermedin DEMIROVIC",
+    "nat": "BIH"
+  },
+  "436863": {
+    "club": "Persib",
+    "clubnat": "IDN",
+    "name": "FRANS PUTROS",
+    "nat": "IRQ"
+  },
+  "439538": {
+    "club": "Palmeiras",
+    "clubnat": "BRA",
+    "name": "Joaquin PIQUEREZ",
+    "nat": "URU"
+  },
+  "439641": {
+    "club": "Chelsea",
+    "clubnat": "ENG",
+    "name": "Reece JAMES",
+    "nat": "ENG"
+  },
+  "439956": {
+    "club": "Panathinaikos",
+    "clubnat": "GRE",
+    "name": "Facundo PELLISTRI",
+    "nat": "URU"
+  },
+  "440748": {
+    "club": "Auckland FC",
+    "clubnat": "NZL",
+    "name": "Francis DE VRIES",
+    "nat": "NZL"
+  },
+  "441065": {
+    "club": "Brøndby",
+    "clubnat": "DEN",
+    "name": "Patrick PENTZ",
+    "nat": "AUT"
+  },
+  "441067": {
+    "club": "Mainz 05",
+    "clubnat": "GER",
+    "name": "Stefan POSCH",
+    "nat": "AUT"
+  },
+  "441068": {
+    "club": "Schalke 04",
+    "clubnat": "GER",
+    "name": "Dejan LJUBICIC",
+    "nat": "AUT"
+  },
+  "441088": {
+    "club": "RB Leipzig",
+    "clubnat": "GER",
+    "name": "Nicolas SEIWALD",
+    "nat": "AUT"
+  },
+  "441132": {
+    "club": "Celta Vigo",
+    "clubnat": "ESP",
+    "name": "Carl STARFELT",
+    "nat": "SWE"
+  },
+  "441135": {
+    "club": "Udinese",
+    "clubnat": "ITA",
+    "name": "Jesper KARLSTROM",
+    "nat": "SWE"
+  },
+  "441137": {
+    "club": "Newcastle United",
+    "clubnat": "ENG",
+    "name": "Anthony ELANGA",
+    "nat": "SWE"
+  },
+  "441146": {
+    "club": "Sporting CP",
+    "clubnat": "POR",
+    "name": "GONCALO INACIO",
+    "nat": "POR"
+  },
+  "441148": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "MATHEUS NUNES",
+    "nat": "POR"
+  },
+  "441149": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "VITINHA",
+    "nat": "POR"
+  },
+  "441162": {
+    "club": "Slavia Prague",
+    "clubnat": "CZE",
+    "name": "Jindrich STANEK",
+    "nat": "CZE"
+  },
+  "441166": {
+    "club": "Sparta Prague",
+    "clubnat": "CZE",
+    "name": "Jaroslav ZELENY",
+    "nat": "CZE"
+  },
+  "441167": {
+    "club": "Slavia Prague",
+    "clubnat": "CZE",
+    "name": "Tomas HOLES",
+    "nat": "CZE"
+  },
+  "441170": {
+    "club": "Wolverhampton Wanderers",
+    "clubnat": "ENG",
+    "name": "Ladislav KREJCI",
+    "nat": "CZE"
+  },
+  "441171": {
+    "club": "Sparta Prague",
+    "clubnat": "CZE",
+    "name": "Jan KUCHTA",
+    "nat": "CZE"
+  },
+  "441179": {
+    "club": "Al-Ahli",
+    "clubnat": "KSA",
+    "name": "Merih DEMIRAL",
+    "nat": "TUR"
+  },
+  "441180": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "Altay BAYINDIR",
+    "nat": "TUR"
+  },
+  "441181": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Ugurcan CAKIR",
+    "nat": "TUR"
+  },
+  "441188": {
+    "club": "Fenerbahçe",
+    "clubnat": "TUR",
+    "name": "Kerem AKTURKOGLU",
+    "nat": "TUR"
+  },
+  "441234": {
+    "club": "Strasbourg",
+    "clubnat": "FRA",
+    "name": "Julio ENCISO",
+    "nat": "PAR"
+  },
+  "441236": {
+    "club": "Huracán",
+    "clubnat": "ARG",
+    "name": "Hernan GALINDEZ",
+    "nat": "ECU"
+  },
+  "441239": {
+    "club": "Deportivo La Guaira",
+    "clubnat": "VEN",
+    "name": "Jorge GUTIERREZ",
+    "nat": "PAN"
+  },
+  "441240": {
+    "club": "LASK",
+    "clubnat": "AUT",
+    "name": "Andres ANDRADE",
+    "nat": "PAN"
+  },
+  "441241": {
+    "club": "Al-Fayha",
+    "clubnat": "KSA",
+    "name": "Orlando MOSQUERA",
+    "nat": "PAN"
+  },
+  "441242": {
+    "club": "Slovan Bratislava",
+    "clubnat": "SVK",
+    "name": "Cesar BLACKMAN",
+    "nat": "PAN"
+  },
+  "441243": {
+    "club": "Cobresal",
+    "clubnat": "CHI",
+    "name": "Cesar YANIS",
+    "nat": "PAN"
+  },
+  "441251": {
+    "club": "Fulham",
+    "clubnat": "ENG",
+    "name": "Antonee ROBINSON",
+    "nat": "USA"
+  },
+  "441252": {
+    "club": "Celtic",
+    "clubnat": "SCO",
+    "name": "Alistair JOHNSTON",
+    "nat": "CAN"
+  },
+  "441255": {
+    "club": "Inter Miami CF",
+    "clubnat": "USA",
+    "name": "Dayne ST. CLAIR",
+    "nat": "CAN"
+  },
+  "441257": {
+    "club": "Juventus",
+    "clubnat": "ITA",
+    "name": "Jonathan DAVID",
+    "nat": "CAN"
+  },
+  "441258": {
+    "club": "Sassuolo",
+    "clubnat": "ITA",
+    "name": "Ismael KONE",
+    "nat": "CAN"
+  },
+  "441259": {
+    "club": "Hull City",
+    "clubnat": "ENG",
+    "name": "Liam MILLAR",
+    "nat": "CAN"
+  },
+  "441260": {
+    "club": "Santos Laguna",
+    "clubnat": "MEX",
+    "name": "Carlos ACEVEDO",
+    "nat": "MEX"
+  },
+  "441261": {
+    "club": "América",
+    "clubnat": "MEX",
+    "name": "Israel REYES",
+    "nat": "MEX"
+  },
+  "441307": {
+    "club": "Girona",
+    "clubnat": "ESP",
+    "name": "Azzedine OUNAHI",
+    "nat": "MAR"
+  },
+  "441313": {
+    "club": "Le Havre",
+    "clubnat": "FRA",
+    "name": "Lionel MPASI",
+    "nat": "COD"
+  },
+  "441316": {
+    "club": "Newcastle United",
+    "clubnat": "ENG",
+    "name": "Yoane WISSA",
+    "nat": "COD"
+  },
+  "441317": {
+    "club": "Spartak Moscow",
+    "clubnat": "RUS",
+    "name": "Theo BONGONDA",
+    "nat": "COD"
+  },
+  "441333": {
+    "club": "Auxerre",
+    "clubnat": "FRA",
+    "name": "Gideon MENSAH",
+    "nat": "GHA"
+  },
+  "441336": {
+    "club": "Rayo Vallecano",
+    "clubnat": "ESP",
+    "name": "Abdul MUMIN",
+    "nat": "GHA"
+  },
+  "441341": {
+    "club": "Auxerre",
+    "clubnat": "FRA",
+    "name": "Elisha OWUSU",
+    "nat": "GHA"
+  },
+  "441342": {
+    "club": "Leicester City",
+    "clubnat": "ENG",
+    "name": "Abdul FATAWU",
+    "nat": "GHA"
+  },
+  "441350": {
+    "club": "Nice",
+    "clubnat": "FRA",
+    "name": "Hicham BOUDAOUI",
+    "nat": "ALG"
+  },
+  "441362": {
+    "club": "Kasımpaşa",
+    "clubnat": "TUR",
+    "name": "Mortadha BEN OUANES",
+    "nat": "TUN"
+  },
+  "441402": {
+    "club": "Marathón",
+    "clubnat": "HON",
+    "name": "Cesar SAMUDIO",
+    "nat": "PAN"
+  },
+  "441422": {
+    "club": "Como",
+    "clubnat": "ITA",
+    "name": "Nico PAZ",
+    "nat": "ARG"
+  },
+  "441622": {
+    "club": "Bologna",
+    "clubnat": "ITA",
+    "name": "Jhon LUCUMI",
+    "nat": "COL"
+  },
+  "441623": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "Manuel UGARTE",
+    "nat": "URU"
+  },
+  "442428": {
+    "club": "Brentford",
+    "clubnat": "ENG",
+    "name": "Aaron HICKEY",
+    "nat": "SCO"
+  },
+  "442429": {
+    "club": "Rangers",
+    "clubnat": "SCO",
+    "name": "Liam KELLY",
+    "nat": "SCO"
+  },
+  "442430": {
+    "club": "Rangers",
+    "clubnat": "SCO",
+    "name": "John SOUTTAR",
+    "nat": "SCO"
+  },
+  "442431": {
+    "club": "Dinamo Zagreb",
+    "clubnat": "CRO",
+    "name": "Scott MCKENNA",
+    "nat": "SCO"
+  },
+  "442433": {
+    "club": "Southampton",
+    "clubnat": "ENG",
+    "name": "Ross STEWART",
+    "nat": "SCO"
+  },
+  "442434": {
+    "club": "Bologna",
+    "clubnat": "ITA",
+    "name": "Lewis FERGUSON",
+    "nat": "SCO"
+  },
+  "447853": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "David RAYA",
+    "nat": "ESP"
+  },
+  "447855": {
+    "club": "Athletic Bilbao",
+    "clubnat": "ESP",
+    "name": "Nico WILLIAMS",
+    "nat": "ESP"
+  },
+  "447860": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Alex BAENA",
+    "nat": "ESP"
+  },
+  "447864": {
+    "club": "Celta Vigo",
+    "clubnat": "ESP",
+    "name": "Borja IGLESIAS",
+    "nat": "ESP"
+  },
+  "447866": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "GAVI",
+    "nat": "ESP"
+  },
+  "447991": {
+    "club": "Olimpia",
+    "clubnat": "PAR",
+    "name": "Gaston OLVEIRA",
+    "nat": "PAR"
+  },
+  "448014": {
+    "club": "Parma",
+    "clubnat": "ITA",
+    "name": "Alessandro CIRCATI",
+    "nat": "AUS"
+  },
+  "448015": {
+    "club": "Sassuolo",
+    "clubnat": "ITA",
+    "name": "Cristian VOLPATO",
+    "nat": "AUS"
+  },
+  "448051": {
+    "club": "Dynamo Moscow",
+    "clubnat": "RUS",
+    "name": "Luis CHAVEZ",
+    "nat": "MEX"
+  },
+  "448081": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "GONCALO RAMOS",
+    "nat": "POR"
+  },
+  "448092": {
+    "club": "Sporting CP",
+    "clubnat": "POR",
+    "name": "RUI SILVA",
+    "nat": "POR"
+  },
+  "448103": {
+    "club": "FC Augsburg",
+    "clubnat": "GER",
+    "name": "Fabian RIEDER",
+    "nat": "SUI"
+  },
+  "448104": {
+    "club": "Fortuna Düsseldorf",
+    "clubnat": "GER",
+    "name": "Cedric ITTEN",
+    "nat": "SUI"
+  },
+  "448107": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Gregor KOBEL",
+    "nat": "SUI"
+  },
+  "448112": {
+    "club": "Burnley",
+    "clubnat": "ENG",
+    "name": "Zeki AMDOUNI",
+    "nat": "SUI"
+  },
+  "448114": {
+    "club": "Nottingham Forest",
+    "clubnat": "ENG",
+    "name": "Dan NDOYE",
+    "nat": "SUI"
+  },
+  "448120": {
+    "club": "Milan",
+    "clubnat": "ITA",
+    "name": "Ardon JASHARI",
+    "nat": "SUI"
+  },
+  "448124": {
+    "club": "Young Boys",
+    "clubnat": "SUI",
+    "name": "Christian FASSNACHT",
+    "nat": "SUI"
+  },
+  "448127": {
+    "club": "Leeds United",
+    "clubnat": "ENG",
+    "name": "Noah OKAFOR",
+    "nat": "SUI"
+  },
+  "448128": {
+    "club": "Espanyol",
+    "clubnat": "ESP",
+    "name": "Charles PICKEL",
+    "nat": "COD"
+  },
+  "448131": {
+    "club": "Sevilla",
+    "clubnat": "ESP",
+    "name": "Ruben VARGAS",
+    "nat": "SUI"
+  },
+  "448136": {
+    "club": "Valencia",
+    "clubnat": "ESP",
+    "name": "Eray COEMERT",
+    "nat": "SUI"
+  },
+  "448140": {
+    "club": "Tottenham Hotspur",
+    "clubnat": "ENG",
+    "name": "Micky VAN DE VEN",
+    "nat": "NED"
+  },
+  "448149": {
+    "club": "Juventus",
+    "clubnat": "ITA",
+    "name": "Teun KOOPMEINERS",
+    "nat": "NED"
+  },
+  "448151": {
+    "club": "Bayer Leverkusen",
+    "clubnat": "GER",
+    "name": "Mark FLEKKEN",
+    "nat": "NED"
+  },
+  "448152": {
+    "club": "Liverpool",
+    "clubnat": "ENG",
+    "name": "Cody GAKPO",
+    "nat": "NED"
+  },
+  "448153": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Noa LANG",
+    "nat": "NED"
+  },
+  "448157": {
+    "club": "PSV Eindhoven",
+    "clubnat": "NED",
+    "name": "Guus TIL",
+    "nat": "NED"
+  },
+  "448159": {
+    "club": "Ajax",
+    "clubnat": "NED",
+    "name": "Wout WEGHORST",
+    "nat": "NED"
+  },
+  "448160": {
+    "club": "Real Sociedad",
+    "clubnat": "ESP",
+    "name": "Luka SUCIC",
+    "nat": "CRO"
+  },
+  "448164": {
+    "club": "FC Augsburg",
+    "clubnat": "GER",
+    "name": "Kristijan JAKIC",
+    "nat": "CRO"
+  },
+  "448171": {
+    "club": "Ajax",
+    "clubnat": "NED",
+    "name": "Josip SUTALO",
+    "nat": "CRO"
+  },
+  "448174": {
+    "club": "Fiorentina",
+    "clubnat": "ITA",
+    "name": "Marin PONGRACIC",
+    "nat": "CRO"
+  },
+  "448179": {
+    "club": "Copenhagen",
+    "clubnat": "DEN",
+    "name": "Dominik KOTARSKI",
+    "nat": "CRO"
+  },
+  "448180": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Josko GVARDIOL",
+    "nat": "CRO"
+  },
+  "448189": {
+    "club": "Newcastle United",
+    "clubnat": "ENG",
+    "name": "Anthony GORDON",
+    "nat": "ENG"
+  },
+  "448196": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Bukayo SAKA",
+    "nat": "ENG"
+  },
+  "448198": {
+    "club": "Al-Ahli",
+    "clubnat": "KSA",
+    "name": "Ivan TONEY",
+    "nat": "ENG"
+  },
+  "448202": {
+    "club": "Real Madrid",
+    "clubnat": "ESP",
+    "name": "Jude BELLINGHAM",
+    "nat": "ENG"
+  },
+  "448203": {
+    "club": "Aston Villa",
+    "clubnat": "ENG",
+    "name": "Ollie WATKINS",
+    "nat": "ENG"
+  },
+  "448214": {
+    "club": "Bayer Leverkusen",
+    "clubnat": "GER",
+    "name": "Malik TILLMAN",
+    "nat": "USA"
+  },
+  "448217": {
+    "club": "New England Revolution",
+    "clubnat": "USA",
+    "name": "Matt TURNER",
+    "nat": "USA"
+  },
+  "448252": {
+    "club": "Chelsea",
+    "clubnat": "ENG",
+    "name": "Enzo FERNANDEZ",
+    "nat": "ARG"
+  },
+  "448290": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "Willian PACHO",
+    "nat": "ECU"
+  },
+  "448295": {
+    "club": "LDU Quito",
+    "clubnat": "ECU",
+    "name": "Gonzalo VALLE",
+    "nat": "ECU"
+  },
+  "448299": {
+    "club": "Antwerp",
+    "clubnat": "BEL",
+    "name": "Anthony VALENCIA",
+    "nat": "ECU"
+  },
+  "448310": {
+    "club": "Union Saint-Gilloise",
+    "clubnat": "BEL",
+    "name": "Kevin RODRIGUEZ",
+    "nat": "ECU"
+  },
+  "448312": {
+    "club": "Sunderland",
+    "clubnat": "ENG",
+    "name": "Nilson ANGULO",
+    "nat": "ECU"
+  },
+  "448332": {
+    "club": "Milan",
+    "clubnat": "ITA",
+    "name": "Mike MAIGNAN",
+    "nat": "FRA"
+  },
+  "448341": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Jeremy DOKU",
+    "nat": "BEL"
+  },
+  "448343": {
+    "club": "Club Brugge",
+    "clubnat": "BEL",
+    "name": "Hans VANAKEN",
+    "nat": "BEL"
+  },
+  "448346": {
+    "club": "Eintracht Frankfurt",
+    "clubnat": "GER",
+    "name": "Arthur THEATE",
+    "nat": "BEL"
+  },
+  "448355": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Leandro TROSSARD",
+    "nat": "BEL"
+  },
+  "448360": {
+    "club": "Club Brugge",
+    "clubnat": "BEL",
+    "name": "Brandon MECHELE",
+    "nat": "BEL"
+  },
+  "448362": {
+    "club": "Atalanta",
+    "clubnat": "ITA",
+    "name": "Charles DE KETELAERE",
+    "nat": "BEL"
+  },
+  "448363": {
+    "club": "Lugano",
+    "clubnat": "SUI",
+    "name": "Hannes DELCROIX",
+    "nat": "HAI"
+  },
+  "448364": {
+    "club": "Aston Villa",
+    "clubnat": "ENG",
+    "name": "Amadou ONANA",
+    "nat": "BEL"
+  },
+  "448366": {
+    "club": "Milan",
+    "clubnat": "ITA",
+    "name": "Koni DE WINTER",
+    "nat": "BEL"
+  },
+  "448369": {
+    "club": "Sporting CP",
+    "clubnat": "POR",
+    "name": "Zeno DEBAST",
+    "nat": "BEL"
+  },
+  "448373": {
+    "club": "Brighton & Hove Albion",
+    "clubnat": "ENG",
+    "name": "Maxim DE CUYPER",
+    "nat": "BEL"
+  },
+  "448377": {
+    "club": "Benfica",
+    "clubnat": "POR",
+    "name": "Dodi LUKEBAKIO",
+    "nat": "BEL"
+  },
+  "448390": {
+    "club": "Los Angeles FC",
+    "clubnat": "USA",
+    "name": "Mathieu CHOINIERE",
+    "nat": "CAN"
+  },
+  "448402": {
+    "club": "Chicago Fire FC",
+    "clubnat": "USA",
+    "name": "Joel WATERMAN",
+    "nat": "CAN"
+  },
+  "448411": {
+    "club": "Los Angeles FC",
+    "clubnat": "USA",
+    "name": "Jacob SHAFFELBURG",
+    "nat": "CAN"
+  },
+  "448420": {
+    "club": "Zenit Saint Petersburg",
+    "clubnat": "RUS",
+    "name": "LUIZ HENRIQUE",
+    "nat": "BRA"
+  },
+  "448497": {
+    "club": "Rostov",
+    "clubnat": "RUS",
+    "name": "Mohammad MOHEBBI",
+    "nat": "IRN"
+  },
+  "448505": {
+    "club": "Esteghlal",
+    "clubnat": "IRN",
+    "name": "Saleh HARDANI",
+    "nat": "IRN"
+  },
+  "448507": {
+    "club": "Persepolis",
+    "clubnat": "IRN",
+    "name": "Payam NIAZMAND",
+    "nat": "IRN"
+  },
+  "448522": {
+    "club": "Rennes",
+    "clubnat": "FRA",
+    "name": "Alidu SEIDU",
+    "nat": "GHA"
+  },
+  "448523": {
+    "club": "Atalanta",
+    "clubnat": "ITA",
+    "name": "Kamaldeen SULEMANA",
+    "nat": "GHA"
+  },
+  "448525": {
+    "club": "Lyon",
+    "clubnat": "FRA",
+    "name": "Ernest NUAMAH",
+    "nat": "GHA"
+  },
+  "448531": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Antoine SEMENYO",
+    "nat": "GHA"
+  },
+  "448557": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Daichi KAMADA",
+    "nat": "JPN"
+  },
+  "448569": {
+    "club": "Borussia Mönchengladbach",
+    "clubnat": "GER",
+    "name": "Shuto MACHINO",
+    "nat": "JPN"
+  },
+  "448580": {
+    "club": "Daejeon Hana Citizen",
+    "clubnat": "KOR",
+    "name": "KIM Moonhwan ",
+    "nat": "KOR"
+  },
+  "448585": {
+    "club": "Celtic",
+    "clubnat": "SCO",
+    "name": "YANG Hyunjun ",
+    "nat": "KOR"
+  },
+  "448586": {
+    "club": "Beşiktaş",
+    "clubnat": "TUR",
+    "name": "OH Hyeongyu",
+    "nat": "KOR"
+  },
+  "448598": {
+    "club": "PSV Eindhoven",
+    "clubnat": "NED",
+    "name": "Ismael SAIBARI",
+    "nat": "MAR"
+  },
+  "448607": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Chadi RIAD",
+    "nat": "MAR"
+  },
+  "448612": {
+    "club": "VfB Stuttgart",
+    "clubnat": "GER",
+    "name": "Bilal EL KHANNOUSS",
+    "nat": "MAR"
+  },
+  "448662": {
+    "club": "Copenhagen",
+    "clubnat": "DEN",
+    "name": "Elias ACHOURI",
+    "nat": "TUN"
+  },
+  "448815": {
+    "club": "Everton",
+    "clubnat": "ENG",
+    "name": "Iliman NDIAYE",
+    "nat": "SEN"
+  },
+  "448821": {
+    "club": "Le Havre",
+    "clubnat": "FRA",
+    "name": "Mory DIAW",
+    "nat": "SEN"
+  },
+  "448825": {
+    "club": "Rayo Vallecano",
+    "clubnat": "ESP",
+    "name": "Pathe CISS",
+    "nat": "SEN"
+  },
+  "45191": {
+    "club": "Al-Wehdat",
+    "clubnat": "JOR",
+    "name": "MOHAMMAD ALDAOUD",
+    "nat": "JOR"
+  },
+  "461177": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Obed VARGAS",
+    "nat": "MEX"
+  },
+  "461788": {
+    "club": "Al Ahly",
+    "clubnat": "EGY",
+    "name": "MARAWAN ATTIA",
+    "nat": "EGY"
+  },
+  "463125": {
+    "club": "Palmeiras",
+    "clubnat": "BRA",
+    "name": "Ramon SOSA",
+    "nat": "PAR"
+  },
+  "463127": {
+    "club": "Independiente",
+    "clubnat": "ARG",
+    "name": "Gabriel AVALOS",
+    "nat": "PAR"
+  },
+  "463128": {
+    "club": "Brighton & Hove Albion",
+    "clubnat": "ENG",
+    "name": "Diego GOMEZ",
+    "nat": "PAR"
+  },
+  "463218": {
+    "club": "Mamelodi Sundowns",
+    "clubnat": "RSA",
+    "name": "Khuliso MUDAU",
+    "nat": "RSA"
+  },
+  "463221": {
+    "club": "Orlando Pirates",
+    "clubnat": "RSA",
+    "name": "Nkosinathi SIBISI",
+    "nat": "RSA"
+  },
+  "463234": {
+    "club": "AEL Limassol",
+    "clubnat": "CYP",
+    "name": "Thapelo MASEKO",
+    "nat": "RSA"
+  },
+  "463236": {
+    "club": "Mamelodi Sundowns",
+    "clubnat": "RSA",
+    "name": "Jayden ADAMS",
+    "nat": "RSA"
+  },
+  "463282": {
+    "club": "TSG Hoffenheim",
+    "clubnat": "GER",
+    "name": "Alexander PRASS",
+    "nat": "AUT"
+  },
+  "463283": {
+    "club": "Werder Bremen",
+    "clubnat": "GER",
+    "name": "Romano SCHMID",
+    "nat": "AUT"
+  },
+  "463286": {
+    "club": "VfL Wolfsburg",
+    "clubnat": "GER",
+    "name": "Patrick WIMMER",
+    "nat": "AUT"
+  },
+  "463287": {
+    "club": "Werder Bremen",
+    "clubnat": "GER",
+    "name": "Marco FRIEDL",
+    "nat": "AUT"
+  },
+  "463288": {
+    "club": "Mainz 05",
+    "clubnat": "GER",
+    "name": "Phillip MWENE",
+    "nat": "AUT"
+  },
+  "463465": {
+    "club": "Club Brugge",
+    "clubnat": "BEL",
+    "name": "Joel ORDONEZ",
+    "nat": "ECU"
+  },
+  "463468": {
+    "club": "Atlético Mineiro",
+    "clubnat": "BRA",
+    "name": "Alan MINDA",
+    "nat": "ECU"
+  },
+  "463476": {
+    "club": "Midtjylland",
+    "clubnat": "DEN",
+    "name": "Denil CASTILLO",
+    "nat": "ECU"
+  },
+  "463489": {
+    "club": "Genk",
+    "clubnat": "BEL",
+    "name": "Yaimar MEDINA",
+    "nat": "ECU"
+  },
+  "463495": {
+    "club": "River Plate",
+    "clubnat": "ARG",
+    "name": "Kendry PAEZ",
+    "nat": "ECU"
+  },
+  "463580": {
+    "club": "Portland Timbers",
+    "clubnat": "USA",
+    "name": "Finn SURMAN",
+    "nat": "NZL"
+  },
+  "463661": {
+    "club": "Strasbourg",
+    "clubnat": "FRA",
+    "name": "Valentin BARCO",
+    "nat": "ARG"
+  },
+  "463746": {
+    "club": "Lyon",
+    "clubnat": "FRA",
+    "name": "ENDRICK",
+    "nat": "BRA"
+  },
+  "463780": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Nico OREILLY",
+    "nat": "ENG"
+  },
+  "463800": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Carney CHUKWUEMEKA",
+    "nat": "AUT"
+  },
+  "463809": {
+    "club": "Bayer Leverkusen",
+    "clubnat": "GER",
+    "name": "Jarell QUANSAH",
+    "nat": "ENG"
+  },
+  "463817": {
+    "club": "Barnsley",
+    "clubnat": "ENG",
+    "name": "Owen GOODMAN",
+    "nat": "CAN"
+  },
+  "463902": {
+    "club": "Racing Santander",
+    "clubnat": "ESP",
+    "name": "Gustavo PUERTA",
+    "nat": "COL"
+  },
+  "464055": {
+    "club": "Chelsea",
+    "clubnat": "ENG",
+    "name": "Malo GUSTO",
+    "nat": "FRA"
+  },
+  "464103": {
+    "club": "Inter Milan",
+    "clubnat": "ITA",
+    "name": "Ange-Yoan BONNY",
+    "nat": "CIV"
+  },
+  "464114": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "Desire DOUE",
+    "nat": "FRA"
+  },
+  "464127": {
+    "club": "Lens",
+    "clubnat": "FRA",
+    "name": "Robin RISSER",
+    "nat": "FRA"
+  },
+  "464133": {
+    "club": "Nice",
+    "clubnat": "FRA",
+    "name": "Elye WAHI",
+    "nat": "CIV"
+  },
+  "464339": {
+    "club": "Sint-Truiden",
+    "clubnat": "BEL",
+    "name": "Keisuke GOTO",
+    "nat": "JPN"
+  },
+  "464374": {
+    "club": "Stoke City",
+    "clubnat": "ENG",
+    "name": "BAE Junho",
+    "nat": "KOR"
+  },
+  "464457": {
+    "club": "Al-Najma",
+    "clubnat": "KSA",
+    "name": "ALI JASIM",
+    "nat": "IRQ"
+  },
+  "464458": {
+    "club": "AEK Larnaca",
+    "clubnat": "CYP",
+    "name": "YOUSSEF AMYN",
+    "nat": "IRQ"
+  },
+  "464484": {
+    "club": "FC Augsburg",
+    "clubnat": "GER",
+    "name": "Ismael GHARBI",
+    "nat": "TUN"
+  },
+  "464533": {
+    "club": "Guadalajara",
+    "clubnat": "MEX",
+    "name": "Brian GUTIERREZ",
+    "nat": "MEX"
+  },
+  "464542": {
+    "club": "Villarreal",
+    "clubnat": "ESP",
+    "name": "Alex FREEMAN",
+    "nat": "USA"
+  },
+  "464546": {
+    "club": "Chicago Fire FC",
+    "clubnat": "USA",
+    "name": "Chris BRADY",
+    "nat": "USA"
+  },
+  "464566": {
+    "club": "PSV Eindhoven",
+    "clubnat": "NED",
+    "name": "Esmir BAJRAKTAREVIC",
+    "nat": "BIH"
+  },
+  "464842": {
+    "club": "Monaco",
+    "clubnat": "FRA",
+    "name": "Lamine CAMARA",
+    "nat": "SEN"
+  },
+  "464865": {
+    "club": "West Ham United",
+    "clubnat": "ENG",
+    "name": "El Hadji Malick DIOUF",
+    "nat": "SEN"
+  },
+  "464897": {
+    "club": "Bukhara",
+    "clubnat": "UZB",
+    "name": "Sherzod ESANOV",
+    "nat": "UZB"
+  },
+  "464906": {
+    "club": "Dinamo Samarqand",
+    "clubnat": "UZB",
+    "name": "Jakhongir UROZOV",
+    "nat": "UZB"
+  },
+  "464924": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Abdukodir KHUSANOV",
+    "nat": "UZB"
+  },
+  "464933": {
+    "club": "İstanbul Başakşehir",
+    "clubnat": "TUR",
+    "name": "Abbosbek FAYZULLAEV",
+    "nat": "UZB"
+  },
+  "466317": {
+    "club": "Volendam",
+    "clubnat": "NED",
+    "name": "Juninho BACUNA",
+    "nat": "CUW"
+  },
+  "466340": {
+    "club": "Iğdır",
+    "clubnat": "TUR",
+    "name": "Leandro BACUNA",
+    "nat": "CUW"
+  },
+  "466346": {
+    "club": "Volendam",
+    "clubnat": "NED",
+    "name": "Brandley KUWAS",
+    "nat": "CUW"
+  },
+  "466350": {
+    "club": "PEC Zwolle",
+    "clubnat": "NED",
+    "name": "Sherel FLORANUS",
+    "nat": "CUW"
+  },
+  "466352": {
+    "club": "Maccabi Haifa",
+    "clubnat": "ISR",
+    "name": "Kenji GORRE",
+    "nat": "CUW"
+  },
+  "466359": {
+    "club": "RKC Waalwijk",
+    "clubnat": "NED",
+    "name": "Godfried ROEMERATOE",
+    "nat": "CUW"
+  },
+  "466361": {
+    "club": "RKC Waalwijk",
+    "clubnat": "NED",
+    "name": "Roshon VAN EIJMA",
+    "nat": "CUW"
+  },
+  "466363": {
+    "club": "Beveren",
+    "clubnat": "BEL",
+    "name": "Jearl MARGARITHA",
+    "nat": "CUW"
+  },
+  "466365": {
+    "club": "Den Bosch",
+    "clubnat": "NED",
+    "name": "Kevin FELIDA",
+    "nat": "CUW"
+  },
+  "466370": {
+    "club": "Telstar",
+    "clubnat": "NED",
+    "name": "Tyrick BODAK",
+    "nat": "CUW"
+  },
+  "466372": {
+    "club": "Terengganu",
+    "clubnat": "MAS",
+    "name": "Gervane KASTANEER",
+    "nat": "CUW"
+  },
+  "466382": {
+    "club": "VVV-Venlo",
+    "clubnat": "NED",
+    "name": "Trevor DOORNBUSCH",
+    "nat": "CUW"
+  },
+  "466585": {
+    "club": "Nice",
+    "clubnat": "FRA",
+    "name": "Moise BOMBITO",
+    "nat": "CAN"
+  },
+  "466624": {
+    "club": "Monaco",
+    "clubnat": "FRA",
+    "name": "Folarin BALOGUN",
+    "nat": "USA"
+  },
+  "466669": {
+    "club": "Universidad Católica",
+    "clubnat": "ECU",
+    "name": "Azarias LONDONO",
+    "nat": "PAN"
+  },
+  "466687": {
+    "club": "Norwich City",
+    "clubnat": "ENG",
+    "name": "Ali AHMED",
+    "nat": "CAN"
+  },
+  "466835": {
+    "club": "Sochaux",
+    "clubnat": "FRA",
+    "name": "Alexandre PIERRE",
+    "nat": "HAI"
+  },
+  "466838": {
+    "club": "Philadelphia Union",
+    "clubnat": "USA",
+    "name": "Danley JEAN JACQUES",
+    "nat": "HAI"
+  },
+  "466844": {
+    "club": "Colorado Springs Switchbacks FC",
+    "clubnat": "USA",
+    "name": "Markhus LACROIX",
+    "nat": "HAI"
+  },
+  "466853": {
+    "club": "Cosmos Koblenz",
+    "clubnat": "GER",
+    "name": "Josue DUVERGER",
+    "nat": "HAI"
+  },
+  "466862": {
+    "club": "Colorado Springs Switchbacks FC",
+    "clubnat": "USA",
+    "name": "Garven METUSALA",
+    "nat": "HAI"
+  },
+  "466865": {
+    "club": "Toronto FC",
+    "clubnat": "CAN",
+    "name": "Derrick ETIENNE",
+    "nat": "HAI"
+  },
+  "470759": {
+    "club": "River Plate",
+    "clubnat": "ARG",
+    "name": "Kevin CASTANO",
+    "nat": "COL"
+  },
+  "470760": {
+    "club": "Palmeiras",
+    "clubnat": "BRA",
+    "name": "Jhon ARIAS",
+    "nat": "COL"
+  },
+  "472877": {
+    "club": "Kasımpaşa",
+    "clubnat": "TUR",
+    "name": "Irfan Can KAHVECI",
+    "nat": "TUR"
+  },
+  "472908": {
+    "club": "TSG Hoffenheim",
+    "clubnat": "GER",
+    "name": "Vladimir COUFAL",
+    "nat": "CZE"
+  },
+  "473050": {
+    "club": "Benfica",
+    "clubnat": "POR",
+    "name": "Richard RIOS",
+    "nat": "COL"
+  },
+  "473062": {
+    "club": "Palmeiras",
+    "clubnat": "BRA",
+    "name": "Emiliano MARTINEZ",
+    "nat": "URU"
+  },
+  "473113": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Eberechi EZE",
+    "nat": "ENG"
+  },
+  "474973": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "Pau CUBARSI",
+    "nat": "ESP"
+  },
+  "475036": {
+    "club": "Bournemouth",
+    "clubnat": "ENG",
+    "name": "RAYAN",
+    "nat": "BRA"
+  },
+  "475195": {
+    "club": "RB Leipzig",
+    "clubnat": "GER",
+    "name": "Assan OUEDRAOGO",
+    "nat": "GER"
+  },
+  "475260": {
+    "club": "Surkhon Termiz",
+    "clubnat": "UZB",
+    "name": "Behruzjon KARIMOV",
+    "nat": "UZB"
+  },
+  "475921": {
+    "club": "Esteghlal",
+    "clubnat": "IRN",
+    "name": "Amirmohammad RAZAGHINIA",
+    "nat": "IRN"
+  },
+  "476345": {
+    "club": "Cruz Azul",
+    "clubnat": "MEX",
+    "name": "Willer DITTA",
+    "nat": "COL"
+  },
+  "476348": {
+    "club": "São Paulo",
+    "clubnat": "BRA",
+    "name": "Damian BOBADILLA",
+    "nat": "PAR"
+  },
+  "477470": {
+    "club": "Fulham",
+    "clubnat": "ENG",
+    "name": "Oscar BOBB",
+    "nat": "NOR"
+  },
+  "477536": {
+    "club": "Oviedo",
+    "clubnat": "ESP",
+    "name": "Federico VINAS",
+    "nat": "URU"
+  },
+  "477770": {
+    "club": "Shamrock Rovers",
+    "clubnat": "IRL",
+    "name": "PICO LOPES",
+    "nat": "CPV"
+  },
+  "477777": {
+    "club": "Cercle Brugge",
+    "clubnat": "BEL",
+    "name": "Oumar DIAKITE",
+    "nat": "CIV"
+  },
+  "477778": {
+    "club": "Monaco",
+    "clubnat": "FRA",
+    "name": "Simon ADINGRA",
+    "nat": "CIV"
+  },
+  "477790": {
+    "club": "VfL Wolfsburg",
+    "clubnat": "GER",
+    "name": "Mohamed AMOURA",
+    "nat": "ALG"
+  },
+  "477795": {
+    "club": "Eintracht Frankfurt",
+    "clubnat": "GER",
+    "name": "Fares CHAIBI",
+    "nat": "ALG"
+  },
+  "477802": {
+    "club": "Sporting CP",
+    "clubnat": "POR",
+    "name": "Ousmane DIOMANDE",
+    "nat": "CIV"
+  },
+  "477817": {
+    "club": "USM Alger",
+    "clubnat": "ALG",
+    "name": "Oussama BENBOT",
+    "nat": "ALG"
+  },
+  "477825": {
+    "club": "Atalanta",
+    "clubnat": "ITA",
+    "name": "Odilon KOSSOUNOU",
+    "nat": "CIV"
+  },
+  "477827": {
+    "club": "Ludogorets Razgrad",
+    "clubnat": "BUL",
+    "name": "DEROY DUARTE",
+    "nat": "CPV"
+  },
+  "477829": {
+    "club": "AEL",
+    "clubnat": "GRE",
+    "name": "Dylan BATUBINSIKA",
+    "nat": "COD"
+  },
+  "477831": {
+    "club": "Villarreal",
+    "clubnat": "ESP",
+    "name": "LOGAN COSTA",
+    "nat": "CPV"
+  },
+  "477832": {
+    "club": "Benfica",
+    "clubnat": "POR",
+    "name": "SIDNY LOPES CABRAL",
+    "nat": "CPV"
+  },
+  "477833": {
+    "club": "Genk",
+    "clubnat": "BEL",
+    "name": "Joris KAYEMBE",
+    "nat": "COD"
+  },
+  "477835": {
+    "club": "Al Jazira",
+    "clubnat": "UAE",
+    "name": "Simon BANZA",
+    "nat": "COD"
+  },
+  "477847": {
+    "club": "Columbus Crew",
+    "clubnat": "USA",
+    "name": "STEVEN MOREIRA",
+    "nat": "CPV"
+  },
+  "477849": {
+    "club": "Maccabi Tel Aviv",
+    "clubnat": "ISR",
+    "name": "HELIO VARELA",
+    "nat": "CPV"
+  },
+  "477852": {
+    "club": "Krasnodar",
+    "clubnat": "RUS",
+    "name": "KEVIN PINA",
+    "nat": "CPV"
+  },
+  "477853": {
+    "club": "Aris Limassol",
+    "clubnat": "CYP",
+    "name": "Gedeon KALULU",
+    "nat": "COD"
+  },
+  "477855": {
+    "club": "FCSB",
+    "clubnat": "ROU",
+    "name": "JOAO PAULO",
+    "nat": "CPV"
+  },
+  "477856": {
+    "club": "Estrela Amadora",
+    "clubnat": "POR",
+    "name": "JOVANE CABRAL",
+    "nat": "CPV"
+  },
+  "477859": {
+    "club": "Pyramids",
+    "clubnat": "EGY",
+    "name": "Fiston MAYELE",
+    "nat": "COD"
+  },
+  "477862": {
+    "club": "Akron Tolyatti",
+    "clubnat": "RUS",
+    "name": "GILSON BENCHIMOL",
+    "nat": "CPV"
+  },
+  "477864": {
+    "club": "Kilmarnock",
+    "clubnat": "SCO",
+    "name": "Aaron TSHIBOLA",
+    "nat": "COD"
+  },
+  "478364": {
+    "club": "Bournemouth",
+    "clubnat": "ENG",
+    "name": "Justin KLUIVERT",
+    "nat": "NED"
+  },
+  "479042": {
+    "club": "Dibba",
+    "clubnat": "UAE",
+    "name": "Abdulla ABDULLAEV",
+    "nat": "UZB"
+  },
+  "479056": {
+    "club": "Al-Shorta",
+    "clubnat": "IRQ",
+    "name": "MUSTAFA SAADOON",
+    "nat": "IRQ"
+  },
+  "479072": {
+    "club": "Viktoria Plzeň",
+    "clubnat": "CZE",
+    "name": "MERCHAS DOSKI",
+    "nat": "IRQ"
+  },
+  "479075": {
+    "club": "Nasaf",
+    "clubnat": "UZB",
+    "name": "Sherzod NASRULLAEV",
+    "nat": "UZB"
+  },
+  "479077": {
+    "club": "Navbahor Namangan",
+    "clubnat": "UZB",
+    "name": "Utkir YUSUPOV",
+    "nat": "UZB"
+  },
+  "479079": {
+    "club": "Pakhtakor",
+    "clubnat": "UZB",
+    "name": "Khojiakbar ALIJONOV",
+    "nat": "UZB"
+  },
+  "479080": {
+    "club": "Persepolis",
+    "clubnat": "IRN",
+    "name": "Oston URUNOV",
+    "nat": "UZB"
+  },
+  "479084": {
+    "club": "Nasaf",
+    "clubnat": "UZB",
+    "name": "Umar ESHMURODOV",
+    "nat": "UZB"
+  },
+  "479086": {
+    "club": "Al Bataeh",
+    "clubnat": "UAE",
+    "name": "Azizjon GANIEV",
+    "nat": "UZB"
+  },
+  "479106": {
+    "club": "Pakhtakor",
+    "clubnat": "UZB",
+    "name": "Akmal MOZGOVOY",
+    "nat": "UZB"
+  },
+  "479110": {
+    "club": "Nasaf",
+    "clubnat": "UZB",
+    "name": "Abduvohid NEMATOV",
+    "nat": "UZB"
+  },
+  "479294": {
+    "club": "Mainz 05",
+    "clubnat": "GER",
+    "name": "Kaishu SANO",
+    "nat": "JPN"
+  },
+  "479316": {
+    "club": "Zhejiang",
+    "clubnat": "CHN",
+    "name": "PARK Jinseob",
+    "nat": "KOR"
+  },
+  "479389": {
+    "club": "Al-Quwa Al-Jawiya",
+    "clubnat": "IRQ",
+    "name": "MOHANNAD ABUTAHA",
+    "nat": "JOR"
+  },
+  "479553": {
+    "club": "Pogoń Szczecin",
+    "clubnat": "POL",
+    "name": "Hussein Ali",
+    "nat": "IRQ"
+  },
+  "479601": {
+    "club": "Dynamo Moscow",
+    "clubnat": "RUS",
+    "name": "Juan Jose CACERES",
+    "nat": "PAR"
+  },
+  "479781": {
+    "club": "Lugano",
+    "clubnat": "SUI",
+    "name": "Mohamed HADJ MAHMOUD",
+    "nat": "TUN"
+  },
+  "480310": {
+    "club": "Puerto Cabello",
+    "clubnat": "VEN",
+    "name": "Jiovany RAMOS",
+    "nat": "PAN"
+  },
+  "480313": {
+    "club": "Pari Nizhny Novgorod",
+    "clubnat": "RUS",
+    "name": "Edgardo FARINA",
+    "nat": "PAN"
+  },
+  "480322": {
+    "club": "Dender",
+    "clubnat": "BEL",
+    "name": "Luc DE FOUGEROLLES",
+    "nat": "CAN"
+  },
+  "480966": {
+    "club": "Puskás Akadémia",
+    "clubnat": "HUN",
+    "name": "LAROS DUARTE",
+    "nat": "CPV"
+  },
+  "480983": {
+    "club": "JS Kabylie",
+    "clubnat": "ALG",
+    "name": "Zineddine BELAID",
+    "nat": "ALG"
+  },
+  "481027": {
+    "club": "FC Dallas",
+    "clubnat": "USA",
+    "name": "Louicius DEEDSON",
+    "nat": "HAI"
+  },
+  "481180": {
+    "club": "Kalba",
+    "clubnat": "UAE",
+    "name": "Shahriyar MOGHANLOO",
+    "nat": "IRN"
+  },
+  "481181": {
+    "club": "Sepahan",
+    "clubnat": "IRN",
+    "name": "Arya YOUSEFI",
+    "nat": "IRN"
+  },
+  "481183": {
+    "club": "Al-Zawraa",
+    "clubnat": "IRQ",
+    "name": "AKAM HASHIM",
+    "nat": "IRQ"
+  },
+  "481220": {
+    "club": "Dinamo Samarqand",
+    "clubnat": "UZB",
+    "name": "Azizbek AMONOV",
+    "nat": "UZB"
+  },
+  "481242": {
+    "club": "Mamelodi Sundowns",
+    "clubnat": "RSA",
+    "name": "Iqraam RAYNERS",
+    "nat": "RSA"
+  },
+  "481610": {
+    "club": "Nottingham Forest",
+    "clubnat": "ENG",
+    "name": "Elliot ANDERSON",
+    "nat": "ENG"
+  },
+  "482621": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "Kobbie MAINOO",
+    "nat": "ENG"
+  },
+  "482670": {
+    "club": "Al Wahda",
+    "clubnat": "UAE",
+    "name": "Mohammad GHORBANI",
+    "nat": "IRN"
+  },
+  "482774": {
+    "club": "Como",
+    "clubnat": "ITA",
+    "name": "Martin BATURINA",
+    "nat": "CRO"
+  },
+  "482775": {
+    "club": "Sheffield United",
+    "clubnat": "ENG",
+    "name": "Tyler BINDON",
+    "nat": "NZL"
+  },
+  "482780": {
+    "club": "SJK",
+    "clubnat": "FIN",
+    "name": "KELVIN PIRES",
+    "nat": "CPV"
+  },
+  "482782": {
+    "club": "Casa Pia",
+    "clubnat": "POR",
+    "name": "DAILON LIVRAMENTO",
+    "nat": "CPV"
+  },
+  "482783": {
+    "club": "Trabzonspor",
+    "clubnat": "TUR",
+    "name": "WAGNER PINA",
+    "nat": "CPV"
+  },
+  "482869": {
+    "club": "Young Boys",
+    "clubnat": "SUI",
+    "name": "Jaouen HADJAM",
+    "nat": "ALG"
+  },
+  "482874": {
+    "club": "Feyenoord",
+    "clubnat": "NED",
+    "name": "Anis HADJ MOUSSA",
+    "nat": "ALG"
+  },
+  "482885": {
+    "club": "Hannover 96",
+    "clubnat": "GER",
+    "name": "Elias SAAD",
+    "nat": "TUN"
+  },
+  "482931": {
+    "club": "Orlando City SC",
+    "clubnat": "USA",
+    "name": "Marco PASALIC",
+    "nat": "CRO"
+  },
+  "482969": {
+    "club": "Gaziantep",
+    "clubnat": "TUR",
+    "name": "Nihad MUJAKIC",
+    "nat": "BIH"
+  },
+  "482974": {
+    "club": "Astana",
+    "clubnat": "KAZ",
+    "name": "Ivan BASIC",
+    "nat": "BIH"
+  },
+  "482976": {
+    "club": "Benfica",
+    "clubnat": "POR",
+    "name": "Amar DEDIC",
+    "nat": "BIH"
+  },
+  "482978": {
+    "club": "FC St. Pauli",
+    "clubnat": "GER",
+    "name": "Nikola VASILJ",
+    "nat": "BIH"
+  },
+  "482984": {
+    "club": "Borussia Mönchengladbach",
+    "clubnat": "GER",
+    "name": "Haris TABAKOVIC",
+    "nat": "BIH"
+  },
+  "483127": {
+    "club": "Al-Faisaly",
+    "clubnat": "JOR",
+    "name": "NOUR BANIATEYAH",
+    "nat": "JOR"
+  },
+  "483161": {
+    "club": "Pyramids",
+    "clubnat": "EGY",
+    "name": "MOSTAFA ZICO",
+    "nat": "EGY"
+  },
+  "483182": {
+    "club": "Zamalek",
+    "clubnat": "EGY",
+    "name": "HOSSAM ABDELMAGUID",
+    "nat": "EGY"
+  },
+  "483183": {
+    "club": "ZED",
+    "clubnat": "EGY",
+    "name": "MAHMOUD SABER",
+    "nat": "EGY"
+  },
+  "483264": {
+    "club": "Stoke City",
+    "clubnat": "ENG",
+    "name": "Viktor JOHANSSON",
+    "nat": "SWE"
+  },
+  "483276": {
+    "club": "Leeds United",
+    "clubnat": "ENG",
+    "name": "Gabriel GUDMUNDSSON",
+    "nat": "SWE"
+  },
+  "483304": {
+    "club": "Braga",
+    "clubnat": "POR",
+    "name": "Gustaf LAGERBIELKE",
+    "nat": "SWE"
+  },
+  "483312": {
+    "club": "Atalanta",
+    "clubnat": "ITA",
+    "name": "Isak HIEN",
+    "nat": "SWE"
+  },
+  "483319": {
+    "club": "Burnley",
+    "clubnat": "ENG",
+    "name": "Hjalmar EKDAL",
+    "nat": "SWE"
+  },
+  "483327": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Viktor GYOKERES",
+    "nat": "SWE"
+  },
+  "483442": {
+    "club": "Bodø/Glimt",
+    "clubnat": "NOR",
+    "name": "Patrick BERG",
+    "nat": "NOR"
+  },
+  "483448": {
+    "club": "RB Leipzig",
+    "clubnat": "GER",
+    "name": "Antonio NUSA",
+    "nat": "NOR"
+  },
+  "483471": {
+    "club": "Rennes",
+    "clubnat": "FRA",
+    "name": "Brice SAMBA",
+    "nat": "FRA"
+  },
+  "483481": {
+    "club": "Brighton & Hove Albion",
+    "clubnat": "ENG",
+    "name": "Mats WIEFFER",
+    "nat": "NED"
+  },
+  "483496": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Julian RYERSON",
+    "nat": "NOR"
+  },
+  "483497": {
+    "club": "Benfica",
+    "clubnat": "POR",
+    "name": "Fredrik AURSNES",
+    "nat": "NOR"
+  },
+  "483505": {
+    "club": "Wolverhampton Wanderers",
+    "clubnat": "ENG",
+    "name": "David MOLLER WOLFE",
+    "nat": "NOR"
+  },
+  "483512": {
+    "club": "Chelsea",
+    "clubnat": "ENG",
+    "name": "Jorrel HATO",
+    "nat": "NED"
+  },
+  "483516": {
+    "club": "Brentford",
+    "clubnat": "ENG",
+    "name": "Kristoffer AJER",
+    "nat": "NOR"
+  },
+  "483526": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "Tijjani REIJNDERS",
+    "nat": "NED"
+  },
+  "483530": {
+    "club": "Bodø/Glimt",
+    "clubnat": "NOR",
+    "name": "Fredrik Andre BJORKAN",
+    "nat": "NOR"
+  },
+  "483535": {
+    "club": "Watford",
+    "clubnat": "ENG",
+    "name": "Egil SELVIK",
+    "nat": "NOR"
+  },
+  "483549": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "Warren ZAIRE-EMERY",
+    "nat": "FRA"
+  },
+  "483553": {
+    "club": "Sunderland",
+    "clubnat": "ENG",
+    "name": "Lutsharel GEERTRUIDA",
+    "nat": "NED"
+  },
+  "483936": {
+    "club": "Slavia Prague",
+    "clubnat": "CZE",
+    "name": "David DOUDERA",
+    "nat": "CZE"
+  },
+  "483961": {
+    "club": "Slavia Prague",
+    "clubnat": "CZE",
+    "name": "Tomas CHORY",
+    "nat": "CZE"
+  },
+  "483966": {
+    "club": "Brøndby",
+    "clubnat": "DEN",
+    "name": "Benjamin TAHIROVIC",
+    "nat": "BIH"
+  },
+  "483990": {
+    "club": "Slavia Prague",
+    "clubnat": "CZE",
+    "name": "David JURASEK",
+    "nat": "CZE"
+  },
+  "484003": {
+    "club": "Slavia Prague",
+    "clubnat": "CZE",
+    "name": "Mojmir CHYTIL",
+    "nat": "CZE"
+  },
+  "484011": {
+    "club": "Slavia Prague",
+    "clubnat": "CZE",
+    "name": "Lukas PROVOD",
+    "nat": "CZE"
+  },
+  "484012": {
+    "club": "PSV Eindhoven",
+    "clubnat": "NED",
+    "name": "Matej KOVAR",
+    "nat": "CZE"
+  },
+  "484022": {
+    "club": "Sassuolo",
+    "clubnat": "ITA",
+    "name": "Tarik MUHAREMOVIC",
+    "nat": "BIH"
+  },
+  "484045": {
+    "club": "Heart of Midlothian",
+    "clubnat": "SCO",
+    "name": "Lawrence SHANKLAND",
+    "nat": "SCO"
+  },
+  "484051": {
+    "club": "Norwich City",
+    "clubnat": "ENG",
+    "name": "Kenny McLEAN",
+    "nat": "SCO"
+  },
+  "484065": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Eren ELMALI",
+    "nat": "TUR"
+  },
+  "484072": {
+    "club": "Çaykur Rizespor",
+    "clubnat": "TUR",
+    "name": "Samet AKAYDIN",
+    "nat": "TUR"
+  },
+  "484073": {
+    "club": "Wrexham",
+    "clubnat": "WAL",
+    "name": "Dominic HYAM",
+    "nat": "SCO"
+  },
+  "484082": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Abdulkerim BARDAKCI",
+    "nat": "TUR"
+  },
+  "484087": {
+    "club": "Real Madrid",
+    "clubnat": "ESP",
+    "name": "Arda GULER",
+    "nat": "TUR"
+  },
+  "484092": {
+    "club": "Fenerbahçe",
+    "clubnat": "TUR",
+    "name": "Ismail YUKSEK",
+    "nat": "TUR"
+  },
+  "484112": {
+    "club": "Juventus",
+    "clubnat": "ITA",
+    "name": "Kenan YILDIZ",
+    "nat": "TUR"
+  },
+  "484113": {
+    "club": "Brighton & Hove Albion",
+    "clubnat": "ENG",
+    "name": "Ferdi KADIOGLU",
+    "nat": "TUR"
+  },
+  "484139": {
+    "club": "Galatasaray",
+    "clubnat": "TUR",
+    "name": "Baris Alper YILMAZ",
+    "nat": "TUR"
+  },
+  "484141": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "JOAO NEVES",
+    "nat": "POR"
+  },
+  "484262": {
+    "club": "Venezia",
+    "clubnat": "ITA",
+    "name": "MARKO FARJI",
+    "nat": "IRQ"
+  },
+  "484270": {
+    "club": "Al-Talaba",
+    "clubnat": "IRQ",
+    "name": "ZAID ISMAEL",
+    "nat": "IRQ"
+  },
+  "484276": {
+    "club": "Al-Karma",
+    "clubnat": "IRQ",
+    "name": "AHMED MAKNAZI",
+    "nat": "IRQ"
+  },
+  "484320": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "Lamine YAMAL",
+    "nat": "ESP"
+  },
+  "484691": {
+    "club": "Barcelona",
+    "clubnat": "ESP",
+    "name": "Joan GARCIA",
+    "nat": "ESP"
+  },
+  "484698": {
+    "club": "Como",
+    "clubnat": "ITA",
+    "name": "Assane DIAO",
+    "nat": "SEN"
+  },
+  "484728": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Marc PUBILL",
+    "nat": "ESP"
+  },
+  "484817": {
+    "club": "Newcastle Jets",
+    "clubnat": "AUS",
+    "name": "Lachlan BAYLISS",
+    "nat": "NZL"
+  },
+  "484848": {
+    "club": "Brighton & Hove Albion",
+    "clubnat": "ENG",
+    "name": "Pascal GROSS",
+    "nat": "GER"
+  },
+  "484849": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Aleksandar PAVLOVIC",
+    "nat": "GER"
+  },
+  "484850": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Maximilian BEIER",
+    "nat": "GER"
+  },
+  "484851": {
+    "club": "VfB Stuttgart",
+    "clubnat": "GER",
+    "name": "Deniz UNDAV",
+    "nat": "GER"
+  },
+  "484859": {
+    "club": "Marseille",
+    "clubnat": "FRA",
+    "name": "Quinten TIMBER",
+    "nat": "NED"
+  },
+  "484860": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "Bradley BARCOLA",
+    "nat": "FRA"
+  },
+  "484862": {
+    "club": "Young Boys",
+    "clubnat": "SUI",
+    "name": "Marvin KELLER",
+    "nat": "SUI"
+  },
+  "484864": {
+    "club": "Eintracht Frankfurt",
+    "clubnat": "GER",
+    "name": "Aurele AMENDA",
+    "nat": "SUI"
+  },
+  "485063": {
+    "club": "Jagiellonia Białystok",
+    "clubnat": "POL",
+    "name": "Samed BAZDAR",
+    "nat": "BIH"
+  },
+  "485064": {
+    "club": "Hajduk Split",
+    "clubnat": "CRO",
+    "name": "Niko SIGUR",
+    "nat": "CAN"
+  },
+  "485065": {
+    "club": "Rijeka",
+    "clubnat": "CRO",
+    "name": "Toni FRUK",
+    "nat": "CRO"
+  },
+  "485066": {
+    "club": "Inter Milan",
+    "clubnat": "ITA",
+    "name": "Petar SUCIC",
+    "nat": "CRO"
+  },
+  "485068": {
+    "club": "SC Freiburg",
+    "clubnat": "GER",
+    "name": "Igor MATANOVIC",
+    "nat": "CRO"
+  },
+  "485069": {
+    "club": "Atalanta",
+    "clubnat": "ITA",
+    "name": "EDERSON SILVA",
+    "nat": "BRA"
+  },
+  "485070": {
+    "club": "Guadalajara",
+    "clubnat": "MEX",
+    "name": "Raul RANGEL",
+    "nat": "MEX"
+  },
+  "485080": {
+    "club": "Manchester City",
+    "clubnat": "ENG",
+    "name": "James TRAFFORD",
+    "nat": "ENG"
+  },
+  "485081": {
+    "club": "Juventus",
+    "clubnat": "ITA",
+    "name": "FRANCISCO CONCEICAO",
+    "nat": "POR"
+  },
+  "485131": {
+    "club": "Bournemouth",
+    "clubnat": "ENG",
+    "name": "Ben GANNON-DOAK",
+    "nat": "SCO"
+  },
+  "485324": {
+    "club": "Rotherham United",
+    "clubnat": "ENG",
+    "name": "Arjany MARTHA",
+    "nat": "CUW"
+  },
+  "485347": {
+    "club": "Sheffield United",
+    "clubnat": "ENG",
+    "name": "Tahith CHONG",
+    "nat": "CUW"
+  },
+  "485379": {
+    "club": "Sparta Rotterdam",
+    "clubnat": "NED",
+    "name": "Shurandy SAMBO",
+    "nat": "CUW"
+  },
+  "485409": {
+    "club": "Violette",
+    "clubnat": "HAI",
+    "name": "Woodensky PIERRE",
+    "nat": "HAI"
+  },
+  "485503": {
+    "club": "SC Freiburg",
+    "clubnat": "GER",
+    "name": "Yuito SUZUKI",
+    "nat": "JPN"
+  },
+  "485595": {
+    "club": "Atlético Madrid",
+    "clubnat": "ESP",
+    "name": "Giuliano SIMEONE",
+    "nat": "ARG"
+  },
+  "485655": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Michael OLISE",
+    "nat": "FRA"
+  },
+  "485664": {
+    "club": "Almere City",
+    "clubnat": "NED",
+    "name": "Ruben PROVIDENCE",
+    "nat": "HAI"
+  },
+  "485666": {
+    "club": "Monaco",
+    "clubnat": "FRA",
+    "name": "Maghnes AKLIOUCHE",
+    "nat": "FRA"
+  },
+  "485675": {
+    "club": "Crystal Palace",
+    "clubnat": "ENG",
+    "name": "Evann GUESSAND",
+    "nat": "CIV"
+  },
+  "485676": {
+    "club": "Ferencváros",
+    "clubnat": "HUN",
+    "name": "Lenny JOSEPH",
+    "nat": "HAI"
+  },
+  "485677": {
+    "club": "Roma",
+    "clubnat": "ITA",
+    "name": "Manu KONE",
+    "nat": "FRA"
+  },
+  "485740": {
+    "club": "Mechelen",
+    "clubnat": "BEL",
+    "name": "Neil EL AYNAOUI",
+    "nat": "MAR"
+  },
+  "485756": {
+    "club": "Genk",
+    "clubnat": "BEL",
+    "name": "Zakaria EL OUAHDI",
+    "nat": "MAR"
+  },
+  "485760": {
+    "club": "Lille",
+    "clubnat": "FRA",
+    "name": "Ayyoub BOUADDI",
+    "nat": "MAR"
+  },
+  "485767": {
+    "club": "PSV Eindhoven",
+    "clubnat": "NED",
+    "name": "Redouane HALHAL",
+    "nat": "MAR"
+  },
+  "485802": {
+    "club": "Independiente Rivadavia",
+    "clubnat": "ARG",
+    "name": "Alex ARCE",
+    "nat": "PAR"
+  },
+  "485804": {
+    "club": "Portsmouth",
+    "clubnat": "ENG",
+    "name": "Gustavo CABALLERO",
+    "nat": "PAR"
+  },
+  "486074": {
+    "club": "Eintracht Frankfurt",
+    "clubnat": "GER",
+    "name": "Can UZUN",
+    "nat": "TUR"
+  },
+  "486076": {
+    "club": "Fenerbahçe",
+    "clubnat": "TUR",
+    "name": "Oguz AYDIN",
+    "nat": "TUR"
+  },
+  "486080": {
+    "club": "TSG Hoffenheim",
+    "clubnat": "GER",
+    "name": "Robin HRANAC",
+    "nat": "CZE"
+  },
+  "486081": {
+    "club": "Viktoria Plzeň",
+    "clubnat": "CZE",
+    "name": "Lukas CERV",
+    "nat": "CZE"
+  },
+  "486082": {
+    "club": "Lyon",
+    "clubnat": "FRA",
+    "name": "Pavel SULC",
+    "nat": "CZE"
+  },
+  "486130": {
+    "club": "Sunderland",
+    "clubnat": "ENG",
+    "name": "Habib DIARRA",
+    "nat": "SEN"
+  },
+  "486147": {
+    "club": "Sunderland",
+    "clubnat": "ENG",
+    "name": "Noah SADIKI",
+    "nat": "COD"
+  },
+  "486150": {
+    "club": "İstanbul Başakşehir",
+    "clubnat": "TUR",
+    "name": "Jerome OPOKU",
+    "nat": "GHA"
+  },
+  "486161": {
+    "club": "Orlando Pirates",
+    "clubnat": "RSA",
+    "name": "Relebohile MOFOKENG",
+    "nat": "RSA"
+  },
+  "486168": {
+    "club": "Samsunspor",
+    "clubnat": "TUR",
+    "name": "Cherif NDIAYE",
+    "nat": "SEN"
+  },
+  "486196": {
+    "club": "Noah",
+    "clubnat": "ARM",
+    "name": "Timothy FAYULU",
+    "nat": "COD"
+  },
+  "486213": {
+    "club": "Coventry City",
+    "clubnat": "ENG",
+    "name": "Brandon THOMAS-ASANTE",
+    "nat": "GHA"
+  },
+  "486259": {
+    "club": "Charleroi",
+    "clubnat": "BEL",
+    "name": "Mohamed KONE",
+    "nat": "CIV"
+  },
+  "486260": {
+    "club": "İstanbul Başakşehir",
+    "clubnat": "TUR",
+    "name": "Christopher OPERI",
+    "nat": "CIV"
+  },
+  "486268": {
+    "club": "Beşiktaş",
+    "clubnat": "TUR",
+    "name": "Emmanuel AGBADOU",
+    "nat": "CIV"
+  },
+  "486306": {
+    "club": "Watford",
+    "clubnat": "ENG",
+    "name": "Nestory IRANKUNDA",
+    "nat": "AUS"
+  },
+  "486317": {
+    "club": "Strasbourg",
+    "clubnat": "FRA",
+    "name": "Guela DOUE",
+    "nat": "CIV"
+  },
+  "486390": {
+    "club": "Columbus Crew",
+    "clubnat": "USA",
+    "name": "Max ARFSTEN",
+    "nat": "USA"
+  },
+  "486614": {
+    "club": "Al-Arabi",
+    "clubnat": "QAT",
+    "name": "ALHASHMI ALHUSSEIN",
+    "nat": "QAT"
+  },
+  "486639": {
+    "club": "Al-Duhail",
+    "clubnat": "QAT",
+    "name": "TAHSIN MOHAMMED",
+    "nat": "QAT"
+  },
+  "486875": {
+    "club": "Cerro Porteño",
+    "clubnat": "PAR",
+    "name": "Gustavo VELAZQUEZ",
+    "nat": "PAR"
+  },
+  "486929": {
+    "club": "Villarreal",
+    "clubnat": "ESP",
+    "name": "Tani OLUWASEYI",
+    "nat": "CAN"
+  },
+  "489300": {
+    "club": "Nancy",
+    "clubnat": "FRA",
+    "name": "Martin EXPERIENCE",
+    "nat": "HAI"
+  },
+  "489417": {
+    "club": "Red Bull Bragantino",
+    "clubnat": "BRA",
+    "name": "Isidro PITTA",
+    "nat": "PAR"
+  },
+  "489517": {
+    "club": "Brighton & Hove Albion",
+    "clubnat": "ENG",
+    "name": "Jan Paul VAN HECKE",
+    "nat": "NED"
+  },
+  "489518": {
+    "club": "West Ham United",
+    "clubnat": "ENG",
+    "name": "Crysencio SUMMERVILLE",
+    "nat": "NED"
+  },
+  "489520": {
+    "club": "Schalke 04",
+    "clubnat": "GER",
+    "name": "Nikola KATIC",
+    "nat": "BIH"
+  },
+  "489521": {
+    "club": "Rijeka",
+    "clubnat": "CRO",
+    "name": "Stjepan RADELJIC",
+    "nat": "BIH"
+  },
+  "489523": {
+    "club": "Young Boys",
+    "clubnat": "SUI",
+    "name": "Armin GIGOVIC",
+    "nat": "BIH"
+  },
+  "489550": {
+    "club": "Al-Faisaly",
+    "clubnat": "JOR",
+    "name": "HUSAM ABUDAHAB",
+    "nat": "JOR"
+  },
+  "489551": {
+    "club": "Selangor",
+    "clubnat": "MAS",
+    "name": "MOHAMMAD ABUALNADI",
+    "nat": "JOR"
+  },
+  "489603": {
+    "club": "Foolad",
+    "clubnat": "IRN",
+    "name": "Ali NEMATI",
+    "nat": "IRN"
+  },
+  "489685": {
+    "club": "Derby County",
+    "clubnat": "ENG",
+    "name": "Jacob WIDELL ZETTERSTROM",
+    "nat": "SWE"
+  },
+  "489688": {
+    "club": "Brighton & Hove Albion",
+    "clubnat": "ENG",
+    "name": "Yasin AYARI",
+    "nat": "SWE"
+  },
+  "489689": {
+    "club": "Tottenham Hotspur",
+    "clubnat": "ENG",
+    "name": "Lucas BERGVALL",
+    "nat": "SWE"
+  },
+  "489691": {
+    "club": "Club Brugge",
+    "clubnat": "BEL",
+    "name": "Gustaf NILSSON",
+    "nat": "SWE"
+  },
+  "489696": {
+    "club": "Derby County",
+    "clubnat": "ENG",
+    "name": "Sondre LANGAS",
+    "nat": "NOR"
+  },
+  "489704": {
+    "club": "Villarreal",
+    "clubnat": "ESP",
+    "name": "RENATO VEIGA",
+    "nat": "POR"
+  },
+  "489731": {
+    "club": "Newcastle United",
+    "clubnat": "ENG",
+    "name": "Tino LIVRAMENTO",
+    "nat": "ENG"
+  },
+  "489732": {
+    "club": "Arsenal",
+    "clubnat": "ENG",
+    "name": "Noni MADUEKE",
+    "nat": "ENG"
+  },
+  "489849": {
+    "club": "Athletico Paranaense",
+    "clubnat": "BRA",
+    "name": "Juan PORTILLA",
+    "nat": "COL"
+  },
+  "491166": {
+    "club": "Melbourne Victory",
+    "clubnat": "AUS",
+    "name": "Nishan VELUPILLAY",
+    "nat": "AUS"
+  },
+  "491167": {
+    "club": "Al-Zawraa",
+    "clubnat": "IRQ",
+    "name": "AMER JAMOUS",
+    "nat": "JOR"
+  },
+  "491216": {
+    "club": "Mallorca",
+    "clubnat": "ESP",
+    "name": "SAMU COSTA",
+    "nat": "POR"
+  },
+  "491218": {
+    "club": "VfB Stuttgart",
+    "clubnat": "GER",
+    "name": "Jamie LEWELING",
+    "nat": "GER"
+  },
+  "491228": {
+    "club": "Rijeka",
+    "clubnat": "CRO",
+    "name": "Martin ZLOMISLIC",
+    "nat": "BIH"
+  },
+  "491244": {
+    "club": "Bologna",
+    "clubnat": "ITA",
+    "name": "Torbjorn HEGGEM",
+    "nat": "NOR"
+  },
+  "491255": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Daniel SVENSSON",
+    "nat": "SWE"
+  },
+  "491269": {
+    "club": "Venezia",
+    "clubnat": "ITA",
+    "name": "Michael SVOBODA",
+    "nat": "AUT"
+  },
+  "492189": {
+    "club": "Vasco da Gama",
+    "clubnat": "BRA",
+    "name": "Andres GOMEZ",
+    "nat": "COL"
+  },
+  "492315": {
+    "club": "Gangwon FC",
+    "clubnat": "KOR",
+    "name": "LEE Gihyuk",
+    "nat": "KOR"
+  },
+  "492358": {
+    "club": "Benfica",
+    "clubnat": "POR",
+    "name": "TOMAS ARAUJO",
+    "nat": "POR"
+  },
+  "492363": {
+    "club": "Borussia Dortmund",
+    "clubnat": "GER",
+    "name": "Felix NMECHA",
+    "nat": "GER"
+  },
+  "492716": {
+    "club": "Aston Villa",
+    "clubnat": "ENG",
+    "name": "Morgan ROGERS",
+    "nat": "ENG"
+  },
+  "492859": {
+    "club": "Osasuna",
+    "clubnat": "ESP",
+    "name": "Victor MUNOZ",
+    "nat": "ESP"
+  },
+  "493061": {
+    "club": "FC St. Pauli",
+    "clubnat": "GER",
+    "name": "Eric SMITH",
+    "nat": "SWE"
+  },
+  "493221": {
+    "club": "Hamburger SV",
+    "clubnat": "GER",
+    "name": "Miro MUHEIM",
+    "nat": "SUI"
+  },
+  "493970": {
+    "club": "Union Saint-Gilloise",
+    "clubnat": "BEL",
+    "name": "Promise DAVID",
+    "nat": "CAN"
+  },
+  "493983": {
+    "club": "Sarpsborg 08",
+    "clubnat": "NOR",
+    "name": "AIMAR SHER",
+    "nat": "IRQ"
+  },
+  "494025": {
+    "club": "Lille",
+    "clubnat": "FRA",
+    "name": "Matias FERNANDEZ-PARDO",
+    "nat": "BEL"
+  },
+  "494246": {
+    "club": "Orlando Pirates",
+    "clubnat": "RSA",
+    "name": "Sipho CHAINE",
+    "nat": "RSA"
+  },
+  "494248": {
+    "club": "Orlando Pirates",
+    "clubnat": "RSA",
+    "name": "Thalente MBATHA",
+    "nat": "RSA"
+  },
+  "494277": {
+    "club": "Nice",
+    "clubnat": "FRA",
+    "name": "Yehvann DIOUF",
+    "nat": "SEN"
+  },
+  "494279": {
+    "club": "Nice",
+    "clubnat": "FRA",
+    "name": "Antoine MENDY",
+    "nat": "SEN"
+  },
+  "494291": {
+    "club": "Bayer Leverkusen",
+    "clubnat": "GER",
+    "name": "Ibrahim MAZA",
+    "nat": "ALG"
+  },
+  "494293": {
+    "club": "Sunderland",
+    "clubnat": "ENG",
+    "name": "Chemsdine TALBI",
+    "nat": "MAR"
+  },
+  "494313": {
+    "club": "Farense",
+    "clubnat": "POR",
+    "name": "YANNICK SEMEDO",
+    "nat": "CPV"
+  },
+  "494314": {
+    "club": "Vitória de Guimarães",
+    "clubnat": "POR",
+    "name": "TELMO ARCANJO",
+    "nat": "CPV"
+  },
+  "494345": {
+    "club": "Newcastle United",
+    "clubnat": "ENG",
+    "name": "Dan BURN",
+    "nat": "ENG"
+  },
+  "494349": {
+    "club": "Hearts of Oak",
+    "clubnat": "GHA",
+    "name": "Benjamin ASARE",
+    "nat": "GHA"
+  },
+  "494350": {
+    "club": "Al-Qadsiah",
+    "clubnat": "KSA",
+    "name": "Christopher Bonsu BAAH",
+    "nat": "GHA"
+  },
+  "494351": {
+    "club": "VfL Wolfsburg",
+    "clubnat": "GER",
+    "name": "Jonas ADJETEY",
+    "nat": "GHA"
+  },
+  "494374": {
+    "club": "Dynamo Makhachkala",
+    "clubnat": "RUS",
+    "name": "Hazem MASTOURI",
+    "nat": "TUN"
+  },
+  "494375": {
+    "club": "Club Africain",
+    "clubnat": "TUN",
+    "name": "Firas CHAOUAT",
+    "nat": "TUN"
+  },
+  "494411": {
+    "club": "New York City FC",
+    "clubnat": "USA",
+    "name": "Kai TREWIN",
+    "nat": "AUS"
+  },
+  "494429": {
+    "club": "Malavan",
+    "clubnat": "IRN",
+    "name": "Danial IRI",
+    "nat": "IRN"
+  },
+  "494458": {
+    "club": "Lille",
+    "clubnat": "FRA",
+    "name": "Ngalayel MUKAU",
+    "nat": "COD"
+  },
+  "494506": {
+    "club": "Al-Qadsiah",
+    "clubnat": "KSA",
+    "name": "JEHAD THIKRI",
+    "nat": "KSA"
+  },
+  "494531": {
+    "club": "San Lorenzo",
+    "clubnat": "ARG",
+    "name": "Orlando GILL",
+    "nat": "PAR"
+  },
+  "494557": {
+    "club": "Melbourne City",
+    "clubnat": "AUS",
+    "name": "Patrick BEACH",
+    "nat": "AUS"
+  },
+  "494625": {
+    "club": "Torino",
+    "clubnat": "ITA",
+    "name": "Marcus HOLMGREN PEDERSEN",
+    "nat": "NOR"
+  },
+  "494626": {
+    "club": "Benfica",
+    "clubnat": "POR",
+    "name": "Andreas SCHJELDERUP",
+    "nat": "NOR"
+  },
+  "494627": {
+    "club": "Rangers",
+    "clubnat": "SCO",
+    "name": "Thelo AASGAARD",
+    "nat": "NOR"
+  },
+  "494639": {
+    "club": "Sturm Graz",
+    "clubnat": "AUT",
+    "name": "Arjan MALIC",
+    "nat": "BIH"
+  },
+  "494640": {
+    "club": "Viktoria Plzeň",
+    "clubnat": "CZE",
+    "name": "Amar MEMIC",
+    "nat": "BIH"
+  },
+  "494742": {
+    "club": "Al Ahly",
+    "clubnat": "EGY",
+    "name": "Youssef BELAMMARI",
+    "nat": "MAR"
+  },
+  "494800": {
+    "club": "Al-Hilal",
+    "clubnat": "KSA",
+    "name": "SULTAN MANDASH",
+    "nat": "KSA"
+  },
+  "494989": {
+    "club": "Zürich",
+    "clubnat": "SUI",
+    "name": "Livano COMENENCIA",
+    "nat": "CUW"
+  },
+  "495046": {
+    "club": "Palmeiras",
+    "clubnat": "BRA",
+    "name": "MAURICIO",
+    "nat": "PAR"
+  },
+  "495054": {
+    "club": "Palmeiras",
+    "clubnat": "BRA",
+    "name": "Jose Manuel LOPEZ",
+    "nat": "ARG"
+  },
+  "495347": {
+    "club": "Porto",
+    "clubnat": "POR",
+    "name": "Deniz GUL",
+    "nat": "TUR"
+  },
+  "495348": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "Senne LAMMENS",
+    "nat": "BEL"
+  },
+  "495349": {
+    "club": "Rangers",
+    "clubnat": "SCO",
+    "name": "Nicolas RASKIN",
+    "nat": "BEL"
+  },
+  "495431": {
+    "club": "Ipswich Town",
+    "clubnat": "ENG",
+    "name": "George HIRST",
+    "nat": "SCO"
+  },
+  "495488": {
+    "club": "Barcelona B",
+    "clubnat": "ESP",
+    "name": "HAMZA ABDELKARIM",
+    "nat": "EGY"
+  },
+  "496358": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "Ibrahim MBAYE",
+    "nat": "SEN"
+  },
+  "497902": {
+    "club": "Strasbourg",
+    "clubnat": "FRA",
+    "name": "Diego MOREIRA",
+    "nat": "BEL"
+  },
+  "498416": {
+    "club": "Newcastle United",
+    "clubnat": "ENG",
+    "name": "Nick WOLTEMADE",
+    "nat": "GER"
+  },
+  "498421": {
+    "club": "Sydney FC",
+    "clubnat": "AUS",
+    "name": "Paul OKON-ENGSTLER",
+    "nat": "AUS"
+  },
+  "498439": {
+    "club": "Zulte Waregem",
+    "clubnat": "BEL",
+    "name": "Wilguens PAUGAIN",
+    "nat": "HAI"
+  },
+  "498455": {
+    "club": "Copenhagen",
+    "clubnat": "DEN",
+    "name": "Junnosuke SUZUKI",
+    "nat": "JPN"
+  },
+  "498458": {
+    "club": "Al-Shamal",
+    "clubnat": "QAT",
+    "name": "MOHAMED MANAI",
+    "nat": "QAT"
+  },
+  "498514": {
+    "club": "Al-Shabab",
+    "clubnat": "KSA",
+    "name": "ALI AZAIZEH",
+    "nat": "JOR"
+  },
+  "498806": {
+    "club": "Norwich City",
+    "clubnat": "ENG",
+    "name": "Mohamed TOURE",
+    "nat": "AUS"
+  },
+  "499102": {
+    "club": "Al-Hussein",
+    "clubnat": "JOR",
+    "name": "SALEEM OBAID",
+    "nat": "JOR"
+  },
+  "499290": {
+    "club": "Hamburger SV",
+    "clubnat": "GER",
+    "name": "Luka VUSKOVIC",
+    "nat": "CRO"
+  },
+  "499800": {
+    "club": "Chelsea",
+    "clubnat": "ENG",
+    "name": "Mamadou SARR",
+    "nat": "SEN"
+  },
+  "499803": {
+    "club": "Strasbourg",
+    "clubnat": "FRA",
+    "name": "Mike PENDERS",
+    "nat": "BEL"
+  },
+  "499912": {
+    "club": "Vancouver Whitecaps FC",
+    "clubnat": "CAN",
+    "name": "Sebastian BERHALTER",
+    "nat": "USA"
+  },
+  "499913": {
+    "club": "New York City FC",
+    "clubnat": "USA",
+    "name": "Matt FREESE",
+    "nat": "USA"
+  },
+  "500037": {
+    "club": "Tijuana",
+    "clubnat": "MEX",
+    "name": "Gilberto MORA",
+    "nat": "MEX"
+  },
+  "500038": {
+    "club": "AZ",
+    "clubnat": "NED",
+    "name": "Mateo CHAVEZ",
+    "nat": "MEX"
+  },
+  "502245": {
+    "club": "Philadelphia Union",
+    "clubnat": "USA",
+    "name": "Olwethu MAKHANYA",
+    "nat": "RSA"
+  },
+  "502727": {
+    "club": "SC Freiburg",
+    "clubnat": "GER",
+    "name": "Johan MANZAMBI",
+    "nat": "SUI"
+  },
+  "502945": {
+    "club": "Holstein Kiel",
+    "clubnat": "GER",
+    "name": "Alexander BERNHARDSSON",
+    "nat": "SWE"
+  },
+  "502946": {
+    "club": "Celtic",
+    "clubnat": "SCO",
+    "name": "Benjamin NYGREN",
+    "nat": "SWE"
+  },
+  "503047": {
+    "club": "Union Saint-Gilloise",
+    "clubnat": "BEL",
+    "name": "Besfort ZENELI",
+    "nat": "SWE"
+  },
+  "504192": {
+    "club": "Mamelodi Sundowns",
+    "clubnat": "RSA",
+    "name": "Khulumani NDAMANE",
+    "nat": "RSA"
+  },
+  "504193": {
+    "club": "Orlando Pirates",
+    "clubnat": "RSA",
+    "name": "Tshepang MOREMI",
+    "nat": "RSA"
+  },
+  "504199": {
+    "club": "Chicago Fire FC",
+    "clubnat": "USA",
+    "name": "Mbekezeli MBOKAZI",
+    "nat": "RSA"
+  },
+  "504200": {
+    "club": "Molde",
+    "clubnat": "NOR",
+    "name": "Samukele KABINI",
+    "nat": "RSA"
+  },
+  "504329": {
+    "club": "Widzew Łódź",
+    "clubnat": "POL",
+    "name": "Steve KAPUADI",
+    "nat": "COD"
+  },
+  "504502": {
+    "club": "Celtic",
+    "clubnat": "SCO",
+    "name": "Sebastian TOUNEKTI",
+    "nat": "TUN"
+  },
+  "504931": {
+    "club": "Colorado Rapids",
+    "clubnat": "USA",
+    "name": "Lucas HERRINGTON",
+    "nat": "AUS"
+  },
+  "504990": {
+    "club": "Red Bull Salzburg",
+    "clubnat": "AUT",
+    "name": "Kerim ALAJBEGOVIC",
+    "nat": "BIH"
+  },
+  "505097": {
+    "club": "Strasbourg",
+    "clubnat": "FRA",
+    "name": "Samir EL MOURABET",
+    "nat": "MAR"
+  },
+  "505112": {
+    "club": "Strasbourg",
+    "clubnat": "FRA",
+    "name": "Gessime YASSINE",
+    "nat": "MAR"
+  },
+  "505495": {
+    "club": "Al Ain",
+    "clubnat": "UAE",
+    "name": "Alexandro MAIDANA",
+    "nat": "PAR"
+  },
+  "506028": {
+    "club": "Sunderland",
+    "clubnat": "ENG",
+    "name": "Robin ROEFS",
+    "nat": "NED"
+  },
+  "506038": {
+    "club": "Orlando Pirates",
+    "clubnat": "RSA",
+    "name": "Kamogelo SEBELEBELE",
+    "nat": "RSA"
+  },
+  "506039": {
+    "club": "Hannover 96",
+    "clubnat": "GER",
+    "name": "Ime OKON",
+    "nat": "RSA"
+  },
+  "506069": {
+    "club": "AGF",
+    "clubnat": "DEN",
+    "name": "KEVIN YAKOB",
+    "nat": "IRQ"
+  },
+  "506088": {
+    "club": "Club Brugge",
+    "clubnat": "BEL",
+    "name": "Joaquin SEYS",
+    "nat": "BEL"
+  },
+  "506124": {
+    "club": "ZED",
+    "clubnat": "EGY",
+    "name": "TAREK ALAA",
+    "nat": "EGY"
+  },
+  "506202": {
+    "club": "TSG Hoffenheim",
+    "clubnat": "GER",
+    "name": "Bazoumana TOURE",
+    "nat": "CIV"
+  },
+  "506277": {
+    "club": "St Patrick's Athletic",
+    "clubnat": "IRL",
+    "name": "Joseph ANANG",
+    "nat": "GHA"
+  },
+  "506279": {
+    "club": "Nordsjælland",
+    "clubnat": "DEN",
+    "name": "Caleb YIRENKYI",
+    "nat": "GHA"
+  },
+  "506329": {
+    "club": "Tottenham Hotspur",
+    "clubnat": "ENG",
+    "name": "Djed SPENCE",
+    "nat": "ENG"
+  },
+  "506335": {
+    "club": "IFK Norrköping",
+    "clubnat": "SWE",
+    "name": "Moutaz NEFFATI",
+    "nat": "TUN"
+  },
+  "506471": {
+    "club": "NEC",
+    "clubnat": "NED",
+    "name": "Deveron FONVILLE",
+    "nat": "CUW"
+  },
+  "506473": {
+    "club": "Telstar",
+    "clubnat": "NED",
+    "name": "Tyrese NOSLIN",
+    "nat": "CUW"
+  },
+  "506481": {
+    "club": "Young Boys",
+    "clubnat": "SUI",
+    "name": "Keeto THERMONCY",
+    "nat": "HAI"
+  },
+  "506483": {
+    "club": "Vizela",
+    "clubnat": "POR",
+    "name": "Yassin FORTUNE",
+    "nat": "HAI"
+  },
+  "506775": {
+    "club": "Sparta Prague",
+    "clubnat": "CZE",
+    "name": "Hugo SOCHUREK",
+    "nat": "CZE"
+  },
+  "507253": {
+    "club": "Oviedo",
+    "clubnat": "ESP",
+    "name": "Kwasi SIBO",
+    "nat": "GHA"
+  },
+  "510757": {
+    "club": "Auxerre",
+    "clubnat": "FRA",
+    "name": "Josue CASIMIR",
+    "nat": "HAI"
+  },
+  "510850": {
+    "club": "Polokwane City",
+    "clubnat": "RSA",
+    "name": "Thabang MATULUDI",
+    "nat": "RSA"
+  },
+  "510908": {
+    "club": "VfB Stuttgart",
+    "clubnat": "GER",
+    "name": "Luca JAQUEZ",
+    "nat": "SUI"
+  },
+  "510922": {
+    "club": "RB Leipzig",
+    "clubnat": "GER",
+    "name": "Yan DIOMANDE",
+    "nat": "CIV"
+  },
+  "510989": {
+    "club": "Castellón",
+    "clubnat": "ESP",
+    "name": "Brian CIPENGA",
+    "nat": "COD"
+  },
+  "510991": {
+    "club": "Al-Gharafa",
+    "clubnat": "QAT",
+    "name": "AYOUB ALOUI",
+    "nat": "QAT"
+  },
+  "511009": {
+    "club": "Hellas Verona",
+    "clubnat": "ITA",
+    "name": "Rafik BELGHALI",
+    "nat": "ALG"
+  },
+  "511010": {
+    "club": "Paris FC",
+    "clubnat": "FRA",
+    "name": "Samir CHERGUI",
+    "nat": "ALG"
+  },
+  "511015": {
+    "club": "Eintracht Frankfurt",
+    "clubnat": "GER",
+    "name": "Nathaniel BROWN",
+    "nat": "GER"
+  },
+  "511022": {
+    "club": "Nice",
+    "clubnat": "FRA",
+    "name": "Kojo Peprah OPPONG",
+    "nat": "GHA"
+  },
+  "511118": {
+    "club": "Braga",
+    "clubnat": "POR",
+    "name": "Lukas HORNICEK",
+    "nat": "CZE"
+  },
+  "511141": {
+    "club": "PSV Eindhoven",
+    "clubnat": "NED",
+    "name": "Armando OBISPO",
+    "nat": "CUW"
+  },
+  "511710": {
+    "club": "Kashima Antlers",
+    "clubnat": "JPN",
+    "name": "Tomoki HAYAKAWA",
+    "nat": "JPN"
+  },
+  "511828": {
+    "club": "Borussia Mönchengladbach",
+    "clubnat": "GER",
+    "name": "CASTROP Jens",
+    "nat": "KOR"
+  },
+  "511875": {
+    "club": "Pyramids",
+    "clubnat": "EGY",
+    "name": "ODEH FAKHOURY",
+    "nat": "JOR"
+  },
+  "511889": {
+    "club": "Al-Faisaly",
+    "clubnat": "JOR",
+    "name": "ANAS BADAWI",
+    "nat": "JOR"
+  },
+  "512039": {
+    "club": "Paris Saint-Germain",
+    "clubnat": "FRA",
+    "name": "Khalil AYARI",
+    "nat": "TUN"
+  },
+  "512079": {
+    "club": "El Gouna",
+    "clubnat": "EGY",
+    "name": "MOHAMED ALAA",
+    "nat": "EGY"
+  },
+  "512127": {
+    "club": "USM Alger",
+    "clubnat": "ALG",
+    "name": "Achref ABADA",
+    "nat": "ALG"
+  },
+  "512132": {
+    "club": "Al-Duhail",
+    "clubnat": "QAT",
+    "name": "Adil BOULBINA",
+    "nat": "ALG"
+  },
+  "512183": {
+    "club": "Al-Qadsiah",
+    "clubnat": "KSA",
+    "name": "MOHAMMED ABU ALSHAMAT",
+    "nat": "KSA"
+  },
+  "512791": {
+    "club": "Al-Arabi",
+    "clubnat": "QAT",
+    "name": "ISSA LAYE",
+    "nat": "QAT"
+  },
+  "514070": {
+    "club": "Middlesbrough",
+    "clubnat": "ENG",
+    "name": "Alfie JONES",
+    "nat": "CAN"
+  },
+  "514166": {
+    "club": "Lille",
+    "clubnat": "FRA",
+    "name": "Nathan NGOY",
+    "nat": "BEL"
+  },
+  "514171": {
+    "club": "Standard Liège",
+    "clubnat": "BEL",
+    "name": "Matthieu EPOLO",
+    "nat": "COD"
+  },
+  "514188": {
+    "club": "Newcastle United",
+    "clubnat": "ENG",
+    "name": "Malick THIAW",
+    "nat": "GER"
+  },
+  "514202": {
+    "club": "Malmö FF",
+    "clubnat": "SWE",
+    "name": "Taha ALI",
+    "nat": "SWE"
+  },
+  "514208": {
+    "club": "Trabzonspor",
+    "clubnat": "TUR",
+    "name": "Christ Inao OULAI",
+    "nat": "CIV"
+  },
+  "514326": {
+    "club": "VfB Stuttgart",
+    "clubnat": "GER",
+    "name": "Jeremy AREVALO",
+    "nat": "ECU"
+  },
+  "514334": {
+    "club": "Slavia Prague",
+    "clubnat": "CZE",
+    "name": "Stepan CHALOUPEK",
+    "nat": "CZE"
+  },
+  "514336": {
+    "club": "Guadalajara",
+    "clubnat": "MEX",
+    "name": "Armando GONZALEZ",
+    "nat": "MEX"
+  },
+  "514401": {
+    "club": "Viktoria Plzeň",
+    "clubnat": "CZE",
+    "name": "Prince ADU",
+    "nat": "GHA"
+  },
+  "514479": {
+    "club": "Hamburger SV",
+    "clubnat": "GER",
+    "name": "Sander TANGVIK",
+    "nat": "NOR"
+  },
+  "514526": {
+    "club": "Hull City",
+    "clubnat": "ENG",
+    "name": "Ivor PANDUR",
+    "nat": "CRO"
+  },
+  "514639": {
+    "club": "FC Dallas",
+    "clubnat": "USA",
+    "name": "Herman JOHANSSON",
+    "nat": "SWE"
+  },
+  "516043": {
+    "club": "Kasımpaşa",
+    "clubnat": "TUR",
+    "name": "Adam AROUS",
+    "nat": "TUN"
+  },
+  "518200": {
+    "club": "Machida Zelvia",
+    "clubnat": "JPN",
+    "name": "Tete YENGI",
+    "nat": "AUS"
+  },
+  "518264": {
+    "club": "AGMK",
+    "clubnat": "UZB",
+    "name": "Avazbek ULMASALIYEV",
+    "nat": "UZB"
+  },
+  "519836": {
+    "club": "Brentford",
+    "clubnat": "ENG",
+    "name": "IGOR THIAGO",
+    "nat": "BRA"
+  },
+  "519837": {
+    "club": "Standard Liège",
+    "clubnat": "BEL",
+    "name": "Dennis DARGAHI",
+    "nat": "IRN"
+  },
+  "519954": {
+    "club": "Universitatea Cluj",
+    "clubnat": "ROU",
+    "name": "Jovo LUKIC",
+    "nat": "BIH"
+  },
+  "519958": {
+    "club": "Mjällby AIF",
+    "clubnat": "SWE",
+    "name": "Elliot STROUD",
+    "nat": "SWE"
+  },
+  "519985": {
+    "club": "Viktoria Plzeň",
+    "clubnat": "CZE",
+    "name": "Denis VISINSKY",
+    "nat": "CZE"
+  },
+  "520034": {
+    "club": "Viktoria Plzeň",
+    "clubnat": "CZE",
+    "name": "Florian WIEGELE",
+    "nat": "AUT"
+  },
+  "520035": {
+    "club": "Elche",
+    "clubnat": "ESP",
+    "name": "David AFFENGRUBER",
+    "nat": "AUT"
+  },
+  "520036": {
+    "club": "PSV Eindhoven",
+    "clubnat": "NED",
+    "name": "Paul WANNER",
+    "nat": "AUT"
+  },
+  "520037": {
+    "club": "Pafos",
+    "clubnat": "CYP",
+    "name": "Derrick LUCKASSEN",
+    "nat": "GHA"
+  },
+  "520039": {
+    "club": "Auxerre",
+    "clubnat": "FRA",
+    "name": "Marvin SENAYA",
+    "nat": "GHA"
+  },
+  "520066": {
+    "club": "Lanús",
+    "clubnat": "ARG",
+    "name": "Jose CANALE",
+    "nat": "PAR"
+  },
+  "520068": {
+    "club": "Al-Hussein",
+    "clubnat": "JOR",
+    "name": "MOHAMMAD ABUGHOUSH",
+    "nat": "JOR"
+  },
+  "520070": {
+    "club": "Stade Nyonnais",
+    "clubnat": "SUI",
+    "name": "Melvin MASTIL",
+    "nat": "ALG"
+  },
+  "520071": {
+    "club": "Győri ETO",
+    "clubnat": "HUN",
+    "name": "Nadhir BENBOUALI",
+    "nat": "ALG"
+  },
+  "520072": {
+    "club": "Frosinone",
+    "clubnat": "ITA",
+    "name": "Fares GHEDJEMIS",
+    "nat": "ALG"
+  },
+  "520112": {
+    "club": "Viking",
+    "clubnat": "NOR",
+    "name": "Henrik FALCHENER",
+    "nat": "NOR"
+  },
+  "520217": {
+    "club": "Kilmarnock",
+    "clubnat": "SCO",
+    "name": "Findlay CURTIS",
+    "nat": "SCO"
+  },
+  "520218": {
+    "club": "VfL Wolfsburg",
+    "clubnat": "GER",
+    "name": "Kento SHIOGAI",
+    "nat": "JPN"
+  },
+  "520245": {
+    "club": "Club Africain",
+    "clubnat": "TUN",
+    "name": "Mouhib CHAMAKH",
+    "nat": "TUN"
+  },
+  "520246": {
+    "club": "US Monastir",
+    "clubnat": "TUN",
+    "name": "Raed CHIKHAOUI",
+    "nat": "TUN"
+  },
+  "520247": {
+    "club": "Vancouver Whitecaps FC",
+    "clubnat": "CAN",
+    "name": "Rayan ELLOUMI",
+    "nat": "TUN"
+  },
+  "522282": {
+    "club": "Jeonbuk Hyundai Motors",
+    "clubnat": "KOR",
+    "name": "CHO Wije",
+    "nat": "KOR"
+  },
+  "522842": {
+    "club": "Borac Banja Luka",
+    "clubnat": "BIH",
+    "name": "Mladen JURKAS",
+    "nat": "BIH"
+  },
+  "522846": {
+    "club": "Slovan Liberec",
+    "clubnat": "CZE",
+    "name": "Ermin MAHMIC",
+    "nat": "BIH"
+  },
+  "523007": {
+    "club": "Manchester United",
+    "clubnat": "ENG",
+    "name": "Tyler FLETCHER",
+    "nat": "SCO"
+  },
+  "523097": {
+    "club": "Viktoria Plzeň",
+    "clubnat": "CZE",
+    "name": "Alexandr SOJKA",
+    "nat": "CZE"
+  },
+  "523173": {
+    "club": "Saint-Étienne",
+    "clubnat": "FRA",
+    "name": "Augustine BOAKYE",
+    "nat": "GHA"
+  },
+  "523215": {
+    "club": "Tatran Prešov",
+    "clubnat": "SVK",
+    "name": "Dominique SIMON",
+    "nat": "HAI"
+  },
+  "523236": {
+    "club": "Nashville SC",
+    "clubnat": "USA",
+    "name": "AHMED QASEM",
+    "nat": "IRQ"
+  },
+  "523288": {
+    "club": "Eintracht Frankfurt",
+    "clubnat": "GER",
+    "name": "Ayoube AMAIMOUNI",
+    "nat": "MAR"
+  },
+  "523333": {
+    "club": "Neom",
+    "clubnat": "KSA",
+    "name": "ALA ALHAJJI",
+    "nat": "KSA"
+  },
+  "523354": {
+    "club": "Bayern Munich",
+    "clubnat": "GER",
+    "name": "Bara Sapoko NDIAYE",
+    "nat": "SEN"
+  },
+  "524320": {
+    "club": "Angers",
+    "clubnat": "FRA",
+    "name": "Amine SBAI",
+    "nat": "MAR"
+  }
+}
