@@ -1,6 +1,60 @@
 {
-  "updated": "June 14, 2026 19:05 UTC — 9 of 104 matches played",
+  "updated": "June 14, 2026 22:04 UTC — 10 of 104 matches played",
   "goals": [
+    {
+      "league": "Premier League (England)",
+      "total": 8,
+      "players": [
+        {
+          "name": "Crysencio Summerville",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "West Ham United"
+        },
+        {
+          "name": "Cyle Larin",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Southampton"
+        },
+        {
+          "name": "Daichi Kamada",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Crystal Palace"
+        },
+        {
+          "name": "John McGinn",
+          "nat": "Scotland",
+          "n": 1,
+          "club": "Aston Villa"
+        },
+        {
+          "name": "Kai Havertz",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Arsenal"
+        },
+        {
+          "name": "Ladislav Krejci",
+          "nat": "Czechia",
+          "n": 1,
+          "club": "Wolverhampton Wanderers"
+        },
+        {
+          "name": "Raul Jimenez",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Fulham"
+        },
+        {
+          "name": "Virgil Van Dijk",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "Liverpool"
+        }
+      ]
+    },
     {
       "league": "Bundesliga (Germany)",
       "total": 7,
@@ -50,38 +104,20 @@
       ]
     },
     {
-      "league": "Premier League (England)",
-      "total": 5,
+      "league": "Ligue 1 (France)",
+      "total": 3,
       "players": [
         {
-          "name": "Cyle Larin",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Southampton"
+          "name": "Folarin Balogun",
+          "nat": "USA",
+          "n": 2,
+          "club": "Monaco"
         },
         {
-          "name": "John McGinn",
-          "nat": "Scotland",
+          "name": "Keito Nakamura",
+          "nat": "Japan",
           "n": 1,
-          "club": "Aston Villa"
-        },
-        {
-          "name": "Kai Havertz",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Arsenal"
-        },
-        {
-          "name": "Ladislav Krejci",
-          "nat": "Czechia",
-          "n": 1,
-          "club": "Wolverhampton Wanderers"
-        },
-        {
-          "name": "Raul Jimenez",
-          "nat": "Mexico",
-          "n": 1,
-          "club": "Fulham"
+          "club": "Reims"
         }
       ]
     },
@@ -100,18 +136,6 @@
           "nat": "Morocco",
           "n": 1,
           "club": "PSV Eindhoven"
-        }
-      ]
-    },
-    {
-      "league": "Ligue 1 (France)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Folarin Balogun",
-          "nat": "USA",
-          "n": 2,
-          "club": "Monaco"
         }
       ]
     },
@@ -238,8 +262,32 @@
       ]
     },
     {
+      "league": "Premier League (England)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Ryan Gravenberch",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Bruno Guimaraes",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Newcastle United"
+        },
+        {
+          "name": "Florian Wirtz",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Liverpool"
+        }
+      ]
+    },
+    {
       "league": "La Liga (Spain)",
-      "total": 2,
+      "total": 3,
       "players": [
         {
           "name": "Alex Freeman",
@@ -252,6 +300,30 @@
           "nat": "Morocco",
           "n": 1,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Takefusa Kubo",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Real Sociedad"
+        }
+      ]
+    },
+    {
+      "league": "Eredivisie (Netherlands)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Hwang Inbeom",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Koki Ogawa",
+          "nat": "Japan",
+          "n": 1,
+          "club": "NEC"
         }
       ]
     },
@@ -292,24 +364,6 @@
       ]
     },
     {
-      "league": "Premier League (England)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Bruno Guimaraes",
-          "nat": "Brazil",
-          "n": 1,
-          "club": "Newcastle United"
-        },
-        {
-          "name": "Florian Wirtz",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Liverpool"
-        }
-      ]
-    },
-    {
       "league": "Serie A (Italy)",
       "total": 2,
       "players": [
@@ -336,18 +390,6 @@
           "nat": "Australia",
           "n": 1,
           "club": "Sydney FC"
-        }
-      ]
-    },
-    {
-      "league": "Eredivisie (Netherlands)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Hwang Inbeom",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Feyenoord"
         }
       ]
     },
@@ -493,7 +535,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (9/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (10/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted."
   }
