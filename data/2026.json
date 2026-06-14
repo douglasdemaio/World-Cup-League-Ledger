@@ -1,9 +1,57 @@
 {
-  "updated": "June 14, 2026 07:14 UTC — 8 of 104 matches played",
+  "updated": "June 14, 2026 19:05 UTC — 9 of 104 matches played",
   "goals": [
     {
+      "league": "Bundesliga (Germany)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Connor Metcalfe",
+          "nat": "Australia",
+          "n": 1,
+          "club": "FC St. Pauli"
+        },
+        {
+          "name": "Deniz Undav",
+          "nat": "Germany",
+          "n": 1,
+          "club": "VfB Stuttgart"
+        },
+        {
+          "name": "Felix Nmecha",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Giovanni Reyna",
+          "nat": "USA",
+          "n": 1,
+          "club": "Borussia Mönchengladbach"
+        },
+        {
+          "name": "Jamal Musiala",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Nathaniel Brown",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Eintracht Frankfurt"
+        },
+        {
+          "name": "Nico Schlotterbeck",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Borussia Dortmund"
+        }
+      ]
+    },
+    {
       "league": "Premier League (England)",
-      "total": 4,
+      "total": 5,
       "players": [
         {
           "name": "Cyle Larin",
@@ -18,6 +66,12 @@
           "club": "Aston Villa"
         },
         {
+          "name": "Kai Havertz",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Arsenal"
+        },
+        {
           "name": "Ladislav Krejci",
           "nat": "Czechia",
           "n": 1,
@@ -28,24 +82,6 @@
           "nat": "Mexico",
           "n": 1,
           "club": "Fulham"
-        }
-      ]
-    },
-    {
-      "league": "Bundesliga (Germany)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Connor Metcalfe",
-          "nat": "Australia",
-          "n": 1,
-          "club": "FC St. Pauli"
-        },
-        {
-          "name": "Giovanni Reyna",
-          "nat": "USA",
-          "n": 1,
-          "club": "Borussia Mönchengladbach"
         }
       ]
     },
@@ -128,6 +164,18 @@
       ]
     },
     {
+      "league": "Super League (Switzerland)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Livano Comenencia",
+          "nat": "Curaçao",
+          "n": 1,
+          "club": "Zürich"
+        }
+      ]
+    },
+    {
       "league": "Série A (Brazil)",
       "total": 1,
       "players": [
@@ -155,13 +203,31 @@
   "assists": [
     {
       "league": "Bundesliga (Germany)",
-      "total": 2,
+      "total": 7,
       "players": [
+        {
+          "name": "Deniz Undav",
+          "nat": "Germany",
+          "n": 2,
+          "club": "VfB Stuttgart"
+        },
+        {
+          "name": "Joshua Kimmich",
+          "nat": "Germany",
+          "n": 2,
+          "club": "Bayern Munich"
+        },
         {
           "name": "Malik Tillman",
           "nat": "USA",
           "n": 1,
           "club": "Bayer Leverkusen"
+        },
+        {
+          "name": "Nathaniel Brown",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Eintracht Frankfurt"
         },
         {
           "name": "Vladimir Coufal",
@@ -226,6 +292,24 @@
       ]
     },
     {
+      "league": "Premier League (England)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Bruno Guimaraes",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Newcastle United"
+        },
+        {
+          "name": "Florian Wirtz",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Liverpool"
+        }
+      ]
+    },
+    {
       "league": "Serie A (Italy)",
       "total": 2,
       "players": [
@@ -264,18 +348,6 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Feyenoord"
-        }
-      ]
-    },
-    {
-      "league": "Premier League (England)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Bruno Guimaraes",
-          "nat": "Brazil",
-          "n": 1,
-          "club": "Newcastle United"
         }
       ]
     },
@@ -421,7 +493,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (8/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (9/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted."
   }
