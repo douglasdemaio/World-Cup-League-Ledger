@@ -1,5 +1,5 @@
 {
-  "updated": "June 14, 2026 22:04 UTC — 10 of 104 matches played",
+  "updated": "June 14, 2026 23:59 UTC — 10 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -433,7 +433,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 3,
+      "total": 4,
       "players": [
         {
           "name": "Nikola Vasilj",
@@ -446,6 +446,12 @@
           "nat": "Switzerland",
           "n": 1,
           "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Manuel Neuer",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Bayern Munich"
         }
       ]
     },
@@ -498,6 +504,18 @@
       ]
     },
     {
+      "league": "MLS (USA/Canada)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Eloy Room",
+          "nat": "Curaçao",
+          "n": 2,
+          "club": "Miami FC"
+        }
+      ]
+    },
+    {
       "league": "Premier League (England)",
       "total": 2,
       "players": [
@@ -506,6 +524,18 @@
           "nat": "Scotland",
           "n": 2,
           "club": "Nottingham Forest"
+        }
+      ]
+    },
+    {
+      "league": "A-League (Australia)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Patrick Beach",
+          "nat": "Australia",
+          "n": 1,
+          "club": "Melbourne City"
         }
       ]
     },
