@@ -1,5 +1,5 @@
 {
-  "updated": "June 14, 2026 02:45 UTC — 6 of 104 matches played, 1 live",
+  "updated": "June 14, 2026 07:14 UTC — 8 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -28,6 +28,24 @@
           "nat": "Mexico",
           "n": 1,
           "club": "Fulham"
+        }
+      ]
+    },
+    {
+      "league": "Bundesliga (Germany)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Connor Metcalfe",
+          "nat": "Australia",
+          "n": 1,
+          "club": "FC St. Pauli"
+        },
+        {
+          "name": "Giovanni Reyna",
+          "nat": "USA",
+          "n": 1,
+          "club": "Borussia Mönchengladbach"
         }
       ]
     },
@@ -62,14 +80,14 @@
       ]
     },
     {
-      "league": "Bundesliga (Germany)",
+      "league": "EFL Championship (England, 2nd tier)",
       "total": 1,
       "players": [
         {
-          "name": "Giovanni Reyna",
-          "nat": "USA",
+          "name": "Nestory Irankunda",
+          "nat": "Australia",
           "n": 1,
-          "club": "Borussia Mönchengladbach"
+          "club": "Watford"
         }
       ]
     },
@@ -226,6 +244,18 @@
       ]
     },
     {
+      "league": "A-League (Australia)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Paul Okon-engstler",
+          "nat": "Australia",
+          "n": 1,
+          "club": "Sydney FC"
+        }
+      ]
+    },
+    {
       "league": "Eredivisie (Netherlands)",
       "total": 1,
       "players": [
@@ -288,6 +318,24 @@
       ]
     },
     {
+      "league": "Bundesliga (Germany)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Nikola Vasilj",
+          "nat": "Bosnia & Herzegovina",
+          "n": 2,
+          "club": "FC St. Pauli"
+        },
+        {
+          "name": "Gregor Kobel",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Borussia Dortmund"
+        }
+      ]
+    },
+    {
       "league": "Primera División (Argentina)",
       "total": 3,
       "players": [
@@ -300,14 +348,14 @@
       ]
     },
     {
-      "league": "Bundesliga (Germany)",
-      "total": 2,
+      "league": "Saudi Pro League",
+      "total": 3,
       "players": [
         {
-          "name": "Nikola Vasilj",
-          "nat": "Bosnia & Herzegovina",
-          "n": 2,
-          "club": "FC St. Pauli"
+          "name": "Yassine Bounou",
+          "nat": "Morocco",
+          "n": 3,
+          "club": "Al-Hilal"
         }
       ]
     },
@@ -334,10 +382,46 @@
           "club": "Guadalajara"
         }
       ]
+    },
+    {
+      "league": "Premier League (England)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Angus Gunn",
+          "nat": "Scotland",
+          "n": 2,
+          "club": "Nottingham Forest"
+        }
+      ]
+    },
+    {
+      "league": "Ligue 1 (France)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Johny Placide",
+          "nat": "Haiti",
+          "n": 1,
+          "club": "Bastia"
+        }
+      ]
+    },
+    {
+      "league": "Qatar Stars League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Mahmoud Abunada",
+          "nat": "Qatar",
+          "n": 1,
+          "club": "Al-Rayyan"
+        }
+      ]
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (6/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (8/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted."
   }
