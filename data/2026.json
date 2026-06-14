@@ -1,15 +1,21 @@
 {
-  "updated": "June 13, 2026 23:56 UTC — 5 of 104 matches played, 1 live",
+  "updated": "June 14, 2026 02:45 UTC — 6 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 3,
+      "total": 4,
       "players": [
         {
           "name": "Cyle Larin",
           "nat": "Canada",
           "n": 1,
           "club": "Southampton"
+        },
+        {
+          "name": "John McGinn",
+          "nat": "Scotland",
+          "n": 1,
+          "club": "Aston Villa"
         },
         {
           "name": "Ladislav Krejci",
@@ -331,7 +337,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (5/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (6/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted."
   }
