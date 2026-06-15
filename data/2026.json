@@ -1,5 +1,5 @@
 {
-  "updated": "June 15, 2026 10:48 UTC — 12 of 104 matches played",
+  "updated": "June 15, 2026 20:19 UTC — 13 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -182,6 +182,18 @@
       ]
     },
     {
+      "league": "Egyptian Premier League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Emam Ashour",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Al Ahly"
+        }
+      ]
+    },
+    {
       "league": "La Liga (Spain)",
       "total": 1,
       "players": [
@@ -257,7 +269,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 9,
+      "total": 10,
       "players": [
         {
           "name": "Alexander Isak",
@@ -294,6 +306,12 @@
           "nat": "Sweden",
           "n": 1,
           "club": "Tottenham Hotspur"
+        },
+        {
+          "name": "Mohamed Salah",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Liverpool"
         },
         {
           "name": "Viktor Gyokeres",
@@ -474,7 +492,7 @@
   ],
   "saves": [],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (12/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (13/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted."
   }
