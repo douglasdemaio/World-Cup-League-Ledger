@@ -1,10 +1,28 @@
 {
-  "updated": "June 14, 2026 23:59 UTC — 10 of 104 matches played, 1 live",
+  "updated": "June 15, 2026 04:13 UTC — 12 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 8,
+      "total": 13,
       "players": [
+        {
+          "name": "Yasin Ayari",
+          "nat": "Sweden",
+          "n": 2,
+          "club": "Brighton & Hove Albion"
+        },
+        {
+          "name": "Alexander Isak",
+          "nat": "Sweden",
+          "n": 1,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Amad Diallo",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Manchester United"
+        },
         {
           "name": "Crysencio Summerville",
           "nat": "Netherlands",
@@ -48,6 +66,12 @@
           "club": "Fulham"
         },
         {
+          "name": "Viktor Gyokeres",
+          "nat": "Sweden",
+          "n": 1,
+          "club": "Arsenal"
+        },
+        {
           "name": "Virgil Van Dijk",
           "nat": "Netherlands",
           "n": 1,
@@ -57,7 +81,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 7,
+      "total": 8,
       "players": [
         {
           "name": "Connor Metcalfe",
@@ -88,6 +112,12 @@
           "nat": "Germany",
           "n": 1,
           "club": "Bayern Munich"
+        },
+        {
+          "name": "Mattias Svanberg",
+          "nat": "Sweden",
+          "n": 1,
+          "club": "VfL Wolfsburg"
         },
         {
           "name": "Nathaniel Brown",
@@ -226,6 +256,54 @@
   ],
   "assists": [
     {
+      "league": "Premier League (England)",
+      "total": 9,
+      "players": [
+        {
+          "name": "Alexander Isak",
+          "nat": "Sweden",
+          "n": 2,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Ryan Gravenberch",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Bruno Guimaraes",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Newcastle United"
+        },
+        {
+          "name": "Florian Wirtz",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Hannibal Mejbri",
+          "nat": "Tunisia",
+          "n": 1,
+          "club": "Burnley"
+        },
+        {
+          "name": "Lucas Bergvall",
+          "nat": "Sweden",
+          "n": 1,
+          "club": "Tottenham Hotspur"
+        },
+        {
+          "name": "Viktor Gyokeres",
+          "nat": "Sweden",
+          "n": 1,
+          "club": "Arsenal"
+        }
+      ]
+    },
+    {
       "league": "Bundesliga (Germany)",
       "total": 7,
       "players": [
@@ -258,30 +336,6 @@
           "nat": "Czechia",
           "n": 1,
           "club": "TSG Hoffenheim"
-        }
-      ]
-    },
-    {
-      "league": "Premier League (England)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Ryan Gravenberch",
-          "nat": "Netherlands",
-          "n": 2,
-          "club": "Liverpool"
-        },
-        {
-          "name": "Bruno Guimaraes",
-          "nat": "Brazil",
-          "n": 1,
-          "club": "Newcastle United"
-        },
-        {
-          "name": "Florian Wirtz",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Liverpool"
         }
       ]
     },
@@ -402,6 +456,18 @@
           "nat": "Canada",
           "n": 1,
           "club": "Union Saint-Gilloise"
+        }
+      ]
+    },
+    {
+      "league": "Süper Lig (Turkey)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Wilfried Singo",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Galatasaray"
         }
       ]
     }
@@ -565,7 +631,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (10/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (12/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted."
   }
