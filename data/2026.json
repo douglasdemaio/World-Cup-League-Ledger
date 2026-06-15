@@ -1,5 +1,5 @@
 {
-  "updated": "June 15, 2026 20:19 UTC — 13 of 104 matches played, 1 live",
+  "updated": "June 15, 2026 22:53 UTC — 14 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -170,6 +170,24 @@
       ]
     },
     {
+      "league": "Saudi Pro League",
+      "total": 2,
+      "players": [
+        {
+          "name": "Abdulelah Alamri",
+          "nat": "Saudi Arabia",
+          "n": 1,
+          "club": "Al-Nassr"
+        },
+        {
+          "name": "Julian Quinones",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Al-Qadsiah"
+        }
+      ]
+    },
+    {
       "league": "EFL Championship (England, 2nd tier)",
       "total": 1,
       "players": [
@@ -214,18 +232,6 @@
           "nat": "Bosnia & Herzegovina",
           "n": 1,
           "club": "Universitatea Cluj"
-        }
-      ]
-    },
-    {
-      "league": "Saudi Pro League",
-      "total": 1,
-      "players": [
-        {
-          "name": "Julian Quinones",
-          "nat": "Mexico",
-          "n": 1,
-          "club": "Al-Qadsiah"
         }
       ]
     },
@@ -492,7 +498,7 @@
   ],
   "saves": [],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (13/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (14/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted."
   }
