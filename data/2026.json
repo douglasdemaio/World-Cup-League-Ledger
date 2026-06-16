@@ -1,5 +1,5 @@
 {
-  "updated": "June 16, 2026 06:22 UTC — 16 of 104 matches played",
+  "updated": "June 16, 2026 07:37 UTC — 16 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -562,10 +562,317 @@
       ]
     }
   ],
-  "saves": [],
+  "saves": [
+    {
+      "league": "Saudi Pro League",
+      "total": 13,
+      "players": [
+        {
+          "name": "Mohammed Alowais",
+          "nat": "Saudi Arabia",
+          "n": 9,
+          "club": "Al-Ula"
+        },
+        {
+          "name": "Yassine Bounou",
+          "nat": "Morocco",
+          "n": 4,
+          "club": "Al-Hilal"
+        }
+      ]
+    },
+    {
+      "league": "A-League (Australia)",
+      "total": 8,
+      "players": [
+        {
+          "name": "Patrick Beach",
+          "nat": "Australia",
+          "n": 8,
+          "club": "Melbourne City"
+        }
+      ]
+    },
+    {
+      "league": "Primera División (Argentina)",
+      "total": 8,
+      "players": [
+        {
+          "name": "Hernan Galindez",
+          "nat": "Ecuador",
+          "n": 3,
+          "club": "Huracán"
+        },
+        {
+          "name": "Orlando Gill",
+          "nat": "Paraguay",
+          "n": 3,
+          "club": "San Lorenzo"
+        },
+        {
+          "name": "Fernando Muslera",
+          "nat": "Uruguay",
+          "n": 2,
+          "club": "Estudiantes"
+        }
+      ]
+    },
+    {
+      "league": "Premier League (England)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Alisson",
+          "nat": "Brazil",
+          "n": 2,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Angus Gunn",
+          "nat": "Scotland",
+          "n": 2,
+          "club": "Nottingham Forest"
+        },
+        {
+          "name": "Max Crocombe",
+          "nat": "New Zealand",
+          "n": 2,
+          "club": "Millwall"
+        },
+        {
+          "name": "Bart Verbruggen",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "Brighton & Hove Albion"
+        }
+      ]
+    },
+    {
+      "league": "Primeira Liga (Portugal)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 7,
+          "club": "Chaves"
+        }
+      ]
+    },
+    {
+      "league": "MLS (USA/Canada)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Eloy Room",
+          "nat": "Curaçao",
+          "n": 4,
+          "club": "Miami FC"
+        },
+        {
+          "name": "Maxime Crepeau",
+          "nat": "Canada",
+          "n": 2,
+          "club": "Orlando City SC"
+        }
+      ]
+    },
+    {
+      "league": "Persian Gulf Pro League (Iran)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Alireza Beiranvand",
+          "nat": "Iran",
+          "n": 6,
+          "club": "Tractor"
+        }
+      ]
+    },
+    {
+      "league": "Bundesliga (Germany)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Gregor Kobel",
+          "nat": "Switzerland",
+          "n": 3,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Manuel Neuer",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Nikola Vasilj",
+          "nat": "Bosnia & Herzegovina",
+          "n": 1,
+          "club": "FC St. Pauli"
+        }
+      ]
+    },
+    {
+      "league": "Qatar Stars League",
+      "total": 5,
+      "players": [
+        {
+          "name": "Mahmoud Abunada",
+          "nat": "Qatar",
+          "n": 5,
+          "club": "Al-Rayyan"
+        }
+      ]
+    },
+    {
+      "league": "Eredivisie (Netherlands)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Matej Kovar",
+          "nat": "Czechia",
+          "n": 4,
+          "club": "PSV Eindhoven"
+        }
+      ]
+    },
+    {
+      "league": "Serie A (Italy)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Zion Suzuki",
+          "nat": "Japan",
+          "n": 4,
+          "club": "Parma"
+        }
+      ]
+    },
+    {
+      "league": "Egyptian Premier League",
+      "total": 3,
+      "players": [
+        {
+          "name": "Mostafa Shoubir",
+          "nat": "Egypt",
+          "n": 3,
+          "club": "Al Ahly"
+        }
+      ]
+    },
+    {
+      "league": "J1 League (Japan)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Kim Seunggyu",
+          "nat": "South Korea",
+          "n": 3,
+          "club": "FC Tokyo"
+        }
+      ]
+    },
+    {
+      "league": "La Liga (Spain)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Athletic Bilbao"
+        }
+      ]
+    },
+    {
+      "league": "Süper Lig (Turkey)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Ugurcan Cakir",
+          "nat": "Turkey",
+          "n": 2,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Yahia Fofana",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Çaykur Rizespor"
+        }
+      ]
+    },
+    {
+      "league": "Liga MX (Mexico)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Raul Rangel",
+          "nat": "Mexico",
+          "n": 2,
+          "club": "Guadalajara"
+        }
+      ]
+    },
+    {
+      "league": "South African Premier Division",
+      "total": 2,
+      "players": [
+        {
+          "name": "Ronwen Williams",
+          "nat": "South Africa",
+          "n": 2,
+          "club": "Mamelodi Sundowns"
+        }
+      ]
+    },
+    {
+      "league": "Allsvenskan (Sweden)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Kristoffer Nordfeldt",
+          "nat": "Sweden",
+          "n": 1,
+          "club": "AIK"
+        }
+      ]
+    },
+    {
+      "league": "Ligue 1 (France)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Johny Placide",
+          "nat": "Haiti",
+          "n": 1,
+          "club": "Bastia"
+        }
+      ]
+    },
+    {
+      "league": "Ligue Professionnelle 1 (Tunisia)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Mouhib Chamakh",
+          "nat": "Tunisia",
+          "n": 1,
+          "club": "Club Africain"
+        }
+      ]
+    }
+  ],
   "notes": {
     "goals": "Live from FIFA. Updated automatically; data through the most recent match. (16/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
-    "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted."
+    "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
 }

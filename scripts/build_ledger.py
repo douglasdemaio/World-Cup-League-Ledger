@@ -21,6 +21,7 @@ import json
 import re
 import sys
 import time
+import unicodedata
 import urllib.request
 import urllib.error
 from collections import defaultdict
@@ -37,6 +38,14 @@ UA = "Mozilla/5.0 (compatible; WCClubTrackerBot/1.0; +https://wcclubtracker.com)
 FIFA = "https://api.fifa.com/api/v3"
 COMP = "17"
 SEASON = "285023"
+
+# FIFA's v3 timeline never emits save events for the World Cup (verified empty
+# on 2026 *and* 2022 — Type 57/60/14 are simply not in the feed), and FIFA's
+# /topsavers endpoint exists but stays empty until they decide to publish
+# keeper stats post-tournament. Until then we pull saves from ESPN's public
+# match-summary endpoint, which carries per-match keeper save totals as the
+# "saves" leader per team.
+ESPN = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world"
 
 EVENT_GOAL = 0
 EVENT_ASSIST = 1
@@ -136,6 +145,110 @@ def fetch_timeline(stage, match):
     return http_json(f"{FIFA}/timelines/{COMP}/{SEASON}/{stage}/{match}?language=en")
 
 
+def _norm_name(s):
+    """Strip diacritics + everything but letters, lowercase. Collapses
+    'Al-Owais' ↔ 'ALOWAIS', 'Kim Seung-Gyu' ↔ 'KIM Seunggyu', and absorbs
+    the case difference between ESPN (mixed) and FIFA (surnames in caps)."""
+    if not s:
+        return ""
+    s = unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z]", "", s.lower())
+
+
+def build_player_lookup(players):
+    """(nat, normalized name) -> FIFA pid. Indexed by full name, surname, AND
+    first name so single-name keepers ('Alisson') still match ESPN's
+    'Alisson Becker', and hyphenated names collapse to the same key."""
+    out = {}
+    for pid, meta in players.items():
+        nat = meta.get("nat", "")
+        name = meta.get("name", "")
+        if not nat or not name:
+            continue
+        parts = name.split()
+        out.setdefault((nat, _norm_name(name)), pid)
+        if parts:
+            out.setdefault((nat, _norm_name(parts[-1])), pid)
+            out.setdefault((nat, _norm_name(parts[0])), pid)
+    return out
+
+
+def fifa_dates_for_espn(matches):
+    """ESPN scoreboard query needs YYYYMMDD; derive from FIFA's match dates so
+    we only ask ESPN for days that actually have WC matches."""
+    out = set()
+    for m in matches:
+        if m.get("MatchStatus") not in (0, 3):  # played or live
+            continue
+        d = m.get("Date") or ""
+        if len(d) >= 10:
+            out.add(d[0:4] + d[5:7] + d[8:10])
+    return sorted(out)
+
+
+def fetch_espn_completed_events(dates):
+    out = []
+    for ds in dates:
+        try:
+            d = http_json(f"{ESPN}/scoreboard?dates={ds}")
+        except Exception as e:
+            print(f"  ESPN scoreboard {ds}: {e}", file=sys.stderr)
+            continue
+        for ev in d.get("events", []):
+            status = (ev.get("status") or {}).get("type") or {}
+            if status.get("completed") or status.get("state") == "in":
+                out.append(ev["id"])
+        time.sleep(0.05)
+    return out
+
+
+def fetch_saves_from_espn(players, matches):
+    """Aggregate {pid: total_saves} from ESPN's per-match saves leaders."""
+    lookup = build_player_lookup(players)
+    counts = defaultdict(int)
+    unmatched = []
+
+    dates = fifa_dates_for_espn(matches)
+    event_ids = fetch_espn_completed_events(dates)
+    print(f"ESPN: {len(event_ids)} events across {len(dates)} dates for save aggregation", file=sys.stderr)
+
+    for i, eid in enumerate(event_ids, 1):
+        try:
+            d = http_json(f"{ESPN}/summary?event={eid}")
+        except Exception as e:
+            print(f"  ESPN summary {eid}: {e}", file=sys.stderr)
+            continue
+        for team in d.get("leaders", []) or []:
+            nat = ((team.get("team") or {}).get("abbreviation") or "").upper()
+            for cat in team.get("leaders", []) or []:
+                if cat.get("name") != "saves":
+                    continue
+                for ldr in cat.get("leaders", []) or []:
+                    try:
+                        n = int(float(ldr.get("displayValue") or 0))
+                    except (TypeError, ValueError):
+                        n = 0
+                    if n <= 0:
+                        continue
+                    ath = ldr.get("athlete") or {}
+                    full = ath.get("displayName") or ""
+                    last = ath.get("lastName") or ""
+                    first = ath.get("firstName") or (full.split(" ", 1)[0] if full else "")
+                    pid = (lookup.get((nat, _norm_name(full)))
+                           or lookup.get((nat, _norm_name(last)))
+                           or lookup.get((nat, _norm_name(first))))
+                    if pid:
+                        counts[pid] += n
+                    else:
+                        unmatched.append((nat, full, n))
+        time.sleep(0.05)
+
+    if unmatched:
+        print(f"  ESPN: {len(unmatched)} saves leaders not matched to FIFA index (sample): {unmatched[:5]}", file=sys.stderr)
+    print(f"  ESPN: matched saves for {len(counts)} keepers", file=sys.stderr)
+    return counts
+
+
 def aggregate():
     players = load_player_index()
     leagues = load_leagues()
@@ -194,7 +307,11 @@ def aggregate():
           f"seen={save_probe['seen']} with_IdPlayer={save_probe['with_idplayer']} "
           f"with_any_player_field={save_probe['with_any_player']}", file=sys.stderr)
     print(f"DIAG fields present on save-candidate events: {dict(save_probe['fields'])}", file=sys.stderr)
-    print(f"DIAG raw counts: goals={len(counts['goals'])} assists={len(counts['assists'])} saves={len(counts['saves'])} players", file=sys.stderr)
+    print(f"DIAG raw counts (timeline): goals={len(counts['goals'])} assists={len(counts['assists'])} saves={len(counts['saves'])} players", file=sys.stderr)
+
+    # FIFA's timeline doesn't carry save events for this competition; pull them
+    # from ESPN's per-match summary leaders instead and aggregate the same way.
+    saves_counts = fetch_saves_from_espn(players, matches)
 
     out = {
         "updated": datetime.now(timezone.utc).strftime("%B %-d, %Y %H:%M UTC — ")
@@ -202,11 +319,11 @@ def aggregate():
                    + (f", {live} live" if live else ""),
         "goals": group_by_league(counts["goals"], players, leagues),
         "assists": group_by_league(counts["assists"], players, leagues),
-        "saves": group_by_league(counts["saves"], players, leagues),
+        "saves": group_by_league(saves_counts, players, leagues),
         "notes": {
             "goals": f"Live from FIFA. Updated automatically; data through the most recent match. ({played}/{total_in_tournament} matches)",
             "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
-            "saves": "Live from FIFA. Counts FIFA Goal-Prevention events (Type 57); goals conceded are not deducted.",
+            "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted.",
         },
     }
     return out
