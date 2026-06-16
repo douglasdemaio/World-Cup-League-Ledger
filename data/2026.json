@@ -1,10 +1,16 @@
 {
-  "updated": "June 16, 2026 20:35 UTC — 16 of 104 matches played, 1 live",
+  "updated": "June 16, 2026 22:46 UTC — 17 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 13,
+      "total": 15,
       "players": [
+        {
+          "name": "Erling Haaland",
+          "nat": "Norway",
+          "n": 2,
+          "club": "Manchester City"
+        },
         {
           "name": "Yasin Ayari",
           "nat": "Sweden",
@@ -135,7 +141,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 3,
+      "total": 5,
       "players": [
         {
           "name": "Folarin Balogun",
@@ -144,10 +150,40 @@
           "club": "Monaco"
         },
         {
+          "name": "Bradley Barcola",
+          "nat": "France",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Ibrahim Mbaye",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
           "name": "Keito Nakamura",
           "nat": "Japan",
           "n": 1,
           "club": "Reims"
+        }
+      ]
+    },
+    {
+      "league": "La Liga (Spain)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Kylian Mbappe",
+          "nat": "France",
+          "n": 2,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Vinicius Junior",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Real Madrid"
         }
       ]
     },
@@ -166,24 +202,6 @@
           "nat": "Morocco",
           "n": 1,
           "club": "PSV Eindhoven"
-        }
-      ]
-    },
-    {
-      "league": "La Liga (Spain)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Kylian Mbappe",
-          "nat": "France",
-          "n": 1,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Vinicius Junior",
-          "nat": "Brazil",
-          "n": 1,
-          "club": "Real Madrid"
         }
       ]
     },
@@ -238,6 +256,18 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Al Ahly"
+        }
+      ]
+    },
+    {
+      "league": "Iraq Stars League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Aymen Hussein",
+          "nat": "Iraq",
+          "n": 1,
+          "club": "Al-Karma"
         }
       ]
     },
@@ -329,7 +359,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 12,
+      "total": 14,
       "players": [
         {
           "name": "Alexander Isak",
@@ -356,6 +386,12 @@
           "club": "Newcastle United"
         },
         {
+          "name": "David Moller Wolfe",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Wolverhampton Wanderers"
+        },
+        {
           "name": "Florian Wirtz",
           "nat": "Germany",
           "n": 1,
@@ -366,6 +402,12 @@
           "nat": "Tunisia",
           "n": 1,
           "club": "Burnley"
+        },
+        {
+          "name": "Iliman Ndiaye",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Everton"
         },
         {
           "name": "Lucas Bergvall",
@@ -454,6 +496,30 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Adrien Rabiot",
+          "nat": "France",
+          "n": 1,
+          "club": "Milan"
+        },
+        {
+          "name": "Christian Pulisic",
+          "nat": "USA",
+          "n": 1,
+          "club": "Milan"
+        },
+        {
+          "name": "Sead Kolasinac",
+          "nat": "Bosnia & Herzegovina",
+          "n": 1,
+          "club": "Atalanta"
+        }
+      ]
+    },
+    {
       "league": "Eredivisie (Netherlands)",
       "total": 2,
       "players": [
@@ -508,24 +574,6 @@
       ]
     },
     {
-      "league": "Serie A (Italy)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Christian Pulisic",
-          "nat": "USA",
-          "n": 1,
-          "club": "Milan"
-        },
-        {
-          "name": "Sead Kolasinac",
-          "nat": "Bosnia & Herzegovina",
-          "n": 1,
-          "club": "Atalanta"
-        }
-      ]
-    },
-    {
       "league": "A-League (Australia)",
       "total": 1,
       "players": [
@@ -534,6 +582,18 @@
           "nat": "Australia",
           "n": 1,
           "club": "Sydney FC"
+        }
+      ]
+    },
+    {
+      "league": "Ekstraklasa (Poland)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Amir Alammari",
+          "nat": "Iraq",
+          "n": 1,
+          "club": "Cracovia"
         }
       ]
     },
@@ -577,7 +637,7 @@
   "saves": [
     {
       "league": "Saudi Pro League",
-      "total": 15,
+      "total": 18,
       "players": [
         {
           "name": "Mohammed Alowais",
@@ -586,16 +646,16 @@
           "club": "Al-Ula"
         },
         {
+          "name": "Edouard Mendy",
+          "nat": "Senegal",
+          "n": 5,
+          "club": "Al-Ahli"
+        },
+        {
           "name": "Yassine Bounou",
           "nat": "Morocco",
           "n": 4,
           "club": "Al-Hilal"
-        },
-        {
-          "name": "Edouard Mendy",
-          "nat": "Senegal",
-          "n": 2,
-          "club": "Al-Ahli"
         }
       ]
     },
@@ -708,6 +768,24 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Zion Suzuki",
+          "nat": "Japan",
+          "n": 4,
+          "club": "Parma"
+        },
+        {
+          "name": "Mike Maignan",
+          "nat": "France",
+          "n": 2,
+          "club": "Milan"
+        }
+      ]
+    },
+    {
       "league": "Bundesliga (Germany)",
       "total": 5,
       "players": [
@@ -740,24 +818,6 @@
           "nat": "Qatar",
           "n": 5,
           "club": "Al-Rayyan"
-        }
-      ]
-    },
-    {
-      "league": "Serie A (Italy)",
-      "total": 5,
-      "players": [
-        {
-          "name": "Zion Suzuki",
-          "nat": "Japan",
-          "n": 4,
-          "club": "Parma"
-        },
-        {
-          "name": "Mike Maignan",
-          "nat": "France",
-          "n": 1,
-          "club": "Milan"
         }
       ]
     },
@@ -870,6 +930,18 @@
       ]
     },
     {
+      "league": "Iraq Stars League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Jalal Hassan",
+          "nat": "Iraq",
+          "n": 1,
+          "club": "Al-Zawraa"
+        }
+      ]
+    },
+    {
       "league": "Ligue 1 (France)",
       "total": 1,
       "players": [
@@ -895,7 +967,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (16/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (17/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
