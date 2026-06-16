@@ -18,6 +18,7 @@ no secrets — both FIFA and Wikipedia are public.
 """
 
 import json
+import re
 import sys
 import time
 import urllib.request
@@ -41,6 +42,16 @@ EVENT_GOAL = 0
 EVENT_ASSIST = 1
 EVENT_SAVE = 57
 
+# Save events have historically shown up under more than one code in FIFA's
+# v3 timeline depending on competition. We count the primary one but also
+# *watch* these so the diagnostics below tell us if saves live elsewhere.
+SAVE_CANDIDATE_TYPES = {57, 60, 14}
+
+# Fields a timeline event may use to carry the acting player, in priority order.
+# Goals/assists use IdPlayer; keeper events sometimes use IdSubPlayer or nest
+# the player inside a "Player" object.
+PLAYER_ID_FIELDS = ("IdPlayer", "IdSubPlayer")
+
 # FIFA 3-letter nationality -> display name shown next to the player.
 NAT_DISPLAY = {
     "ALG": "Algeria", "ARG": "Argentina", "AUS": "Australia", "AUT": "Austria",
@@ -57,6 +68,19 @@ NAT_DISPLAY = {
     "TUN": "Tunisia", "TUR": "Turkey", "URU": "Uruguay", "USA": "USA",
     "UZB": "Uzbekistan",
 }
+
+
+def event_player_id(ev):
+    """Best-effort actor id for an event, tolerant of the keeper-event shapes."""
+    for f in PLAYER_ID_FIELDS:
+        v = ev.get(f)
+        if v:
+            return v
+    # Some feeds nest the player: {"Player": {"IdPlayer": "..."}}
+    p = ev.get("Player")
+    if isinstance(p, dict) and p.get("IdPlayer"):
+        return p["IdPlayer"]
+    return None
 
 
 def http_json(url, retries=3):
@@ -128,6 +152,10 @@ def aggregate():
     counts = {"goals": defaultdict(int), "assists": defaultdict(int), "saves": defaultdict(int)}
     EVENT_KEY = {EVENT_GOAL: "goals", EVENT_ASSIST: "assists", EVENT_SAVE: "saves"}
 
+    # --- diagnostics: prove what the timeline actually contains ---
+    type_hist = defaultdict(int)          # every event Type we ever see
+    save_probe = {"seen": 0, "with_idplayer": 0, "with_any_player": 0, "fields": defaultdict(int)}
+
     for i, m in enumerate(interesting, 1):
         print(f"  [{i}/{len(interesting)}] timeline match={m['IdMatch']} stage={m['IdStage']}", file=sys.stderr)
         try:
@@ -137,14 +165,36 @@ def aggregate():
             continue
         for ev in tl.get("Event", []):
             tp = ev.get("Type")
+            type_hist[tp] += 1
+
+            # Probe anything that *might* be a save so the logs reveal the truth.
+            if tp in SAVE_CANDIDATE_TYPES:
+                save_probe["seen"] += 1
+                if ev.get("IdPlayer"):
+                    save_probe["with_idplayer"] += 1
+                if event_player_id(ev):
+                    save_probe["with_any_player"] += 1
+                for k, v in ev.items():
+                    if v not in (None, "", [], {}):
+                        save_probe["fields"][k] += 1
+
             stat = EVENT_KEY.get(tp)
             if not stat:
                 continue
-            pid = ev.get("IdPlayer")
+            pid = event_player_id(ev)        # was ev.get("IdPlayer") — now tolerant
             if not pid:
                 continue
             counts[stat][pid] += 1
         time.sleep(0.05)
+
+    # Dump the diagnostics. These three lines tell you exactly why saves are empty.
+    top_types = sorted(type_hist.items(), key=lambda kv: -kv[1])[:25]
+    print(f"DIAG event-type histogram (top 25): {top_types}", file=sys.stderr)
+    print(f"DIAG save-candidate types {sorted(SAVE_CANDIDATE_TYPES)}: "
+          f"seen={save_probe['seen']} with_IdPlayer={save_probe['with_idplayer']} "
+          f"with_any_player_field={save_probe['with_any_player']}", file=sys.stderr)
+    print(f"DIAG fields present on save-candidate events: {dict(save_probe['fields'])}", file=sys.stderr)
+    print(f"DIAG raw counts: goals={len(counts['goals'])} assists={len(counts['assists'])} saves={len(counts['saves'])} players", file=sys.stderr)
 
     out = {
         "updated": datetime.now(timezone.utc).strftime("%B %-d, %Y %H:%M UTC — ")
@@ -192,6 +242,22 @@ def group_by_league(counts_by_pid, players, leagues):
     return out
 
 
+def validate_payload(payload):
+    """Warn loudly when a 'Live from FIFA' category is empty after matches start."""
+    updated = payload.get("updated", "")
+    played = 0
+    m = re.search(r"(\d+)\s+of\s+\d+\s+matches played", updated)
+    if m:
+        played = int(m.group(1))
+    for stat in ("goals", "assists", "saves"):
+        rows = payload.get(stat) or []
+        total = sum(r.get("total", 0) for r in rows)
+        if played > 0 and total == 0:
+            print(f"WARN {stat!r} is empty after {played} matches played — "
+                  f"caption still claims live FIFA data. Check the DIAG lines above.",
+                  file=sys.stderr)
+
+
 def write_if_changed(payload):
     new_text = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
     if OUT_FILE.exists():
@@ -212,6 +278,7 @@ def scrub_updated(text):
 
 def main():
     payload = aggregate()
+    validate_payload(payload)
     changed = write_if_changed(payload)
     sys.exit(0 if changed or "--allow-no-change" in sys.argv else 0)
 
