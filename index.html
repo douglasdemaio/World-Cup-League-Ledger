@@ -976,7 +976,9 @@ function render(){
   requestAnimationFrame(()=>requestAnimationFrame(()=>{
     el.querySelectorAll(".bar").forEach(b=>b.style.width=b.dataset.w+"%");
   }));
-  document.getElementById("note").textContent=(d.notes&&d.notes[stat])||NOTES[tournament+"-"+stat]||"";
+  const liveNote=d.notes&&d.notes[stat];
+  const haveLiveRows=Array.isArray(d[stat])&&d[stat].length>0;
+  document.getElementById("note").textContent=(haveLiveRows&&liveNote)||NOTES[tournament+"-"+stat]||liveNote||"";
 }
 
 document.querySelectorAll(".switch button").forEach(b=>b.addEventListener("click",()=>setTournament(b.dataset.t)));
@@ -1272,7 +1274,8 @@ const LIVE_POLL_MS = 60000;
 let liveEtag = "";
 
 function validLedger(d){
-  return d && typeof d === "object" && Array.isArray(d.goals);
+  return d && typeof d === "object"
+    && Array.isArray(d.goals) && Array.isArray(d.assists) && Array.isArray(d.saves);
 }
 
 async function refreshLive(){
