@@ -1,5 +1,5 @@
 {
-  "updated": "June 16, 2026 07:37 UTC — 16 of 104 matches played",
+  "updated": "June 16, 2026 20:35 UTC — 16 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -170,6 +170,24 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Kylian Mbappe",
+          "nat": "France",
+          "n": 1,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Vinicius Junior",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Real Madrid"
+        }
+      ]
+    },
+    {
       "league": "Saudi Pro League",
       "total": 2,
       "players": [
@@ -220,18 +238,6 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Al Ahly"
-        }
-      ]
-    },
-    {
-      "league": "La Liga (Spain)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Vinicius Junior",
-          "nat": "Brazil",
-          "n": 1,
-          "club": "Real Madrid"
         }
       ]
     },
@@ -383,7 +389,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 7,
+      "total": 8,
       "players": [
         {
           "name": "Deniz Undav",
@@ -402,6 +408,12 @@
           "nat": "USA",
           "n": 1,
           "club": "Bayer Leverkusen"
+        },
+        {
+          "name": "Michael Olise",
+          "nat": "France",
+          "n": 1,
+          "club": "Bayern Munich"
         },
         {
           "name": "Nathaniel Brown",
@@ -565,7 +577,7 @@
   "saves": [
     {
       "league": "Saudi Pro League",
-      "total": 13,
+      "total": 15,
       "players": [
         {
           "name": "Mohammed Alowais",
@@ -578,6 +590,12 @@
           "nat": "Morocco",
           "n": 4,
           "club": "Al-Hilal"
+        },
+        {
+          "name": "Edouard Mendy",
+          "nat": "Senegal",
+          "n": 2,
+          "club": "Al-Ahli"
         }
       ]
     },
@@ -726,6 +744,24 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Zion Suzuki",
+          "nat": "Japan",
+          "n": 4,
+          "club": "Parma"
+        },
+        {
+          "name": "Mike Maignan",
+          "nat": "France",
+          "n": 1,
+          "club": "Milan"
+        }
+      ]
+    },
+    {
       "league": "Eredivisie (Netherlands)",
       "total": 4,
       "players": [
@@ -734,18 +770,6 @@
           "nat": "Czechia",
           "n": 4,
           "club": "PSV Eindhoven"
-        }
-      ]
-    },
-    {
-      "league": "Serie A (Italy)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Zion Suzuki",
-          "nat": "Japan",
-          "n": 4,
-          "club": "Parma"
         }
       ]
     },
