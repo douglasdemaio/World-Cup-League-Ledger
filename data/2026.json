@@ -1,9 +1,9 @@
 {
-  "updated": "June 17, 2026 17:43 UTC — 20 of 104 matches played, 1 live",
+  "updated": "June 17, 2026 19:56 UTC — 21 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 15,
+      "total": 16,
       "players": [
         {
           "name": "Erling Haaland",
@@ -82,6 +82,12 @@
           "nat": "Netherlands",
           "n": 1,
           "club": "Liverpool"
+        },
+        {
+          "name": "Yoane Wissa",
+          "nat": "DR Congo",
+          "n": 1,
+          "club": "Newcastle United"
         }
       ]
     },
@@ -568,6 +574,30 @@
       ]
     },
     {
+      "league": "Ligue 1 (France)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Arthur Masuaku",
+          "nat": "DR Congo",
+          "n": 1,
+          "club": "Lens"
+        },
+        {
+          "name": "Julio Enciso",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Strasbourg"
+        },
+        {
+          "name": "Lee Kangin",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        }
+      ]
+    },
+    {
       "league": "Serie A (Italy)",
       "total": 3,
       "players": [
@@ -624,24 +654,6 @@
           "nat": "Mexico",
           "n": 1,
           "club": "Guadalajara"
-        }
-      ]
-    },
-    {
-      "league": "Ligue 1 (France)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Julio Enciso",
-          "nat": "Paraguay",
-          "n": 1,
-          "club": "Strasbourg"
-        },
-        {
-          "name": "Lee Kangin",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Paris Saint-Germain"
         }
       ]
     },
@@ -1087,7 +1099,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (20/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (21/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
