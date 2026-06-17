@@ -1,5 +1,5 @@
 {
-  "updated": "June 16, 2026 22:46 UTC — 17 of 104 matches played, 1 live",
+  "updated": "June 17, 2026 00:10 UTC — 18 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -320,6 +320,18 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Leo Ostigard",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Genoa"
+        }
+      ]
+    },
+    {
       "league": "Super League (Switzerland)",
       "total": 1,
       "players": [
@@ -359,7 +371,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 14,
+      "total": 15,
       "players": [
         {
           "name": "Alexander Isak",
@@ -414,6 +426,12 @@
           "nat": "Sweden",
           "n": 1,
           "club": "Tottenham Hotspur"
+        },
+        {
+          "name": "Martin Odegaard",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Arsenal"
         },
         {
           "name": "Mohamed Salah",
@@ -894,6 +912,18 @@
       ]
     },
     {
+      "league": "Iraq Stars League",
+      "total": 2,
+      "players": [
+        {
+          "name": "Jalal Hassan",
+          "nat": "Iraq",
+          "n": 2,
+          "club": "Al-Zawraa"
+        }
+      ]
+    },
+    {
       "league": "Liga MX (Mexico)",
       "total": 2,
       "players": [
@@ -930,18 +960,6 @@
       ]
     },
     {
-      "league": "Iraq Stars League",
-      "total": 1,
-      "players": [
-        {
-          "name": "Jalal Hassan",
-          "nat": "Iraq",
-          "n": 1,
-          "club": "Al-Zawraa"
-        }
-      ]
-    },
-    {
       "league": "Ligue 1 (France)",
       "total": 1,
       "players": [
@@ -967,7 +985,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (17/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (18/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
