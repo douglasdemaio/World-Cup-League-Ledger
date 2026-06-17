@@ -1,5 +1,5 @@
 {
-  "updated": "June 17, 2026 05:57 UTC — 19 of 104 matches played, 1 live",
+  "updated": "June 17, 2026 10:44 UTC — 20 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -1032,6 +1032,18 @@
       ]
     },
     {
+      "league": "Jordan Pro League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Yazeed Abulaila",
+          "nat": "Jordan",
+          "n": 1,
+          "club": "Al-Hussein"
+        }
+      ]
+    },
+    {
       "league": "Ligue 1 (France)",
       "total": 1,
       "players": [
@@ -1057,7 +1069,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (19/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (20/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
