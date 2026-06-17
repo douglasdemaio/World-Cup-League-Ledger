@@ -1,5 +1,5 @@
 {
-  "updated": "June 17, 2026 10:44 UTC — 20 of 104 matches played",
+  "updated": "June 17, 2026 17:43 UTC — 20 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -147,7 +147,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 5,
+      "total": 6,
       "players": [
         {
           "name": "Folarin Balogun",
@@ -164,6 +164,12 @@
         {
           "name": "Ibrahim Mbaye",
           "nat": "Senegal",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Joao Neves",
+          "nat": "Portugal",
           "n": 1,
           "club": "Paris Saint-Germain"
         },
@@ -401,7 +407,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 15,
+      "total": 16,
       "players": [
         {
           "name": "Alexander Isak",
@@ -468,6 +474,12 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Liverpool"
+        },
+        {
+          "name": "Pedro Neto",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Chelsea"
         },
         {
           "name": "Viktor Gyokeres",
@@ -744,6 +756,24 @@
       ]
     },
     {
+      "league": "Primeira Liga (Portugal)",
+      "total": 8,
+      "players": [
+        {
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 7,
+          "club": "Chaves"
+        },
+        {
+          "name": "Diogo Costa",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Porto"
+        }
+      ]
+    },
+    {
       "league": "Primera División (Argentina)",
       "total": 8,
       "players": [
@@ -794,18 +824,6 @@
           "nat": "Netherlands",
           "n": 1,
           "club": "Brighton & Hove Albion"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 7,
-      "players": [
-        {
-          "name": "Vozinha",
-          "nat": "Cape Verde",
-          "n": 7,
-          "club": "Chaves"
         }
       ]
     },
