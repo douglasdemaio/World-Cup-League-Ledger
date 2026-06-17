@@ -1,5 +1,5 @@
 {
-  "updated": "June 17, 2026 00:10 UTC — 18 of 104 matches played",
+  "updated": "June 17, 2026 05:57 UTC — 19 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -87,7 +87,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 8,
+      "total": 9,
       "players": [
         {
           "name": "Connor Metcalfe",
@@ -136,6 +136,12 @@
           "nat": "Germany",
           "n": 1,
           "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Romano Schmid",
+          "nat": "Austria",
+          "n": 1,
+          "club": "Werder Bremen"
         }
       ]
     },
@@ -184,6 +190,18 @@
           "nat": "Brazil",
           "n": 1,
           "club": "Real Madrid"
+        }
+      ]
+    },
+    {
+      "league": "MLS (USA/Canada)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Lionel Messi",
+          "nat": "Argentina",
+          "n": 3,
+          "club": "Inter Miami CF"
         }
       ]
     },
@@ -320,6 +338,18 @@
       ]
     },
     {
+      "league": "Qatar Stars League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Ali Olwan",
+          "nat": "Jordan",
+          "n": 1,
+          "club": "Al-Sailiya"
+        }
+      ]
+    },
+    {
       "league": "Serie A (Italy)",
       "total": 1,
       "players": [
@@ -449,7 +479,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 8,
+      "total": 9,
       "players": [
         {
           "name": "Deniz Undav",
@@ -486,12 +516,18 @@
           "nat": "Czechia",
           "n": 1,
           "club": "TSG Hoffenheim"
+        },
+        {
+          "name": "Xaver Schlager",
+          "nat": "Austria",
+          "n": 1,
+          "club": "RB Leipzig"
         }
       ]
     },
     {
       "league": "La Liga (Spain)",
-      "total": 3,
+      "total": 4,
       "players": [
         {
           "name": "Alex Freeman",
@@ -504,6 +540,12 @@
           "nat": "Morocco",
           "n": 1,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Nico Gonzalez",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Atlético Madrid"
         },
         {
           "name": "Takefusa Kubo",
@@ -612,6 +654,18 @@
           "nat": "Iraq",
           "n": 1,
           "club": "Cracovia"
+        }
+      ]
+    },
+    {
+      "league": "MLS (USA/Canada)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Rodrigo De Paul",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Inter Miami CF"
         }
       ]
     },
@@ -756,6 +810,30 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Luca Zidane",
+          "nat": "Algeria",
+          "n": 3,
+          "club": "Granada"
+        },
+        {
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Athletic Bilbao"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 6,
       "players": [
@@ -852,6 +930,18 @@
       ]
     },
     {
+      "league": "Austrian Bundesliga",
+      "total": 3,
+      "players": [
+        {
+          "name": "Alexander Schlager",
+          "nat": "Austria",
+          "n": 3,
+          "club": "Red Bull Salzburg"
+        }
+      ]
+    },
+    {
       "league": "Egyptian Premier League",
       "total": 3,
       "players": [
@@ -872,24 +962,6 @@
           "nat": "South Korea",
           "n": 3,
           "club": "FC Tokyo"
-        }
-      ]
-    },
-    {
-      "league": "La Liga (Spain)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Thibaut Courtois",
-          "nat": "Belgium",
-          "n": 2,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Unai Simon",
-          "nat": "Spain",
-          "n": 1,
-          "club": "Athletic Bilbao"
         }
       ]
     },
@@ -985,7 +1057,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (18/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (19/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
