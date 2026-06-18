@@ -1,5 +1,5 @@
 {
-  "updated": "June 18, 2026 17:53 UTC — 24 of 104 matches played, 1 live",
+  "updated": "June 18, 2026 20:07 UTC — 25 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -996,6 +996,42 @@
       ]
     },
     {
+      "league": "Bundesliga (Germany)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Gregor Kobel",
+          "nat": "Switzerland",
+          "n": 4,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Nikola Vasilj",
+          "nat": "Bosnia & Herzegovina",
+          "n": 2,
+          "club": "FC St. Pauli"
+        },
+        {
+          "name": "Manuel Neuer",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Bayern Munich"
+        }
+      ]
+    },
+    {
+      "league": "Eredivisie (Netherlands)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Matej Kovar",
+          "nat": "Czechia",
+          "n": 7,
+          "club": "PSV Eindhoven"
+        }
+      ]
+    },
+    {
       "league": "HNL (Croatia)",
       "total": 7,
       "players": [
@@ -1004,18 +1040,6 @@
           "nat": "Croatia",
           "n": 7,
           "club": "Dinamo Zagreb"
-        }
-      ]
-    },
-    {
-      "league": "Eredivisie (Netherlands)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Matej Kovar",
-          "nat": "Czechia",
-          "n": 6,
-          "club": "PSV Eindhoven"
         }
       ]
     },
@@ -1088,30 +1112,6 @@
           "nat": "France",
           "n": 2,
           "club": "Milan"
-        }
-      ]
-    },
-    {
-      "league": "Bundesliga (Germany)",
-      "total": 5,
-      "players": [
-        {
-          "name": "Gregor Kobel",
-          "nat": "Switzerland",
-          "n": 3,
-          "club": "Borussia Dortmund"
-        },
-        {
-          "name": "Manuel Neuer",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Bayern Munich"
-        },
-        {
-          "name": "Nikola Vasilj",
-          "nat": "Bosnia & Herzegovina",
-          "n": 1,
-          "club": "FC St. Pauli"
         }
       ]
     },
@@ -1297,7 +1297,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (24/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (25/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
