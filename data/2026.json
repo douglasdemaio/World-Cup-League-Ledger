@@ -1,5 +1,5 @@
 {
-  "updated": "June 18, 2026 07:24 UTC — 24 of 104 matches played",
+  "updated": "June 18, 2026 17:53 UTC — 24 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -334,6 +334,18 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Beşiktaş"
+        }
+      ]
+    },
+    {
+      "league": "Czech First League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Michal Sadilek",
+          "nat": "Czechia",
+          "n": 1,
+          "club": "Slavia Prague"
         }
       ]
     },
@@ -790,6 +802,18 @@
       ]
     },
     {
+      "league": "Czech First League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Alexandr Sojka",
+          "nat": "Czechia",
+          "n": 1,
+          "club": "Viktoria Plzeň"
+        }
+      ]
+    },
+    {
       "league": "Ekstraklasa (Poland)",
       "total": 1,
       "players": [
@@ -984,6 +1008,18 @@
       ]
     },
     {
+      "league": "Eredivisie (Netherlands)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Matej Kovar",
+          "nat": "Czechia",
+          "n": 6,
+          "club": "PSV Eindhoven"
+        }
+      ]
+    },
+    {
       "league": "La Liga (Spain)",
       "total": 6,
       "players": [
@@ -1092,14 +1128,14 @@
       ]
     },
     {
-      "league": "Eredivisie (Netherlands)",
+      "league": "South African Premier Division",
       "total": 4,
       "players": [
         {
-          "name": "Matej Kovar",
-          "nat": "Czechia",
+          "name": "Ronwen Williams",
+          "nat": "South Africa",
           "n": 4,
-          "club": "PSV Eindhoven"
+          "club": "Mamelodi Sundowns"
         }
       ]
     },
@@ -1196,18 +1232,6 @@
           "nat": "Iraq",
           "n": 2,
           "club": "Al-Zawraa"
-        }
-      ]
-    },
-    {
-      "league": "South African Premier Division",
-      "total": 2,
-      "players": [
-        {
-          "name": "Ronwen Williams",
-          "nat": "South Africa",
-          "n": 2,
-          "club": "Mamelodi Sundowns"
         }
       ]
     },
