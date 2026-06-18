@@ -1,9 +1,9 @@
 {
-  "updated": "June 18, 2026 02:29 UTC — 23 of 104 matches played, 1 live",
+  "updated": "June 18, 2026 07:24 UTC — 24 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 16,
+      "total": 17,
       "players": [
         {
           "name": "Erling Haaland",
@@ -44,6 +44,12 @@
         {
           "name": "Daichi Kamada",
           "nat": "Japan",
+          "n": 1,
+          "club": "Crystal Palace"
+        },
+        {
+          "name": "Daniel Munoz",
+          "nat": "Colombia",
           "n": 1,
           "club": "Crystal Palace"
         },
@@ -93,7 +99,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 10,
+      "total": 11,
       "players": [
         {
           "name": "Connor Metcalfe",
@@ -128,6 +134,12 @@
         {
           "name": "Jamal Musiala",
           "nat": "Germany",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Luis Diaz",
+          "nat": "Colombia",
           "n": 1,
           "club": "Bayern Munich"
         },
@@ -308,6 +320,24 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Abbosbek Fayzullaev",
+          "nat": "Uzbekistan",
+          "n": 1,
+          "club": "İstanbul Başakşehir"
+        },
+        {
+          "name": "Oh Hyeongyu",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Beşiktaş"
+        }
+      ]
+    },
+    {
       "league": "EFL Championship (England, 2nd tier)",
       "total": 1,
       "players": [
@@ -392,6 +422,18 @@
       ]
     },
     {
+      "league": "Primera División (Argentina)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Jaminton Campaz",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "Rosario Central"
+        }
+      ]
+    },
+    {
       "league": "Qatar Stars League",
       "total": 1,
       "players": [
@@ -436,18 +478,6 @@
           "nat": "Paraguay",
           "n": 1,
           "club": "Palmeiras"
-        }
-      ]
-    },
-    {
-      "league": "Süper Lig (Turkey)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Oh Hyeongyu",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Beşiktaş"
         }
       ]
     }
@@ -557,7 +587,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 9,
+      "total": 10,
       "players": [
         {
           "name": "Deniz Undav",
@@ -569,6 +599,12 @@
           "name": "Joshua Kimmich",
           "nat": "Germany",
           "n": 2,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Luis Diaz",
+          "nat": "Colombia",
+          "n": 1,
           "club": "Bayern Munich"
         },
         {
@@ -605,7 +641,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 4,
+      "total": 6,
       "players": [
         {
           "name": "Alex Freeman",
@@ -618,6 +654,18 @@
           "nat": "Morocco",
           "n": 1,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Cucho Hernandez",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "Real Betis"
+        },
+        {
+          "name": "Gustavo Puerta",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "Racing Santander"
         },
         {
           "name": "Nico Gonzalez",
@@ -1104,6 +1152,24 @@
       ]
     },
     {
+      "league": "Liga MX (Mexico)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Raul Rangel",
+          "nat": "Mexico",
+          "n": 2,
+          "club": "Guadalajara"
+        },
+        {
+          "name": "Camilo Vargas",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "Atlas"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 3,
       "players": [
@@ -1130,18 +1196,6 @@
           "nat": "Iraq",
           "n": 2,
           "club": "Al-Zawraa"
-        }
-      ]
-    },
-    {
-      "league": "Liga MX (Mexico)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Raul Rangel",
-          "nat": "Mexico",
-          "n": 2,
-          "club": "Guadalajara"
         }
       ]
     },
@@ -1204,10 +1258,22 @@
           "club": "Club Africain"
         }
       ]
+    },
+    {
+      "league": "Uzbekistan Super League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Utkir Yusupov",
+          "nat": "Uzbekistan",
+          "n": 1,
+          "club": "Navbahor Namangan"
+        }
+      ]
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (23/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (24/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
