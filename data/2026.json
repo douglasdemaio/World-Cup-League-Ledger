@@ -1,10 +1,16 @@
 {
-  "updated": "June 18, 2026 20:07 UTC — 25 of 104 matches played, 1 live",
+  "updated": "June 18, 2026 22:50 UTC — 26 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 17,
+      "total": 18,
       "players": [
+        {
+          "name": "Cyle Larin",
+          "nat": "Canada",
+          "n": 2,
+          "club": "Southampton"
+        },
         {
           "name": "Erling Haaland",
           "nat": "Norway",
@@ -34,12 +40,6 @@
           "nat": "Netherlands",
           "n": 1,
           "club": "West Ham United"
-        },
-        {
-          "name": "Cyle Larin",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Southampton"
         },
         {
           "name": "Daichi Kamada",
@@ -99,8 +99,14 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 11,
+      "total": 13,
       "players": [
+        {
+          "name": "Johan Manzambi",
+          "nat": "Switzerland",
+          "n": 2,
+          "club": "SC Freiburg"
+        },
         {
           "name": "Connor Metcalfe",
           "nat": "Australia",
@@ -170,6 +176,42 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Kylian Mbappe",
+          "nat": "France",
+          "n": 2,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Jude Bellingham",
+          "nat": "England",
+          "n": 1,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Marcus Rashford",
+          "nat": "England",
+          "n": 1,
+          "club": "Barcelona"
+        },
+        {
+          "name": "Ruben Vargas",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Sevilla"
+        },
+        {
+          "name": "Vinicius Junior",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Real Madrid"
+        }
+      ]
+    },
+    {
       "league": "Ligue 1 (France)",
       "total": 6,
       "players": [
@@ -206,36 +248,6 @@
       ]
     },
     {
-      "league": "La Liga (Spain)",
-      "total": 5,
-      "players": [
-        {
-          "name": "Kylian Mbappe",
-          "nat": "France",
-          "n": 2,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Jude Bellingham",
-          "nat": "England",
-          "n": 1,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Marcus Rashford",
-          "nat": "England",
-          "n": 1,
-          "club": "Barcelona"
-        },
-        {
-          "name": "Vinicius Junior",
-          "nat": "Brazil",
-          "n": 1,
-          "club": "Real Madrid"
-        }
-      ]
-    },
-    {
       "league": "MLS (USA/Canada)",
       "total": 4,
       "players": [
@@ -250,6 +262,48 @@
           "nat": "Croatia",
           "n": 1,
           "club": "FC Dallas"
+        }
+      ]
+    },
+    {
+      "league": "Serie A (Italy)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Jonathan David",
+          "nat": "Canada",
+          "n": 2,
+          "club": "Juventus"
+        },
+        {
+          "name": "Leo Ostigard",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Genoa"
+        },
+        {
+          "name": "Martin Baturina",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Como"
+        }
+      ]
+    },
+    {
+      "league": "Czech First League",
+      "total": 2,
+      "players": [
+        {
+          "name": "Ermin Mahmic",
+          "nat": "Bosnia & Herzegovina",
+          "n": 1,
+          "club": "Slovan Liberec"
+        },
+        {
+          "name": "Michal Sadilek",
+          "nat": "Czechia",
+          "n": 1,
+          "club": "Slavia Prague"
         }
       ]
     },
@@ -302,24 +356,6 @@
       ]
     },
     {
-      "league": "Serie A (Italy)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Leo Ostigard",
-          "nat": "Norway",
-          "n": 1,
-          "club": "Genoa"
-        },
-        {
-          "name": "Martin Baturina",
-          "nat": "Croatia",
-          "n": 1,
-          "club": "Como"
-        }
-      ]
-    },
-    {
       "league": "Süper Lig (Turkey)",
       "total": 2,
       "players": [
@@ -334,18 +370,6 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Beşiktaş"
-        }
-      ]
-    },
-    {
-      "league": "Czech First League",
-      "total": 1,
-      "players": [
-        {
-          "name": "Michal Sadilek",
-          "nat": "Czechia",
-          "n": 1,
-          "club": "Slavia Prague"
         }
       ]
     },
@@ -653,7 +677,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 6,
+      "total": 7,
       "players": [
         {
           "name": "Alex Freeman",
@@ -686,10 +710,46 @@
           "club": "Atlético Madrid"
         },
         {
+          "name": "Ruben Vargas",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Sevilla"
+        },
+        {
           "name": "Takefusa Kubo",
           "nat": "Japan",
           "n": 1,
           "club": "Real Sociedad"
+        }
+      ]
+    },
+    {
+      "league": "Ligue 1 (France)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Arthur Masuaku",
+          "nat": "DR Congo",
+          "n": 1,
+          "club": "Lens"
+        },
+        {
+          "name": "Breel Embolo",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Rennes"
+        },
+        {
+          "name": "Julio Enciso",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Strasbourg"
+        },
+        {
+          "name": "Lee Kangin",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Paris Saint-Germain"
         }
       ]
     },
@@ -744,30 +804,6 @@
           "nat": "Japan",
           "n": 1,
           "club": "NEC"
-        }
-      ]
-    },
-    {
-      "league": "Ligue 1 (France)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Arthur Masuaku",
-          "nat": "DR Congo",
-          "n": 1,
-          "club": "Lens"
-        },
-        {
-          "name": "Julio Enciso",
-          "nat": "Paraguay",
-          "n": 1,
-          "club": "Strasbourg"
-        },
-        {
-          "name": "Lee Kangin",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Paris Saint-Germain"
         }
       ]
     },
@@ -906,6 +942,30 @@
       ]
     },
     {
+      "league": "Bundesliga (Germany)",
+      "total": 10,
+      "players": [
+        {
+          "name": "Gregor Kobel",
+          "nat": "Switzerland",
+          "n": 5,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Nikola Vasilj",
+          "nat": "Bosnia & Herzegovina",
+          "n": 4,
+          "club": "FC St. Pauli"
+        },
+        {
+          "name": "Manuel Neuer",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Bayern Munich"
+        }
+      ]
+    },
+    {
       "league": "Premier League (England)",
       "total": 10,
       "players": [
@@ -996,26 +1056,14 @@
       ]
     },
     {
-      "league": "Bundesliga (Germany)",
-      "total": 7,
+      "league": "Qatar Stars League",
+      "total": 8,
       "players": [
         {
-          "name": "Gregor Kobel",
-          "nat": "Switzerland",
-          "n": 4,
-          "club": "Borussia Dortmund"
-        },
-        {
-          "name": "Nikola Vasilj",
-          "nat": "Bosnia & Herzegovina",
-          "n": 2,
-          "club": "FC St. Pauli"
-        },
-        {
-          "name": "Manuel Neuer",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Bayern Munich"
+          "name": "Mahmoud Abunada",
+          "nat": "Qatar",
+          "n": 8,
+          "club": "Al-Rayyan"
         }
       ]
     },
@@ -1112,18 +1160,6 @@
           "nat": "France",
           "n": 2,
           "club": "Milan"
-        }
-      ]
-    },
-    {
-      "league": "Qatar Stars League",
-      "total": 5,
-      "players": [
-        {
-          "name": "Mahmoud Abunada",
-          "nat": "Qatar",
-          "n": 5,
-          "club": "Al-Rayyan"
         }
       ]
     },
@@ -1297,7 +1333,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (25/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (26/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
