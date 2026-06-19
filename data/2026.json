@@ -1,5 +1,5 @@
 {
-  "updated": "June 19, 2026 06:05 UTC — 28 of 104 matches played",
+  "updated": "June 19, 2026 19:22 UTC — 28 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -1122,6 +1122,30 @@
       ]
     },
     {
+      "league": "MLS (USA/Canada)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Eloy Room",
+          "nat": "Curaçao",
+          "n": 4,
+          "club": "Miami FC"
+        },
+        {
+          "name": "Maxime Crepeau",
+          "nat": "Canada",
+          "n": 2,
+          "club": "Orlando City SC"
+        },
+        {
+          "name": "Matt Freese",
+          "nat": "USA",
+          "n": 1,
+          "club": "New York City FC"
+        }
+      ]
+    },
+    {
       "league": "J1 League (Japan)",
       "total": 6,
       "players": [
@@ -1154,24 +1178,6 @@
           "nat": "Spain",
           "n": 1,
           "club": "Athletic Bilbao"
-        }
-      ]
-    },
-    {
-      "league": "MLS (USA/Canada)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Eloy Room",
-          "nat": "Curaçao",
-          "n": 4,
-          "club": "Miami FC"
-        },
-        {
-          "name": "Maxime Crepeau",
-          "nat": "Canada",
-          "n": 2,
-          "club": "Orlando City SC"
         }
       ]
     },
