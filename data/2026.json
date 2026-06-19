@@ -1,5 +1,5 @@
 {
-  "updated": "June 19, 2026 20:59 UTC — 28 of 104 matches played, 1 live",
+  "updated": "June 19, 2026 22:03 UTC — 29 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -296,6 +296,24 @@
       ]
     },
     {
+      "league": "Eredivisie (Netherlands)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Ismael Saibari",
+          "nat": "Morocco",
+          "n": 2,
+          "club": "PSV Eindhoven"
+        },
+        {
+          "name": "Hwang Inbeom",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Feyenoord"
+        }
+      ]
+    },
+    {
       "league": "Czech First League",
       "total": 2,
       "players": [
@@ -310,24 +328,6 @@
           "nat": "Czechia",
           "n": 1,
           "club": "Slavia Prague"
-        }
-      ]
-    },
-    {
-      "league": "Eredivisie (Netherlands)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Hwang Inbeom",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Feyenoord"
-        },
-        {
-          "name": "Ismael Saibari",
-          "nat": "Morocco",
-          "n": 1,
-          "club": "PSV Eindhoven"
         }
       ]
     },
@@ -707,19 +707,19 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 7,
+      "total": 8,
       "players": [
+        {
+          "name": "Brahim Diaz",
+          "nat": "Morocco",
+          "n": 2,
+          "club": "Real Madrid"
+        },
         {
           "name": "Alex Freeman",
           "nat": "USA",
           "n": 1,
           "club": "Villarreal"
-        },
-        {
-          "name": "Brahim Diaz",
-          "nat": "Morocco",
-          "n": 1,
-          "club": "Real Madrid"
         },
         {
           "name": "Cucho Hernandez",
@@ -1375,7 +1375,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (28/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (29/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
