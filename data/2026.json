@@ -1,5 +1,5 @@
 {
-  "updated": "June 19, 2026 00:18 UTC — 27 of 104 matches played",
+  "updated": "June 19, 2026 06:05 UTC — 28 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -418,6 +418,18 @@
           "nat": "Bosnia & Herzegovina",
           "n": 1,
           "club": "Universitatea Cluj"
+        }
+      ]
+    },
+    {
+      "league": "Liga MX (Mexico)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Luis Romo",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Guadalajara"
         }
       ]
     },
@@ -1110,6 +1122,18 @@
       ]
     },
     {
+      "league": "J1 League (Japan)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Kim Seunggyu",
+          "nat": "South Korea",
+          "n": 6,
+          "club": "FC Tokyo"
+        }
+      ]
+    },
+    {
       "league": "La Liga (Spain)",
       "total": 6,
       "players": [
@@ -1182,6 +1206,24 @@
       ]
     },
     {
+      "league": "Liga MX (Mexico)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Raul Rangel",
+          "nat": "Mexico",
+          "n": 4,
+          "club": "Guadalajara"
+        },
+        {
+          "name": "Camilo Vargas",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "Atlas"
+        }
+      ]
+    },
+    {
       "league": "South African Premier Division",
       "total": 4,
       "players": [
@@ -1226,36 +1268,6 @@
           "nat": "Ghana",
           "n": 3,
           "club": "Hearts of Oak"
-        }
-      ]
-    },
-    {
-      "league": "J1 League (Japan)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Kim Seunggyu",
-          "nat": "South Korea",
-          "n": 3,
-          "club": "FC Tokyo"
-        }
-      ]
-    },
-    {
-      "league": "Liga MX (Mexico)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Raul Rangel",
-          "nat": "Mexico",
-          "n": 2,
-          "club": "Guadalajara"
-        },
-        {
-          "name": "Camilo Vargas",
-          "nat": "Colombia",
-          "n": 1,
-          "club": "Atlas"
         }
       ]
     },
@@ -1351,7 +1363,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (27/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (28/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
