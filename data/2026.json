@@ -1,5 +1,5 @@
 {
-  "updated": "June 19, 2026 19:22 UTC — 28 of 104 matches played, 1 live",
+  "updated": "June 19, 2026 20:59 UTC — 28 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -177,13 +177,19 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 6,
+      "total": 7,
       "players": [
         {
           "name": "Kylian Mbappe",
           "nat": "France",
           "n": 2,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Alex Freeman",
+          "nat": "USA",
+          "n": 1,
+          "club": "Villarreal"
         },
         {
           "name": "Jude Bellingham",
@@ -1032,6 +1038,18 @@
       ]
     },
     {
+      "league": "A-League (Australia)",
+      "total": 9,
+      "players": [
+        {
+          "name": "Patrick Beach",
+          "nat": "Australia",
+          "n": 9,
+          "club": "Melbourne City"
+        }
+      ]
+    },
+    {
       "league": "Qatar Stars League",
       "total": 9,
       "players": [
@@ -1044,14 +1062,26 @@
       ]
     },
     {
-      "league": "A-League (Australia)",
+      "league": "MLS (USA/Canada)",
       "total": 8,
       "players": [
         {
-          "name": "Patrick Beach",
-          "nat": "Australia",
-          "n": 8,
-          "club": "Melbourne City"
+          "name": "Eloy Room",
+          "nat": "Curaçao",
+          "n": 4,
+          "club": "Miami FC"
+        },
+        {
+          "name": "Matt Freese",
+          "nat": "USA",
+          "n": 2,
+          "club": "New York City FC"
+        },
+        {
+          "name": "Maxime Crepeau",
+          "nat": "Canada",
+          "n": 2,
+          "club": "Orlando City SC"
         }
       ]
     },
@@ -1118,30 +1148,6 @@
           "nat": "Croatia",
           "n": 7,
           "club": "Dinamo Zagreb"
-        }
-      ]
-    },
-    {
-      "league": "MLS (USA/Canada)",
-      "total": 7,
-      "players": [
-        {
-          "name": "Eloy Room",
-          "nat": "Curaçao",
-          "n": 4,
-          "club": "Miami FC"
-        },
-        {
-          "name": "Maxime Crepeau",
-          "nat": "Canada",
-          "n": 2,
-          "club": "Orlando City SC"
-        },
-        {
-          "name": "Matt Freese",
-          "nat": "USA",
-          "n": 1,
-          "club": "New York City FC"
         }
       ]
     },
