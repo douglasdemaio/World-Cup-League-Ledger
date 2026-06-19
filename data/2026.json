@@ -1,5 +1,5 @@
 {
-  "updated": "June 19, 2026 22:03 UTC — 29 of 104 matches played, 1 live",
+  "updated": "June 19, 2026 23:57 UTC — 29 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -978,6 +978,42 @@
       ]
     },
     {
+      "league": "Premier League (England)",
+      "total": 11,
+      "players": [
+        {
+          "name": "Angus Gunn",
+          "nat": "Scotland",
+          "n": 3,
+          "club": "Nottingham Forest"
+        },
+        {
+          "name": "Jordan Pickford",
+          "nat": "England",
+          "n": 3,
+          "club": "Everton"
+        },
+        {
+          "name": "Alisson",
+          "nat": "Brazil",
+          "n": 2,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Max Crocombe",
+          "nat": "New Zealand",
+          "n": 2,
+          "club": "Millwall"
+        },
+        {
+          "name": "Bart Verbruggen",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "Brighton & Hove Albion"
+        }
+      ]
+    },
+    {
       "league": "Bundesliga (Germany)",
       "total": 10,
       "players": [
@@ -998,42 +1034,6 @@
           "nat": "Germany",
           "n": 1,
           "club": "Bayern Munich"
-        }
-      ]
-    },
-    {
-      "league": "Premier League (England)",
-      "total": 10,
-      "players": [
-        {
-          "name": "Jordan Pickford",
-          "nat": "England",
-          "n": 3,
-          "club": "Everton"
-        },
-        {
-          "name": "Alisson",
-          "nat": "Brazil",
-          "n": 2,
-          "club": "Liverpool"
-        },
-        {
-          "name": "Angus Gunn",
-          "nat": "Scotland",
-          "n": 2,
-          "club": "Nottingham Forest"
-        },
-        {
-          "name": "Max Crocombe",
-          "nat": "New Zealand",
-          "n": 2,
-          "club": "Millwall"
-        },
-        {
-          "name": "Bart Verbruggen",
-          "nat": "Netherlands",
-          "n": 1,
-          "club": "Brighton & Hove Albion"
         }
       ]
     },
