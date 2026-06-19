@@ -1,5 +1,5 @@
 {
-  "updated": "June 18, 2026 22:50 UTC — 26 of 104 matches played, 1 live",
+  "updated": "June 19, 2026 00:18 UTC — 27 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -248,6 +248,30 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Jonathan David",
+          "nat": "Canada",
+          "n": 3,
+          "club": "Juventus"
+        },
+        {
+          "name": "Leo Ostigard",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Genoa"
+        },
+        {
+          "name": "Martin Baturina",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Como"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 4,
       "players": [
@@ -262,30 +286,6 @@
           "nat": "Croatia",
           "n": 1,
           "club": "FC Dallas"
-        }
-      ]
-    },
-    {
-      "league": "Serie A (Italy)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Jonathan David",
-          "nat": "Canada",
-          "n": 2,
-          "club": "Juventus"
-        },
-        {
-          "name": "Leo Ostigard",
-          "nat": "Norway",
-          "n": 1,
-          "club": "Genoa"
-        },
-        {
-          "name": "Martin Baturina",
-          "nat": "Croatia",
-          "n": 1,
-          "club": "Como"
         }
       ]
     },
@@ -466,6 +466,18 @@
           "nat": "Colombia",
           "n": 1,
           "club": "Rosario Central"
+        }
+      ]
+    },
+    {
+      "league": "Pro League (Belgium)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Nathan Saliba",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Anderlecht"
         }
       ]
     },
@@ -826,6 +838,24 @@
       ]
     },
     {
+      "league": "Pro League (Belgium)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Nathan Saliba",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Anderlecht"
+        },
+        {
+          "name": "Promise David",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Union Saint-Gilloise"
+        }
+      ]
+    },
+    {
       "league": "A-League (Australia)",
       "total": 1,
       "players": [
@@ -882,18 +912,6 @@
           "nat": "Iran",
           "n": 1,
           "club": "Foolad"
-        }
-      ]
-    },
-    {
-      "league": "Pro League (Belgium)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Promise David",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Union Saint-Gilloise"
         }
       ]
     },
@@ -1002,6 +1020,18 @@
       ]
     },
     {
+      "league": "Qatar Stars League",
+      "total": 9,
+      "players": [
+        {
+          "name": "Mahmoud Abunada",
+          "nat": "Qatar",
+          "n": 9,
+          "club": "Al-Rayyan"
+        }
+      ]
+    },
+    {
       "league": "A-League (Australia)",
       "total": 8,
       "players": [
@@ -1052,18 +1082,6 @@
           "nat": "Uruguay",
           "n": 2,
           "club": "Estudiantes"
-        }
-      ]
-    },
-    {
-      "league": "Qatar Stars League",
-      "total": 8,
-      "players": [
-        {
-          "name": "Mahmoud Abunada",
-          "nat": "Qatar",
-          "n": 8,
-          "club": "Al-Rayyan"
         }
       ]
     },
@@ -1333,7 +1351,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (26/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (27/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
