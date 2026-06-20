@@ -1,10 +1,22 @@
 {
-  "updated": "June 20, 2026 17:13 UTC — 32 of 104 matches played, 1 live",
+  "updated": "June 20, 2026 19:06 UTC — 33 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 20,
+      "total": 24,
       "players": [
+        {
+          "name": "Cody Gakpo",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Crysencio Summerville",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "West Ham United"
+        },
         {
           "name": "Cyle Larin",
           "nat": "Canada",
@@ -42,10 +54,10 @@
           "club": "Manchester United"
         },
         {
-          "name": "Crysencio Summerville",
-          "nat": "Netherlands",
+          "name": "Anthony Elanga",
+          "nat": "Sweden",
           "n": 1,
-          "club": "West Ham United"
+          "club": "Newcastle United"
         },
         {
           "name": "Daichi Kamada",
@@ -308,6 +320,24 @@
       ]
     },
     {
+      "league": "EFL Championship (England, 2nd tier)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Brian Brobbey",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "Sunderland"
+        },
+        {
+          "name": "Nestory Irankunda",
+          "nat": "Australia",
+          "n": 1,
+          "club": "Watford"
+        }
+      ]
+    },
+    {
       "league": "Eredivisie (Netherlands)",
       "total": 3,
       "players": [
@@ -340,24 +370,6 @@
           "nat": "Czechia",
           "n": 1,
           "club": "Slavia Prague"
-        }
-      ]
-    },
-    {
-      "league": "EFL Championship (England, 2nd tier)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Brian Brobbey",
-          "nat": "Netherlands",
-          "n": 1,
-          "club": "Sunderland"
-        },
-        {
-          "name": "Nestory Irankunda",
-          "nat": "Australia",
-          "n": 1,
-          "club": "Watford"
         }
       ]
     },
@@ -569,12 +581,12 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 20,
+      "total": 22,
       "players": [
         {
           "name": "Alexander Isak",
           "nat": "Sweden",
-          "n": 2,
+          "n": 3,
           "club": "Liverpool"
         },
         {
@@ -606,6 +618,12 @@
           "nat": "Netherlands",
           "n": 1,
           "club": "Liverpool"
+        },
+        {
+          "name": "Crysencio Summerville",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "West Ham United"
         },
         {
           "name": "David Moller Wolfe",
@@ -784,6 +802,42 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Denzel Dumfries",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "Inter Milan"
+        },
+        {
+          "name": "Adrien Rabiot",
+          "nat": "France",
+          "n": 1,
+          "club": "Milan"
+        },
+        {
+          "name": "Christian Pulisic",
+          "nat": "USA",
+          "n": 1,
+          "club": "Milan"
+        },
+        {
+          "name": "Petar Sucic",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Inter Milan"
+        },
+        {
+          "name": "Sead Kolasinac",
+          "nat": "Bosnia & Herzegovina",
+          "n": 1,
+          "club": "Atalanta"
+        }
+      ]
+    },
+    {
       "league": "Ligue 1 (France)",
       "total": 5,
       "players": [
@@ -810,36 +864,6 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Paris Saint-Germain"
-        }
-      ]
-    },
-    {
-      "league": "Serie A (Italy)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Adrien Rabiot",
-          "nat": "France",
-          "n": 1,
-          "club": "Milan"
-        },
-        {
-          "name": "Christian Pulisic",
-          "nat": "USA",
-          "n": 1,
-          "club": "Milan"
-        },
-        {
-          "name": "Petar Sucic",
-          "nat": "Croatia",
-          "n": 1,
-          "club": "Inter Milan"
-        },
-        {
-          "name": "Sead Kolasinac",
-          "nat": "Bosnia & Herzegovina",
-          "n": 1,
-          "club": "Atalanta"
         }
       ]
     },
@@ -904,6 +928,24 @@
       ]
     },
     {
+      "league": "Série A (Brazil)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Lucas Paqueta",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Flamengo"
+        },
+        {
+          "name": "Memphis Depay",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "Corinthians"
+        }
+      ]
+    },
+    {
       "league": "A-League (Australia)",
       "total": 1,
       "players": [
@@ -964,18 +1006,6 @@
       ]
     },
     {
-      "league": "Série A (Brazil)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Lucas Paqueta",
-          "nat": "Brazil",
-          "n": 1,
-          "club": "Flamengo"
-        }
-      ]
-    },
-    {
       "league": "Süper Lig (Turkey)",
       "total": 1,
       "players": [
@@ -989,6 +1019,42 @@
     }
   ],
   "saves": [
+    {
+      "league": "Premier League (England)",
+      "total": 21,
+      "players": [
+        {
+          "name": "Bart Verbruggen",
+          "nat": "Netherlands",
+          "n": 8,
+          "club": "Brighton & Hove Albion"
+        },
+        {
+          "name": "Alisson",
+          "nat": "Brazil",
+          "n": 5,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Angus Gunn",
+          "nat": "Scotland",
+          "n": 3,
+          "club": "Nottingham Forest"
+        },
+        {
+          "name": "Jordan Pickford",
+          "nat": "England",
+          "n": 3,
+          "club": "Everton"
+        },
+        {
+          "name": "Max Crocombe",
+          "nat": "New Zealand",
+          "n": 2,
+          "club": "Millwall"
+        }
+      ]
+    },
     {
       "league": "Saudi Pro League",
       "total": 20,
@@ -1016,42 +1082,6 @@
           "nat": "Panama",
           "n": 2,
           "club": "Al-Fayha"
-        }
-      ]
-    },
-    {
-      "league": "Premier League (England)",
-      "total": 15,
-      "players": [
-        {
-          "name": "Alisson",
-          "nat": "Brazil",
-          "n": 5,
-          "club": "Liverpool"
-        },
-        {
-          "name": "Angus Gunn",
-          "nat": "Scotland",
-          "n": 3,
-          "club": "Nottingham Forest"
-        },
-        {
-          "name": "Jordan Pickford",
-          "nat": "England",
-          "n": 3,
-          "club": "Everton"
-        },
-        {
-          "name": "Bart Verbruggen",
-          "nat": "Netherlands",
-          "n": 2,
-          "club": "Brighton & Hove Albion"
-        },
-        {
-          "name": "Max Crocombe",
-          "nat": "New Zealand",
-          "n": 2,
-          "club": "Millwall"
         }
       ]
     },
@@ -1308,6 +1338,18 @@
       ]
     },
     {
+      "league": "Allsvenskan (Sweden)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Kristoffer Nordfeldt",
+          "nat": "Sweden",
+          "n": 3,
+          "club": "AIK"
+        }
+      ]
+    },
+    {
       "league": "Austrian Bundesliga",
       "total": 3,
       "players": [
@@ -1352,18 +1394,6 @@
           "nat": "Haiti",
           "n": 3,
           "club": "Bastia"
-        }
-      ]
-    },
-    {
-      "league": "Allsvenskan (Sweden)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Kristoffer Nordfeldt",
-          "nat": "Sweden",
-          "n": 2,
-          "club": "AIK"
         }
       ]
     },
@@ -1417,7 +1447,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (32/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (33/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
