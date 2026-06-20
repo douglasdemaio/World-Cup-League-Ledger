@@ -1,5 +1,5 @@
 {
-  "updated": "June 20, 2026 06:53 UTC — 32 of 104 matches played",
+  "updated": "June 20, 2026 17:13 UTC — 32 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -344,6 +344,24 @@
       ]
     },
     {
+      "league": "EFL Championship (England, 2nd tier)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Brian Brobbey",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "Sunderland"
+        },
+        {
+          "name": "Nestory Irankunda",
+          "nat": "Australia",
+          "n": 1,
+          "club": "Watford"
+        }
+      ]
+    },
+    {
       "league": "Saudi Pro League",
       "total": 2,
       "players": [
@@ -388,18 +406,6 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Beşiktaş"
-        }
-      ]
-    },
-    {
-      "league": "EFL Championship (England, 2nd tier)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Nestory Irankunda",
-          "nat": "Australia",
-          "n": 1,
-          "club": "Watford"
         }
       ]
     },
@@ -563,7 +569,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 19,
+      "total": 20,
       "players": [
         {
           "name": "Alexander Isak",
@@ -594,6 +600,12 @@
           "nat": "England",
           "n": 1,
           "club": "Arsenal"
+        },
+        {
+          "name": "Cody Gakpo",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "Liverpool"
         },
         {
           "name": "David Moller Wolfe",
@@ -1009,7 +1021,7 @@
     },
     {
       "league": "Premier League (England)",
-      "total": 14,
+      "total": 15,
       "players": [
         {
           "name": "Alisson",
@@ -1030,16 +1042,16 @@
           "club": "Everton"
         },
         {
+          "name": "Bart Verbruggen",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "Brighton & Hove Albion"
+        },
+        {
           "name": "Max Crocombe",
           "nat": "New Zealand",
           "n": 2,
           "club": "Millwall"
-        },
-        {
-          "name": "Bart Verbruggen",
-          "nat": "Netherlands",
-          "n": 1,
-          "club": "Brighton & Hove Albion"
         }
       ]
     },
@@ -1344,6 +1356,18 @@
       ]
     },
     {
+      "league": "Allsvenskan (Sweden)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Kristoffer Nordfeldt",
+          "nat": "Sweden",
+          "n": 2,
+          "club": "AIK"
+        }
+      ]
+    },
+    {
       "league": "Iraq Stars League",
       "total": 2,
       "players": [
@@ -1352,18 +1376,6 @@
           "nat": "Iraq",
           "n": 2,
           "club": "Al-Zawraa"
-        }
-      ]
-    },
-    {
-      "league": "Allsvenskan (Sweden)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Kristoffer Nordfeldt",
-          "nat": "Sweden",
-          "n": 1,
-          "club": "AIK"
         }
       ]
     },
