@@ -1,5 +1,5 @@
 {
-  "updated": "June 20, 2026 02:53 UTC — 31 of 104 matches played",
+  "updated": "June 20, 2026 06:53 UTC — 32 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -260,6 +260,30 @@
       ]
     },
     {
+      "league": "MLS (USA/Canada)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Lionel Messi",
+          "nat": "Argentina",
+          "n": 3,
+          "club": "Inter Miami CF"
+        },
+        {
+          "name": "Matias Galarza",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Atlanta United FC"
+        },
+        {
+          "name": "Petar Musa",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "FC Dallas"
+        }
+      ]
+    },
+    {
       "league": "Serie A (Italy)",
       "total": 5,
       "players": [
@@ -280,24 +304,6 @@
           "nat": "Croatia",
           "n": 1,
           "club": "Como"
-        }
-      ]
-    },
-    {
-      "league": "MLS (USA/Canada)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Lionel Messi",
-          "nat": "Argentina",
-          "n": 3,
-          "club": "Inter Miami CF"
-        },
-        {
-          "name": "Petar Musa",
-          "nat": "Croatia",
-          "n": 1,
-          "club": "FC Dallas"
         }
       ]
     },
@@ -767,8 +773,14 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 4,
+      "total": 5,
       "players": [
+        {
+          "name": "Julio Enciso",
+          "nat": "Paraguay",
+          "n": 2,
+          "club": "Strasbourg"
+        },
         {
           "name": "Arthur Masuaku",
           "nat": "DR Congo",
@@ -780,12 +792,6 @@
           "nat": "Switzerland",
           "n": 1,
           "club": "Rennes"
-        },
-        {
-          "name": "Julio Enciso",
-          "nat": "Paraguay",
-          "n": 1,
-          "club": "Strasbourg"
         },
         {
           "name": "Lee Kangin",
@@ -1038,6 +1044,30 @@
       ]
     },
     {
+      "league": "Primera División (Argentina)",
+      "total": 13,
+      "players": [
+        {
+          "name": "Orlando Gill",
+          "nat": "Paraguay",
+          "n": 8,
+          "club": "San Lorenzo"
+        },
+        {
+          "name": "Hernan Galindez",
+          "nat": "Ecuador",
+          "n": 3,
+          "club": "Huracán"
+        },
+        {
+          "name": "Fernando Muslera",
+          "nat": "Uruguay",
+          "n": 2,
+          "club": "Estudiantes"
+        }
+      ]
+    },
+    {
       "league": "Bundesliga (Germany)",
       "total": 10,
       "players": [
@@ -1124,30 +1154,6 @@
           "nat": "Portugal",
           "n": 1,
           "club": "Porto"
-        }
-      ]
-    },
-    {
-      "league": "Primera División (Argentina)",
-      "total": 8,
-      "players": [
-        {
-          "name": "Hernan Galindez",
-          "nat": "Ecuador",
-          "n": 3,
-          "club": "Huracán"
-        },
-        {
-          "name": "Orlando Gill",
-          "nat": "Paraguay",
-          "n": 3,
-          "club": "San Lorenzo"
-        },
-        {
-          "name": "Fernando Muslera",
-          "nat": "Uruguay",
-          "n": 2,
-          "club": "Estudiantes"
         }
       ]
     },
@@ -1272,6 +1278,24 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Ugurcan Cakir",
+          "nat": "Turkey",
+          "n": 3,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Yahia Fofana",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Çaykur Rizespor"
+        }
+      ]
+    },
+    {
       "league": "Austrian Bundesliga",
       "total": 3,
       "players": [
@@ -1316,24 +1340,6 @@
           "nat": "Haiti",
           "n": 3,
           "club": "Bastia"
-        }
-      ]
-    },
-    {
-      "league": "Süper Lig (Turkey)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Ugurcan Cakir",
-          "nat": "Turkey",
-          "n": 2,
-          "club": "Galatasaray"
-        },
-        {
-          "name": "Yahia Fofana",
-          "nat": "Ivory Coast",
-          "n": 1,
-          "club": "Çaykur Rizespor"
         }
       ]
     },
@@ -1399,7 +1405,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (31/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (32/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
