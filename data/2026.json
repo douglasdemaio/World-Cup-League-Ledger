@@ -1,5 +1,5 @@
 {
-  "updated": "June 20, 2026 21:02 UTC — 33 of 104 matches played, 1 live",
+  "updated": "June 20, 2026 22:56 UTC — 34 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -117,8 +117,14 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 13,
+      "total": 15,
       "players": [
+        {
+          "name": "Deniz Undav",
+          "nat": "Germany",
+          "n": 3,
+          "club": "VfB Stuttgart"
+        },
         {
           "name": "Johan Manzambi",
           "nat": "Switzerland",
@@ -130,12 +136,6 @@
           "nat": "Australia",
           "n": 1,
           "club": "FC St. Pauli"
-        },
-        {
-          "name": "Deniz Undav",
-          "nat": "Germany",
-          "n": 1,
-          "club": "VfB Stuttgart"
         },
         {
           "name": "Felix Nmecha",
@@ -701,7 +701,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 10,
+      "total": 12,
       "players": [
         {
           "name": "Deniz Undav",
@@ -714,6 +714,12 @@
           "nat": "Germany",
           "n": 2,
           "club": "Bayern Munich"
+        },
+        {
+          "name": "Felix Nmecha",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Borussia Dortmund"
         },
         {
           "name": "Luis Diaz",
@@ -732,6 +738,12 @@
           "nat": "France",
           "n": 1,
           "club": "Bayern Munich"
+        },
+        {
+          "name": "Nadiem Amiri",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Mainz 05"
         },
         {
           "name": "Nathaniel Brown",
@@ -1164,6 +1176,24 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 9,
+      "players": [
+        {
+          "name": "Yahia Fofana",
+          "nat": "Ivory Coast",
+          "n": 6,
+          "club": "Çaykur Rizespor"
+        },
+        {
+          "name": "Ugurcan Cakir",
+          "nat": "Turkey",
+          "n": 3,
+          "club": "Galatasaray"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 8,
       "players": [
@@ -1292,24 +1322,6 @@
           "nat": "France",
           "n": 2,
           "club": "Milan"
-        }
-      ]
-    },
-    {
-      "league": "Süper Lig (Turkey)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Ugurcan Cakir",
-          "nat": "Turkey",
-          "n": 3,
-          "club": "Galatasaray"
-        },
-        {
-          "name": "Yahia Fofana",
-          "nat": "Ivory Coast",
-          "n": 3,
-          "club": "Çaykur Rizespor"
         }
       ]
     },
@@ -1453,7 +1465,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (33/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (34/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
