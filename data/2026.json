@@ -1,5 +1,5 @@
 {
-  "updated": "June 20, 2026 19:06 UTC — 33 of 104 matches played",
+  "updated": "June 20, 2026 21:02 UTC — 33 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -356,6 +356,30 @@
       ]
     },
     {
+      "league": "Saudi Pro League",
+      "total": 3,
+      "players": [
+        {
+          "name": "Abdulelah Alamri",
+          "nat": "Saudi Arabia",
+          "n": 1,
+          "club": "Al-Nassr"
+        },
+        {
+          "name": "Franck Kessie",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Al-Ahli"
+        },
+        {
+          "name": "Julian Quinones",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Al-Qadsiah"
+        }
+      ]
+    },
+    {
       "league": "Czech First League",
       "total": 2,
       "players": [
@@ -370,24 +394,6 @@
           "nat": "Czechia",
           "n": 1,
           "club": "Slavia Prague"
-        }
-      ]
-    },
-    {
-      "league": "Saudi Pro League",
-      "total": 2,
-      "players": [
-        {
-          "name": "Abdulelah Alamri",
-          "nat": "Saudi Arabia",
-          "n": 1,
-          "club": "Al-Nassr"
-        },
-        {
-          "name": "Julian Quinones",
-          "nat": "Mexico",
-          "n": 1,
-          "club": "Al-Qadsiah"
         }
       ]
     },
@@ -1111,7 +1117,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 10,
+      "total": 11,
       "players": [
         {
           "name": "Gregor Kobel",
@@ -1128,7 +1134,7 @@
         {
           "name": "Manuel Neuer",
           "nat": "Germany",
-          "n": 1,
+          "n": 2,
           "club": "Bayern Munich"
         }
       ]
@@ -1290,6 +1296,24 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Ugurcan Cakir",
+          "nat": "Turkey",
+          "n": 3,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Yahia Fofana",
+          "nat": "Ivory Coast",
+          "n": 3,
+          "club": "Çaykur Rizespor"
+        }
+      ]
+    },
+    {
       "league": "Liga MX (Mexico)",
       "total": 5,
       "players": [
@@ -1316,24 +1340,6 @@
           "nat": "South Africa",
           "n": 4,
           "club": "Mamelodi Sundowns"
-        }
-      ]
-    },
-    {
-      "league": "Süper Lig (Turkey)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Ugurcan Cakir",
-          "nat": "Turkey",
-          "n": 3,
-          "club": "Galatasaray"
-        },
-        {
-          "name": "Yahia Fofana",
-          "nat": "Ivory Coast",
-          "n": 1,
-          "club": "Çaykur Rizespor"
         }
       ]
     },
