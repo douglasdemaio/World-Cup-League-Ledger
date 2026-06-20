@@ -1,9 +1,9 @@
 {
-  "updated": "June 19, 2026 23:57 UTC — 29 of 104 matches played, 1 live",
+  "updated": "June 20, 2026 02:53 UTC — 31 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 18,
+      "total": 20,
       "players": [
         {
           "name": "Cyle Larin",
@@ -16,6 +16,12 @@
           "nat": "Norway",
           "n": 2,
           "club": "Manchester City"
+        },
+        {
+          "name": "Matheus Cunha",
+          "nat": "Brazil",
+          "n": 2,
+          "club": "Manchester United"
         },
         {
           "name": "Yasin Ayari",
@@ -177,11 +183,17 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 7,
+      "total": 8,
       "players": [
         {
           "name": "Kylian Mbappe",
           "nat": "France",
+          "n": 2,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Vinicius Junior",
+          "nat": "Brazil",
           "n": 2,
           "club": "Real Madrid"
         },
@@ -208,12 +220,6 @@
           "nat": "Switzerland",
           "n": 1,
           "club": "Sevilla"
-        },
-        {
-          "name": "Vinicius Junior",
-          "nat": "Brazil",
-          "n": 1,
-          "club": "Real Madrid"
         }
       ]
     },
@@ -707,7 +713,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 8,
+      "total": 9,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -750,6 +756,12 @@
           "nat": "Japan",
           "n": 1,
           "club": "Real Sociedad"
+        },
+        {
+          "name": "Vinicius Junior",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Real Madrid"
         }
       ]
     },
@@ -934,6 +946,18 @@
       ]
     },
     {
+      "league": "Série A (Brazil)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Lucas Paqueta",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Flamengo"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 1,
       "players": [
@@ -979,8 +1003,14 @@
     },
     {
       "league": "Premier League (England)",
-      "total": 11,
+      "total": 14,
       "players": [
+        {
+          "name": "Alisson",
+          "nat": "Brazil",
+          "n": 5,
+          "club": "Liverpool"
+        },
         {
           "name": "Angus Gunn",
           "nat": "Scotland",
@@ -992,12 +1022,6 @@
           "nat": "England",
           "n": 3,
           "club": "Everton"
-        },
-        {
-          "name": "Alisson",
-          "nat": "Brazil",
-          "n": 2,
-          "club": "Liverpool"
         },
         {
           "name": "Max Crocombe",
@@ -1284,6 +1308,18 @@
       ]
     },
     {
+      "league": "Ligue 1 (France)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Johny Placide",
+          "nat": "Haiti",
+          "n": 3,
+          "club": "Bastia"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 3,
       "players": [
@@ -1338,18 +1374,6 @@
       ]
     },
     {
-      "league": "Ligue 1 (France)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Johny Placide",
-          "nat": "Haiti",
-          "n": 1,
-          "club": "Bastia"
-        }
-      ]
-    },
-    {
       "league": "Ligue Professionnelle 1 (Tunisia)",
       "total": 1,
       "players": [
@@ -1375,7 +1399,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (29/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (31/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
