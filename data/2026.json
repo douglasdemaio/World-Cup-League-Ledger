@@ -1,5 +1,5 @@
 {
-  "updated": "June 21, 2026 17:16 UTC — 36 of 104 matches played, 1 live",
+  "updated": "June 21, 2026 19:11 UTC — 37 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -1105,12 +1105,12 @@
   "saves": [
     {
       "league": "Saudi Pro League",
-      "total": 24,
+      "total": 25,
       "players": [
         {
           "name": "Mohammed Alowais",
           "nat": "Saudi Arabia",
-          "n": 13,
+          "n": 14,
           "club": "Al-Ula"
         },
         {
@@ -1326,20 +1326,8 @@
       ]
     },
     {
-      "league": "J1 League (Japan)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Kim Seunggyu",
-          "nat": "South Korea",
-          "n": 6,
-          "club": "FC Tokyo"
-        }
-      ]
-    },
-    {
       "league": "La Liga (Spain)",
-      "total": 6,
+      "total": 7,
       "players": [
         {
           "name": "Luca Zidane",
@@ -1356,20 +1344,32 @@
         {
           "name": "Unai Simon",
           "nat": "Spain",
-          "n": 1,
+          "n": 2,
           "club": "Athletic Bilbao"
         }
       ]
     },
     {
       "league": "Persian Gulf Pro League (Iran)",
-      "total": 6,
+      "total": 7,
       "players": [
         {
           "name": "Alireza Beiranvand",
           "nat": "Iran",
-          "n": 6,
+          "n": 7,
           "club": "Tractor"
+        }
+      ]
+    },
+    {
+      "league": "J1 League (Japan)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Kim Seunggyu",
+          "nat": "South Korea",
+          "n": 6,
+          "club": "FC Tokyo"
         }
       ]
     },
@@ -1537,7 +1537,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (36/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (37/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
