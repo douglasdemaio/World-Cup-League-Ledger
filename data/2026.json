@@ -1,5 +1,5 @@
 {
-  "updated": "June 21, 2026 09:33 UTC — 36 of 104 matches played",
+  "updated": "June 21, 2026 17:16 UTC — 36 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -195,13 +195,19 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 8,
+      "total": 11,
       "players": [
         {
           "name": "Kylian Mbappe",
           "nat": "France",
           "n": 2,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Mikel Oyarzabal",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Real Sociedad"
         },
         {
           "name": "Vinicius Junior",
@@ -220,6 +226,12 @@
           "nat": "England",
           "n": 1,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Lamine Yamal",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Barcelona"
         },
         {
           "name": "Marcus Rashford",
@@ -785,7 +797,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 9,
+      "total": 12,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -800,16 +812,34 @@
           "club": "Villarreal"
         },
         {
+          "name": "Aymeric Laporte",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Athletic Bilbao"
+        },
+        {
           "name": "Cucho Hernandez",
           "nat": "Colombia",
           "n": 1,
           "club": "Real Betis"
         },
         {
+          "name": "Dani Olmo",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Barcelona"
+        },
+        {
           "name": "Gustavo Puerta",
           "nat": "Colombia",
           "n": 1,
           "club": "Racing Santander"
+        },
+        {
+          "name": "Mikel Oyarzabal",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Real Sociedad"
         },
         {
           "name": "Nico Gonzalez",
@@ -1074,6 +1104,36 @@
   ],
   "saves": [
     {
+      "league": "Saudi Pro League",
+      "total": 24,
+      "players": [
+        {
+          "name": "Mohammed Alowais",
+          "nat": "Saudi Arabia",
+          "n": 13,
+          "club": "Al-Ula"
+        },
+        {
+          "name": "Edouard Mendy",
+          "nat": "Senegal",
+          "n": 5,
+          "club": "Al-Ahli"
+        },
+        {
+          "name": "Yassine Bounou",
+          "nat": "Morocco",
+          "n": 4,
+          "club": "Al-Hilal"
+        },
+        {
+          "name": "Orlando Mosquera",
+          "nat": "Panama",
+          "n": 2,
+          "club": "Al-Fayha"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 23,
       "players": [
@@ -1130,36 +1190,6 @@
           "nat": "New Zealand",
           "n": 2,
           "club": "Millwall"
-        }
-      ]
-    },
-    {
-      "league": "Saudi Pro League",
-      "total": 20,
-      "players": [
-        {
-          "name": "Mohammed Alowais",
-          "nat": "Saudi Arabia",
-          "n": 9,
-          "club": "Al-Ula"
-        },
-        {
-          "name": "Edouard Mendy",
-          "nat": "Senegal",
-          "n": 5,
-          "club": "Al-Ahli"
-        },
-        {
-          "name": "Yassine Bounou",
-          "nat": "Morocco",
-          "n": 4,
-          "club": "Al-Hilal"
-        },
-        {
-          "name": "Orlando Mosquera",
-          "nat": "Panama",
-          "n": 2,
-          "club": "Al-Fayha"
         }
       ]
     },
