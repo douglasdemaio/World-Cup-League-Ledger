@@ -1,5 +1,5 @@
 {
-  "updated": "June 21, 2026 21:02 UTC — 38 of 104 matches played",
+  "updated": "June 21, 2026 22:58 UTC — 38 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -416,6 +416,36 @@
       ]
     },
     {
+      "league": "Premier Liga (Russia)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Kevin Pina",
+          "nat": "Cape Verde",
+          "n": 1,
+          "club": "Krasnodar"
+        },
+        {
+          "name": "Mohammad Mohebbi",
+          "nat": "Iran",
+          "n": 1,
+          "club": "Rostov"
+        }
+      ]
+    },
+    {
+      "league": "Primeira Liga (Portugal)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Maxi Araujo",
+          "nat": "Uruguay",
+          "n": 2,
+          "club": "Sporting CP"
+        }
+      ]
+    },
+    {
       "league": "Pro League (Belgium)",
       "total": 2,
       "players": [
@@ -442,6 +472,24 @@
           "nat": "New Zealand",
           "n": 2,
           "club": "Motherwell"
+        }
+      ]
+    },
+    {
+      "league": "Série A (Brazil)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Agustin Canobbio",
+          "nat": "Uruguay",
+          "n": 1,
+          "club": "Fluminense"
+        },
+        {
+          "name": "Mauricio",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Palmeiras"
         }
       ]
     },
@@ -524,30 +572,6 @@
       ]
     },
     {
-      "league": "Premier Liga (Russia)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Mohammad Mohebbi",
-          "nat": "Iran",
-          "n": 1,
-          "club": "Rostov"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Maxi Araujo",
-          "nat": "Uruguay",
-          "n": 1,
-          "club": "Sporting CP"
-        }
-      ]
-    },
-    {
       "league": "Primera División (Argentina)",
       "total": 1,
       "players": [
@@ -592,18 +616,6 @@
           "nat": "Ghana",
           "n": 1,
           "club": "Nordsjælland"
-        }
-      ]
-    },
-    {
-      "league": "Série A (Brazil)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Mauricio",
-          "nat": "Paraguay",
-          "n": 1,
-          "club": "Palmeiras"
         }
       ]
     }
@@ -1086,6 +1098,18 @@
           "nat": "Iran",
           "n": 1,
           "club": "Foolad"
+        }
+      ]
+    },
+    {
+      "league": "Primeira Liga (Portugal)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Maxi Araujo",
+          "nat": "Uruguay",
+          "n": 1,
+          "club": "Sporting CP"
         }
       ]
     },
