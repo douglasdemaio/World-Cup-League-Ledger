@@ -1,5 +1,5 @@
 {
-  "updated": "June 21, 2026 19:11 UTC — 37 of 104 matches played, 1 live",
+  "updated": "June 21, 2026 21:02 UTC — 38 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -1218,6 +1218,18 @@
       ]
     },
     {
+      "league": "Persian Gulf Pro League (Iran)",
+      "total": 13,
+      "players": [
+        {
+          "name": "Alireza Beiranvand",
+          "nat": "Iran",
+          "n": 13,
+          "club": "Tractor"
+        }
+      ]
+    },
+    {
       "league": "Bundesliga (Germany)",
       "total": 11,
       "players": [
@@ -1238,6 +1250,30 @@
           "nat": "Germany",
           "n": 2,
           "club": "Bayern Munich"
+        }
+      ]
+    },
+    {
+      "league": "La Liga (Spain)",
+      "total": 10,
+      "players": [
+        {
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 5,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Luca Zidane",
+          "nat": "Algeria",
+          "n": 3,
+          "club": "Granada"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Athletic Bilbao"
         }
       ]
     },
@@ -1322,42 +1358,6 @@
           "nat": "Croatia",
           "n": 7,
           "club": "Dinamo Zagreb"
-        }
-      ]
-    },
-    {
-      "league": "La Liga (Spain)",
-      "total": 7,
-      "players": [
-        {
-          "name": "Luca Zidane",
-          "nat": "Algeria",
-          "n": 3,
-          "club": "Granada"
-        },
-        {
-          "name": "Thibaut Courtois",
-          "nat": "Belgium",
-          "n": 2,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Unai Simon",
-          "nat": "Spain",
-          "n": 2,
-          "club": "Athletic Bilbao"
-        }
-      ]
-    },
-    {
-      "league": "Persian Gulf Pro League (Iran)",
-      "total": 7,
-      "players": [
-        {
-          "name": "Alireza Beiranvand",
-          "nat": "Iran",
-          "n": 7,
-          "club": "Tractor"
         }
       ]
     },
@@ -1537,7 +1537,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (37/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (38/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
