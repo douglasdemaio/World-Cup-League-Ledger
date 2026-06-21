@@ -1,9 +1,9 @@
 {
-  "updated": "June 20, 2026 22:56 UTC — 34 of 104 matches played",
+  "updated": "June 21, 2026 05:51 UTC — 35 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 24,
+      "total": 25,
       "players": [
         {
           "name": "Cody Gakpo",
@@ -22,6 +22,12 @@
           "nat": "Canada",
           "n": 2,
           "club": "Southampton"
+        },
+        {
+          "name": "Daichi Kamada",
+          "nat": "Japan",
+          "n": 2,
+          "club": "Crystal Palace"
         },
         {
           "name": "Erling Haaland",
@@ -58,12 +64,6 @@
           "nat": "Sweden",
           "n": 1,
           "club": "Newcastle United"
-        },
-        {
-          "name": "Daichi Kamada",
-          "nat": "Japan",
-          "n": 1,
-          "club": "Crystal Palace"
         },
         {
           "name": "Daniel Munoz",
@@ -272,6 +272,30 @@
       ]
     },
     {
+      "league": "Eredivisie (Netherlands)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Ayase Ueda",
+          "nat": "Japan",
+          "n": 2,
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Ismael Saibari",
+          "nat": "Morocco",
+          "n": 2,
+          "club": "PSV Eindhoven"
+        },
+        {
+          "name": "Hwang Inbeom",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Feyenoord"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 5,
       "players": [
@@ -338,24 +362,6 @@
       ]
     },
     {
-      "league": "Eredivisie (Netherlands)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Ismael Saibari",
-          "nat": "Morocco",
-          "n": 2,
-          "club": "PSV Eindhoven"
-        },
-        {
-          "name": "Hwang Inbeom",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Feyenoord"
-        }
-      ]
-    },
-    {
       "league": "Saudi Pro League",
       "total": 3,
       "players": [
@@ -394,6 +400,24 @@
           "nat": "Czechia",
           "n": 1,
           "club": "Slavia Prague"
+        }
+      ]
+    },
+    {
+      "league": "Pro League (Belgium)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Junya Ito",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Genk"
+        },
+        {
+          "name": "Nathan Saliba",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Anderlecht"
         }
       ]
     },
@@ -520,18 +544,6 @@
           "nat": "Colombia",
           "n": 1,
           "club": "Rosario Central"
-        }
-      ]
-    },
-    {
-      "league": "Pro League (Belgium)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Nathan Saliba",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Anderlecht"
         }
       ]
     },
@@ -701,7 +713,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 12,
+      "total": 13,
       "players": [
         {
           "name": "Deniz Undav",
@@ -720,6 +732,12 @@
           "nat": "Germany",
           "n": 1,
           "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Kaishu Sano",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Mainz 05"
         },
         {
           "name": "Luis Diaz",
@@ -820,6 +838,42 @@
       ]
     },
     {
+      "league": "Ligue 1 (France)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Julio Enciso",
+          "nat": "Paraguay",
+          "n": 2,
+          "club": "Strasbourg"
+        },
+        {
+          "name": "Arthur Masuaku",
+          "nat": "DR Congo",
+          "n": 1,
+          "club": "Lens"
+        },
+        {
+          "name": "Breel Embolo",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Rennes"
+        },
+        {
+          "name": "Keito Nakamura",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Reims"
+        },
+        {
+          "name": "Lee Kangin",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        }
+      ]
+    },
+    {
       "league": "Serie A (Italy)",
       "total": 6,
       "players": [
@@ -856,39 +910,15 @@
       ]
     },
     {
-      "league": "Ligue 1 (France)",
+      "league": "Eredivisie (Netherlands)",
       "total": 5,
       "players": [
         {
-          "name": "Julio Enciso",
-          "nat": "Paraguay",
-          "n": 2,
-          "club": "Strasbourg"
-        },
-        {
-          "name": "Arthur Masuaku",
-          "nat": "DR Congo",
+          "name": "Ayase Ueda",
+          "nat": "Japan",
           "n": 1,
-          "club": "Lens"
+          "club": "Feyenoord"
         },
-        {
-          "name": "Breel Embolo",
-          "nat": "Switzerland",
-          "n": 1,
-          "club": "Rennes"
-        },
-        {
-          "name": "Lee Kangin",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Paris Saint-Germain"
-        }
-      ]
-    },
-    {
-      "league": "Eredivisie (Netherlands)",
-      "total": 3,
-      "players": [
         {
           "name": "Hwang Inbeom",
           "nat": "South Korea",
@@ -906,6 +936,12 @@
           "nat": "Japan",
           "n": 1,
           "club": "NEC"
+        },
+        {
+          "name": "Kou Itakura",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Ajax"
         }
       ]
     },
@@ -1038,6 +1074,30 @@
   ],
   "saves": [
     {
+      "league": "MLS (USA/Canada)",
+      "total": 23,
+      "players": [
+        {
+          "name": "Eloy Room",
+          "nat": "Curaçao",
+          "n": 19,
+          "club": "Miami FC"
+        },
+        {
+          "name": "Matt Freese",
+          "nat": "USA",
+          "n": 2,
+          "club": "New York City FC"
+        },
+        {
+          "name": "Maxime Crepeau",
+          "nat": "Canada",
+          "n": 2,
+          "club": "Orlando City SC"
+        }
+      ]
+    },
+    {
       "league": "Premier League (England)",
       "total": 21,
       "players": [
@@ -1105,7 +1165,7 @@
     },
     {
       "league": "Primera División (Argentina)",
-      "total": 13,
+      "total": 16,
       "players": [
         {
           "name": "Orlando Gill",
@@ -1116,7 +1176,7 @@
         {
           "name": "Hernan Galindez",
           "nat": "Ecuador",
-          "n": 3,
+          "n": 6,
           "club": "Huracán"
         },
         {
@@ -1190,30 +1250,6 @@
           "nat": "Turkey",
           "n": 3,
           "club": "Galatasaray"
-        }
-      ]
-    },
-    {
-      "league": "MLS (USA/Canada)",
-      "total": 8,
-      "players": [
-        {
-          "name": "Eloy Room",
-          "nat": "Curaçao",
-          "n": 4,
-          "club": "Miami FC"
-        },
-        {
-          "name": "Matt Freese",
-          "nat": "USA",
-          "n": 2,
-          "club": "New York City FC"
-        },
-        {
-          "name": "Maxime Crepeau",
-          "nat": "Canada",
-          "n": 2,
-          "club": "Orlando City SC"
         }
       ]
     },
@@ -1428,6 +1464,24 @@
       ]
     },
     {
+      "league": "Ligue Professionnelle 1 (Tunisia)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Aymen Dahmen",
+          "nat": "Tunisia",
+          "n": 1,
+          "club": "CS Sfaxien"
+        },
+        {
+          "name": "Mouhib Chamakh",
+          "nat": "Tunisia",
+          "n": 1,
+          "club": "Club Africain"
+        }
+      ]
+    },
+    {
       "league": "Jordan Pro League",
       "total": 1,
       "players": [
@@ -1436,18 +1490,6 @@
           "nat": "Jordan",
           "n": 1,
           "club": "Al-Hussein"
-        }
-      ]
-    },
-    {
-      "league": "Ligue Professionnelle 1 (Tunisia)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Mouhib Chamakh",
-          "nat": "Tunisia",
-          "n": 1,
-          "club": "Club Africain"
         }
       ]
     },
@@ -1465,7 +1507,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (34/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (35/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
