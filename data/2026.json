@@ -1,5 +1,5 @@
 {
-  "updated": "June 22, 2026 06:18 UTC — 40 of 104 matches played",
+  "updated": "June 22, 2026 17:23 UTC — 40 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -1512,6 +1512,18 @@
       ]
     },
     {
+      "league": "Austrian Bundesliga",
+      "total": 4,
+      "players": [
+        {
+          "name": "Alexander Schlager",
+          "nat": "Austria",
+          "n": 4,
+          "club": "Red Bull Salzburg"
+        }
+      ]
+    },
+    {
       "league": "South African Premier Division",
       "total": 4,
       "players": [
@@ -1532,18 +1544,6 @@
           "nat": "Sweden",
           "n": 3,
           "club": "AIK"
-        }
-      ]
-    },
-    {
-      "league": "Austrian Bundesliga",
-      "total": 3,
-      "players": [
-        {
-          "name": "Alexander Schlager",
-          "nat": "Austria",
-          "n": 3,
-          "club": "Red Bull Salzburg"
         }
       ]
     },
