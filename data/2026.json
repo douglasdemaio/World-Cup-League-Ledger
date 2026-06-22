@@ -1,9 +1,9 @@
 {
-  "updated": "June 22, 2026 00:07 UTC — 39 of 104 matches played",
+  "updated": "June 22, 2026 06:18 UTC — 40 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 25,
+      "total": 26,
       "players": [
         {
           "name": "Cody Gakpo",
@@ -88,6 +88,12 @@
           "nat": "Czechia",
           "n": 1,
           "club": "Wolverhampton Wanderers"
+        },
+        {
+          "name": "Mohamed Salah",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Liverpool"
         },
         {
           "name": "Raul Jimenez",
@@ -284,6 +290,36 @@
       ]
     },
     {
+      "league": "MLS (USA/Canada)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Lionel Messi",
+          "nat": "Argentina",
+          "n": 3,
+          "club": "Inter Miami CF"
+        },
+        {
+          "name": "Finn Surman",
+          "nat": "New Zealand",
+          "n": 1,
+          "club": "Portland Timbers"
+        },
+        {
+          "name": "Matias Galarza",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Atlanta United FC"
+        },
+        {
+          "name": "Petar Musa",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "FC Dallas"
+        }
+      ]
+    },
+    {
       "league": "Eredivisie (Netherlands)",
       "total": 5,
       "players": [
@@ -304,30 +340,6 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Feyenoord"
-        }
-      ]
-    },
-    {
-      "league": "MLS (USA/Canada)",
-      "total": 5,
-      "players": [
-        {
-          "name": "Lionel Messi",
-          "nat": "Argentina",
-          "n": 3,
-          "club": "Inter Miami CF"
-        },
-        {
-          "name": "Matias Galarza",
-          "nat": "Paraguay",
-          "n": 1,
-          "club": "Atlanta United FC"
-        },
-        {
-          "name": "Petar Musa",
-          "nat": "Croatia",
-          "n": 1,
-          "club": "FC Dallas"
         }
       ]
     },
@@ -370,6 +382,30 @@
           "nat": "Australia",
           "n": 1,
           "club": "Watford"
+        }
+      ]
+    },
+    {
+      "league": "Egyptian Premier League",
+      "total": 3,
+      "players": [
+        {
+          "name": "Emam Ashour",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Al Ahly"
+        },
+        {
+          "name": "Mostafa Zico",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Pyramids"
+        },
+        {
+          "name": "Trezeguet",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Al Ahly"
         }
       ]
     },
@@ -512,18 +548,6 @@
       ]
     },
     {
-      "league": "Egyptian Premier League",
-      "total": 1,
-      "players": [
-        {
-          "name": "Emam Ashour",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Al Ahly"
-        }
-      ]
-    },
-    {
       "league": "Iraq Stars League",
       "total": 1,
       "players": [
@@ -635,7 +659,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 22,
+      "total": 23,
       "players": [
         {
           "name": "Alexander Isak",
@@ -648,6 +672,12 @@
           "nat": "New Zealand",
           "n": 2,
           "club": "Nottingham Forest"
+        },
+        {
+          "name": "Mohamed Salah",
+          "nat": "Egypt",
+          "n": 2,
+          "club": "Liverpool"
         },
         {
           "name": "Ryan Gravenberch",
@@ -726,12 +756,6 @@
           "nat": "Norway",
           "n": 1,
           "club": "Arsenal"
-        },
-        {
-          "name": "Mohamed Salah",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Liverpool"
         },
         {
           "name": "Pedro Neto",
@@ -1000,6 +1024,24 @@
       ]
     },
     {
+      "league": "Egyptian Premier League",
+      "total": 2,
+      "players": [
+        {
+          "name": "Mohamed Hany",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Al Ahly"
+        },
+        {
+          "name": "Mostafa Zico",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Pyramids"
+        }
+      ]
+    },
+    {
       "league": "Liga MX (Mexico)",
       "total": 2,
       "players": [
@@ -1102,6 +1144,18 @@
       ]
     },
     {
+      "league": "New Zealand National League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Tim Payne",
+          "nat": "New Zealand",
+          "n": 1,
+          "club": "Wellington Phoenix"
+        }
+      ]
+    },
+    {
       "league": "Persian Gulf Pro League (Iran)",
       "total": 1,
       "players": [
@@ -1139,6 +1193,42 @@
     }
   ],
   "saves": [
+    {
+      "league": "Premier League (England)",
+      "total": 25,
+      "players": [
+        {
+          "name": "Bart Verbruggen",
+          "nat": "Netherlands",
+          "n": 8,
+          "club": "Brighton & Hove Albion"
+        },
+        {
+          "name": "Max Crocombe",
+          "nat": "New Zealand",
+          "n": 6,
+          "club": "Millwall"
+        },
+        {
+          "name": "Alisson",
+          "nat": "Brazil",
+          "n": 5,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Angus Gunn",
+          "nat": "Scotland",
+          "n": 3,
+          "club": "Nottingham Forest"
+        },
+        {
+          "name": "Jordan Pickford",
+          "nat": "England",
+          "n": 3,
+          "club": "Everton"
+        }
+      ]
+    },
     {
       "league": "Saudi Pro League",
       "total": 25,
@@ -1190,42 +1280,6 @@
           "nat": "Canada",
           "n": 2,
           "club": "Orlando City SC"
-        }
-      ]
-    },
-    {
-      "league": "Premier League (England)",
-      "total": 21,
-      "players": [
-        {
-          "name": "Bart Verbruggen",
-          "nat": "Netherlands",
-          "n": 8,
-          "club": "Brighton & Hove Albion"
-        },
-        {
-          "name": "Alisson",
-          "nat": "Brazil",
-          "n": 5,
-          "club": "Liverpool"
-        },
-        {
-          "name": "Angus Gunn",
-          "nat": "Scotland",
-          "n": 3,
-          "club": "Nottingham Forest"
-        },
-        {
-          "name": "Jordan Pickford",
-          "nat": "England",
-          "n": 3,
-          "club": "Everton"
-        },
-        {
-          "name": "Max Crocombe",
-          "nat": "New Zealand",
-          "n": 2,
-          "club": "Millwall"
         }
       ]
     },
@@ -1374,6 +1428,18 @@
       ]
     },
     {
+      "league": "Egyptian Premier League",
+      "total": 7,
+      "players": [
+        {
+          "name": "Mostafa Shoubir",
+          "nat": "Egypt",
+          "n": 7,
+          "club": "Al Ahly"
+        }
+      ]
+    },
+    {
       "league": "Eredivisie (Netherlands)",
       "total": 7,
       "players": [
@@ -1482,18 +1548,6 @@
       ]
     },
     {
-      "league": "Egyptian Premier League",
-      "total": 3,
-      "players": [
-        {
-          "name": "Mostafa Shoubir",
-          "nat": "Egypt",
-          "n": 3,
-          "club": "Al Ahly"
-        }
-      ]
-    },
-    {
       "league": "Ghana Premier League",
       "total": 3,
       "players": [
@@ -1573,7 +1627,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (39/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (40/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
