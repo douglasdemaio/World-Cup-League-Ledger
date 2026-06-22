@@ -1,5 +1,5 @@
 {
-  "updated": "June 22, 2026 17:23 UTC — 40 of 104 matches played, 1 live",
+  "updated": "June 22, 2026 20:30 UTC — 41 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -254,6 +254,36 @@
       ]
     },
     {
+      "league": "MLS (USA/Canada)",
+      "total": 8,
+      "players": [
+        {
+          "name": "Lionel Messi",
+          "nat": "Argentina",
+          "n": 5,
+          "club": "Inter Miami CF"
+        },
+        {
+          "name": "Finn Surman",
+          "nat": "New Zealand",
+          "n": 1,
+          "club": "Portland Timbers"
+        },
+        {
+          "name": "Matias Galarza",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Atlanta United FC"
+        },
+        {
+          "name": "Petar Musa",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "FC Dallas"
+        }
+      ]
+    },
+    {
       "league": "Ligue 1 (France)",
       "total": 6,
       "players": [
@@ -286,36 +316,6 @@
           "nat": "Japan",
           "n": 1,
           "club": "Reims"
-        }
-      ]
-    },
-    {
-      "league": "MLS (USA/Canada)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Lionel Messi",
-          "nat": "Argentina",
-          "n": 3,
-          "club": "Inter Miami CF"
-        },
-        {
-          "name": "Finn Surman",
-          "nat": "New Zealand",
-          "n": 1,
-          "club": "Portland Timbers"
-        },
-        {
-          "name": "Matias Galarza",
-          "nat": "Paraguay",
-          "n": 1,
-          "club": "Atlanta United FC"
-        },
-        {
-          "name": "Petar Musa",
-          "nat": "Croatia",
-          "n": 1,
-          "club": "FC Dallas"
         }
       ]
     },
@@ -917,7 +917,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 6,
+      "total": 7,
       "players": [
         {
           "name": "Julio Enciso",
@@ -936,6 +936,12 @@
           "nat": "Switzerland",
           "n": 1,
           "club": "Rennes"
+        },
+        {
+          "name": "Facundo Medina",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Marseille"
         },
         {
           "name": "Keito Nakamura",
@@ -1195,7 +1201,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 25,
+      "total": 26,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -1226,6 +1232,12 @@
           "nat": "England",
           "n": 3,
           "club": "Everton"
+        },
+        {
+          "name": "Emiliano Martinez",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Aston Villa"
         }
       ]
     },
@@ -1494,6 +1506,18 @@
       ]
     },
     {
+      "league": "Austrian Bundesliga",
+      "total": 5,
+      "players": [
+        {
+          "name": "Alexander Schlager",
+          "nat": "Austria",
+          "n": 5,
+          "club": "Red Bull Salzburg"
+        }
+      ]
+    },
+    {
       "league": "Liga MX (Mexico)",
       "total": 5,
       "players": [
@@ -1508,18 +1532,6 @@
           "nat": "Colombia",
           "n": 1,
           "club": "Atlas"
-        }
-      ]
-    },
-    {
-      "league": "Austrian Bundesliga",
-      "total": 4,
-      "players": [
-        {
-          "name": "Alexander Schlager",
-          "nat": "Austria",
-          "n": 4,
-          "club": "Red Bull Salzburg"
         }
       ]
     },
@@ -1627,7 +1639,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (40/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (41/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
