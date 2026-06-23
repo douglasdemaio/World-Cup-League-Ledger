@@ -1,10 +1,16 @@
 {
-  "updated": "June 22, 2026 20:30 UTC — 41 of 104 matches played",
+  "updated": "June 23, 2026 02:56 UTC — 43 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 26,
+      "total": 30,
       "players": [
+        {
+          "name": "Erling Haaland",
+          "nat": "Norway",
+          "n": 4,
+          "club": "Manchester City"
+        },
         {
           "name": "Cody Gakpo",
           "nat": "Netherlands",
@@ -30,10 +36,10 @@
           "club": "Crystal Palace"
         },
         {
-          "name": "Erling Haaland",
-          "nat": "Norway",
+          "name": "Ismaila Sarr",
+          "nat": "Senegal",
           "n": 2,
-          "club": "Manchester City"
+          "club": "Crystal Palace"
         },
         {
           "name": "Matheus Cunha",
@@ -201,12 +207,12 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 11,
+      "total": 13,
       "players": [
         {
           "name": "Kylian Mbappe",
           "nat": "France",
-          "n": 2,
+          "n": 4,
           "club": "Real Madrid"
         },
         {
@@ -285,7 +291,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 6,
+      "total": 7,
       "players": [
         {
           "name": "Folarin Balogun",
@@ -316,6 +322,42 @@
           "nat": "Japan",
           "n": 1,
           "club": "Reims"
+        },
+        {
+          "name": "Ousmane Dembele",
+          "nat": "France",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        }
+      ]
+    },
+    {
+      "league": "Serie A (Italy)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Jonathan David",
+          "nat": "Canada",
+          "n": 3,
+          "club": "Juventus"
+        },
+        {
+          "name": "Leo Ostigard",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Genoa"
+        },
+        {
+          "name": "Marcus Holmgren Pedersen",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Torino"
+        },
+        {
+          "name": "Martin Baturina",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Como"
         }
       ]
     },
@@ -340,30 +382,6 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Feyenoord"
-        }
-      ]
-    },
-    {
-      "league": "Serie A (Italy)",
-      "total": 5,
-      "players": [
-        {
-          "name": "Jonathan David",
-          "nat": "Canada",
-          "n": 3,
-          "club": "Juventus"
-        },
-        {
-          "name": "Leo Ostigard",
-          "nat": "Norway",
-          "n": 1,
-          "club": "Genoa"
-        },
-        {
-          "name": "Martin Baturina",
-          "nat": "Croatia",
-          "n": 1,
-          "club": "Como"
         }
       ]
     },
@@ -659,7 +677,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 23,
+      "total": 24,
       "players": [
         {
           "name": "Alexander Isak",
@@ -672,6 +690,12 @@
           "nat": "New Zealand",
           "n": 2,
           "club": "Nottingham Forest"
+        },
+        {
+          "name": "Martin Odegaard",
+          "nat": "Norway",
+          "n": 2,
+          "club": "Arsenal"
         },
         {
           "name": "Mohamed Salah",
@@ -752,12 +776,6 @@
           "club": "Tottenham Hotspur"
         },
         {
-          "name": "Martin Odegaard",
-          "nat": "Norway",
-          "n": 1,
-          "club": "Arsenal"
-        },
-        {
           "name": "Pedro Neto",
           "nat": "Portugal",
           "n": 1,
@@ -773,8 +791,14 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 13,
+      "total": 16,
       "players": [
+        {
+          "name": "Michael Olise",
+          "nat": "France",
+          "n": 3,
+          "club": "Bayern Munich"
+        },
         {
           "name": "Deniz Undav",
           "nat": "Germany",
@@ -812,12 +836,6 @@
           "club": "Bayer Leverkusen"
         },
         {
-          "name": "Michael Olise",
-          "nat": "France",
-          "n": 1,
-          "club": "Bayern Munich"
-        },
-        {
           "name": "Nadiem Amiri",
           "nat": "Germany",
           "n": 1,
@@ -828,6 +846,12 @@
           "nat": "Germany",
           "n": 1,
           "club": "Eintracht Frankfurt"
+        },
+        {
+          "name": "Nicolas Jackson",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Bayern Munich"
         },
         {
           "name": "Vladimir Coufal",
@@ -917,7 +941,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 7,
+      "total": 8,
       "players": [
         {
           "name": "Julio Enciso",
@@ -952,6 +976,12 @@
         {
           "name": "Lee Kangin",
           "nat": "South Korea",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Ousmane Dembele",
+          "nat": "France",
           "n": 1,
           "club": "Paris Saint-Germain"
         }
@@ -1138,6 +1168,18 @@
       ]
     },
     {
+      "league": "Eliteserien (Norway)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Patrick Berg",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Bodø/Glimt"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 1,
       "players": [
@@ -1186,6 +1228,18 @@
       ]
     },
     {
+      "league": "Saudi Pro League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Sadio Mane",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Al-Nassr"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 1,
       "players": [
@@ -1199,6 +1253,36 @@
     }
   ],
   "saves": [
+    {
+      "league": "Saudi Pro League",
+      "total": 28,
+      "players": [
+        {
+          "name": "Mohammed Alowais",
+          "nat": "Saudi Arabia",
+          "n": 14,
+          "club": "Al-Ula"
+        },
+        {
+          "name": "Edouard Mendy",
+          "nat": "Senegal",
+          "n": 8,
+          "club": "Al-Ahli"
+        },
+        {
+          "name": "Yassine Bounou",
+          "nat": "Morocco",
+          "n": 4,
+          "club": "Al-Hilal"
+        },
+        {
+          "name": "Orlando Mosquera",
+          "nat": "Panama",
+          "n": 2,
+          "club": "Al-Fayha"
+        }
+      ]
+    },
     {
       "league": "Premier League (England)",
       "total": 26,
@@ -1238,36 +1322,6 @@
           "nat": "Argentina",
           "n": 1,
           "club": "Aston Villa"
-        }
-      ]
-    },
-    {
-      "league": "Saudi Pro League",
-      "total": 25,
-      "players": [
-        {
-          "name": "Mohammed Alowais",
-          "nat": "Saudi Arabia",
-          "n": 14,
-          "club": "Al-Ula"
-        },
-        {
-          "name": "Edouard Mendy",
-          "nat": "Senegal",
-          "n": 5,
-          "club": "Al-Ahli"
-        },
-        {
-          "name": "Yassine Bounou",
-          "nat": "Morocco",
-          "n": 4,
-          "club": "Al-Hilal"
-        },
-        {
-          "name": "Orlando Mosquera",
-          "nat": "Panama",
-          "n": 2,
-          "club": "Al-Fayha"
         }
       ]
     },
@@ -1332,6 +1386,36 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 12,
+      "players": [
+        {
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 5,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Luca Zidane",
+          "nat": "Algeria",
+          "n": 3,
+          "club": "Granada"
+        },
+        {
+          "name": "Orjan Nyland",
+          "nat": "Norway",
+          "n": 2,
+          "club": "Sevilla"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Athletic Bilbao"
+        }
+      ]
+    },
+    {
       "league": "Bundesliga (Germany)",
       "total": 11,
       "players": [
@@ -1352,30 +1436,6 @@
           "nat": "Germany",
           "n": 2,
           "club": "Bayern Munich"
-        }
-      ]
-    },
-    {
-      "league": "La Liga (Spain)",
-      "total": 10,
-      "players": [
-        {
-          "name": "Thibaut Courtois",
-          "nat": "Belgium",
-          "n": 5,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Luca Zidane",
-          "nat": "Algeria",
-          "n": 3,
-          "club": "Granada"
-        },
-        {
-          "name": "Unai Simon",
-          "nat": "Spain",
-          "n": 2,
-          "club": "Athletic Bilbao"
         }
       ]
     },
@@ -1536,6 +1596,24 @@
       ]
     },
     {
+      "league": "Iraq Stars League",
+      "total": 4,
+      "players": [
+        {
+          "name": "Ahmed Basil",
+          "nat": "Iraq",
+          "n": 2,
+          "club": "Al-Shorta"
+        },
+        {
+          "name": "Jalal Hassan",
+          "nat": "Iraq",
+          "n": 2,
+          "club": "Al-Zawraa"
+        }
+      ]
+    },
+    {
       "league": "South African Premier Division",
       "total": 4,
       "players": [
@@ -1584,18 +1662,6 @@
       ]
     },
     {
-      "league": "Iraq Stars League",
-      "total": 2,
-      "players": [
-        {
-          "name": "Jalal Hassan",
-          "nat": "Iraq",
-          "n": 2,
-          "club": "Al-Zawraa"
-        }
-      ]
-    },
-    {
       "league": "Ligue Professionnelle 1 (Tunisia)",
       "total": 2,
       "players": [
@@ -1639,7 +1705,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (41/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (43/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
