@@ -1,5 +1,5 @@
 {
-  "updated": "June 23, 2026 21:22 UTC — 45 of 104 matches played, 1 live",
+  "updated": "June 23, 2026 22:57 UTC — 46 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -1614,6 +1614,18 @@
       ]
     },
     {
+      "league": "Ghana Premier League",
+      "total": 6,
+      "players": [
+        {
+          "name": "Benjamin Asare",
+          "nat": "Ghana",
+          "n": 6,
+          "club": "Hearts of Oak"
+        }
+      ]
+    },
+    {
       "league": "J1 League (Japan)",
       "total": 6,
       "players": [
@@ -1692,18 +1704,6 @@
       ]
     },
     {
-      "league": "Ghana Premier League",
-      "total": 4,
-      "players": [
-        {
-          "name": "Benjamin Asare",
-          "nat": "Ghana",
-          "n": 4,
-          "club": "Hearts of Oak"
-        }
-      ]
-    },
-    {
       "league": "Iraq Stars League",
       "total": 4,
       "players": [
@@ -1777,7 +1777,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (45/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (46/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
