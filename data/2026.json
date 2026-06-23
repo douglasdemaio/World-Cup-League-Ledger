@@ -1,5 +1,5 @@
 {
-  "updated": "June 23, 2026 06:40 UTC — 44 of 104 matches played",
+  "updated": "June 23, 2026 19:00 UTC — 45 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -261,7 +261,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 8,
+      "total": 9,
       "players": [
         {
           "name": "Folarin Balogun",
@@ -298,6 +298,12 @@
           "nat": "Japan",
           "n": 1,
           "club": "Reims"
+        },
+        {
+          "name": "Nuno Mendes",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Paris Saint-Germain"
         },
         {
           "name": "Ousmane Dembele",
@@ -339,7 +345,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 6,
+      "total": 7,
       "players": [
         {
           "name": "Jonathan David",
@@ -364,6 +370,12 @@
           "nat": "Croatia",
           "n": 1,
           "club": "Como"
+        },
+        {
+          "name": "Rafael Leao",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Milan"
         }
       ]
     },
@@ -388,6 +400,36 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Feyenoord"
+        }
+      ]
+    },
+    {
+      "league": "Saudi Pro League",
+      "total": 5,
+      "players": [
+        {
+          "name": "Cristiano Ronaldo",
+          "nat": "Portugal",
+          "n": 2,
+          "club": "Al-Nassr"
+        },
+        {
+          "name": "Abdulelah Alamri",
+          "nat": "Saudi Arabia",
+          "n": 1,
+          "club": "Al-Nassr"
+        },
+        {
+          "name": "Franck Kessie",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Al-Ahli"
+        },
+        {
+          "name": "Julian Quinones",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Al-Qadsiah"
         }
       ]
     },
@@ -430,30 +472,6 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Al Ahly"
-        }
-      ]
-    },
-    {
-      "league": "Saudi Pro League",
-      "total": 3,
-      "players": [
-        {
-          "name": "Abdulelah Alamri",
-          "nat": "Saudi Arabia",
-          "n": 1,
-          "club": "Al-Nassr"
-        },
-        {
-          "name": "Franck Kessie",
-          "nat": "Ivory Coast",
-          "n": 1,
-          "club": "Al-Ahli"
-        },
-        {
-          "name": "Julian Quinones",
-          "nat": "Mexico",
-          "n": 1,
-          "club": "Al-Qadsiah"
         }
       ]
     },
@@ -701,7 +719,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 24,
+      "total": 25,
       "players": [
         {
           "name": "Alexander Isak",
@@ -732,6 +750,12 @@
           "nat": "Netherlands",
           "n": 2,
           "club": "Liverpool"
+        },
+        {
+          "name": "Bruno Fernandes",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Manchester United"
         },
         {
           "name": "Bruno Guimaraes",
@@ -893,7 +917,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 12,
+      "total": 13,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -930,6 +954,12 @@
           "nat": "Colombia",
           "n": 1,
           "club": "Racing Santander"
+        },
+        {
+          "name": "Joao Cancelo",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Barcelona"
         },
         {
           "name": "Mikel Oyarzabal",
@@ -1476,6 +1506,24 @@
       ]
     },
     {
+      "league": "Primeira Liga (Portugal)",
+      "total": 10,
+      "players": [
+        {
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 7,
+          "club": "Chaves"
+        },
+        {
+          "name": "Diogo Costa",
+          "nat": "Portugal",
+          "n": 3,
+          "club": "Porto"
+        }
+      ]
+    },
+    {
       "league": "A-League (Australia)",
       "total": 9,
       "players": [
@@ -1514,24 +1562,6 @@
           "nat": "Turkey",
           "n": 3,
           "club": "Galatasaray"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 8,
-      "players": [
-        {
-          "name": "Vozinha",
-          "nat": "Cape Verde",
-          "n": 7,
-          "club": "Chaves"
-        },
-        {
-          "name": "Diogo Costa",
-          "nat": "Portugal",
-          "n": 1,
-          "club": "Porto"
         }
       ]
     },
@@ -1644,6 +1674,24 @@
       ]
     },
     {
+      "league": "Uzbekistan Super League",
+      "total": 5,
+      "players": [
+        {
+          "name": "Abduvohid Nematov",
+          "nat": "Uzbekistan",
+          "n": 4,
+          "club": "Nasaf"
+        },
+        {
+          "name": "Utkir Yusupov",
+          "nat": "Uzbekistan",
+          "n": 1,
+          "club": "Navbahor Namangan"
+        }
+      ]
+    },
+    {
       "league": "Iraq Stars League",
       "total": 4,
       "players": [
@@ -1726,22 +1774,10 @@
           "club": "Club Africain"
         }
       ]
-    },
-    {
-      "league": "Uzbekistan Super League",
-      "total": 1,
-      "players": [
-        {
-          "name": "Utkir Yusupov",
-          "nat": "Uzbekistan",
-          "n": 1,
-          "club": "Navbahor Namangan"
-        }
-      ]
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (44/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (45/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
