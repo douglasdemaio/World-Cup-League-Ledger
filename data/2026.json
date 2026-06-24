@@ -1,5 +1,5 @@
 {
-  "updated": "June 23, 2026 23:52 UTC — 46 of 104 matches played, 1 live",
+  "updated": "June 24, 2026 02:01 UTC — 47 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -207,7 +207,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 13,
+      "total": 14,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -232,6 +232,12 @@
           "nat": "USA",
           "n": 1,
           "club": "Villarreal"
+        },
+        {
+          "name": "Ante Budimir",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Osasuna"
         },
         {
           "name": "Jude Bellingham",
@@ -839,7 +845,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 16,
+      "total": 17,
       "players": [
         {
           "name": "Michael Olise",
@@ -864,6 +870,12 @@
           "nat": "Germany",
           "n": 1,
           "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Josip Stanisic",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Bayern Munich"
         },
         {
           "name": "Kaishu Sano",
@@ -1566,6 +1578,18 @@
       ]
     },
     {
+      "league": "HNL (Croatia)",
+      "total": 8,
+      "players": [
+        {
+          "name": "Dominik Livakovic",
+          "nat": "Croatia",
+          "n": 8,
+          "club": "Dinamo Zagreb"
+        }
+      ]
+    },
+    {
       "league": "Egyptian Premier League",
       "total": 7,
       "players": [
@@ -1586,18 +1610,6 @@
           "nat": "Czechia",
           "n": 7,
           "club": "PSV Eindhoven"
-        }
-      ]
-    },
-    {
-      "league": "HNL (Croatia)",
-      "total": 7,
-      "players": [
-        {
-          "name": "Dominik Livakovic",
-          "nat": "Croatia",
-          "n": 7,
-          "club": "Dinamo Zagreb"
         }
       ]
     },
@@ -1777,7 +1789,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (46/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (47/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
