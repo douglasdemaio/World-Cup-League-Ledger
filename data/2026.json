@@ -1,5 +1,5 @@
 {
-  "updated": "June 24, 2026 06:34 UTC — 48 of 104 matches played",
+  "updated": "June 24, 2026 20:26 UTC — 48 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -129,7 +129,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 15,
+      "total": 16,
       "players": [
         {
           "name": "Deniz Undav",
@@ -140,7 +140,7 @@
         {
           "name": "Johan Manzambi",
           "nat": "Switzerland",
-          "n": 2,
+          "n": 3,
           "club": "SC Freiburg"
         },
         {
@@ -207,7 +207,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 14,
+      "total": 15,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -220,6 +220,12 @@
           "nat": "Spain",
           "n": 2,
           "club": "Real Sociedad"
+        },
+        {
+          "name": "Ruben Vargas",
+          "nat": "Switzerland",
+          "n": 2,
+          "club": "Sevilla"
         },
         {
           "name": "Vinicius Junior",
@@ -256,12 +262,6 @@
           "nat": "England",
           "n": 1,
           "club": "Barcelona"
-        },
-        {
-          "name": "Ruben Vargas",
-          "nat": "Switzerland",
-          "n": 1,
-          "club": "Sevilla"
         }
       ]
     },
@@ -482,6 +482,30 @@
       ]
     },
     {
+      "league": "Qatar Stars League",
+      "total": 3,
+      "players": [
+        {
+          "name": "Ali Olwan",
+          "nat": "Jordan",
+          "n": 1,
+          "club": "Al-Sailiya"
+        },
+        {
+          "name": "Hassan Alhaydos",
+          "nat": "Qatar",
+          "n": 1,
+          "club": "Al-Sadd"
+        },
+        {
+          "name": "Nizar Alrashdan",
+          "nat": "Jordan",
+          "n": 1,
+          "club": "Qatar SC"
+        }
+      ]
+    },
+    {
       "league": "Czech First League",
       "total": 2,
       "players": [
@@ -548,24 +572,6 @@
       ]
     },
     {
-      "league": "Qatar Stars League",
-      "total": 2,
-      "players": [
-        {
-          "name": "Ali Olwan",
-          "nat": "Jordan",
-          "n": 1,
-          "club": "Al-Sailiya"
-        },
-        {
-          "name": "Nizar Alrashdan",
-          "nat": "Jordan",
-          "n": 1,
-          "club": "Qatar SC"
-        }
-      ]
-    },
-    {
       "league": "Scottish Premiership",
       "total": 2,
       "players": [
@@ -610,6 +616,18 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Beşiktaş"
+        }
+      ]
+    },
+    {
+      "league": "Austrian Bundesliga",
+      "total": 1,
+      "players": [
+        {
+          "name": "Kerim Alajbegovic",
+          "nat": "Bosnia & Herzegovina",
+          "n": 1,
+          "club": "Red Bull Salzburg"
         }
       ]
     },
@@ -845,7 +863,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 17,
+      "total": 18,
       "players": [
         {
           "name": "Michael Olise",
@@ -870,6 +888,12 @@
           "nat": "Germany",
           "n": 1,
           "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Johan Manzambi",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "SC Freiburg"
         },
         {
           "name": "Josip Stanisic",
@@ -1007,8 +1031,14 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 9,
+      "total": 10,
       "players": [
+        {
+          "name": "Breel Embolo",
+          "nat": "Switzerland",
+          "n": 2,
+          "club": "Rennes"
+        },
         {
           "name": "Julio Enciso",
           "nat": "Paraguay",
@@ -1020,12 +1050,6 @@
           "nat": "DR Congo",
           "n": 1,
           "club": "Lens"
-        },
-        {
-          "name": "Breel Embolo",
-          "nat": "Switzerland",
-          "n": 1,
-          "club": "Rennes"
         },
         {
           "name": "Facundo Medina",
@@ -1270,6 +1294,18 @@
       ]
     },
     {
+      "league": "Kazakhstan Premier League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Ivan Basic",
+          "nat": "Bosnia & Herzegovina",
+          "n": 1,
+          "club": "Astana"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 1,
       "players": [
@@ -1326,6 +1362,18 @@
           "nat": "Colombia",
           "n": 1,
           "club": "River Plate"
+        }
+      ]
+    },
+    {
+      "league": "Qatar Stars League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Edmilson Junior",
+          "nat": "Qatar",
+          "n": 1,
+          "club": "Al-Duhail"
         }
       ]
     },
@@ -1417,7 +1465,7 @@
     },
     {
       "league": "MLS (USA/Canada)",
-      "total": 23,
+      "total": 25,
       "players": [
         {
           "name": "Eloy Room",
@@ -1426,16 +1474,16 @@
           "club": "Miami FC"
         },
         {
+          "name": "Maxime Crepeau",
+          "nat": "Canada",
+          "n": 4,
+          "club": "Orlando City SC"
+        },
+        {
           "name": "Matt Freese",
           "nat": "USA",
           "n": 2,
           "club": "New York City FC"
-        },
-        {
-          "name": "Maxime Crepeau",
-          "nat": "Canada",
-          "n": 2,
-          "club": "Orlando City SC"
         }
       ]
     },
@@ -1494,25 +1542,13 @@
       ]
     },
     {
-      "league": "Persian Gulf Pro League (Iran)",
-      "total": 13,
-      "players": [
-        {
-          "name": "Alireza Beiranvand",
-          "nat": "Iran",
-          "n": 13,
-          "club": "Tractor"
-        }
-      ]
-    },
-    {
       "league": "Bundesliga (Germany)",
-      "total": 11,
+      "total": 14,
       "players": [
         {
           "name": "Gregor Kobel",
           "nat": "Switzerland",
-          "n": 5,
+          "n": 8,
           "club": "Borussia Dortmund"
         },
         {
@@ -1526,6 +1562,18 @@
           "nat": "Germany",
           "n": 2,
           "club": "Bayern Munich"
+        }
+      ]
+    },
+    {
+      "league": "Persian Gulf Pro League (Iran)",
+      "total": 13,
+      "players": [
+        {
+          "name": "Alireza Beiranvand",
+          "nat": "Iran",
+          "n": 13,
+          "club": "Tractor"
         }
       ]
     },
@@ -1544,6 +1592,18 @@
           "nat": "Haiti",
           "n": 3,
           "club": "Bastia"
+        }
+      ]
+    },
+    {
+      "league": "Qatar Stars League",
+      "total": 11,
+      "players": [
+        {
+          "name": "Mahmoud Abunada",
+          "nat": "Qatar",
+          "n": 11,
+          "club": "Al-Rayyan"
         }
       ]
     },
@@ -1574,18 +1634,6 @@
           "nat": "Australia",
           "n": 9,
           "club": "Melbourne City"
-        }
-      ]
-    },
-    {
-      "league": "Qatar Stars League",
-      "total": 9,
-      "players": [
-        {
-          "name": "Mahmoud Abunada",
-          "nat": "Qatar",
-          "n": 9,
-          "club": "Al-Rayyan"
         }
       ]
     },
