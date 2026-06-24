@@ -1,5 +1,5 @@
 {
-  "updated": "June 24, 2026 20:26 UTC — 48 of 104 matches played, 2 live",
+  "updated": "June 24, 2026 22:06 UTC — 50 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -440,6 +440,24 @@
       ]
     },
     {
+      "league": "Czech First League",
+      "total": 3,
+      "players": [
+        {
+          "name": "Ermin Mahmic",
+          "nat": "Bosnia & Herzegovina",
+          "n": 2,
+          "club": "Slovan Liberec"
+        },
+        {
+          "name": "Michal Sadilek",
+          "nat": "Czechia",
+          "n": 1,
+          "club": "Slavia Prague"
+        }
+      ]
+    },
+    {
       "league": "EFL Championship (England, 2nd tier)",
       "total": 3,
       "players": [
@@ -482,6 +500,30 @@
       ]
     },
     {
+      "league": "Pro League (Belgium)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Junya Ito",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Genk"
+        },
+        {
+          "name": "Nathan Saliba",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Anderlecht"
+        },
+        {
+          "name": "Promise David",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Union Saint-Gilloise"
+        }
+      ]
+    },
+    {
       "league": "Qatar Stars League",
       "total": 3,
       "players": [
@@ -502,24 +544,6 @@
           "nat": "Jordan",
           "n": 1,
           "club": "Qatar SC"
-        }
-      ]
-    },
-    {
-      "league": "Czech First League",
-      "total": 2,
-      "players": [
-        {
-          "name": "Ermin Mahmic",
-          "nat": "Bosnia & Herzegovina",
-          "n": 1,
-          "club": "Slovan Liberec"
-        },
-        {
-          "name": "Michal Sadilek",
-          "nat": "Czechia",
-          "n": 1,
-          "club": "Slavia Prague"
         }
       ]
     },
@@ -550,24 +574,6 @@
           "nat": "Uruguay",
           "n": 2,
           "club": "Sporting CP"
-        }
-      ]
-    },
-    {
-      "league": "Pro League (Belgium)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Junya Ito",
-          "nat": "Japan",
-          "n": 1,
-          "club": "Genk"
-        },
-        {
-          "name": "Nathan Saliba",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Anderlecht"
         }
       ]
     },
@@ -1085,7 +1091,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 6,
+      "total": 7,
       "players": [
         {
           "name": "Denzel Dumfries",
@@ -1104,6 +1110,12 @@
           "nat": "USA",
           "n": 1,
           "club": "Milan"
+        },
+        {
+          "name": "Dennis Hadzikadunic",
+          "nat": "Bosnia & Herzegovina",
+          "n": 1,
+          "club": "Sampdoria"
         },
         {
           "name": "Petar Sucic",
@@ -1156,6 +1168,24 @@
       ]
     },
     {
+      "league": "Pro League (Belgium)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Nathan Saliba",
+          "nat": "Canada",
+          "n": 2,
+          "club": "Anderlecht"
+        },
+        {
+          "name": "Promise David",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Union Saint-Gilloise"
+        }
+      ]
+    },
+    {
       "league": "Egyptian Premier League",
       "total": 2,
       "players": [
@@ -1188,24 +1218,6 @@
           "nat": "Mexico",
           "n": 1,
           "club": "Guadalajara"
-        }
-      ]
-    },
-    {
-      "league": "Pro League (Belgium)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Nathan Saliba",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Anderlecht"
-        },
-        {
-          "name": "Promise David",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Union Saint-Gilloise"
         }
       ]
     },
@@ -1488,6 +1500,30 @@
       ]
     },
     {
+      "league": "Bundesliga (Germany)",
+      "total": 19,
+      "players": [
+        {
+          "name": "Gregor Kobel",
+          "nat": "Switzerland",
+          "n": 11,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Nikola Vasilj",
+          "nat": "Bosnia & Herzegovina",
+          "n": 6,
+          "club": "FC St. Pauli"
+        },
+        {
+          "name": "Manuel Neuer",
+          "nat": "Germany",
+          "n": 2,
+          "club": "Bayern Munich"
+        }
+      ]
+    },
+    {
       "league": "Primera División (Argentina)",
       "total": 18,
       "players": [
@@ -1542,30 +1578,6 @@
       ]
     },
     {
-      "league": "Bundesliga (Germany)",
-      "total": 14,
-      "players": [
-        {
-          "name": "Gregor Kobel",
-          "nat": "Switzerland",
-          "n": 8,
-          "club": "Borussia Dortmund"
-        },
-        {
-          "name": "Nikola Vasilj",
-          "nat": "Bosnia & Herzegovina",
-          "n": 4,
-          "club": "FC St. Pauli"
-        },
-        {
-          "name": "Manuel Neuer",
-          "nat": "Germany",
-          "n": 2,
-          "club": "Bayern Munich"
-        }
-      ]
-    },
-    {
       "league": "Persian Gulf Pro League (Iran)",
       "total": 13,
       "players": [
@@ -1574,6 +1586,18 @@
           "nat": "Iran",
           "n": 13,
           "club": "Tractor"
+        }
+      ]
+    },
+    {
+      "league": "Qatar Stars League",
+      "total": 12,
+      "players": [
+        {
+          "name": "Mahmoud Abunada",
+          "nat": "Qatar",
+          "n": 12,
+          "club": "Al-Rayyan"
         }
       ]
     },
@@ -1592,18 +1616,6 @@
           "nat": "Haiti",
           "n": 3,
           "club": "Bastia"
-        }
-      ]
-    },
-    {
-      "league": "Qatar Stars League",
-      "total": 11,
-      "players": [
-        {
-          "name": "Mahmoud Abunada",
-          "nat": "Qatar",
-          "n": 11,
-          "club": "Al-Rayyan"
         }
       ]
     },
@@ -1855,7 +1867,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (48/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (50/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
