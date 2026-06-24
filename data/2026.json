@@ -1,9 +1,9 @@
 {
-  "updated": "June 24, 2026 02:01 UTC — 47 of 104 matches played, 1 live",
+  "updated": "June 24, 2026 06:34 UTC — 48 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 30,
+      "total": 31,
       "players": [
         {
           "name": "Erling Haaland",
@@ -32,6 +32,12 @@
         {
           "name": "Daichi Kamada",
           "nat": "Japan",
+          "n": 2,
+          "club": "Crystal Palace"
+        },
+        {
+          "name": "Daniel Munoz",
+          "nat": "Colombia",
           "n": 2,
           "club": "Crystal Palace"
         },
@@ -70,12 +76,6 @@
           "nat": "Sweden",
           "n": 1,
           "club": "Newcastle United"
-        },
-        {
-          "name": "Daniel Munoz",
-          "nat": "Colombia",
-          "n": 1,
-          "club": "Crystal Palace"
         },
         {
           "name": "John McGinn",
@@ -1318,6 +1318,18 @@
       ]
     },
     {
+      "league": "Primera División (Argentina)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Juan Quintero",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "River Plate"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 1,
       "players": [
@@ -1518,6 +1530,24 @@
       ]
     },
     {
+      "league": "Ligue 1 (France)",
+      "total": 11,
+      "players": [
+        {
+          "name": "Lionel Mpasi",
+          "nat": "DR Congo",
+          "n": 8,
+          "club": "Le Havre"
+        },
+        {
+          "name": "Johny Placide",
+          "nat": "Haiti",
+          "n": 3,
+          "club": "Bastia"
+        }
+      ]
+    },
+    {
       "league": "Primeira Liga (Portugal)",
       "total": 10,
       "players": [
@@ -1650,6 +1680,24 @@
       ]
     },
     {
+      "league": "Liga MX (Mexico)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Raul Rangel",
+          "nat": "Mexico",
+          "n": 4,
+          "club": "Guadalajara"
+        },
+        {
+          "name": "Camilo Vargas",
+          "nat": "Colombia",
+          "n": 2,
+          "club": "Atlas"
+        }
+      ]
+    },
+    {
       "league": "Serie A (Italy)",
       "total": 6,
       "players": [
@@ -1676,24 +1724,6 @@
           "nat": "Austria",
           "n": 5,
           "club": "Red Bull Salzburg"
-        }
-      ]
-    },
-    {
-      "league": "Liga MX (Mexico)",
-      "total": 5,
-      "players": [
-        {
-          "name": "Raul Rangel",
-          "nat": "Mexico",
-          "n": 4,
-          "club": "Guadalajara"
-        },
-        {
-          "name": "Camilo Vargas",
-          "nat": "Colombia",
-          "n": 1,
-          "club": "Atlas"
         }
       ]
     },
@@ -1758,18 +1788,6 @@
       ]
     },
     {
-      "league": "Ligue 1 (France)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Johny Placide",
-          "nat": "Haiti",
-          "n": 3,
-          "club": "Bastia"
-        }
-      ]
-    },
-    {
       "league": "Ligue Professionnelle 1 (Tunisia)",
       "total": 2,
       "players": [
@@ -1789,7 +1807,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (47/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (48/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
