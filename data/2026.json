@@ -1,5 +1,5 @@
 {
-  "updated": "June 25, 2026 02:30 UTC — 52 of 104 matches played, 2 live",
+  "updated": "June 25, 2026 06:38 UTC — 54 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -129,7 +129,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 17,
+      "total": 18,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -160,6 +160,12 @@
           "nat": "USA",
           "n": 1,
           "club": "Villarreal"
+        },
+        {
+          "name": "Alvaro Fidalgo",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Real Betis"
         },
         {
           "name": "Ante Budimir",
@@ -1234,6 +1240,30 @@
       ]
     },
     {
+      "league": "Liga MX (Mexico)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Roberto Alvarado",
+          "nat": "Mexico",
+          "n": 2,
+          "club": "Guadalajara"
+        },
+        {
+          "name": "Erik Lira",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Cruz Azul"
+        },
+        {
+          "name": "Luis Romo",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Guadalajara"
+        }
+      ]
+    },
+    {
       "league": "Pro League (Belgium)",
       "total": 4,
       "players": [
@@ -1254,30 +1284,6 @@
           "nat": "Canada",
           "n": 1,
           "club": "Union Saint-Gilloise"
-        }
-      ]
-    },
-    {
-      "league": "Liga MX (Mexico)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Erik Lira",
-          "nat": "Mexico",
-          "n": 1,
-          "club": "Cruz Azul"
-        },
-        {
-          "name": "Luis Romo",
-          "nat": "Mexico",
-          "n": 1,
-          "club": "Guadalajara"
-        },
-        {
-          "name": "Roberto Alvarado",
-          "nat": "Mexico",
-          "n": 1,
-          "club": "Guadalajara"
         }
       ]
     },
@@ -1764,6 +1770,18 @@
       ]
     },
     {
+      "league": "Eredivisie (Netherlands)",
+      "total": 9,
+      "players": [
+        {
+          "name": "Matej Kovar",
+          "nat": "Czechia",
+          "n": 9,
+          "club": "PSV Eindhoven"
+        }
+      ]
+    },
+    {
       "league": "J1 League (Japan)",
       "total": 9,
       "players": [
@@ -1790,18 +1808,6 @@
           "nat": "Turkey",
           "n": 3,
           "club": "Galatasaray"
-        }
-      ]
-    },
-    {
-      "league": "Eredivisie (Netherlands)",
-      "total": 8,
-      "players": [
-        {
-          "name": "Matej Kovar",
-          "nat": "Czechia",
-          "n": 8,
-          "club": "PSV Eindhoven"
         }
       ]
     },
@@ -1890,6 +1896,18 @@
       ]
     },
     {
+      "league": "South African Premier Division",
+      "total": 6,
+      "players": [
+        {
+          "name": "Ronwen Williams",
+          "nat": "South Africa",
+          "n": 6,
+          "club": "Mamelodi Sundowns"
+        }
+      ]
+    },
+    {
       "league": "Austrian Bundesliga",
       "total": 5,
       "players": [
@@ -1898,18 +1916,6 @@
           "nat": "Austria",
           "n": 5,
           "club": "Red Bull Salzburg"
-        }
-      ]
-    },
-    {
-      "league": "South African Premier Division",
-      "total": 5,
-      "players": [
-        {
-          "name": "Ronwen Williams",
-          "nat": "South Africa",
-          "n": 5,
-          "club": "Mamelodi Sundowns"
         }
       ]
     },
@@ -1981,7 +1987,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (52/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (54/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
