@@ -1,5 +1,5 @@
 {
-  "updated": "June 24, 2026 23:56 UTC — 50 of 104 matches played, 2 live",
+  "updated": "June 25, 2026 02:30 UTC — 52 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -362,6 +362,36 @@
       ]
     },
     {
+      "league": "Eredivisie (Netherlands)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Ismael Saibari",
+          "nat": "Morocco",
+          "n": 3,
+          "club": "PSV Eindhoven"
+        },
+        {
+          "name": "Ayase Ueda",
+          "nat": "Japan",
+          "n": 2,
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Hwang Inbeom",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Mateo Chavez",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "AZ"
+        }
+      ]
+    },
+    {
       "league": "Serie A (Italy)",
       "total": 7,
       "players": [
@@ -398,38 +428,20 @@
       ]
     },
     {
-      "league": "Eredivisie (Netherlands)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Ismael Saibari",
-          "nat": "Morocco",
-          "n": 3,
-          "club": "PSV Eindhoven"
-        },
-        {
-          "name": "Ayase Ueda",
-          "nat": "Japan",
-          "n": 2,
-          "club": "Feyenoord"
-        },
-        {
-          "name": "Hwang Inbeom",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Feyenoord"
-        }
-      ]
-    },
-    {
       "league": "Saudi Pro League",
-      "total": 5,
+      "total": 6,
       "players": [
         {
           "name": "Cristiano Ronaldo",
           "nat": "Portugal",
           "n": 2,
           "club": "Al-Nassr"
+        },
+        {
+          "name": "Julian Quinones",
+          "nat": "Mexico",
+          "n": 2,
+          "club": "Al-Qadsiah"
         },
         {
           "name": "Abdulelah Alamri",
@@ -442,12 +454,6 @@
           "nat": "Ivory Coast",
           "n": 1,
           "club": "Al-Ahli"
-        },
-        {
-          "name": "Julian Quinones",
-          "nat": "Mexico",
-          "n": 1,
-          "club": "Al-Qadsiah"
         }
       ]
     },
@@ -652,6 +658,18 @@
           "nat": "Bosnia & Herzegovina",
           "n": 1,
           "club": "Red Bull Salzburg"
+        }
+      ]
+    },
+    {
+      "league": "Cypriot First Division",
+      "total": 1,
+      "players": [
+        {
+          "name": "Thapelo Maseko",
+          "nat": "South Africa",
+          "n": 1,
+          "club": "AEL Limassol"
         }
       ]
     },
@@ -1240,6 +1258,30 @@
       ]
     },
     {
+      "league": "Liga MX (Mexico)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Erik Lira",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Cruz Azul"
+        },
+        {
+          "name": "Luis Romo",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Guadalajara"
+        },
+        {
+          "name": "Roberto Alvarado",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "Guadalajara"
+        }
+      ]
+    },
+    {
       "league": "Egyptian Premier League",
       "total": 2,
       "players": [
@@ -1254,24 +1296,6 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Pyramids"
-        }
-      ]
-    },
-    {
-      "league": "Liga MX (Mexico)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Erik Lira",
-          "nat": "Mexico",
-          "n": 1,
-          "club": "Cruz Azul"
-        },
-        {
-          "name": "Roberto Alvarado",
-          "nat": "Mexico",
-          "n": 1,
-          "club": "Guadalajara"
         }
       ]
     },
@@ -1444,6 +1468,30 @@
       ]
     },
     {
+      "league": "South African Premier Division",
+      "total": 1,
+      "players": [
+        {
+          "name": "Tshepang Moremi",
+          "nat": "South Africa",
+          "n": 1,
+          "club": "Orlando Pirates"
+        }
+      ]
+    },
+    {
+      "league": "Super League (Greece)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Jorge Sanchez",
+          "nat": "Mexico",
+          "n": 1,
+          "club": "PAOK"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 1,
       "players": [
@@ -1471,12 +1519,12 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 35,
+      "total": 36,
       "players": [
         {
           "name": "Alisson",
           "nat": "Brazil",
-          "n": 9,
+          "n": 10,
           "club": "Liverpool"
         },
         {
@@ -1513,7 +1561,7 @@
     },
     {
       "league": "Saudi Pro League",
-      "total": 29,
+      "total": 30,
       "players": [
         {
           "name": "Mohammed Alowais",
@@ -1530,7 +1578,7 @@
         {
           "name": "Yassine Bounou",
           "nat": "Morocco",
-          "n": 4,
+          "n": 5,
           "club": "Al-Hilal"
         },
         {
@@ -1716,6 +1764,18 @@
       ]
     },
     {
+      "league": "J1 League (Japan)",
+      "total": 9,
+      "players": [
+        {
+          "name": "Kim Seunggyu",
+          "nat": "South Korea",
+          "n": 9,
+          "club": "FC Tokyo"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 9,
       "players": [
@@ -1730,6 +1790,18 @@
           "nat": "Turkey",
           "n": 3,
           "club": "Galatasaray"
+        }
+      ]
+    },
+    {
+      "league": "Eredivisie (Netherlands)",
+      "total": 8,
+      "players": [
+        {
+          "name": "Matej Kovar",
+          "nat": "Czechia",
+          "n": 8,
+          "club": "PSV Eindhoven"
         }
       ]
     },
@@ -1758,18 +1830,6 @@
       ]
     },
     {
-      "league": "Eredivisie (Netherlands)",
-      "total": 7,
-      "players": [
-        {
-          "name": "Matej Kovar",
-          "nat": "Czechia",
-          "n": 7,
-          "club": "PSV Eindhoven"
-        }
-      ]
-    },
-    {
       "league": "Jordan Pro League",
       "total": 7,
       "players": [
@@ -1782,6 +1842,24 @@
       ]
     },
     {
+      "league": "Liga MX (Mexico)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Raul Rangel",
+          "nat": "Mexico",
+          "n": 5,
+          "club": "Guadalajara"
+        },
+        {
+          "name": "Camilo Vargas",
+          "nat": "Colombia",
+          "n": 2,
+          "club": "Atlas"
+        }
+      ]
+    },
+    {
       "league": "Ghana Premier League",
       "total": 6,
       "players": [
@@ -1790,36 +1868,6 @@
           "nat": "Ghana",
           "n": 6,
           "club": "Hearts of Oak"
-        }
-      ]
-    },
-    {
-      "league": "J1 League (Japan)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Kim Seunggyu",
-          "nat": "South Korea",
-          "n": 6,
-          "club": "FC Tokyo"
-        }
-      ]
-    },
-    {
-      "league": "Liga MX (Mexico)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Raul Rangel",
-          "nat": "Mexico",
-          "n": 4,
-          "club": "Guadalajara"
-        },
-        {
-          "name": "Camilo Vargas",
-          "nat": "Colombia",
-          "n": 2,
-          "club": "Atlas"
         }
       ]
     },
@@ -1850,6 +1898,18 @@
           "nat": "Austria",
           "n": 5,
           "club": "Red Bull Salzburg"
+        }
+      ]
+    },
+    {
+      "league": "South African Premier Division",
+      "total": 5,
+      "players": [
+        {
+          "name": "Ronwen Williams",
+          "nat": "South Africa",
+          "n": 5,
+          "club": "Mamelodi Sundowns"
         }
       ]
     },
@@ -1890,18 +1950,6 @@
       ]
     },
     {
-      "league": "South African Premier Division",
-      "total": 4,
-      "players": [
-        {
-          "name": "Ronwen Williams",
-          "nat": "South Africa",
-          "n": 4,
-          "club": "Mamelodi Sundowns"
-        }
-      ]
-    },
-    {
       "league": "Allsvenskan (Sweden)",
       "total": 3,
       "players": [
@@ -1933,7 +1981,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (50/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (52/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
