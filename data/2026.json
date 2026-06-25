@@ -1,5 +1,5 @@
 {
-  "updated": "June 25, 2026 06:38 UTC — 54 of 104 matches played",
+  "updated": "June 25, 2026 20:58 UTC — 54 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -129,7 +129,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 18,
+      "total": 19,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -190,6 +190,12 @@
           "nat": "England",
           "n": 1,
           "club": "Barcelona"
+        },
+        {
+          "name": "Nicolas Pepe",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Villarreal"
         }
       ]
     },
@@ -465,7 +471,7 @@
     },
     {
       "league": "EFL Championship (England, 2nd tier)",
-      "total": 4,
+      "total": 5,
       "players": [
         {
           "name": "Brian Brobbey",
@@ -478,6 +484,12 @@
           "nat": "Australia",
           "n": 1,
           "club": "Watford"
+        },
+        {
+          "name": "Nilson Angulo",
+          "nat": "Ecuador",
+          "n": 1,
+          "club": "Sunderland"
         },
         {
           "name": "Wilson Isidor",
@@ -578,6 +590,30 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Abbosbek Fayzullaev",
+          "nat": "Uzbekistan",
+          "n": 1,
+          "club": "İstanbul Başakşehir"
+        },
+        {
+          "name": "Leroy Sane",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Oh Hyeongyu",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Beşiktaş"
+        }
+      ]
+    },
+    {
       "league": "Premier Liga (Russia)",
       "total": 2,
       "players": [
@@ -634,24 +670,6 @@
           "nat": "Paraguay",
           "n": 1,
           "club": "Palmeiras"
-        }
-      ]
-    },
-    {
-      "league": "Süper Lig (Turkey)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Abbosbek Fayzullaev",
-          "nat": "Uzbekistan",
-          "n": 1,
-          "club": "İstanbul Başakşehir"
-        },
-        {
-          "name": "Oh Hyeongyu",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Beşiktaş"
         }
       ]
     },
@@ -803,7 +821,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 29,
+      "total": 30,
       "players": [
         {
           "name": "Alexander Isak",
@@ -822,6 +840,12 @@
           "nat": "New Zealand",
           "n": 2,
           "club": "Nottingham Forest"
+        },
+        {
+          "name": "Florian Wirtz",
+          "nat": "Germany",
+          "n": 2,
+          "club": "Liverpool"
         },
         {
           "name": "Martin Odegaard",
@@ -890,12 +914,6 @@
           "club": "Nottingham Forest"
         },
         {
-          "name": "Florian Wirtz",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Liverpool"
-        },
-        {
           "name": "Hannibal Mejbri",
           "nat": "Tunisia",
           "n": 1,
@@ -935,7 +953,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 18,
+      "total": 19,
       "players": [
         {
           "name": "Michael Olise",
@@ -1018,6 +1036,12 @@
         {
           "name": "Xaver Schlager",
           "nat": "Austria",
+          "n": 1,
+          "club": "RB Leipzig"
+        },
+        {
+          "name": "Yan Diomande",
+          "nat": "Ivory Coast",
           "n": 1,
           "club": "RB Leipzig"
         }
@@ -1241,7 +1265,7 @@
     },
     {
       "league": "Liga MX (Mexico)",
-      "total": 4,
+      "total": 5,
       "players": [
         {
           "name": "Roberto Alvarado",
@@ -1260,6 +1284,12 @@
           "nat": "Mexico",
           "n": 1,
           "club": "Guadalajara"
+        },
+        {
+          "name": "Pedro Vite",
+          "nat": "Ecuador",
+          "n": 1,
+          "club": "Pumas UNAM"
         }
       ]
     },
@@ -1663,7 +1693,7 @@
     },
     {
       "league": "Primera División (Argentina)",
-      "total": 18,
+      "total": 19,
       "players": [
         {
           "name": "Orlando Gill",
@@ -1674,7 +1704,7 @@
         {
           "name": "Hernan Galindez",
           "nat": "Ecuador",
-          "n": 6,
+          "n": 7,
           "club": "Huracán"
         },
         {
@@ -1758,6 +1788,24 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 10,
+      "players": [
+        {
+          "name": "Yahia Fofana",
+          "nat": "Ivory Coast",
+          "n": 7,
+          "club": "Çaykur Rizespor"
+        },
+        {
+          "name": "Ugurcan Cakir",
+          "nat": "Turkey",
+          "n": 3,
+          "club": "Galatasaray"
+        }
+      ]
+    },
+    {
       "league": "A-League (Australia)",
       "total": 9,
       "players": [
@@ -1790,24 +1838,6 @@
           "nat": "South Korea",
           "n": 9,
           "club": "FC Tokyo"
-        }
-      ]
-    },
-    {
-      "league": "Süper Lig (Turkey)",
-      "total": 9,
-      "players": [
-        {
-          "name": "Yahia Fofana",
-          "nat": "Ivory Coast",
-          "n": 6,
-          "club": "Çaykur Rizespor"
-        },
-        {
-          "name": "Ugurcan Cakir",
-          "nat": "Turkey",
-          "n": 3,
-          "club": "Galatasaray"
         }
       ]
     },
