@@ -1,9 +1,9 @@
 {
-  "updated": "June 25, 2026 22:25 UTC — 56 of 104 matches played",
+  "updated": "June 26, 2026 00:02 UTC — 56 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 27,
+      "total": 32,
       "players": [
         {
           "name": "Erling Haaland",
@@ -24,10 +24,22 @@
           "club": "Liverpool"
         },
         {
+          "name": "Crysencio Summerville",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "West Ham United"
+        },
+        {
           "name": "Cyle Larin",
           "nat": "Canada",
           "n": 2,
           "club": "Southampton"
+        },
+        {
+          "name": "Daichi Kamada",
+          "nat": "Japan",
+          "n": 2,
+          "club": "Crystal Palace"
         },
         {
           "name": "Daniel Munoz",
@@ -54,28 +66,28 @@
           "club": "Liverpool"
         },
         {
+          "name": "Amad Diallo",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Manchester United"
+        },
+        {
           "name": "Anthony Elanga",
           "nat": "Sweden",
           "n": 1,
           "club": "Newcastle United"
         },
         {
-          "name": "Crysencio Summerville",
-          "nat": "Netherlands",
-          "n": 1,
-          "club": "West Ham United"
-        },
-        {
-          "name": "Daichi Kamada",
-          "nat": "Japan",
-          "n": 1,
-          "club": "Crystal Palace"
-        },
-        {
           "name": "John McGinn",
           "nat": "Scotland",
           "n": 1,
           "club": "Aston Villa"
+        },
+        {
+          "name": "Kai Havertz",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Arsenal"
         },
         {
           "name": "Ladislav Krejci",
@@ -100,6 +112,12 @@
           "nat": "Sweden",
           "n": 1,
           "club": "Arsenal"
+        },
+        {
+          "name": "Virgil Van Dijk",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "Liverpool"
         },
         {
           "name": "Yoane Wissa",
@@ -183,8 +201,14 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 11,
+      "total": 16,
       "players": [
+        {
+          "name": "Deniz Undav",
+          "nat": "Germany",
+          "n": 3,
+          "club": "VfB Stuttgart"
+        },
         {
           "name": "Johan Manzambi",
           "nat": "Switzerland",
@@ -192,16 +216,16 @@
           "club": "SC Freiburg"
         },
         {
-          "name": "Deniz Undav",
-          "nat": "Germany",
-          "n": 2,
-          "club": "VfB Stuttgart"
-        },
-        {
           "name": "Connor Metcalfe",
           "nat": "Australia",
           "n": 1,
           "club": "FC St. Pauli"
+        },
+        {
+          "name": "Felix Nmecha",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Borussia Dortmund"
         },
         {
           "name": "Giovanni Reyna",
@@ -212,6 +236,12 @@
         {
           "name": "Harry Kane",
           "nat": "England",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Jamal Musiala",
+          "nat": "Germany",
           "n": 1,
           "club": "Bayern Munich"
         },
@@ -228,6 +258,18 @@
           "club": "VfL Wolfsburg"
         },
         {
+          "name": "Nathaniel Brown",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Eintracht Frankfurt"
+        },
+        {
+          "name": "Nico Schlotterbeck",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Borussia Dortmund"
+        },
+        {
           "name": "Romano Schmid",
           "nat": "Austria",
           "n": 1,
@@ -237,7 +279,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 10,
+      "total": 11,
       "players": [
         {
           "name": "Folarin Balogun",
@@ -280,6 +322,12 @@
           "nat": "Portugal",
           "n": 1,
           "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Keito Nakamura",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Reims"
         },
         {
           "name": "Nuno Mendes",
@@ -392,6 +440,36 @@
       ]
     },
     {
+      "league": "EFL Championship (England, 2nd tier)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Brian Brobbey",
+          "nat": "Netherlands",
+          "n": 3,
+          "club": "Sunderland"
+        },
+        {
+          "name": "Nestory Irankunda",
+          "nat": "Australia",
+          "n": 1,
+          "club": "Watford"
+        },
+        {
+          "name": "Nilson Angulo",
+          "nat": "Ecuador",
+          "n": 1,
+          "club": "Sunderland"
+        },
+        {
+          "name": "Wilson Isidor",
+          "nat": "Haiti",
+          "n": 1,
+          "club": "Sunderland"
+        }
+      ]
+    },
+    {
       "league": "Saudi Pro League",
       "total": 6,
       "players": [
@@ -418,36 +496,6 @@
           "nat": "Ivory Coast",
           "n": 1,
           "club": "Al-Ahli"
-        }
-      ]
-    },
-    {
-      "league": "EFL Championship (England, 2nd tier)",
-      "total": 5,
-      "players": [
-        {
-          "name": "Brian Brobbey",
-          "nat": "Netherlands",
-          "n": 2,
-          "club": "Sunderland"
-        },
-        {
-          "name": "Nestory Irankunda",
-          "nat": "Australia",
-          "n": 1,
-          "club": "Watford"
-        },
-        {
-          "name": "Nilson Angulo",
-          "nat": "Ecuador",
-          "n": 1,
-          "club": "Sunderland"
-        },
-        {
-          "name": "Wilson Isidor",
-          "nat": "Haiti",
-          "n": 1,
-          "club": "Sunderland"
         }
       ]
     },
@@ -740,6 +788,18 @@
       ]
     },
     {
+      "league": "Super League (Switzerland)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Livano Comenencia",
+          "nat": "Curaçao",
+          "n": 1,
+          "club": "Zürich"
+        }
+      ]
+    },
+    {
       "league": "Superliga (Denmark)",
       "total": 1,
       "players": [
@@ -767,7 +827,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 28,
+      "total": 32,
       "players": [
         {
           "name": "Alexander Isak",
@@ -788,6 +848,12 @@
           "club": "Nottingham Forest"
         },
         {
+          "name": "Florian Wirtz",
+          "nat": "Germany",
+          "n": 2,
+          "club": "Liverpool"
+        },
+        {
           "name": "Martin Odegaard",
           "nat": "Norway",
           "n": 2,
@@ -796,6 +862,12 @@
         {
           "name": "Mohamed Salah",
           "nat": "Egypt",
+          "n": 2,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Ryan Gravenberch",
+          "nat": "Netherlands",
           "n": 2,
           "club": "Liverpool"
         },
@@ -848,12 +920,6 @@
           "club": "Nottingham Forest"
         },
         {
-          "name": "Florian Wirtz",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Liverpool"
-        },
-        {
           "name": "Hannibal Mejbri",
           "nat": "Tunisia",
           "n": 1,
@@ -894,17 +960,35 @@
           "nat": "Sweden",
           "n": 1,
           "club": "Arsenal"
+        },
+        {
+          "name": "Virgil Van Dijk",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "Liverpool"
         }
       ]
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 14,
+      "total": 19,
       "players": [
         {
           "name": "Michael Olise",
           "nat": "France",
           "n": 3,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Deniz Undav",
+          "nat": "Germany",
+          "n": 2,
+          "club": "VfB Stuttgart"
+        },
+        {
+          "name": "Joshua Kimmich",
+          "nat": "Germany",
+          "n": 2,
           "club": "Bayern Munich"
         },
         {
@@ -950,6 +1034,12 @@
           "club": "Mainz 05"
         },
         {
+          "name": "Nathaniel Brown",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Eintracht Frankfurt"
+        },
+        {
           "name": "Nicolas Jackson",
           "nat": "Senegal",
           "n": 1,
@@ -977,7 +1067,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 12,
+      "total": 13,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1038,6 +1128,12 @@
           "nat": "Switzerland",
           "n": 1,
           "club": "Sevilla"
+        },
+        {
+          "name": "Takefusa Kubo",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Real Sociedad"
         },
         {
           "name": "Vinicius Junior",
@@ -1150,6 +1246,42 @@
       ]
     },
     {
+      "league": "Eredivisie (Netherlands)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Ayase Ueda",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Hwang Inbeom",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Feyenoord"
+        },
+        {
+          "name": "Ivan Perisic",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "PSV Eindhoven"
+        },
+        {
+          "name": "Koki Ogawa",
+          "nat": "Japan",
+          "n": 1,
+          "club": "NEC"
+        },
+        {
+          "name": "Kou Itakura",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Ajax"
+        }
+      ]
+    },
+    {
       "league": "Liga MX (Mexico)",
       "total": 5,
       "players": [
@@ -1206,36 +1338,6 @@
           "nat": "Canada",
           "n": 1,
           "club": "Union Saint-Gilloise"
-        }
-      ]
-    },
-    {
-      "league": "Eredivisie (Netherlands)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Ayase Ueda",
-          "nat": "Japan",
-          "n": 1,
-          "club": "Feyenoord"
-        },
-        {
-          "name": "Hwang Inbeom",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Feyenoord"
-        },
-        {
-          "name": "Ivan Perisic",
-          "nat": "Croatia",
-          "n": 1,
-          "club": "PSV Eindhoven"
-        },
-        {
-          "name": "Kou Itakura",
-          "nat": "Japan",
-          "n": 1,
-          "club": "Ajax"
         }
       ]
     },
@@ -1450,6 +1552,18 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Wilfried Singo",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Galatasaray"
+        }
+      ]
+    },
+    {
       "league": "UAE Pro League",
       "total": 1,
       "players": [
@@ -1465,7 +1579,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 36,
+      "total": 39,
       "players": [
         {
           "name": "Alisson",
@@ -1474,16 +1588,16 @@
           "club": "Liverpool"
         },
         {
+          "name": "Bart Verbruggen",
+          "nat": "Netherlands",
+          "n": 9,
+          "club": "Brighton & Hove Albion"
+        },
+        {
           "name": "Angus Gunn",
           "nat": "Scotland",
           "n": 8,
           "club": "Nottingham Forest"
-        },
-        {
-          "name": "Bart Verbruggen",
-          "nat": "Netherlands",
-          "n": 8,
-          "club": "Brighton & Hove Albion"
         },
         {
           "name": "Max Crocombe",
@@ -1496,6 +1610,12 @@
           "nat": "England",
           "n": 3,
           "club": "Everton"
+        },
+        {
+          "name": "Jacob Widell Zetterstrom",
+          "nat": "Sweden",
+          "n": 2,
+          "club": "Derby County"
         },
         {
           "name": "Emiliano Martinez",
@@ -1806,6 +1926,24 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Zion Suzuki",
+          "nat": "Japan",
+          "n": 5,
+          "club": "Parma"
+        },
+        {
+          "name": "Mike Maignan",
+          "nat": "France",
+          "n": 2,
+          "club": "Milan"
+        }
+      ]
+    },
+    {
       "league": "Ghana Premier League",
       "total": 6,
       "players": [
@@ -1814,24 +1952,6 @@
           "nat": "Ghana",
           "n": 6,
           "club": "Hearts of Oak"
-        }
-      ]
-    },
-    {
-      "league": "Serie A (Italy)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Zion Suzuki",
-          "nat": "Japan",
-          "n": 4,
-          "club": "Parma"
-        },
-        {
-          "name": "Mike Maignan",
-          "nat": "France",
-          "n": 2,
-          "club": "Milan"
         }
       ]
     },
@@ -1896,6 +2016,24 @@
       ]
     },
     {
+      "league": "Ligue Professionnelle 1 (Tunisia)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Aymen Dahmen",
+          "nat": "Tunisia",
+          "n": 3,
+          "club": "CS Sfaxien"
+        },
+        {
+          "name": "Mouhib Chamakh",
+          "nat": "Tunisia",
+          "n": 1,
+          "club": "Club Africain"
+        }
+      ]
+    },
+    {
       "league": "Allsvenskan (Sweden)",
       "total": 3,
       "players": [
@@ -1904,24 +2042,6 @@
           "nat": "Sweden",
           "n": 3,
           "club": "AIK"
-        }
-      ]
-    },
-    {
-      "league": "Ligue Professionnelle 1 (Tunisia)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Aymen Dahmen",
-          "nat": "Tunisia",
-          "n": 1,
-          "club": "CS Sfaxien"
-        },
-        {
-          "name": "Mouhib Chamakh",
-          "nat": "Tunisia",
-          "n": 1,
-          "club": "Club Africain"
         }
       ]
     }
