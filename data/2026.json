@@ -1,9 +1,9 @@
 {
-  "updated": "June 26, 2026 00:02 UTC — 56 of 104 matches played, 2 live",
+  "updated": "June 26, 2026 05:01 UTC — 60 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 32,
+      "total": 34,
       "players": [
         {
           "name": "Erling Haaland",
@@ -16,6 +16,12 @@
           "nat": "Brazil",
           "n": 3,
           "club": "Manchester United"
+        },
+        {
+          "name": "Anthony Elanga",
+          "nat": "Sweden",
+          "n": 2,
+          "club": "Newcastle United"
         },
         {
           "name": "Cody Gakpo",
@@ -72,10 +78,10 @@
           "club": "Manchester United"
         },
         {
-          "name": "Anthony Elanga",
-          "nat": "Sweden",
+          "name": "Jan Paul Van Hecke",
+          "nat": "Netherlands",
           "n": 1,
-          "club": "Newcastle United"
+          "club": "Brighton & Hove Albion"
         },
         {
           "name": "John McGinn",
@@ -129,7 +135,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 20,
+      "total": 21,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -178,6 +184,12 @@
           "nat": "Croatia",
           "n": 1,
           "club": "Osasuna"
+        },
+        {
+          "name": "Arda Guler",
+          "nat": "Turkey",
+          "n": 1,
+          "club": "Real Madrid"
         },
         {
           "name": "Jude Bellingham",
@@ -345,7 +357,7 @@
     },
     {
       "league": "MLS (USA/Canada)",
-      "total": 8,
+      "total": 9,
       "players": [
         {
           "name": "Lionel Messi",
@@ -370,6 +382,12 @@
           "nat": "Croatia",
           "n": 1,
           "club": "FC Dallas"
+        },
+        {
+          "name": "Sebastian Berhalter",
+          "nat": "USA",
+          "n": 1,
+          "club": "Vancouver Whitecaps FC"
         }
       ]
     },
@@ -500,6 +518,66 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Abbosbek Fayzullaev",
+          "nat": "Uzbekistan",
+          "n": 1,
+          "club": "İstanbul Başakşehir"
+        },
+        {
+          "name": "Baris Alper Yilmaz",
+          "nat": "Turkey",
+          "n": 1,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Kaan Ayhan",
+          "nat": "Turkey",
+          "n": 1,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Leroy Sane",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Oh Hyeongyu",
+          "nat": "South Korea",
+          "n": 1,
+          "club": "Beşiktaş"
+        }
+      ]
+    },
+    {
+      "league": "Scottish Premiership",
+      "total": 4,
+      "players": [
+        {
+          "name": "Elijah Just",
+          "nat": "New Zealand",
+          "n": 2,
+          "club": "Motherwell"
+        },
+        {
+          "name": "Auston Trusty",
+          "nat": "USA",
+          "n": 1,
+          "club": "Celtic"
+        },
+        {
+          "name": "Daizen Maeda",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Celtic"
+        }
+      ]
+    },
+    {
       "league": "Czech First League",
       "total": 3,
       "players": [
@@ -538,6 +616,30 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Al Ahly"
+        }
+      ]
+    },
+    {
+      "league": "Premier Liga (Russia)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Hazem Mastouri",
+          "nat": "Tunisia",
+          "n": 1,
+          "club": "Dynamo Makhachkala"
+        },
+        {
+          "name": "Kevin Pina",
+          "nat": "Cape Verde",
+          "n": 1,
+          "club": "Krasnodar"
+        },
+        {
+          "name": "Mohammad Mohebbi",
+          "nat": "Iran",
+          "n": 1,
+          "club": "Rostov"
         }
       ]
     },
@@ -614,48 +716,6 @@
       ]
     },
     {
-      "league": "Süper Lig (Turkey)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Abbosbek Fayzullaev",
-          "nat": "Uzbekistan",
-          "n": 1,
-          "club": "İstanbul Başakşehir"
-        },
-        {
-          "name": "Leroy Sane",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Galatasaray"
-        },
-        {
-          "name": "Oh Hyeongyu",
-          "nat": "South Korea",
-          "n": 1,
-          "club": "Beşiktaş"
-        }
-      ]
-    },
-    {
-      "league": "Premier Liga (Russia)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Kevin Pina",
-          "nat": "Cape Verde",
-          "n": 1,
-          "club": "Krasnodar"
-        },
-        {
-          "name": "Mohammad Mohebbi",
-          "nat": "Iran",
-          "n": 1,
-          "club": "Rostov"
-        }
-      ]
-    },
-    {
       "league": "Primeira Liga (Portugal)",
       "total": 2,
       "players": [
@@ -664,18 +724,6 @@
           "nat": "Uruguay",
           "n": 2,
           "club": "Sporting CP"
-        }
-      ]
-    },
-    {
-      "league": "Scottish Premiership",
-      "total": 2,
-      "players": [
-        {
-          "name": "Elijah Just",
-          "nat": "New Zealand",
-          "n": 2,
-          "club": "Motherwell"
         }
       ]
     },
@@ -827,7 +875,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 32,
+      "total": 35,
       "players": [
         {
           "name": "Alexander Isak",
@@ -854,6 +902,12 @@
           "club": "Liverpool"
         },
         {
+          "name": "Hannibal Mejbri",
+          "nat": "Tunisia",
+          "n": 2,
+          "club": "Burnley"
+        },
+        {
           "name": "Martin Odegaard",
           "nat": "Norway",
           "n": 2,
@@ -870,6 +924,12 @@
           "nat": "Netherlands",
           "n": 2,
           "club": "Liverpool"
+        },
+        {
+          "name": "Viktor Gyokeres",
+          "nat": "Sweden",
+          "n": 2,
+          "club": "Arsenal"
         },
         {
           "name": "Bruno Fernandes",
@@ -920,12 +980,6 @@
           "club": "Nottingham Forest"
         },
         {
-          "name": "Hannibal Mejbri",
-          "nat": "Tunisia",
-          "n": 1,
-          "club": "Burnley"
-        },
-        {
           "name": "Ibrahim Sangare",
           "nat": "Ivory Coast",
           "n": 1,
@@ -956,10 +1010,10 @@
           "club": "Bournemouth"
         },
         {
-          "name": "Viktor Gyokeres",
-          "nat": "Sweden",
+          "name": "Tijjani Reijnders",
+          "nat": "Netherlands",
           "n": 1,
-          "club": "Arsenal"
+          "club": "Manchester City"
         },
         {
           "name": "Virgil Van Dijk",
@@ -971,7 +1025,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 19,
+      "total": 20,
       "players": [
         {
           "name": "Michael Olise",
@@ -1044,6 +1098,12 @@
           "nat": "Senegal",
           "n": 1,
           "club": "Bayern Munich"
+        },
+        {
+          "name": "Ritsu Doan",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Eintracht Frankfurt"
         },
         {
           "name": "Vladimir Coufal",
@@ -1342,6 +1402,30 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Baris Alper Yilmaz",
+          "nat": "Turkey",
+          "n": 1,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Orkun Kokcu",
+          "nat": "Turkey",
+          "n": 1,
+          "club": "Beşiktaş"
+        },
+        {
+          "name": "Wilfried Singo",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Galatasaray"
+        }
+      ]
+    },
+    {
       "league": "Egyptian Premier League",
       "total": 2,
       "players": [
@@ -1356,6 +1440,24 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Pyramids"
+        }
+      ]
+    },
+    {
+      "league": "MLS (USA/Canada)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Rodrigo De Paul",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Inter Miami CF"
+        },
+        {
+          "name": "Sebastian Berhalter",
+          "nat": "USA",
+          "n": 1,
+          "club": "Vancouver Whitecaps FC"
         }
       ]
     },
@@ -1456,18 +1558,6 @@
       ]
     },
     {
-      "league": "MLS (USA/Canada)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Rodrigo De Paul",
-          "nat": "Argentina",
-          "n": 1,
-          "club": "Inter Miami CF"
-        }
-      ]
-    },
-    {
       "league": "New Zealand National League",
       "total": 1,
       "players": [
@@ -1552,18 +1642,6 @@
       ]
     },
     {
-      "league": "Süper Lig (Turkey)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Wilfried Singo",
-          "nat": "Ivory Coast",
-          "n": 1,
-          "club": "Galatasaray"
-        }
-      ]
-    },
-    {
       "league": "UAE Pro League",
       "total": 1,
       "players": [
@@ -1579,19 +1657,19 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 39,
+      "total": 41,
       "players": [
+        {
+          "name": "Bart Verbruggen",
+          "nat": "Netherlands",
+          "n": 11,
+          "club": "Brighton & Hove Albion"
+        },
         {
           "name": "Alisson",
           "nat": "Brazil",
           "n": 10,
           "club": "Liverpool"
-        },
-        {
-          "name": "Bart Verbruggen",
-          "nat": "Netherlands",
-          "n": 9,
-          "club": "Brighton & Hove Albion"
         },
         {
           "name": "Angus Gunn",
@@ -1680,6 +1758,30 @@
       ]
     },
     {
+      "league": "Primera División (Argentina)",
+      "total": 25,
+      "players": [
+        {
+          "name": "Orlando Gill",
+          "nat": "Paraguay",
+          "n": 13,
+          "club": "San Lorenzo"
+        },
+        {
+          "name": "Hernan Galindez",
+          "nat": "Ecuador",
+          "n": 8,
+          "club": "Huracán"
+        },
+        {
+          "name": "Fernando Muslera",
+          "nat": "Uruguay",
+          "n": 4,
+          "club": "Estudiantes"
+        }
+      ]
+    },
+    {
       "league": "Bundesliga (Germany)",
       "total": 20,
       "players": [
@@ -1704,30 +1806,6 @@
       ]
     },
     {
-      "league": "Primera División (Argentina)",
-      "total": 20,
-      "players": [
-        {
-          "name": "Hernan Galindez",
-          "nat": "Ecuador",
-          "n": 8,
-          "club": "Huracán"
-        },
-        {
-          "name": "Orlando Gill",
-          "nat": "Paraguay",
-          "n": 8,
-          "club": "San Lorenzo"
-        },
-        {
-          "name": "Fernando Muslera",
-          "nat": "Uruguay",
-          "n": 4,
-          "club": "Estudiantes"
-        }
-      ]
-    },
-    {
       "league": "Ligue 1 (France)",
       "total": 19,
       "players": [
@@ -1742,6 +1820,24 @@
           "nat": "DR Congo",
           "n": 8,
           "club": "Le Havre"
+        }
+      ]
+    },
+    {
+      "league": "Süper Lig (Turkey)",
+      "total": 16,
+      "players": [
+        {
+          "name": "Ugurcan Cakir",
+          "nat": "Turkey",
+          "n": 8,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Yahia Fofana",
+          "nat": "Ivory Coast",
+          "n": 8,
+          "club": "Çaykur Rizespor"
         }
       ]
     },
@@ -1800,20 +1896,14 @@
       ]
     },
     {
-      "league": "Süper Lig (Turkey)",
+      "league": "A-League (Australia)",
       "total": 11,
       "players": [
         {
-          "name": "Yahia Fofana",
-          "nat": "Ivory Coast",
-          "n": 8,
-          "club": "Çaykur Rizespor"
-        },
-        {
-          "name": "Ugurcan Cakir",
-          "nat": "Turkey",
-          "n": 3,
-          "club": "Galatasaray"
+          "name": "Patrick Beach",
+          "nat": "Australia",
+          "n": 11,
+          "club": "Melbourne City"
         }
       ]
     },
@@ -1836,14 +1926,20 @@
       ]
     },
     {
-      "league": "A-League (Australia)",
-      "total": 9,
+      "league": "Serie A (Italy)",
+      "total": 10,
       "players": [
         {
-          "name": "Patrick Beach",
-          "nat": "Australia",
-          "n": 9,
-          "club": "Melbourne City"
+          "name": "Zion Suzuki",
+          "nat": "Japan",
+          "n": 8,
+          "club": "Parma"
+        },
+        {
+          "name": "Mike Maignan",
+          "nat": "France",
+          "n": 2,
+          "club": "Milan"
         }
       ]
     },
@@ -1926,24 +2022,6 @@
       ]
     },
     {
-      "league": "Serie A (Italy)",
-      "total": 7,
-      "players": [
-        {
-          "name": "Zion Suzuki",
-          "nat": "Japan",
-          "n": 5,
-          "club": "Parma"
-        },
-        {
-          "name": "Mike Maignan",
-          "nat": "France",
-          "n": 2,
-          "club": "Milan"
-        }
-      ]
-    },
-    {
       "league": "Ghana Premier League",
       "total": 6,
       "players": [
@@ -1952,6 +2030,24 @@
           "nat": "Ghana",
           "n": 6,
           "club": "Hearts of Oak"
+        }
+      ]
+    },
+    {
+      "league": "Ligue Professionnelle 1 (Tunisia)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Aymen Dahmen",
+          "nat": "Tunisia",
+          "n": 5,
+          "club": "CS Sfaxien"
+        },
+        {
+          "name": "Mouhib Chamakh",
+          "nat": "Tunisia",
+          "n": 1,
+          "club": "Club Africain"
         }
       ]
     },
@@ -2016,24 +2112,6 @@
       ]
     },
     {
-      "league": "Ligue Professionnelle 1 (Tunisia)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Aymen Dahmen",
-          "nat": "Tunisia",
-          "n": 3,
-          "club": "CS Sfaxien"
-        },
-        {
-          "name": "Mouhib Chamakh",
-          "nat": "Tunisia",
-          "n": 1,
-          "club": "Club Africain"
-        }
-      ]
-    },
-    {
       "league": "Allsvenskan (Sweden)",
       "total": 3,
       "players": [
@@ -2047,7 +2125,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (56/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (60/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
