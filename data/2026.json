@@ -1,15 +1,21 @@
 {
-  "updated": "June 26, 2026 05:01 UTC — 60 of 104 matches played",
+  "updated": "June 26, 2026 20:25 UTC — 60 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 34,
+      "total": 35,
       "players": [
         {
           "name": "Erling Haaland",
           "nat": "Norway",
           "n": 4,
           "club": "Manchester City"
+        },
+        {
+          "name": "Ismaila Sarr",
+          "nat": "Senegal",
+          "n": 3,
+          "club": "Crystal Palace"
         },
         {
           "name": "Matheus Cunha",
@@ -50,12 +56,6 @@
         {
           "name": "Daniel Munoz",
           "nat": "Colombia",
-          "n": 2,
-          "club": "Crystal Palace"
-        },
-        {
-          "name": "Ismaila Sarr",
-          "nat": "Senegal",
           "n": 2,
           "club": "Crystal Palace"
         },
@@ -291,8 +291,14 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 11,
+      "total": 14,
       "players": [
+        {
+          "name": "Ousmane Dembele",
+          "nat": "France",
+          "n": 4,
+          "club": "Paris Saint-Germain"
+        },
         {
           "name": "Folarin Balogun",
           "nat": "USA",
@@ -346,12 +352,6 @@
           "nat": "Portugal",
           "n": 1,
           "club": "Paris Saint-Germain"
-        },
-        {
-          "name": "Ousmane Dembele",
-          "nat": "France",
-          "n": 1,
-          "club": "Paris Saint-Germain"
         }
       ]
     },
@@ -388,6 +388,42 @@
           "nat": "USA",
           "n": 1,
           "club": "Vancouver Whitecaps FC"
+        }
+      ]
+    },
+    {
+      "league": "EFL Championship (England, 2nd tier)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Brian Brobbey",
+          "nat": "Netherlands",
+          "n": 3,
+          "club": "Sunderland"
+        },
+        {
+          "name": "Habib Diarra",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Sunderland"
+        },
+        {
+          "name": "Nestory Irankunda",
+          "nat": "Australia",
+          "n": 1,
+          "club": "Watford"
+        },
+        {
+          "name": "Nilson Angulo",
+          "nat": "Ecuador",
+          "n": 1,
+          "club": "Sunderland"
+        },
+        {
+          "name": "Wilson Isidor",
+          "nat": "Haiti",
+          "n": 1,
+          "club": "Sunderland"
         }
       ]
     },
@@ -458,36 +494,6 @@
       ]
     },
     {
-      "league": "EFL Championship (England, 2nd tier)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Brian Brobbey",
-          "nat": "Netherlands",
-          "n": 3,
-          "club": "Sunderland"
-        },
-        {
-          "name": "Nestory Irankunda",
-          "nat": "Australia",
-          "n": 1,
-          "club": "Watford"
-        },
-        {
-          "name": "Nilson Angulo",
-          "nat": "Ecuador",
-          "n": 1,
-          "club": "Sunderland"
-        },
-        {
-          "name": "Wilson Isidor",
-          "nat": "Haiti",
-          "n": 1,
-          "club": "Sunderland"
-        }
-      ]
-    },
-    {
       "league": "Saudi Pro League",
       "total": 6,
       "players": [
@@ -514,6 +520,36 @@
           "nat": "Ivory Coast",
           "n": 1,
           "club": "Al-Ahli"
+        }
+      ]
+    },
+    {
+      "league": "Scottish Premiership",
+      "total": 5,
+      "players": [
+        {
+          "name": "Elijah Just",
+          "nat": "New Zealand",
+          "n": 2,
+          "club": "Motherwell"
+        },
+        {
+          "name": "Auston Trusty",
+          "nat": "USA",
+          "n": 1,
+          "club": "Celtic"
+        },
+        {
+          "name": "Daizen Maeda",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Celtic"
+        },
+        {
+          "name": "Thelo Aasgaard",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Rangers"
         }
       ]
     },
@@ -550,30 +586,6 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Beşiktaş"
-        }
-      ]
-    },
-    {
-      "league": "Scottish Premiership",
-      "total": 4,
-      "players": [
-        {
-          "name": "Elijah Just",
-          "nat": "New Zealand",
-          "n": 2,
-          "club": "Motherwell"
-        },
-        {
-          "name": "Auston Trusty",
-          "nat": "USA",
-          "n": 1,
-          "club": "Celtic"
-        },
-        {
-          "name": "Daizen Maeda",
-          "nat": "Japan",
-          "n": 1,
-          "club": "Celtic"
         }
       ]
     },
@@ -1127,7 +1139,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 13,
+      "total": 16,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1136,10 +1148,22 @@
           "club": "Real Madrid"
         },
         {
+          "name": "Kylian Mbappe",
+          "nat": "France",
+          "n": 2,
+          "club": "Real Madrid"
+        },
+        {
           "name": "Alex Freeman",
           "nat": "USA",
           "n": 1,
           "club": "Villarreal"
+        },
+        {
+          "name": "Aurelien Tchouameni",
+          "nat": "France",
+          "n": 1,
+          "club": "Real Madrid"
         },
         {
           "name": "Aymeric Laporte",
@@ -1205,7 +1229,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 11,
+      "total": 12,
       "players": [
         {
           "name": "Breel Embolo",
@@ -1242,6 +1266,12 @@
           "nat": "Japan",
           "n": 1,
           "club": "Reims"
+        },
+        {
+          "name": "Lamine Camara",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Monaco"
         },
         {
           "name": "Lee Kangin",
@@ -1462,6 +1492,24 @@
       ]
     },
     {
+      "league": "Primeira Liga (Portugal)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Andreas Schjelderup",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Benfica"
+        },
+        {
+          "name": "Maxi Araujo",
+          "nat": "Uruguay",
+          "n": 1,
+          "club": "Sporting CP"
+        }
+      ]
+    },
+    {
       "league": "Saudi Pro League",
       "total": 2,
       "players": [
@@ -1546,6 +1594,18 @@
       ]
     },
     {
+      "league": "Israeli Premier League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Abdoulaye Seck",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Maccabi Haifa"
+        }
+      ]
+    },
+    {
       "league": "Kazakhstan Premier League",
       "total": 1,
       "players": [
@@ -1578,18 +1638,6 @@
           "nat": "Iran",
           "n": 1,
           "club": "Foolad"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Maxi Araujo",
-          "nat": "Uruguay",
-          "n": 1,
-          "club": "Sporting CP"
         }
       ]
     },
@@ -1807,7 +1855,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 19,
+      "total": 20,
       "players": [
         {
           "name": "Johny Placide",
@@ -1819,6 +1867,12 @@
           "name": "Lionel Mpasi",
           "nat": "DR Congo",
           "n": 8,
+          "club": "Le Havre"
+        },
+        {
+          "name": "Mory Diaw",
+          "nat": "Senegal",
+          "n": 1,
           "club": "Le Havre"
         }
       ]
@@ -1896,6 +1950,24 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 12,
+      "players": [
+        {
+          "name": "Zion Suzuki",
+          "nat": "Japan",
+          "n": 8,
+          "club": "Parma"
+        },
+        {
+          "name": "Mike Maignan",
+          "nat": "France",
+          "n": 4,
+          "club": "Milan"
+        }
+      ]
+    },
+    {
       "league": "A-League (Australia)",
       "total": 11,
       "players": [
@@ -1922,24 +1994,6 @@
           "nat": "Portugal",
           "n": 3,
           "club": "Porto"
-        }
-      ]
-    },
-    {
-      "league": "Serie A (Italy)",
-      "total": 10,
-      "players": [
-        {
-          "name": "Zion Suzuki",
-          "nat": "Japan",
-          "n": 8,
-          "club": "Parma"
-        },
-        {
-          "name": "Mike Maignan",
-          "nat": "France",
-          "n": 2,
-          "club": "Milan"
         }
       ]
     },
@@ -2076,6 +2130,36 @@
       ]
     },
     {
+      "league": "EFL Championship (England, 2nd tier)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Egil Selvik",
+          "nat": "Norway",
+          "n": 5,
+          "club": "Watford"
+        }
+      ]
+    },
+    {
+      "league": "Iraq Stars League",
+      "total": 5,
+      "players": [
+        {
+          "name": "Ahmed Basil",
+          "nat": "Iraq",
+          "n": 3,
+          "club": "Al-Shorta"
+        },
+        {
+          "name": "Jalal Hassan",
+          "nat": "Iraq",
+          "n": 2,
+          "club": "Al-Zawraa"
+        }
+      ]
+    },
+    {
       "league": "Uzbekistan Super League",
       "total": 5,
       "players": [
@@ -2090,24 +2174,6 @@
           "nat": "Uzbekistan",
           "n": 1,
           "club": "Navbahor Namangan"
-        }
-      ]
-    },
-    {
-      "league": "Iraq Stars League",
-      "total": 4,
-      "players": [
-        {
-          "name": "Ahmed Basil",
-          "nat": "Iraq",
-          "n": 2,
-          "club": "Al-Shorta"
-        },
-        {
-          "name": "Jalal Hassan",
-          "nat": "Iraq",
-          "n": 2,
-          "club": "Al-Zawraa"
         }
       ]
     },
