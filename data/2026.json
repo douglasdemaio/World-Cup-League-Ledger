@@ -1,5 +1,5 @@
 {
-  "updated": "June 27, 2026 22:51 UTC — 66 of 104 matches played, 2 live",
+  "updated": "June 27, 2026 23:51 UTC — 68 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -615,7 +615,7 @@
     },
     {
       "league": "Süper Lig (Turkey)",
-      "total": 5,
+      "total": 6,
       "players": [
         {
           "name": "Abbosbek Fayzullaev",
@@ -628,6 +628,12 @@
           "nat": "Turkey",
           "n": 1,
           "club": "Galatasaray"
+        },
+        {
+          "name": "Eldor Shomurodov",
+          "nat": "Uzbekistan",
+          "n": 1,
+          "club": "İstanbul Başakşehir"
         },
         {
           "name": "Kaan Ayhan",
@@ -1850,6 +1856,18 @@
           "club": "Al Ain"
         }
       ]
+    },
+    {
+      "league": "Uzbekistan Super League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Akmal Mozgovoy",
+          "nat": "Uzbekistan",
+          "n": 1,
+          "club": "Pakhtakor"
+        }
+      ]
     }
   ],
   "saves": [
@@ -2089,7 +2107,7 @@
     },
     {
       "league": "Primeira Liga (Portugal)",
-      "total": 13,
+      "total": 14,
       "players": [
         {
           "name": "Vozinha",
@@ -2100,7 +2118,7 @@
         {
           "name": "Diogo Costa",
           "nat": "Portugal",
-          "n": 3,
+          "n": 4,
           "club": "Porto"
         }
       ]
@@ -2341,7 +2359,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (66/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (68/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
