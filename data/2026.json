@@ -1,5 +1,5 @@
 {
-  "updated": "June 26, 2026 22:00 UTC — 62 of 104 matches played",
+  "updated": "June 27, 2026 01:59 UTC — 62 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -141,7 +141,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 23,
+      "total": 24,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -178,6 +178,12 @@
           "nat": "Switzerland",
           "n": 2,
           "club": "Sevilla"
+        },
+        {
+          "name": "Alex Baena",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Atlético Madrid"
         },
         {
           "name": "Alex Freeman",
@@ -1163,7 +1169,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 17,
+      "total": 18,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1218,6 +1224,12 @@
           "nat": "Portugal",
           "n": 1,
           "club": "Barcelona"
+        },
+        {
+          "name": "Marcos Llorente",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Atlético Madrid"
         },
         {
           "name": "Mikel Oyarzabal",
@@ -1789,12 +1801,12 @@
     },
     {
       "league": "Saudi Pro League",
-      "total": 30,
+      "total": 32,
       "players": [
         {
           "name": "Mohammed Alowais",
           "nat": "Saudi Arabia",
-          "n": 14,
+          "n": 16,
           "club": "Al-Ula"
         },
         {
@@ -1914,6 +1926,36 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 17,
+      "players": [
+        {
+          "name": "Luca Zidane",
+          "nat": "Algeria",
+          "n": 6,
+          "club": "Granada"
+        },
+        {
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 5,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 4,
+          "club": "Athletic Bilbao"
+        },
+        {
+          "name": "Orjan Nyland",
+          "nat": "Norway",
+          "n": 2,
+          "club": "Sevilla"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 16,
       "players": [
@@ -1932,36 +1974,6 @@
       ]
     },
     {
-      "league": "La Liga (Spain)",
-      "total": 15,
-      "players": [
-        {
-          "name": "Luca Zidane",
-          "nat": "Algeria",
-          "n": 6,
-          "club": "Granada"
-        },
-        {
-          "name": "Thibaut Courtois",
-          "nat": "Belgium",
-          "n": 5,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Orjan Nyland",
-          "nat": "Norway",
-          "n": 2,
-          "club": "Sevilla"
-        },
-        {
-          "name": "Unai Simon",
-          "nat": "Spain",
-          "n": 2,
-          "club": "Athletic Bilbao"
-        }
-      ]
-    },
-    {
       "league": "Persian Gulf Pro League (Iran)",
       "total": 13,
       "players": [
@@ -1970,6 +1982,24 @@
           "nat": "Iran",
           "n": 13,
           "club": "Tractor"
+        }
+      ]
+    },
+    {
+      "league": "Primeira Liga (Portugal)",
+      "total": 13,
+      "players": [
+        {
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 10,
+          "club": "Chaves"
+        },
+        {
+          "name": "Diogo Costa",
+          "nat": "Portugal",
+          "n": 3,
+          "club": "Porto"
         }
       ]
     },
@@ -2030,24 +2060,6 @@
           "nat": "Iraq",
           "n": 2,
           "club": "Al-Shorta"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 10,
-      "players": [
-        {
-          "name": "Vozinha",
-          "nat": "Cape Verde",
-          "n": 7,
-          "club": "Chaves"
-        },
-        {
-          "name": "Diogo Costa",
-          "nat": "Portugal",
-          "n": 3,
-          "club": "Porto"
         }
       ]
     },
