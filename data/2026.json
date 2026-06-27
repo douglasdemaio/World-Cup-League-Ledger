@@ -1,5 +1,5 @@
 {
-  "updated": "June 27, 2026 21:52 UTC — 66 of 104 matches played, 2 live",
+  "updated": "June 27, 2026 22:51 UTC — 66 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -147,7 +147,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 24,
+      "total": 25,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -159,6 +159,12 @@
           "name": "Vinicius Junior",
           "nat": "Brazil",
           "n": 4,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Jude Bellingham",
+          "nat": "England",
+          "n": 2,
           "club": "Real Madrid"
         },
         {
@@ -216,12 +222,6 @@
           "club": "Real Madrid"
         },
         {
-          "name": "Jude Bellingham",
-          "nat": "England",
-          "n": 1,
-          "club": "Real Madrid"
-        },
-        {
           "name": "Lamine Yamal",
           "nat": "Spain",
           "n": 1,
@@ -237,7 +237,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 16,
+      "total": 17,
       "players": [
         {
           "name": "Deniz Undav",
@@ -250,6 +250,12 @@
           "nat": "Switzerland",
           "n": 3,
           "club": "SC Freiburg"
+        },
+        {
+          "name": "Harry Kane",
+          "nat": "England",
+          "n": 2,
+          "club": "Bayern Munich"
         },
         {
           "name": "Connor Metcalfe",
@@ -268,12 +274,6 @@
           "nat": "USA",
           "n": 1,
           "club": "Borussia Mönchengladbach"
-        },
-        {
-          "name": "Harry Kane",
-          "nat": "England",
-          "n": 1,
-          "club": "Bayern Munich"
         },
         {
           "name": "Jamal Musiala",
@@ -387,7 +387,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 11,
+      "total": 12,
       "players": [
         {
           "name": "Jonathan David",
@@ -424,6 +424,12 @@
           "nat": "Croatia",
           "n": 1,
           "club": "Como"
+        },
+        {
+          "name": "Nikola Vlasic",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Torino"
         },
         {
           "name": "Petar Sucic",
@@ -788,6 +794,24 @@
       ]
     },
     {
+      "league": "Cypriot First Division",
+      "total": 2,
+      "players": [
+        {
+          "name": "Derrick Luckassen",
+          "nat": "Ghana",
+          "n": 1,
+          "club": "Pafos"
+        },
+        {
+          "name": "Thapelo Maseko",
+          "nat": "South Africa",
+          "n": 1,
+          "club": "AEL Limassol"
+        }
+      ]
+    },
+    {
       "league": "Persian Gulf Pro League (Iran)",
       "total": 2,
       "players": [
@@ -820,18 +844,6 @@
           "nat": "Bosnia & Herzegovina",
           "n": 1,
           "club": "Red Bull Salzburg"
-        }
-      ]
-    },
-    {
-      "league": "Cypriot First Division",
-      "total": 1,
-      "players": [
-        {
-          "name": "Thapelo Maseko",
-          "nat": "South Africa",
-          "n": 1,
-          "club": "AEL Limassol"
         }
       ]
     },
@@ -947,7 +959,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 38,
+      "total": 39,
       "players": [
         {
           "name": "Alexander Isak",
@@ -960,6 +972,12 @@
           "nat": "Brazil",
           "n": 3,
           "club": "Newcastle United"
+        },
+        {
+          "name": "Bukayo Saka",
+          "nat": "England",
+          "n": 2,
+          "club": "Arsenal"
         },
         {
           "name": "Chris Wood",
@@ -1014,12 +1032,6 @@
           "nat": "Portugal",
           "n": 1,
           "club": "Manchester United"
-        },
-        {
-          "name": "Bukayo Saka",
-          "nat": "England",
-          "n": 1,
-          "club": "Arsenal"
         },
         {
           "name": "Chadi Riad",
@@ -1211,7 +1223,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 18,
+      "total": 19,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1268,6 +1280,12 @@
           "club": "Barcelona"
         },
         {
+          "name": "Jude Bellingham",
+          "nat": "England",
+          "n": 1,
+          "club": "Real Madrid"
+        },
+        {
           "name": "Marcos Llorente",
           "nat": "Spain",
           "n": 1,
@@ -1313,7 +1331,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 13,
+      "total": 14,
       "players": [
         {
           "name": "Breel Embolo",
@@ -1344,6 +1362,12 @@
           "nat": "France",
           "n": 1,
           "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Ernest Nuamah",
+          "nat": "Ghana",
+          "n": 1,
+          "club": "Lyon"
         },
         {
           "name": "Facundo Medina",
@@ -1385,7 +1409,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 8,
+      "total": 9,
       "players": [
         {
           "name": "Denzel Dumfries",
@@ -1410,6 +1434,12 @@
           "nat": "Bosnia & Herzegovina",
           "n": 1,
           "club": "Sampdoria"
+        },
+        {
+          "name": "Luka Modric",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Milan"
         },
         {
           "name": "Petar Sucic",
@@ -1873,7 +1903,7 @@
     },
     {
       "league": "Saudi Pro League",
-      "total": 34,
+      "total": 36,
       "players": [
         {
           "name": "Mohammed Alowais",
@@ -1890,7 +1920,7 @@
         {
           "name": "Orlando Mosquera",
           "nat": "Panama",
-          "n": 5,
+          "n": 7,
           "club": "Al-Fayha"
         },
         {
@@ -2172,6 +2202,18 @@
       ]
     },
     {
+      "league": "Ghana Premier League",
+      "total": 8,
+      "players": [
+        {
+          "name": "Benjamin Asare",
+          "nat": "Ghana",
+          "n": 8,
+          "club": "Hearts of Oak"
+        }
+      ]
+    },
+    {
       "league": "HNL (Croatia)",
       "total": 8,
       "players": [
@@ -2180,18 +2222,6 @@
           "nat": "Croatia",
           "n": 8,
           "club": "Dinamo Zagreb"
-        }
-      ]
-    },
-    {
-      "league": "Ghana Premier League",
-      "total": 7,
-      "players": [
-        {
-          "name": "Benjamin Asare",
-          "nat": "Ghana",
-          "n": 7,
-          "club": "Hearts of Oak"
         }
       ]
     },
