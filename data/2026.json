@@ -1,9 +1,9 @@
 {
-  "updated": "June 27, 2026 01:59 UTC — 62 of 104 matches played, 2 live",
+  "updated": "June 27, 2026 05:53 UTC — 66 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 36,
+      "total": 38,
       "players": [
         {
           "name": "Erling Haaland",
@@ -58,6 +58,12 @@
           "nat": "Colombia",
           "n": 2,
           "club": "Crystal Palace"
+        },
+        {
+          "name": "Leandro Trossard",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Arsenal"
         },
         {
           "name": "Yasin Ayari",
@@ -380,6 +386,60 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 10,
+      "players": [
+        {
+          "name": "Jonathan David",
+          "nat": "Canada",
+          "n": 3,
+          "club": "Juventus"
+        },
+        {
+          "name": "Alexis Saelemaekers",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Milan"
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Napoli"
+        },
+        {
+          "name": "Leo Ostigard",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Genoa"
+        },
+        {
+          "name": "Marcus Holmgren Pedersen",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Torino"
+        },
+        {
+          "name": "Martin Baturina",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Como"
+        },
+        {
+          "name": "Rafael Leao",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Milan"
+        },
+        {
+          "name": "Romelu Lukaku",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Napoli"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 9,
       "players": [
@@ -482,42 +542,6 @@
       ]
     },
     {
-      "league": "Serie A (Italy)",
-      "total": 7,
-      "players": [
-        {
-          "name": "Jonathan David",
-          "nat": "Canada",
-          "n": 3,
-          "club": "Juventus"
-        },
-        {
-          "name": "Leo Ostigard",
-          "nat": "Norway",
-          "n": 1,
-          "club": "Genoa"
-        },
-        {
-          "name": "Marcus Holmgren Pedersen",
-          "nat": "Norway",
-          "n": 1,
-          "club": "Torino"
-        },
-        {
-          "name": "Martin Baturina",
-          "nat": "Croatia",
-          "n": 1,
-          "club": "Como"
-        },
-        {
-          "name": "Rafael Leao",
-          "nat": "Portugal",
-          "n": 1,
-          "club": "Milan"
-        }
-      ]
-    },
-    {
       "league": "Saudi Pro League",
       "total": 6,
       "players": [
@@ -549,12 +573,12 @@
     },
     {
       "league": "Scottish Premiership",
-      "total": 5,
+      "total": 6,
       "players": [
         {
           "name": "Elijah Just",
           "nat": "New Zealand",
-          "n": 2,
+          "n": 3,
           "club": "Motherwell"
         },
         {
@@ -614,6 +638,36 @@
       ]
     },
     {
+      "league": "Egyptian Premier League",
+      "total": 4,
+      "players": [
+        {
+          "name": "Emam Ashour",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Al Ahly"
+        },
+        {
+          "name": "Mahmoud Saber",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "ZED"
+        },
+        {
+          "name": "Mostafa Zico",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Pyramids"
+        },
+        {
+          "name": "Trezeguet",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Al Ahly"
+        }
+      ]
+    },
+    {
       "league": "Czech First League",
       "total": 3,
       "players": [
@@ -628,30 +682,6 @@
           "nat": "Czechia",
           "n": 1,
           "club": "Slavia Prague"
-        }
-      ]
-    },
-    {
-      "league": "Egyptian Premier League",
-      "total": 3,
-      "players": [
-        {
-          "name": "Emam Ashour",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Al Ahly"
-        },
-        {
-          "name": "Mostafa Zico",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Pyramids"
-        },
-        {
-          "name": "Trezeguet",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Al Ahly"
         }
       ]
     },
@@ -752,6 +782,18 @@
       ]
     },
     {
+      "league": "Persian Gulf Pro League (Iran)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Ramin Rezaeian",
+          "nat": "Iran",
+          "n": 2,
+          "club": "Foolad"
+        }
+      ]
+    },
+    {
       "league": "Primeira Liga (Portugal)",
       "total": 2,
       "players": [
@@ -844,18 +886,6 @@
           "nat": "Algeria",
           "n": 1,
           "club": "Győri ETO"
-        }
-      ]
-    },
-    {
-      "league": "Persian Gulf Pro League (Iran)",
-      "total": 1,
-      "players": [
-        {
-          "name": "Ramin Rezaeian",
-          "nat": "Iran",
-          "n": 1,
-          "club": "Foolad"
         }
       ]
     },
@@ -1343,7 +1373,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 7,
+      "total": 8,
       "players": [
         {
           "name": "Denzel Dumfries",
@@ -1376,10 +1406,52 @@
           "club": "Inter Milan"
         },
         {
+          "name": "Romelu Lukaku",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Napoli"
+        },
+        {
           "name": "Sead Kolasinac",
           "nat": "Bosnia & Herzegovina",
           "n": 1,
           "club": "Atalanta"
+        }
+      ]
+    },
+    {
+      "league": "Pro League (Belgium)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Nathan Saliba",
+          "nat": "Canada",
+          "n": 2,
+          "club": "Anderlecht"
+        },
+        {
+          "name": "Hans Vanaken",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Club Brugge"
+        },
+        {
+          "name": "Jean-Kevin Duverne",
+          "nat": "Haiti",
+          "n": 1,
+          "club": "Gent"
+        },
+        {
+          "name": "Kevin Rodriguez",
+          "nat": "Ecuador",
+          "n": 1,
+          "club": "Union Saint-Gilloise"
+        },
+        {
+          "name": "Promise David",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Union Saint-Gilloise"
         }
       ]
     },
@@ -1450,32 +1522,26 @@
       ]
     },
     {
-      "league": "Pro League (Belgium)",
-      "total": 5,
+      "league": "Egyptian Premier League",
+      "total": 3,
       "players": [
         {
-          "name": "Nathan Saliba",
-          "nat": "Canada",
-          "n": 2,
-          "club": "Anderlecht"
+          "name": "Mohamed Hany",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Al Ahly"
         },
         {
-          "name": "Jean-Kevin Duverne",
-          "nat": "Haiti",
+          "name": "Mostafa Zico",
+          "nat": "Egypt",
           "n": 1,
-          "club": "Gent"
+          "club": "Pyramids"
         },
         {
-          "name": "Kevin Rodriguez",
-          "nat": "Ecuador",
+          "name": "Trezeguet",
+          "nat": "Egypt",
           "n": 1,
-          "club": "Union Saint-Gilloise"
-        },
-        {
-          "name": "Promise David",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Union Saint-Gilloise"
+          "club": "Al Ahly"
         }
       ]
     },
@@ -1500,24 +1566,6 @@
           "nat": "Ivory Coast",
           "n": 1,
           "club": "Galatasaray"
-        }
-      ]
-    },
-    {
-      "league": "Egyptian Premier League",
-      "total": 2,
-      "players": [
-        {
-          "name": "Mohamed Hany",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Al Ahly"
-        },
-        {
-          "name": "Mostafa Zico",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Pyramids"
         }
       ]
     },
@@ -1714,6 +1762,18 @@
       ]
     },
     {
+      "league": "Scottish Premiership",
+      "total": 1,
+      "players": [
+        {
+          "name": "Nicolas Raskin",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Rangers"
+        }
+      ]
+    },
+    {
       "league": "South African Premier Division",
       "total": 1,
       "players": [
@@ -1753,13 +1813,19 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 41,
+      "total": 46,
       "players": [
         {
           "name": "Bart Verbruggen",
           "nat": "Netherlands",
           "n": 11,
           "club": "Brighton & Hove Albion"
+        },
+        {
+          "name": "Max Crocombe",
+          "nat": "New Zealand",
+          "n": 11,
+          "club": "Millwall"
         },
         {
           "name": "Alisson",
@@ -1772,12 +1838,6 @@
           "nat": "Scotland",
           "n": 8,
           "club": "Nottingham Forest"
-        },
-        {
-          "name": "Max Crocombe",
-          "nat": "New Zealand",
-          "n": 6,
-          "club": "Millwall"
         },
         {
           "name": "Jordan Pickford",
@@ -1927,7 +1987,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 17,
+      "total": 18,
       "players": [
         {
           "name": "Luca Zidane",
@@ -1938,7 +1998,7 @@
         {
           "name": "Thibaut Courtois",
           "nat": "Belgium",
-          "n": 5,
+          "n": 6,
           "club": "Real Madrid"
         },
         {
@@ -1975,12 +2035,12 @@
     },
     {
       "league": "Persian Gulf Pro League (Iran)",
-      "total": 13,
+      "total": 15,
       "players": [
         {
           "name": "Alireza Beiranvand",
           "nat": "Iran",
-          "n": 13,
+          "n": 15,
           "club": "Tractor"
         }
       ]
@@ -2064,6 +2124,18 @@
       ]
     },
     {
+      "league": "Egyptian Premier League",
+      "total": 9,
+      "players": [
+        {
+          "name": "Mostafa Shoubir",
+          "nat": "Egypt",
+          "n": 9,
+          "club": "Al Ahly"
+        }
+      ]
+    },
+    {
       "league": "Eredivisie (Netherlands)",
       "total": 9,
       "players": [
@@ -2096,18 +2168,6 @@
           "nat": "Croatia",
           "n": 8,
           "club": "Dinamo Zagreb"
-        }
-      ]
-    },
-    {
-      "league": "Egyptian Premier League",
-      "total": 7,
-      "players": [
-        {
-          "name": "Mostafa Shoubir",
-          "nat": "Egypt",
-          "n": 7,
-          "club": "Al Ahly"
         }
       ]
     },
@@ -2239,7 +2299,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (62/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (66/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
