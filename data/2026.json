@@ -1,5 +1,5 @@
 {
-  "updated": "June 27, 2026 05:53 UTC — 66 of 104 matches played",
+  "updated": "June 27, 2026 21:52 UTC — 66 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -387,7 +387,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 10,
+      "total": 11,
       "players": [
         {
           "name": "Jonathan David",
@@ -424,6 +424,12 @@
           "nat": "Croatia",
           "n": 1,
           "club": "Como"
+        },
+        {
+          "name": "Petar Sucic",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Inter Milan"
         },
         {
           "name": "Rafael Leao",
@@ -941,7 +947,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 37,
+      "total": 38,
       "players": [
         {
           "name": "Alexander Isak",
@@ -1068,6 +1074,12 @@
           "nat": "Sweden",
           "n": 1,
           "club": "Tottenham Hotspur"
+        },
+        {
+          "name": "Mateo Kovacic",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Manchester City"
         },
         {
           "name": "Pedro Neto",
@@ -1813,7 +1825,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 46,
+      "total": 48,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -1842,7 +1854,7 @@
         {
           "name": "Jordan Pickford",
           "nat": "England",
-          "n": 3,
+          "n": 5,
           "club": "Everton"
         },
         {
@@ -1861,7 +1873,7 @@
     },
     {
       "league": "Saudi Pro League",
-      "total": 32,
+      "total": 34,
       "players": [
         {
           "name": "Mohammed Alowais",
@@ -1876,16 +1888,16 @@
           "club": "Al-Ahli"
         },
         {
+          "name": "Orlando Mosquera",
+          "nat": "Panama",
+          "n": 5,
+          "club": "Al-Fayha"
+        },
+        {
           "name": "Yassine Bounou",
           "nat": "Morocco",
           "n": 5,
           "club": "Al-Hilal"
-        },
-        {
-          "name": "Orlando Mosquera",
-          "nat": "Panama",
-          "n": 3,
-          "club": "Al-Fayha"
         }
       ]
     },
@@ -2172,6 +2184,18 @@
       ]
     },
     {
+      "league": "Ghana Premier League",
+      "total": 7,
+      "players": [
+        {
+          "name": "Benjamin Asare",
+          "nat": "Ghana",
+          "n": 7,
+          "club": "Hearts of Oak"
+        }
+      ]
+    },
+    {
       "league": "Jordan Pro League",
       "total": 7,
       "players": [
@@ -2198,18 +2222,6 @@
           "nat": "Colombia",
           "n": 2,
           "club": "Atlas"
-        }
-      ]
-    },
-    {
-      "league": "Ghana Premier League",
-      "total": 6,
-      "players": [
-        {
-          "name": "Benjamin Asare",
-          "nat": "Ghana",
-          "n": 6,
-          "club": "Hearts of Oak"
         }
       ]
     },
