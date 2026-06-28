@@ -1,9 +1,9 @@
 {
-  "updated": "June 27, 2026 23:51 UTC — 68 of 104 matches played, 2 live",
+  "updated": "June 28, 2026 02:10 UTC — 70 of 104 matches played, 2 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 38,
+      "total": 39,
       "players": [
         {
           "name": "Erling Haaland",
@@ -72,6 +72,12 @@
           "club": "Brighton & Hove Albion"
         },
         {
+          "name": "Yoane Wissa",
+          "nat": "DR Congo",
+          "n": 2,
+          "club": "Newcastle United"
+        },
+        {
           "name": "Alexander Isak",
           "nat": "Sweden",
           "n": 1,
@@ -136,12 +142,6 @@
           "nat": "Netherlands",
           "n": 1,
           "club": "Liverpool"
-        },
-        {
-          "name": "Yoane Wissa",
-          "nat": "DR Congo",
-          "n": 1,
-          "club": "Newcastle United"
         }
       ]
     },
@@ -657,13 +657,19 @@
     },
     {
       "league": "Egyptian Premier League",
-      "total": 4,
+      "total": 5,
       "players": [
         {
           "name": "Emam Ashour",
           "nat": "Egypt",
           "n": 1,
           "club": "Al Ahly"
+        },
+        {
+          "name": "Fiston Mayele",
+          "nat": "DR Congo",
+          "n": 1,
+          "club": "Pyramids"
         },
         {
           "name": "Mahmoud Saber",
@@ -1570,6 +1576,36 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Baris Alper Yilmaz",
+          "nat": "Turkey",
+          "n": 1,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Meschack Elia",
+          "nat": "DR Congo",
+          "n": 1,
+          "club": "Alanyaspor"
+        },
+        {
+          "name": "Orkun Kokcu",
+          "nat": "Turkey",
+          "n": 1,
+          "club": "Beşiktaş"
+        },
+        {
+          "name": "Wilfried Singo",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Galatasaray"
+        }
+      ]
+    },
+    {
       "league": "Egyptian Premier League",
       "total": 3,
       "players": [
@@ -1590,30 +1626,6 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Al Ahly"
-        }
-      ]
-    },
-    {
-      "league": "Süper Lig (Turkey)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Baris Alper Yilmaz",
-          "nat": "Turkey",
-          "n": 1,
-          "club": "Galatasaray"
-        },
-        {
-          "name": "Orkun Kokcu",
-          "nat": "Turkey",
-          "n": 1,
-          "club": "Beşiktaş"
-        },
-        {
-          "name": "Wilfried Singo",
-          "nat": "Ivory Coast",
-          "n": 1,
-          "club": "Galatasaray"
         }
       ]
     },
@@ -1998,6 +2010,30 @@
       ]
     },
     {
+      "league": "Ligue 1 (France)",
+      "total": 21,
+      "players": [
+        {
+          "name": "Johny Placide",
+          "nat": "Haiti",
+          "n": 11,
+          "club": "Bastia"
+        },
+        {
+          "name": "Lionel Mpasi",
+          "nat": "DR Congo",
+          "n": 9,
+          "club": "Le Havre"
+        },
+        {
+          "name": "Mory Diaw",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Le Havre"
+        }
+      ]
+    },
+    {
       "league": "Bundesliga (Germany)",
       "total": 20,
       "players": [
@@ -2022,26 +2058,20 @@
       ]
     },
     {
-      "league": "Ligue 1 (France)",
-      "total": 20,
+      "league": "Primeira Liga (Portugal)",
+      "total": 19,
       "players": [
         {
-          "name": "Johny Placide",
-          "nat": "Haiti",
-          "n": 11,
-          "club": "Bastia"
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 10,
+          "club": "Chaves"
         },
         {
-          "name": "Lionel Mpasi",
-          "nat": "DR Congo",
-          "n": 8,
-          "club": "Le Havre"
-        },
-        {
-          "name": "Mory Diaw",
-          "nat": "Senegal",
-          "n": 1,
-          "club": "Le Havre"
+          "name": "Diogo Costa",
+          "nat": "Portugal",
+          "n": 9,
+          "club": "Porto"
         }
       ]
     },
@@ -2102,24 +2132,6 @@
           "nat": "Iran",
           "n": 15,
           "club": "Tractor"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 14,
-      "players": [
-        {
-          "name": "Vozinha",
-          "nat": "Cape Verde",
-          "n": 10,
-          "club": "Chaves"
-        },
-        {
-          "name": "Diogo Costa",
-          "nat": "Portugal",
-          "n": 4,
-          "club": "Porto"
         }
       ]
     },
@@ -2220,6 +2232,24 @@
       ]
     },
     {
+      "league": "Liga MX (Mexico)",
+      "total": 9,
+      "players": [
+        {
+          "name": "Raul Rangel",
+          "nat": "Mexico",
+          "n": 5,
+          "club": "Guadalajara"
+        },
+        {
+          "name": "Camilo Vargas",
+          "nat": "Colombia",
+          "n": 4,
+          "club": "Atlas"
+        }
+      ]
+    },
+    {
       "league": "Ghana Premier League",
       "total": 8,
       "players": [
@@ -2256,24 +2286,6 @@
       ]
     },
     {
-      "league": "Liga MX (Mexico)",
-      "total": 7,
-      "players": [
-        {
-          "name": "Raul Rangel",
-          "nat": "Mexico",
-          "n": 5,
-          "club": "Guadalajara"
-        },
-        {
-          "name": "Camilo Vargas",
-          "nat": "Colombia",
-          "n": 2,
-          "club": "Atlas"
-        }
-      ]
-    },
-    {
       "league": "Ligue Professionnelle 1 (Tunisia)",
       "total": 6,
       "players": [
@@ -2304,6 +2316,24 @@
       ]
     },
     {
+      "league": "Uzbekistan Super League",
+      "total": 6,
+      "players": [
+        {
+          "name": "Abduvohid Nematov",
+          "nat": "Uzbekistan",
+          "n": 5,
+          "club": "Nasaf"
+        },
+        {
+          "name": "Utkir Yusupov",
+          "nat": "Uzbekistan",
+          "n": 1,
+          "club": "Navbahor Namangan"
+        }
+      ]
+    },
+    {
       "league": "Austrian Bundesliga",
       "total": 5,
       "players": [
@@ -2328,24 +2358,6 @@
       ]
     },
     {
-      "league": "Uzbekistan Super League",
-      "total": 5,
-      "players": [
-        {
-          "name": "Abduvohid Nematov",
-          "nat": "Uzbekistan",
-          "n": 4,
-          "club": "Nasaf"
-        },
-        {
-          "name": "Utkir Yusupov",
-          "nat": "Uzbekistan",
-          "n": 1,
-          "club": "Navbahor Namangan"
-        }
-      ]
-    },
-    {
       "league": "Allsvenskan (Sweden)",
       "total": 3,
       "players": [
@@ -2359,7 +2371,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (68/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (70/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
