@@ -1,5 +1,5 @@
 {
-  "updated": "June 28, 2026 02:10 UTC — 70 of 104 matches played, 2 live",
+  "updated": "June 28, 2026 06:52 UTC — 72 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -147,7 +147,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 25,
+      "total": 26,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -222,6 +222,12 @@
           "club": "Real Madrid"
         },
         {
+          "name": "Giovani Lo Celso",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Real Betis"
+        },
+        {
           "name": "Lamine Yamal",
           "nat": "Spain",
           "n": 1,
@@ -237,7 +243,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 17,
+      "total": 18,
       "players": [
         {
           "name": "Deniz Undav",
@@ -288,6 +294,12 @@
           "club": "Bayern Munich"
         },
         {
+          "name": "Marcel Sabitzer",
+          "nat": "Austria",
+          "n": 1,
+          "club": "Borussia Dortmund"
+        },
+        {
           "name": "Mattias Svanberg",
           "nat": "Sweden",
           "n": 1,
@@ -315,7 +327,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 15,
+      "total": 16,
       "players": [
         {
           "name": "Ousmane Dembele",
@@ -378,6 +390,12 @@
           "club": "Reims"
         },
         {
+          "name": "Mousa Altamari",
+          "nat": "Jordan",
+          "n": 1,
+          "club": "Rennes"
+        },
+        {
           "name": "Nuno Mendes",
           "nat": "Portugal",
           "n": 1,
@@ -387,7 +405,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 12,
+      "total": 13,
       "players": [
         {
           "name": "Jonathan David",
@@ -444,6 +462,12 @@
           "club": "Milan"
         },
         {
+          "name": "Rafik Belghali",
+          "nat": "Algeria",
+          "n": 1,
+          "club": "Hellas Verona"
+        },
+        {
           "name": "Romelu Lukaku",
           "nat": "Belgium",
           "n": 1,
@@ -453,12 +477,12 @@
     },
     {
       "league": "MLS (USA/Canada)",
-      "total": 9,
+      "total": 10,
       "players": [
         {
           "name": "Lionel Messi",
           "nat": "Argentina",
-          "n": 5,
+          "n": 6,
           "club": "Inter Miami CF"
         },
         {
@@ -484,6 +508,42 @@
           "nat": "USA",
           "n": 1,
           "club": "Vancouver Whitecaps FC"
+        }
+      ]
+    },
+    {
+      "league": "Saudi Pro League",
+      "total": 8,
+      "players": [
+        {
+          "name": "Cristiano Ronaldo",
+          "nat": "Portugal",
+          "n": 2,
+          "club": "Al-Nassr"
+        },
+        {
+          "name": "Julian Quinones",
+          "nat": "Mexico",
+          "n": 2,
+          "club": "Al-Qadsiah"
+        },
+        {
+          "name": "Riyad Mahrez",
+          "nat": "Algeria",
+          "n": 2,
+          "club": "Al-Ahli"
+        },
+        {
+          "name": "Abdulelah Alamri",
+          "nat": "Saudi Arabia",
+          "n": 1,
+          "club": "Al-Nassr"
+        },
+        {
+          "name": "Franck Kessie",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Al-Ahli"
         }
       ]
     },
@@ -550,36 +610,6 @@
           "nat": "Mexico",
           "n": 1,
           "club": "AZ"
-        }
-      ]
-    },
-    {
-      "league": "Saudi Pro League",
-      "total": 6,
-      "players": [
-        {
-          "name": "Cristiano Ronaldo",
-          "nat": "Portugal",
-          "n": 2,
-          "club": "Al-Nassr"
-        },
-        {
-          "name": "Julian Quinones",
-          "nat": "Mexico",
-          "n": 2,
-          "club": "Al-Qadsiah"
-        },
-        {
-          "name": "Abdulelah Alamri",
-          "nat": "Saudi Arabia",
-          "n": 1,
-          "club": "Al-Nassr"
-        },
-        {
-          "name": "Franck Kessie",
-          "nat": "Ivory Coast",
-          "n": 1,
-          "club": "Al-Ahli"
         }
       ]
     },
@@ -806,6 +836,24 @@
       ]
     },
     {
+      "league": "Austrian Bundesliga",
+      "total": 2,
+      "players": [
+        {
+          "name": "Kerim Alajbegovic",
+          "nat": "Bosnia & Herzegovina",
+          "n": 1,
+          "club": "Red Bull Salzburg"
+        },
+        {
+          "name": "Sasa Kalajdzic",
+          "nat": "Austria",
+          "n": 1,
+          "club": "LASK"
+        }
+      ]
+    },
+    {
       "league": "Cypriot First Division",
       "total": 2,
       "players": [
@@ -844,18 +892,6 @@
           "nat": "Uruguay",
           "n": 2,
           "club": "Sporting CP"
-        }
-      ]
-    },
-    {
-      "league": "Austrian Bundesliga",
-      "total": 1,
-      "players": [
-        {
-          "name": "Kerim Alajbegovic",
-          "nat": "Bosnia & Herzegovina",
-          "n": 1,
-          "club": "Red Bull Salzburg"
         }
       ]
     },
@@ -940,6 +976,18 @@
           "nat": "Curaçao",
           "n": 1,
           "club": "Zürich"
+        }
+      ]
+    },
+    {
+      "league": "SuperLiga (Serbia)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Marko Arnautovic",
+          "nat": "Austria",
+          "n": 1,
+          "club": "Red Star Belgrade"
         }
       ]
     },
@@ -1133,7 +1181,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 20,
+      "total": 22,
       "players": [
         {
           "name": "Michael Olise",
@@ -1178,6 +1226,12 @@
           "club": "Mainz 05"
         },
         {
+          "name": "Konrad Laimer",
+          "nat": "Austria",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
           "name": "Luis Diaz",
           "nat": "Colombia",
           "n": 1,
@@ -1188,6 +1242,12 @@
           "nat": "USA",
           "n": 1,
           "club": "Bayer Leverkusen"
+        },
+        {
+          "name": "Michael Gregoritsch",
+          "nat": "Austria",
+          "n": 1,
+          "club": "FC Augsburg"
         },
         {
           "name": "Nadiem Amiri",
@@ -1235,7 +1295,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 19,
+      "total": 20,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1278,6 +1338,12 @@
           "nat": "Spain",
           "n": 1,
           "club": "Barcelona"
+        },
+        {
+          "name": "David Alaba",
+          "nat": "Austria",
+          "n": 1,
+          "club": "Real Madrid"
         },
         {
           "name": "Gustavo Puerta",
@@ -1576,6 +1642,30 @@
       ]
     },
     {
+      "league": "Saudi Pro League",
+      "total": 4,
+      "players": [
+        {
+          "name": "Houssem Aouar",
+          "nat": "Algeria",
+          "n": 2,
+          "club": "Al-Ittihad"
+        },
+        {
+          "name": "Riyad Mahrez",
+          "nat": "Algeria",
+          "n": 1,
+          "club": "Al-Ahli"
+        },
+        {
+          "name": "Sadio Mane",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Al-Nassr"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 4,
       "players": [
@@ -1666,24 +1756,6 @@
       ]
     },
     {
-      "league": "Saudi Pro League",
-      "total": 2,
-      "players": [
-        {
-          "name": "Riyad Mahrez",
-          "nat": "Algeria",
-          "n": 1,
-          "club": "Al-Ahli"
-        },
-        {
-          "name": "Sadio Mane",
-          "nat": "Senegal",
-          "n": 1,
-          "club": "Al-Nassr"
-        }
-      ]
-    },
-    {
       "league": "Série A (Brazil)",
       "total": 2,
       "players": [
@@ -1758,6 +1830,18 @@
           "nat": "Senegal",
           "n": 1,
           "club": "Maccabi Haifa"
+        }
+      ]
+    },
+    {
+      "league": "Jordan Pro League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Ehsan Haddad",
+          "nat": "Jordan",
+          "n": 1,
+          "club": "Al-Hussein"
         }
       ]
     },
@@ -2275,13 +2359,25 @@
     },
     {
       "league": "Jordan Pro League",
-      "total": 7,
+      "total": 8,
       "players": [
         {
           "name": "Yazeed Abulaila",
           "nat": "Jordan",
-          "n": 7,
+          "n": 8,
           "club": "Al-Hussein"
+        }
+      ]
+    },
+    {
+      "league": "Austrian Bundesliga",
+      "total": 7,
+      "players": [
+        {
+          "name": "Alexander Schlager",
+          "nat": "Austria",
+          "n": 7,
+          "club": "Red Bull Salzburg"
         }
       ]
     },
@@ -2334,18 +2430,6 @@
       ]
     },
     {
-      "league": "Austrian Bundesliga",
-      "total": 5,
-      "players": [
-        {
-          "name": "Alexander Schlager",
-          "nat": "Austria",
-          "n": 5,
-          "club": "Red Bull Salzburg"
-        }
-      ]
-    },
-    {
       "league": "EFL Championship (England, 2nd tier)",
       "total": 5,
       "players": [
@@ -2371,7 +2455,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (70/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (72/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
