@@ -1,5 +1,5 @@
 {
-  "updated": "June 28, 2026 06:52 UTC — 72 of 104 matches played",
+  "updated": "June 28, 2026 19:17 UTC — 72 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2047,7 +2047,7 @@
     },
     {
       "league": "MLS (USA/Canada)",
-      "total": 26,
+      "total": 27,
       "players": [
         {
           "name": "Eloy Room",
@@ -2058,7 +2058,7 @@
         {
           "name": "Maxime Crepeau",
           "nat": "Canada",
-          "n": 4,
+          "n": 5,
           "club": "Orlando City SC"
         },
         {
