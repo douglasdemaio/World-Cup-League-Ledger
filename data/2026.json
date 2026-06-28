@@ -1,5 +1,5 @@
 {
-  "updated": "June 28, 2026 19:17 UTC — 72 of 104 matches played, 1 live",
+  "updated": "June 28, 2026 20:49 UTC — 72 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2262,6 +2262,18 @@
       ]
     },
     {
+      "league": "South African Premier Division",
+      "total": 11,
+      "players": [
+        {
+          "name": "Ronwen Williams",
+          "nat": "South Africa",
+          "n": 11,
+          "club": "Mamelodi Sundowns"
+        }
+      ]
+    },
+    {
       "league": "Iraq Stars League",
       "total": 10,
       "players": [
@@ -2396,18 +2408,6 @@
           "nat": "Tunisia",
           "n": 1,
           "club": "Club Africain"
-        }
-      ]
-    },
-    {
-      "league": "South African Premier Division",
-      "total": 6,
-      "players": [
-        {
-          "name": "Ronwen Williams",
-          "nat": "South Africa",
-          "n": 6,
-          "club": "Mamelodi Sundowns"
         }
       ]
     },
