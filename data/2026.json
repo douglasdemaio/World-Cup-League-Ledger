@@ -1,5 +1,5 @@
 {
-  "updated": "June 28, 2026 20:49 UTC — 72 of 104 matches played, 1 live",
+  "updated": "June 28, 2026 21:52 UTC — 73 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -477,7 +477,7 @@
     },
     {
       "league": "MLS (USA/Canada)",
-      "total": 10,
+      "total": 11,
       "players": [
         {
           "name": "Lionel Messi",
@@ -508,6 +508,12 @@
           "nat": "USA",
           "n": 1,
           "club": "Vancouver Whitecaps FC"
+        },
+        {
+          "name": "Stephen Eustaquio",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Los Angeles FC"
         }
       ]
     },
@@ -2455,7 +2461,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (72/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (73/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
