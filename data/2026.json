@@ -1,9 +1,9 @@
 {
-  "updated": "June 29, 2026 20:47 UTC — 74 of 104 matches played, 1 live",
+  "updated": "June 29, 2026 22:02 UTC — 74 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 41,
+      "total": 42,
       "players": [
         {
           "name": "Erling Haaland",
@@ -58,6 +58,12 @@
           "nat": "Colombia",
           "n": 2,
           "club": "Crystal Palace"
+        },
+        {
+          "name": "Kai Havertz",
+          "nat": "Germany",
+          "n": 2,
+          "club": "Arsenal"
         },
         {
           "name": "Leandro Trossard",
@@ -118,12 +124,6 @@
           "nat": "Scotland",
           "n": 1,
           "club": "Aston Villa"
-        },
-        {
-          "name": "Kai Havertz",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Arsenal"
         },
         {
           "name": "Ladislav Krejci",
@@ -345,7 +345,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 16,
+      "total": 17,
       "players": [
         {
           "name": "Ousmane Dembele",
@@ -400,6 +400,12 @@
           "nat": "Portugal",
           "n": 1,
           "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Julio Enciso",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Strasbourg"
         },
         {
           "name": "Keito Nakamura",
@@ -1043,7 +1049,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 41,
+      "total": 42,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1058,6 +1064,12 @@
           "club": "Liverpool"
         },
         {
+          "name": "Florian Wirtz",
+          "nat": "Germany",
+          "n": 3,
+          "club": "Liverpool"
+        },
+        {
           "name": "Bukayo Saka",
           "nat": "England",
           "n": 2,
@@ -1068,12 +1080,6 @@
           "nat": "New Zealand",
           "n": 2,
           "club": "Nottingham Forest"
-        },
-        {
-          "name": "Florian Wirtz",
-          "nat": "Germany",
-          "n": 2,
-          "club": "Liverpool"
         },
         {
           "name": "Hannibal Mejbri",
@@ -1751,8 +1757,14 @@
     },
     {
       "league": "MLS (USA/Canada)",
-      "total": 2,
+      "total": 3,
       "players": [
+        {
+          "name": "Matias Galarza",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Atlanta United FC"
+        },
         {
           "name": "Rodrigo De Paul",
           "nat": "Argentina",
@@ -2125,7 +2137,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 21,
+      "total": 23,
       "players": [
         {
           "name": "Gregor Kobel",
@@ -2134,16 +2146,16 @@
           "club": "Borussia Dortmund"
         },
         {
+          "name": "Manuel Neuer",
+          "nat": "Germany",
+          "n": 6,
+          "club": "Bayern Munich"
+        },
+        {
           "name": "Nikola Vasilj",
           "nat": "Bosnia & Herzegovina",
           "n": 6,
           "club": "FC St. Pauli"
-        },
-        {
-          "name": "Manuel Neuer",
-          "nat": "Germany",
-          "n": 4,
-          "club": "Bayern Munich"
         }
       ]
     },
