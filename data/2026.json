@@ -1,9 +1,9 @@
 {
-  "updated": "June 29, 2026 18:57 UTC — 73 of 104 matches played, 1 live",
+  "updated": "June 29, 2026 20:47 UTC — 74 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 40,
+      "total": 41,
       "players": [
         {
           "name": "Erling Haaland",
@@ -94,6 +94,12 @@
           "nat": "Brazil",
           "n": 1,
           "club": "Manchester United"
+        },
+        {
+          "name": "Gabriel Martinelli",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Arsenal"
         },
         {
           "name": "Iliman Ndiaye",
@@ -1037,19 +1043,19 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 40,
+      "total": 41,
       "players": [
+        {
+          "name": "Bruno Guimaraes",
+          "nat": "Brazil",
+          "n": 4,
+          "club": "Newcastle United"
+        },
         {
           "name": "Alexander Isak",
           "nat": "Sweden",
           "n": 3,
           "club": "Liverpool"
-        },
-        {
-          "name": "Bruno Guimaraes",
-          "nat": "Brazil",
-          "n": 3,
-          "club": "Newcastle United"
         },
         {
           "name": "Bukayo Saka",
@@ -2118,6 +2124,30 @@
       ]
     },
     {
+      "league": "Bundesliga (Germany)",
+      "total": 21,
+      "players": [
+        {
+          "name": "Gregor Kobel",
+          "nat": "Switzerland",
+          "n": 11,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Nikola Vasilj",
+          "nat": "Bosnia & Herzegovina",
+          "n": 6,
+          "club": "FC St. Pauli"
+        },
+        {
+          "name": "Manuel Neuer",
+          "nat": "Germany",
+          "n": 4,
+          "club": "Bayern Munich"
+        }
+      ]
+    },
+    {
       "league": "Ligue 1 (France)",
       "total": 21,
       "players": [
@@ -2138,30 +2168,6 @@
           "nat": "Senegal",
           "n": 1,
           "club": "Le Havre"
-        }
-      ]
-    },
-    {
-      "league": "Bundesliga (Germany)",
-      "total": 20,
-      "players": [
-        {
-          "name": "Gregor Kobel",
-          "nat": "Switzerland",
-          "n": 11,
-          "club": "Borussia Dortmund"
-        },
-        {
-          "name": "Nikola Vasilj",
-          "nat": "Bosnia & Herzegovina",
-          "n": 6,
-          "club": "FC St. Pauli"
-        },
-        {
-          "name": "Manuel Neuer",
-          "nat": "Germany",
-          "n": 3,
-          "club": "Bayern Munich"
         }
       ]
     },
@@ -2479,7 +2485,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (73/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (74/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
