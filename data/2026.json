@@ -1,5 +1,5 @@
 {
-  "updated": "June 29, 2026 22:02 UTC — 74 of 104 matches played, 1 live",
+  "updated": "June 29, 2026 23:51 UTC — 75 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2088,6 +2088,30 @@
       ]
     },
     {
+      "league": "Primera División (Argentina)",
+      "total": 31,
+      "players": [
+        {
+          "name": "Orlando Gill",
+          "nat": "Paraguay",
+          "n": 19,
+          "club": "San Lorenzo"
+        },
+        {
+          "name": "Hernan Galindez",
+          "nat": "Ecuador",
+          "n": 8,
+          "club": "Huracán"
+        },
+        {
+          "name": "Fernando Muslera",
+          "nat": "Uruguay",
+          "n": 4,
+          "club": "Estudiantes"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 27,
       "players": [
@@ -2112,32 +2136,8 @@
       ]
     },
     {
-      "league": "Primera División (Argentina)",
-      "total": 25,
-      "players": [
-        {
-          "name": "Orlando Gill",
-          "nat": "Paraguay",
-          "n": 13,
-          "club": "San Lorenzo"
-        },
-        {
-          "name": "Hernan Galindez",
-          "nat": "Ecuador",
-          "n": 8,
-          "club": "Huracán"
-        },
-        {
-          "name": "Fernando Muslera",
-          "nat": "Uruguay",
-          "n": 4,
-          "club": "Estudiantes"
-        }
-      ]
-    },
-    {
       "league": "Bundesliga (Germany)",
-      "total": 23,
+      "total": 22,
       "players": [
         {
           "name": "Gregor Kobel",
@@ -2146,16 +2146,16 @@
           "club": "Borussia Dortmund"
         },
         {
-          "name": "Manuel Neuer",
-          "nat": "Germany",
-          "n": 6,
-          "club": "Bayern Munich"
-        },
-        {
           "name": "Nikola Vasilj",
           "nat": "Bosnia & Herzegovina",
           "n": 6,
           "club": "FC St. Pauli"
+        },
+        {
+          "name": "Manuel Neuer",
+          "nat": "Germany",
+          "n": 5,
+          "club": "Bayern Munich"
         }
       ]
     },
@@ -2497,7 +2497,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (74/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (75/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
