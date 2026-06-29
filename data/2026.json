@@ -1,9 +1,9 @@
 {
-  "updated": "June 28, 2026 21:52 UTC — 73 of 104 matches played",
+  "updated": "June 29, 2026 18:57 UTC — 73 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 39,
+      "total": 40,
       "players": [
         {
           "name": "Erling Haaland",
@@ -86,6 +86,12 @@
         {
           "name": "Amad Diallo",
           "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Manchester United"
+        },
+        {
+          "name": "Casemiro",
+          "nat": "Brazil",
           "n": 1,
           "club": "Manchester United"
         },
@@ -243,7 +249,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 18,
+      "total": 19,
       "players": [
         {
           "name": "Deniz Undav",
@@ -286,6 +292,12 @@
           "nat": "Germany",
           "n": 1,
           "club": "Bayern Munich"
+        },
+        {
+          "name": "Kaishu Sano",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Mainz 05"
         },
         {
           "name": "Luis Diaz",
@@ -1025,7 +1037,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 39,
+      "total": 40,
       "players": [
         {
           "name": "Alexander Isak",
@@ -1134,6 +1146,12 @@
           "nat": "England",
           "n": 1,
           "club": "Nottingham Forest"
+        },
+        {
+          "name": "Gabriel Magalhaes",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Arsenal"
         },
         {
           "name": "Ibrahim Sangare",
@@ -1975,8 +1993,14 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 48,
+      "total": 49,
       "players": [
+        {
+          "name": "Alisson",
+          "nat": "Brazil",
+          "n": 11,
+          "club": "Liverpool"
+        },
         {
           "name": "Bart Verbruggen",
           "nat": "Netherlands",
@@ -1988,12 +2012,6 @@
           "nat": "New Zealand",
           "n": 11,
           "club": "Millwall"
-        },
-        {
-          "name": "Alisson",
-          "nat": "Brazil",
-          "n": 10,
-          "club": "Liverpool"
         },
         {
           "name": "Angus Gunn",
@@ -2196,6 +2214,24 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 17,
+      "players": [
+        {
+          "name": "Zion Suzuki",
+          "nat": "Japan",
+          "n": 12,
+          "club": "Parma"
+        },
+        {
+          "name": "Mike Maignan",
+          "nat": "France",
+          "n": 5,
+          "club": "Milan"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 16,
       "players": [
@@ -2222,24 +2258,6 @@
           "nat": "Iran",
           "n": 15,
           "club": "Tractor"
-        }
-      ]
-    },
-    {
-      "league": "Serie A (Italy)",
-      "total": 13,
-      "players": [
-        {
-          "name": "Zion Suzuki",
-          "nat": "Japan",
-          "n": 8,
-          "club": "Parma"
-        },
-        {
-          "name": "Mike Maignan",
-          "nat": "France",
-          "n": 5,
-          "club": "Milan"
         }
       ]
     },
