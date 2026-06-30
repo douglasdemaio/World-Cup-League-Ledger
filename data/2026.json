@@ -1,5 +1,5 @@
 {
-  "updated": "June 30, 2026 22:07 UTC — 77 of 104 matches played, 1 live",
+  "updated": "June 30, 2026 23:56 UTC — 78 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -165,12 +165,12 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 27,
+      "total": 28,
       "players": [
         {
           "name": "Kylian Mbappe",
           "nat": "France",
-          "n": 5,
+          "n": 6,
           "club": "Real Madrid"
         },
         {
@@ -357,12 +357,18 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 17,
+      "total": 18,
       "players": [
         {
           "name": "Ousmane Dembele",
           "nat": "France",
           "n": 4,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Bradley Barcola",
+          "nat": "France",
+          "n": 2,
           "club": "Paris Saint-Germain"
         },
         {
@@ -382,12 +388,6 @@
           "nat": "Algeria",
           "n": 1,
           "club": "Marseille"
-        },
-        {
-          "name": "Bradley Barcola",
-          "nat": "France",
-          "n": 1,
-          "club": "Paris Saint-Germain"
         },
         {
           "name": "Desire Doue",
@@ -1229,12 +1229,12 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 22,
+      "total": 24,
       "players": [
         {
           "name": "Michael Olise",
           "nat": "France",
-          "n": 3,
+          "n": 5,
           "club": "Bayern Munich"
         },
         {
@@ -2041,7 +2041,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 59,
+      "total": 63,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2056,6 +2056,12 @@
           "club": "Liverpool"
         },
         {
+          "name": "Jacob Widell Zetterstrom",
+          "nat": "Sweden",
+          "n": 11,
+          "club": "Derby County"
+        },
+        {
           "name": "Max Crocombe",
           "nat": "New Zealand",
           "n": 11,
@@ -2066,12 +2072,6 @@
           "nat": "Scotland",
           "n": 8,
           "club": "Nottingham Forest"
-        },
-        {
-          "name": "Jacob Widell Zetterstrom",
-          "nat": "Sweden",
-          "n": 7,
-          "club": "Derby County"
         },
         {
           "name": "Jordan Pickford",
@@ -2244,6 +2244,24 @@
       ]
     },
     {
+      "league": "Serie A (Italy)",
+      "total": 20,
+      "players": [
+        {
+          "name": "Zion Suzuki",
+          "nat": "Japan",
+          "n": 12,
+          "club": "Parma"
+        },
+        {
+          "name": "Mike Maignan",
+          "nat": "France",
+          "n": 8,
+          "club": "Milan"
+        }
+      ]
+    },
+    {
       "league": "Primeira Liga (Portugal)",
       "total": 19,
       "players": [
@@ -2258,24 +2276,6 @@
           "nat": "Portugal",
           "n": 9,
           "club": "Porto"
-        }
-      ]
-    },
-    {
-      "league": "Serie A (Italy)",
-      "total": 18,
-      "players": [
-        {
-          "name": "Zion Suzuki",
-          "nat": "Japan",
-          "n": 12,
-          "club": "Parma"
-        },
-        {
-          "name": "Mike Maignan",
-          "nat": "France",
-          "n": 6,
-          "club": "Milan"
         }
       ]
     },
@@ -2527,7 +2527,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (77/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (78/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
