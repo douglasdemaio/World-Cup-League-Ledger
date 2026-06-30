@@ -1,5 +1,5 @@
 {
-  "updated": "June 30, 2026 20:50 UTC — 77 of 104 matches played",
+  "updated": "June 30, 2026 22:07 UTC — 77 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -165,12 +165,12 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 26,
+      "total": 27,
       "players": [
         {
           "name": "Kylian Mbappe",
           "nat": "France",
-          "n": 4,
+          "n": 5,
           "club": "Real Madrid"
         },
         {
@@ -1463,7 +1463,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 14,
+      "total": 15,
       "players": [
         {
           "name": "Breel Embolo",
@@ -1476,6 +1476,12 @@
           "nat": "Paraguay",
           "n": 2,
           "club": "Strasbourg"
+        },
+        {
+          "name": "Ousmane Dembele",
+          "nat": "France",
+          "n": 2,
+          "club": "Paris Saint-Germain"
         },
         {
           "name": "Achraf Hakimi",
@@ -1530,12 +1536,6 @@
           "nat": "Jordan",
           "n": 1,
           "club": "Rennes"
-        },
-        {
-          "name": "Ousmane Dembele",
-          "nat": "France",
-          "n": 1,
-          "club": "Paris Saint-Germain"
         }
       ]
     },
@@ -2041,7 +2041,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 54,
+      "total": 59,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2068,16 +2068,16 @@
           "club": "Nottingham Forest"
         },
         {
+          "name": "Jacob Widell Zetterstrom",
+          "nat": "Sweden",
+          "n": 7,
+          "club": "Derby County"
+        },
+        {
           "name": "Jordan Pickford",
           "nat": "England",
           "n": 5,
           "club": "Everton"
-        },
-        {
-          "name": "Jacob Widell Zetterstrom",
-          "nat": "Sweden",
-          "n": 2,
-          "club": "Derby County"
         },
         {
           "name": "Emiliano Martinez",
@@ -2263,7 +2263,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 17,
+      "total": 18,
       "players": [
         {
           "name": "Zion Suzuki",
@@ -2274,7 +2274,7 @@
         {
           "name": "Mike Maignan",
           "nat": "France",
-          "n": 5,
+          "n": 6,
           "club": "Milan"
         }
       ]
