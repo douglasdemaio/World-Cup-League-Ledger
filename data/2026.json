@@ -1,5 +1,5 @@
 {
-  "updated": "June 30, 2026 06:44 UTC — 76 of 104 matches played",
+  "updated": "June 30, 2026 18:27 UTC — 76 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -261,7 +261,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 19,
+      "total": 20,
       "players": [
         {
           "name": "Deniz Undav",
@@ -280,6 +280,12 @@
           "nat": "England",
           "n": 2,
           "club": "Bayern Munich"
+        },
+        {
+          "name": "Antonio Nusa",
+          "nat": "Norway",
+          "n": 1,
+          "club": "RB Leipzig"
         },
         {
           "name": "Connor Metcalfe",
@@ -1055,7 +1061,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 43,
+      "total": 44,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1074,6 +1080,12 @@
           "nat": "Germany",
           "n": 3,
           "club": "Liverpool"
+        },
+        {
+          "name": "Martin Odegaard",
+          "nat": "Norway",
+          "n": 3,
+          "club": "Arsenal"
         },
         {
           "name": "Bukayo Saka",
@@ -1104,12 +1116,6 @@
           "nat": "Senegal",
           "n": 2,
           "club": "Everton"
-        },
-        {
-          "name": "Martin Odegaard",
-          "nat": "Norway",
-          "n": 2,
-          "club": "Arsenal"
         },
         {
           "name": "Mohamed Salah",
@@ -2178,6 +2184,36 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 21,
+      "players": [
+        {
+          "name": "Luca Zidane",
+          "nat": "Algeria",
+          "n": 6,
+          "club": "Granada"
+        },
+        {
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 6,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Orjan Nyland",
+          "nat": "Norway",
+          "n": 5,
+          "club": "Sevilla"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 4,
+          "club": "Athletic Bilbao"
+        }
+      ]
+    },
+    {
       "league": "Ligue 1 (France)",
       "total": 21,
       "players": [
@@ -2220,36 +2256,6 @@
       ]
     },
     {
-      "league": "La Liga (Spain)",
-      "total": 18,
-      "players": [
-        {
-          "name": "Luca Zidane",
-          "nat": "Algeria",
-          "n": 6,
-          "club": "Granada"
-        },
-        {
-          "name": "Thibaut Courtois",
-          "nat": "Belgium",
-          "n": 6,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Unai Simon",
-          "nat": "Spain",
-          "n": 4,
-          "club": "Athletic Bilbao"
-        },
-        {
-          "name": "Orjan Nyland",
-          "nat": "Norway",
-          "n": 2,
-          "club": "Sevilla"
-        }
-      ]
-    },
-    {
       "league": "Serie A (Italy)",
       "total": 17,
       "players": [
@@ -2269,19 +2275,19 @@
     },
     {
       "league": "Süper Lig (Turkey)",
-      "total": 16,
+      "total": 17,
       "players": [
+        {
+          "name": "Yahia Fofana",
+          "nat": "Ivory Coast",
+          "n": 9,
+          "club": "Çaykur Rizespor"
+        },
         {
           "name": "Ugurcan Cakir",
           "nat": "Turkey",
           "n": 8,
           "club": "Galatasaray"
-        },
-        {
-          "name": "Yahia Fofana",
-          "nat": "Ivory Coast",
-          "n": 8,
-          "club": "Çaykur Rizespor"
         }
       ]
     },
