@@ -1,15 +1,21 @@
 {
-  "updated": "June 30, 2026 02:04 UTC — 75 of 104 matches played, 1 live",
+  "updated": "June 30, 2026 06:44 UTC — 76 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 42,
+      "total": 44,
       "players": [
         {
           "name": "Erling Haaland",
           "nat": "Norway",
           "n": 4,
           "club": "Manchester City"
+        },
+        {
+          "name": "Cody Gakpo",
+          "nat": "Netherlands",
+          "n": 3,
+          "club": "Liverpool"
         },
         {
           "name": "Ismaila Sarr",
@@ -28,12 +34,6 @@
           "nat": "Sweden",
           "n": 2,
           "club": "Newcastle United"
-        },
-        {
-          "name": "Cody Gakpo",
-          "nat": "Netherlands",
-          "n": 2,
-          "club": "Liverpool"
         },
         {
           "name": "Crysencio Summerville",
@@ -112,6 +112,12 @@
           "nat": "Senegal",
           "n": 1,
           "club": "Everton"
+        },
+        {
+          "name": "Issa Diop",
+          "nat": "Morocco",
+          "n": 1,
+          "club": "Fulham"
         },
         {
           "name": "Jan Paul Van Hecke",
@@ -1049,7 +1055,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 42,
+      "total": 43,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1080,6 +1086,12 @@
           "nat": "New Zealand",
           "n": 2,
           "club": "Nottingham Forest"
+        },
+        {
+          "name": "Crysencio Summerville",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "West Ham United"
         },
         {
           "name": "Hannibal Mejbri",
@@ -1134,12 +1146,6 @@
           "nat": "Netherlands",
           "n": 1,
           "club": "Liverpool"
-        },
-        {
-          "name": "Crysencio Summerville",
-          "nat": "Netherlands",
-          "n": 1,
-          "club": "West Ham United"
         },
         {
           "name": "David Moller Wolfe",
@@ -1840,6 +1846,18 @@
       ]
     },
     {
+      "league": "EFL Championship (England, 2nd tier)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Chemsdine Talbi",
+          "nat": "Morocco",
+          "n": 1,
+          "club": "Sunderland"
+        }
+      ]
+    },
+    {
       "league": "Ekstraklasa (Poland)",
       "total": 1,
       "players": [
@@ -2011,12 +2029,12 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 51,
+      "total": 54,
       "players": [
         {
           "name": "Bart Verbruggen",
           "nat": "Netherlands",
-          "n": 13,
+          "n": 16,
           "club": "Brighton & Hove Albion"
         },
         {
@@ -2059,7 +2077,7 @@
     },
     {
       "league": "Saudi Pro League",
-      "total": 36,
+      "total": 37,
       "players": [
         {
           "name": "Mohammed Alowais",
@@ -2082,7 +2100,7 @@
         {
           "name": "Yassine Bounou",
           "nat": "Morocco",
-          "n": 5,
+          "n": 6,
           "club": "Al-Hilal"
         }
       ]
@@ -2497,7 +2515,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (75/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (76/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
