@@ -1,5 +1,5 @@
 {
-  "updated": "July 1, 2026 18:54 UTC — 80 of 104 matches played",
+  "updated": "July 1, 2026 20:45 UTC — 80 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -597,7 +597,7 @@
     },
     {
       "league": "EFL Championship (England, 2nd tier)",
-      "total": 7,
+      "total": 8,
       "players": [
         {
           "name": "Brian Brobbey",
@@ -608,7 +608,7 @@
         {
           "name": "Habib Diarra",
           "nat": "Senegal",
-          "n": 1,
+          "n": 2,
           "club": "Sunderland"
         },
         {
@@ -2166,6 +2166,30 @@
       ]
     },
     {
+      "league": "Ligue 1 (France)",
+      "total": 28,
+      "players": [
+        {
+          "name": "Lionel Mpasi",
+          "nat": "DR Congo",
+          "n": 14,
+          "club": "Le Havre"
+        },
+        {
+          "name": "Johny Placide",
+          "nat": "Haiti",
+          "n": 11,
+          "club": "Bastia"
+        },
+        {
+          "name": "Mory Diaw",
+          "nat": "Senegal",
+          "n": 3,
+          "club": "Le Havre"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 27,
       "players": [
@@ -2190,26 +2214,32 @@
       ]
     },
     {
-      "league": "Ligue 1 (France)",
-      "total": 26,
+      "league": "La Liga (Spain)",
+      "total": 24,
       "players": [
         {
-          "name": "Lionel Mpasi",
-          "nat": "DR Congo",
-          "n": 14,
-          "club": "Le Havre"
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 8,
+          "club": "Real Madrid"
         },
         {
-          "name": "Johny Placide",
-          "nat": "Haiti",
-          "n": 11,
-          "club": "Bastia"
+          "name": "Luca Zidane",
+          "nat": "Algeria",
+          "n": 6,
+          "club": "Granada"
         },
         {
-          "name": "Mory Diaw",
-          "nat": "Senegal",
-          "n": 1,
-          "club": "Le Havre"
+          "name": "Orjan Nyland",
+          "nat": "Norway",
+          "n": 6,
+          "club": "Sevilla"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 4,
+          "club": "Athletic Bilbao"
         }
       ]
     },
@@ -2234,36 +2264,6 @@
           "nat": "Germany",
           "n": 5,
           "club": "Bayern Munich"
-        }
-      ]
-    },
-    {
-      "league": "La Liga (Spain)",
-      "total": 22,
-      "players": [
-        {
-          "name": "Luca Zidane",
-          "nat": "Algeria",
-          "n": 6,
-          "club": "Granada"
-        },
-        {
-          "name": "Orjan Nyland",
-          "nat": "Norway",
-          "n": 6,
-          "club": "Sevilla"
-        },
-        {
-          "name": "Thibaut Courtois",
-          "nat": "Belgium",
-          "n": 6,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Unai Simon",
-          "nat": "Spain",
-          "n": 4,
-          "club": "Athletic Bilbao"
         }
       ]
     },
