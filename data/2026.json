@@ -1,5 +1,5 @@
 {
-  "updated": "July 1, 2026 07:02 UTC — 79 of 104 matches played",
+  "updated": "July 1, 2026 16:15 UTC — 79 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -165,7 +165,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 28,
+      "total": 29,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -238,6 +238,12 @@
           "nat": "Turkey",
           "n": 1,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Brian Cipenga",
+          "nat": "DR Congo",
+          "n": 1,
+          "club": "Castellón"
         },
         {
           "name": "Giovani Lo Celso",
@@ -1463,7 +1469,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 15,
+      "total": 16,
       "players": [
         {
           "name": "Breel Embolo",
@@ -1500,6 +1506,12 @@
           "nat": "France",
           "n": 1,
           "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Chancel Mbemba",
+          "nat": "DR Congo",
+          "n": 1,
+          "club": "Lille"
         },
         {
           "name": "Ernest Nuamah",
