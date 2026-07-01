@@ -1,9 +1,9 @@
 {
-  "updated": "July 1, 2026 20:45 UTC — 80 of 104 matches played, 1 live",
+  "updated": "July 1, 2026 22:11 UTC — 80 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 47,
+      "total": 49,
       "players": [
         {
           "name": "Erling Haaland",
@@ -12,16 +12,16 @@
           "club": "Manchester City"
         },
         {
+          "name": "Ismaila Sarr",
+          "nat": "Senegal",
+          "n": 4,
+          "club": "Crystal Palace"
+        },
+        {
           "name": "Cody Gakpo",
           "nat": "Netherlands",
           "n": 3,
           "club": "Liverpool"
-        },
-        {
-          "name": "Ismaila Sarr",
-          "nat": "Senegal",
-          "n": 3,
-          "club": "Crystal Palace"
         },
         {
           "name": "Matheus Cunha",
@@ -160,6 +160,12 @@
           "nat": "Netherlands",
           "n": 1,
           "club": "Liverpool"
+        },
+        {
+          "name": "Youri Tielemans",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Aston Villa"
         }
       ]
     },
@@ -447,13 +453,19 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 13,
+      "total": 14,
       "players": [
         {
           "name": "Jonathan David",
           "nat": "Canada",
           "n": 3,
           "club": "Juventus"
+        },
+        {
+          "name": "Romelu Lukaku",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Napoli"
         },
         {
           "name": "Alexis Saelemaekers",
@@ -508,12 +520,6 @@
           "nat": "Algeria",
           "n": 1,
           "club": "Hellas Verona"
-        },
-        {
-          "name": "Romelu Lukaku",
-          "nat": "Belgium",
-          "n": 1,
-          "club": "Napoli"
         }
       ]
     },
@@ -1067,7 +1073,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 46,
+      "total": 47,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1200,6 +1206,12 @@
           "nat": "Senegal",
           "n": 1,
           "club": "Crystal Palace"
+        },
+        {
+          "name": "Leandro Trossard",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Arsenal"
         },
         {
           "name": "Lucas Bergvall",
@@ -1475,7 +1487,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 16,
+      "total": 18,
       "players": [
         {
           "name": "Breel Embolo",
@@ -1554,6 +1566,18 @@
           "nat": "Jordan",
           "n": 1,
           "club": "Rennes"
+        },
+        {
+          "name": "Moussa Niakhate",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Lyon"
+        },
+        {
+          "name": "Thomas Meunier",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Lille"
         }
       ]
     },
@@ -2167,7 +2191,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 28,
+      "total": 29,
       "players": [
         {
           "name": "Lionel Mpasi",
@@ -2184,7 +2208,7 @@
         {
           "name": "Mory Diaw",
           "nat": "Senegal",
-          "n": 3,
+          "n": 4,
           "club": "Le Havre"
         }
       ]
