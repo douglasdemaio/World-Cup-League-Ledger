@@ -1,5 +1,5 @@
 {
-  "updated": "July 1, 2026 02:34 UTC — 78 of 104 matches played, 1 live",
+  "updated": "July 1, 2026 07:02 UTC — 79 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2125,7 +2125,7 @@
     },
     {
       "league": "Primera División (Argentina)",
-      "total": 31,
+      "total": 32,
       "players": [
         {
           "name": "Orlando Gill",
@@ -2136,7 +2136,7 @@
         {
           "name": "Hernan Galindez",
           "nat": "Ecuador",
-          "n": 8,
+          "n": 9,
           "club": "Huracán"
         },
         {
@@ -2370,6 +2370,24 @@
       ]
     },
     {
+      "league": "Liga MX (Mexico)",
+      "total": 10,
+      "players": [
+        {
+          "name": "Raul Rangel",
+          "nat": "Mexico",
+          "n": 6,
+          "club": "Guadalajara"
+        },
+        {
+          "name": "Camilo Vargas",
+          "nat": "Colombia",
+          "n": 4,
+          "club": "Atlas"
+        }
+      ]
+    },
+    {
       "league": "Egyptian Premier League",
       "total": 9,
       "players": [
@@ -2402,24 +2420,6 @@
           "nat": "South Korea",
           "n": 9,
           "club": "FC Tokyo"
-        }
-      ]
-    },
-    {
-      "league": "Liga MX (Mexico)",
-      "total": 9,
-      "players": [
-        {
-          "name": "Raul Rangel",
-          "nat": "Mexico",
-          "n": 5,
-          "club": "Guadalajara"
-        },
-        {
-          "name": "Camilo Vargas",
-          "nat": "Colombia",
-          "n": 4,
-          "club": "Atlas"
         }
       ]
     },
@@ -2533,7 +2533,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (78/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (79/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
