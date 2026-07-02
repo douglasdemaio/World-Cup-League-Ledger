@@ -1,5 +1,5 @@
 {
-  "updated": "July 2, 2026 04:51 UTC — 82 of 104 matches played",
+  "updated": "July 2, 2026 19:06 UTC — 82 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2472,6 +2472,18 @@
       ]
     },
     {
+      "league": "Austrian Bundesliga",
+      "total": 8,
+      "players": [
+        {
+          "name": "Alexander Schlager",
+          "nat": "Austria",
+          "n": 8,
+          "club": "Red Bull Salzburg"
+        }
+      ]
+    },
+    {
       "league": "Ghana Premier League",
       "total": 8,
       "players": [
@@ -2504,18 +2516,6 @@
           "nat": "Jordan",
           "n": 8,
           "club": "Al-Hussein"
-        }
-      ]
-    },
-    {
-      "league": "Austrian Bundesliga",
-      "total": 7,
-      "players": [
-        {
-          "name": "Alexander Schlager",
-          "nat": "Austria",
-          "n": 7,
-          "club": "Red Bull Salzburg"
         }
       ]
     },
