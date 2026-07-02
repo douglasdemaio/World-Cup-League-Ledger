@@ -1,5 +1,5 @@
 {
-  "updated": "July 2, 2026 20:50 UTC — 82 of 104 matches played, 1 live",
+  "updated": "July 2, 2026 21:57 UTC — 83 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -177,7 +177,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 30,
+      "total": 31,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -186,16 +186,16 @@
           "club": "Real Madrid"
         },
         {
+          "name": "Mikel Oyarzabal",
+          "nat": "Spain",
+          "n": 4,
+          "club": "Real Sociedad"
+        },
+        {
           "name": "Vinicius Junior",
           "nat": "Brazil",
           "n": 4,
           "club": "Real Madrid"
-        },
-        {
-          "name": "Mikel Oyarzabal",
-          "nat": "Spain",
-          "n": 3,
-          "club": "Real Sociedad"
         },
         {
           "name": "Jude Bellingham",
@@ -1085,7 +1085,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 48,
+      "total": 49,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1146,6 +1146,12 @@
           "nat": "Senegal",
           "n": 2,
           "club": "Everton"
+        },
+        {
+          "name": "Marc Cucurella",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Chelsea"
         },
         {
           "name": "Mohamed Salah",
@@ -1230,12 +1236,6 @@
           "nat": "Sweden",
           "n": 1,
           "club": "Tottenham Hotspur"
-        },
-        {
-          "name": "Marc Cucurella",
-          "nat": "Spain",
-          "n": 1,
-          "club": "Chelsea"
         },
         {
           "name": "Mateo Kovacic",
@@ -2599,7 +2599,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (82/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (83/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
