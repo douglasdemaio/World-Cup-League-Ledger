@@ -1,9 +1,9 @@
 {
-  "updated": "July 2, 2026 19:06 UTC — 82 of 104 matches played, 1 live",
+  "updated": "July 2, 2026 20:50 UTC — 82 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 49,
+      "total": 50,
       "players": [
         {
           "name": "Erling Haaland",
@@ -150,6 +150,12 @@
           "club": "Liverpool"
         },
         {
+          "name": "Pedro Porro",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Tottenham Hotspur"
+        },
+        {
           "name": "Viktor Gyokeres",
           "nat": "Sweden",
           "n": 1,
@@ -171,7 +177,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 29,
+      "total": 30,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -186,16 +192,16 @@
           "club": "Real Madrid"
         },
         {
+          "name": "Mikel Oyarzabal",
+          "nat": "Spain",
+          "n": 3,
+          "club": "Real Sociedad"
+        },
+        {
           "name": "Jude Bellingham",
           "nat": "England",
           "n": 2,
           "club": "Real Madrid"
-        },
-        {
-          "name": "Mikel Oyarzabal",
-          "nat": "Spain",
-          "n": 2,
-          "club": "Real Sociedad"
         },
         {
           "name": "Nicolas Pepe",
@@ -1079,7 +1085,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 47,
+      "total": 48,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1224,6 +1230,12 @@
           "nat": "Sweden",
           "n": 1,
           "club": "Tottenham Hotspur"
+        },
+        {
+          "name": "Marc Cucurella",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Chelsea"
         },
         {
           "name": "Mateo Kovacic",
@@ -1373,7 +1385,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 21,
+      "total": 22,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1386,6 +1398,12 @@
           "nat": "France",
           "n": 2,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Alex Baena",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Atlético Madrid"
         },
         {
           "name": "Alex Freeman",
@@ -2364,6 +2382,18 @@
       ]
     },
     {
+      "league": "Austrian Bundesliga",
+      "total": 13,
+      "players": [
+        {
+          "name": "Alexander Schlager",
+          "nat": "Austria",
+          "n": 13,
+          "club": "Red Bull Salzburg"
+        }
+      ]
+    },
+    {
       "league": "Qatar Stars League",
       "total": 12,
       "players": [
@@ -2468,18 +2498,6 @@
           "nat": "South Korea",
           "n": 9,
           "club": "FC Tokyo"
-        }
-      ]
-    },
-    {
-      "league": "Austrian Bundesliga",
-      "total": 8,
-      "players": [
-        {
-          "name": "Alexander Schlager",
-          "nat": "Austria",
-          "n": 8,
-          "club": "Red Bull Salzburg"
         }
       ]
     },
