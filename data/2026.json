@@ -1,5 +1,5 @@
 {
-  "updated": "July 3, 2026 21:54 UTC — 86 of 104 matches played",
+  "updated": "July 3, 2026 22:53 UTC — 86 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -555,12 +555,12 @@
     },
     {
       "league": "MLS (USA/Canada)",
-      "total": 11,
+      "total": 12,
       "players": [
         {
           "name": "Lionel Messi",
           "nat": "Argentina",
-          "n": 6,
+          "n": 7,
           "club": "Inter Miami CF"
         },
         {
@@ -1109,7 +1109,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 49,
+      "total": 50,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1254,6 +1254,12 @@
           "nat": "Belgium",
           "n": 1,
           "club": "Arsenal"
+        },
+        {
+          "name": "Lisandro Martinez",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Manchester United"
         },
         {
           "name": "Lucas Bergvall",
@@ -2328,6 +2334,24 @@
       ]
     },
     {
+      "league": "Primeira Liga (Portugal)",
+      "total": 26,
+      "players": [
+        {
+          "name": "Diogo Costa",
+          "nat": "Portugal",
+          "n": 14,
+          "club": "Porto"
+        },
+        {
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 12,
+          "club": "Chaves"
+        }
+      ]
+    },
+    {
       "league": "Bundesliga (Germany)",
       "total": 24,
       "players": [
@@ -2348,24 +2372,6 @@
           "nat": "Germany",
           "n": 5,
           "club": "Bayern Munich"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 24,
-      "players": [
-        {
-          "name": "Diogo Costa",
-          "nat": "Portugal",
-          "n": 14,
-          "club": "Porto"
-        },
-        {
-          "name": "Vozinha",
-          "nat": "Cape Verde",
-          "n": 10,
-          "club": "Chaves"
         }
       ]
     },
