@@ -1,5 +1,5 @@
 {
-  "updated": "July 3, 2026 18:59 UTC — 85 of 104 matches played, 1 live",
+  "updated": "July 3, 2026 20:13 UTC — 85 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2418,6 +2418,18 @@
       ]
     },
     {
+      "league": "A-League (Australia)",
+      "total": 13,
+      "players": [
+        {
+          "name": "Patrick Beach",
+          "nat": "Australia",
+          "n": 13,
+          "club": "Melbourne City"
+        }
+      ]
+    },
+    {
       "league": "Austrian Bundesliga",
       "total": 13,
       "players": [
@@ -2438,18 +2450,6 @@
           "nat": "Qatar",
           "n": 12,
           "club": "Al-Rayyan"
-        }
-      ]
-    },
-    {
-      "league": "A-League (Australia)",
-      "total": 11,
-      "players": [
-        {
-          "name": "Patrick Beach",
-          "nat": "Australia",
-          "n": 11,
-          "club": "Melbourne City"
         }
       ]
     },
