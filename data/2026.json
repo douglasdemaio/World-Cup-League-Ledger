@@ -1,5 +1,5 @@
 {
-  "updated": "July 3, 2026 22:53 UTC — 86 of 104 matches played, 1 live",
+  "updated": "July 3, 2026 23:55 UTC — 86 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -986,6 +986,18 @@
       ]
     },
     {
+      "league": "First League (Bulgaria)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Deroy Duarte",
+          "nat": "Cape Verde",
+          "n": 1,
+          "club": "Ludogorets Razgrad"
+        }
+      ]
+    },
+    {
       "league": "Iraq Stars League",
       "total": 1,
       "players": [
@@ -1828,6 +1840,42 @@
       ]
     },
     {
+      "league": "Süper Lig (Turkey)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Baris Alper Yilmaz",
+          "nat": "Turkey",
+          "n": 1,
+          "club": "Galatasaray"
+        },
+        {
+          "name": "Meschack Elia",
+          "nat": "DR Congo",
+          "n": 1,
+          "club": "Alanyaspor"
+        },
+        {
+          "name": "Orkun Kokcu",
+          "nat": "Turkey",
+          "n": 1,
+          "club": "Beşiktaş"
+        },
+        {
+          "name": "Ryan Mendes",
+          "nat": "Cape Verde",
+          "n": 1,
+          "club": "Iğdır"
+        },
+        {
+          "name": "Wilfried Singo",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "Galatasaray"
+        }
+      ]
+    },
+    {
       "league": "Egyptian Premier League",
       "total": 4,
       "players": [
@@ -1854,36 +1902,6 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Al Ahly"
-        }
-      ]
-    },
-    {
-      "league": "Süper Lig (Turkey)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Baris Alper Yilmaz",
-          "nat": "Turkey",
-          "n": 1,
-          "club": "Galatasaray"
-        },
-        {
-          "name": "Meschack Elia",
-          "nat": "DR Congo",
-          "n": 1,
-          "club": "Alanyaspor"
-        },
-        {
-          "name": "Orkun Kokcu",
-          "nat": "Turkey",
-          "n": 1,
-          "club": "Beşiktaş"
-        },
-        {
-          "name": "Wilfried Singo",
-          "nat": "Ivory Coast",
-          "n": 1,
-          "club": "Galatasaray"
         }
       ]
     },
@@ -2155,7 +2173,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 64,
+      "total": 65,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2196,7 +2214,7 @@
         {
           "name": "Emiliano Martinez",
           "nat": "Argentina",
-          "n": 1,
+          "n": 2,
           "club": "Aston Villa"
         }
       ]
@@ -2304,6 +2322,24 @@
       ]
     },
     {
+      "league": "Primeira Liga (Portugal)",
+      "total": 29,
+      "players": [
+        {
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 15,
+          "club": "Chaves"
+        },
+        {
+          "name": "Diogo Costa",
+          "nat": "Portugal",
+          "n": 14,
+          "club": "Porto"
+        }
+      ]
+    },
+    {
       "league": "La Liga (Spain)",
       "total": 27,
       "players": [
@@ -2330,24 +2366,6 @@
           "nat": "Spain",
           "n": 4,
           "club": "Athletic Bilbao"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 26,
-      "players": [
-        {
-          "name": "Diogo Costa",
-          "nat": "Portugal",
-          "n": 14,
-          "club": "Porto"
-        },
-        {
-          "name": "Vozinha",
-          "nat": "Cape Verde",
-          "n": 12,
-          "club": "Chaves"
         }
       ]
     },
