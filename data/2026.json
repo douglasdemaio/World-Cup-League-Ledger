@@ -1,9 +1,9 @@
 {
-  "updated": "July 3, 2026 00:03 UTC — 83 of 104 matches played, 1 live",
+  "updated": "July 3, 2026 04:33 UTC — 84 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 50,
+      "total": 51,
       "players": [
         {
           "name": "Erling Haaland",
@@ -106,6 +106,12 @@
           "nat": "Brazil",
           "n": 1,
           "club": "Manchester United"
+        },
+        {
+          "name": "Dan Ndoye",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Nottingham Forest"
         },
         {
           "name": "Gabriel Martinelli",
@@ -381,7 +387,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 19,
+      "total": 21,
       "players": [
         {
           "name": "Ousmane Dembele",
@@ -414,6 +420,12 @@
           "club": "Marseille"
         },
         {
+          "name": "Breel Embolo",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Rennes"
+        },
+        {
           "name": "Desire Doue",
           "nat": "France",
           "n": 1,
@@ -424,6 +436,12 @@
           "nat": "Morocco",
           "n": 1,
           "club": "Strasbourg"
+        },
+        {
+          "name": "Goncalo Ramos",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Paris Saint-Germain"
         },
         {
           "name": "Ibrahim Mbaye",
@@ -651,7 +669,7 @@
     },
     {
       "league": "Eredivisie (Netherlands)",
-      "total": 7,
+      "total": 8,
       "players": [
         {
           "name": "Ismael Saibari",
@@ -670,6 +688,12 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Feyenoord"
+        },
+        {
+          "name": "Ivan Perisic",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "PSV Eindhoven"
         },
         {
           "name": "Mateo Chavez",
@@ -1271,7 +1295,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 24,
+      "total": 25,
       "players": [
         {
           "name": "Michael Olise",
@@ -1286,6 +1310,12 @@
           "club": "VfB Stuttgart"
         },
         {
+          "name": "Johan Manzambi",
+          "nat": "Switzerland",
+          "n": 2,
+          "club": "SC Freiburg"
+        },
+        {
           "name": "Joshua Kimmich",
           "nat": "Germany",
           "n": 2,
@@ -1296,12 +1326,6 @@
           "nat": "Germany",
           "n": 1,
           "club": "Borussia Dortmund"
-        },
-        {
-          "name": "Johan Manzambi",
-          "nat": "Switzerland",
-          "n": 1,
-          "club": "SC Freiburg"
         },
         {
           "name": "Josip Stanisic",
@@ -1607,7 +1631,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 9,
+      "total": 10,
       "players": [
         {
           "name": "Denzel Dumfries",
@@ -1644,6 +1668,12 @@
           "nat": "Croatia",
           "n": 1,
           "club": "Inter Milan"
+        },
+        {
+          "name": "Rafael Leao",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Milan"
         },
         {
           "name": "Romelu Lukaku",
@@ -2263,7 +2293,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 25,
+      "total": 26,
       "players": [
         {
           "name": "Thibaut Courtois",
@@ -2274,7 +2304,7 @@
         {
           "name": "Luca Zidane",
           "nat": "Algeria",
-          "n": 6,
+          "n": 7,
           "club": "Granada"
         },
         {
@@ -2293,12 +2323,12 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 22,
+      "total": 24,
       "players": [
         {
           "name": "Gregor Kobel",
           "nat": "Switzerland",
-          "n": 11,
+          "n": 13,
           "club": "Borussia Dortmund"
         },
         {
@@ -2312,6 +2342,24 @@
           "nat": "Germany",
           "n": 5,
           "club": "Bayern Munich"
+        }
+      ]
+    },
+    {
+      "league": "Primeira Liga (Portugal)",
+      "total": 24,
+      "players": [
+        {
+          "name": "Diogo Costa",
+          "nat": "Portugal",
+          "n": 14,
+          "club": "Porto"
+        },
+        {
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 10,
+          "club": "Chaves"
         }
       ]
     },
@@ -2330,24 +2378,6 @@
           "nat": "France",
           "n": 8,
           "club": "Milan"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 19,
-      "players": [
-        {
-          "name": "Vozinha",
-          "nat": "Cape Verde",
-          "n": 10,
-          "club": "Chaves"
-        },
-        {
-          "name": "Diogo Costa",
-          "nat": "Portugal",
-          "n": 9,
-          "club": "Porto"
         }
       ]
     },
@@ -2599,7 +2629,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (83/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (84/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
