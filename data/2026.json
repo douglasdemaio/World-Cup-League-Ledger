@@ -1,5 +1,5 @@
 {
-  "updated": "July 3, 2026 07:54 UTC — 85 of 104 matches played",
+  "updated": "July 3, 2026 18:59 UTC — 85 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -704,6 +704,42 @@
       ]
     },
     {
+      "league": "Egyptian Premier League",
+      "total": 6,
+      "players": [
+        {
+          "name": "Emam Ashour",
+          "nat": "Egypt",
+          "n": 2,
+          "club": "Al Ahly"
+        },
+        {
+          "name": "Fiston Mayele",
+          "nat": "DR Congo",
+          "n": 1,
+          "club": "Pyramids"
+        },
+        {
+          "name": "Mahmoud Saber",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "ZED"
+        },
+        {
+          "name": "Mostafa Zico",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Pyramids"
+        },
+        {
+          "name": "Trezeguet",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Al Ahly"
+        }
+      ]
+    },
+    {
       "league": "Scottish Premiership",
       "total": 6,
       "players": [
@@ -772,42 +808,6 @@
           "nat": "South Korea",
           "n": 1,
           "club": "Beşiktaş"
-        }
-      ]
-    },
-    {
-      "league": "Egyptian Premier League",
-      "total": 5,
-      "players": [
-        {
-          "name": "Emam Ashour",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Al Ahly"
-        },
-        {
-          "name": "Fiston Mayele",
-          "nat": "DR Congo",
-          "n": 1,
-          "club": "Pyramids"
-        },
-        {
-          "name": "Mahmoud Saber",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "ZED"
-        },
-        {
-          "name": "Mostafa Zico",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Pyramids"
-        },
-        {
-          "name": "Trezeguet",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Al Ahly"
         }
       ]
     },
@@ -1822,6 +1822,36 @@
       ]
     },
     {
+      "league": "Egyptian Premier League",
+      "total": 4,
+      "players": [
+        {
+          "name": "Karim Hafez",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Pyramids"
+        },
+        {
+          "name": "Mohamed Hany",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Al Ahly"
+        },
+        {
+          "name": "Mostafa Zico",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Pyramids"
+        },
+        {
+          "name": "Trezeguet",
+          "nat": "Egypt",
+          "n": 1,
+          "club": "Al Ahly"
+        }
+      ]
+    },
+    {
       "league": "Süper Lig (Turkey)",
       "total": 4,
       "players": [
@@ -1848,30 +1878,6 @@
           "nat": "Ivory Coast",
           "n": 1,
           "club": "Galatasaray"
-        }
-      ]
-    },
-    {
-      "league": "Egyptian Premier League",
-      "total": 3,
-      "players": [
-        {
-          "name": "Mohamed Hany",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Al Ahly"
-        },
-        {
-          "name": "Mostafa Zico",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Pyramids"
-        },
-        {
-          "name": "Trezeguet",
-          "nat": "Egypt",
-          "n": 1,
-          "club": "Al Ahly"
         }
       ]
     },
@@ -2460,6 +2466,18 @@
       ]
     },
     {
+      "league": "Egyptian Premier League",
+      "total": 10,
+      "players": [
+        {
+          "name": "Mostafa Shoubir",
+          "nat": "Egypt",
+          "n": 10,
+          "club": "Al Ahly"
+        }
+      ]
+    },
+    {
       "league": "HNL (Croatia)",
       "total": 10,
       "players": [
@@ -2504,18 +2522,6 @@
           "nat": "Colombia",
           "n": 4,
           "club": "Atlas"
-        }
-      ]
-    },
-    {
-      "league": "Egyptian Premier League",
-      "total": 9,
-      "players": [
-        {
-          "name": "Mostafa Shoubir",
-          "nat": "Egypt",
-          "n": 9,
-          "club": "Al Ahly"
         }
       ]
     },
