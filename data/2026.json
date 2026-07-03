@@ -1,5 +1,5 @@
 {
-  "updated": "July 2, 2026 21:57 UTC — 83 of 104 matches played",
+  "updated": "July 3, 2026 00:03 UTC — 83 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2430,6 +2430,18 @@
       ]
     },
     {
+      "league": "HNL (Croatia)",
+      "total": 10,
+      "players": [
+        {
+          "name": "Dominik Livakovic",
+          "nat": "Croatia",
+          "n": 10,
+          "club": "Dinamo Zagreb"
+        }
+      ]
+    },
+    {
       "league": "Iraq Stars League",
       "total": 10,
       "players": [
@@ -2510,18 +2522,6 @@
           "nat": "Ghana",
           "n": 8,
           "club": "Hearts of Oak"
-        }
-      ]
-    },
-    {
-      "league": "HNL (Croatia)",
-      "total": 8,
-      "players": [
-        {
-          "name": "Dominik Livakovic",
-          "nat": "Croatia",
-          "n": 8,
-          "club": "Dinamo Zagreb"
         }
       ]
     },
