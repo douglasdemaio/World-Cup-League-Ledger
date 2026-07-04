@@ -1,5 +1,5 @@
 {
-  "updated": "July 4, 2026 01:46 UTC — 87 of 104 matches played, 1 live",
+  "updated": "July 4, 2026 05:35 UTC — 88 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2634,6 +2634,18 @@
       ]
     },
     {
+      "league": "Super League (Switzerland)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Lawrence Ati Zigi",
+          "nat": "Ghana",
+          "n": 7,
+          "club": "St. Gallen"
+        }
+      ]
+    },
+    {
       "league": "Ligue Professionnelle 1 (Tunisia)",
       "total": 6,
       "players": [
@@ -2695,7 +2707,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (87/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (88/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
