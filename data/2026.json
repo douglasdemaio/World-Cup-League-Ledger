@@ -1,9 +1,9 @@
 {
-  "updated": "July 3, 2026 23:55 UTC — 86 of 104 matches played, 1 live",
+  "updated": "July 4, 2026 01:46 UTC — 87 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 51,
+      "total": 52,
       "players": [
         {
           "name": "Erling Haaland",
@@ -148,6 +148,12 @@
           "nat": "Czechia",
           "n": 1,
           "club": "Wolverhampton Wanderers"
+        },
+        {
+          "name": "Lisandro Martinez",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Manchester United"
         },
         {
           "name": "Mohamed Salah",
@@ -812,6 +818,36 @@
       ]
     },
     {
+      "league": "Série A (Brazil)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Agustin Canobbio",
+          "nat": "Uruguay",
+          "n": 1,
+          "club": "Fluminense"
+        },
+        {
+          "name": "Gonzalo Plata",
+          "nat": "Ecuador",
+          "n": 1,
+          "club": "Flamengo"
+        },
+        {
+          "name": "Jhon Arias",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "Palmeiras"
+        },
+        {
+          "name": "Mauricio",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Palmeiras"
+        }
+      ]
+    },
+    {
       "league": "Czech First League",
       "total": 3,
       "players": [
@@ -850,6 +886,24 @@
           "nat": "Iran",
           "n": 1,
           "club": "Rostov"
+        }
+      ]
+    },
+    {
+      "league": "Primeira Liga (Portugal)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Maxi Araujo",
+          "nat": "Uruguay",
+          "n": 2,
+          "club": "Sporting CP"
+        },
+        {
+          "name": "Sidny Lopes Cabral",
+          "nat": "Cape Verde",
+          "n": 1,
+          "club": "Benfica"
         }
       ]
     },
@@ -902,30 +956,6 @@
       ]
     },
     {
-      "league": "Série A (Brazil)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Agustin Canobbio",
-          "nat": "Uruguay",
-          "n": 1,
-          "club": "Fluminense"
-        },
-        {
-          "name": "Gonzalo Plata",
-          "nat": "Ecuador",
-          "n": 1,
-          "club": "Flamengo"
-        },
-        {
-          "name": "Mauricio",
-          "nat": "Paraguay",
-          "n": 1,
-          "club": "Palmeiras"
-        }
-      ]
-    },
-    {
       "league": "Austrian Bundesliga",
       "total": 2,
       "players": [
@@ -970,18 +1000,6 @@
           "nat": "Iran",
           "n": 2,
           "club": "Foolad"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Maxi Araujo",
-          "nat": "Uruguay",
-          "n": 2,
-          "club": "Sporting CP"
         }
       ]
     },
@@ -1121,7 +1139,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 50,
+      "total": 51,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1206,6 +1224,12 @@
           "nat": "Sweden",
           "n": 2,
           "club": "Arsenal"
+        },
+        {
+          "name": "Alexis Mac Allister",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Liverpool"
         },
         {
           "name": "Bruno Fernandes",
@@ -1906,6 +1930,36 @@
       ]
     },
     {
+      "league": "Primeira Liga (Portugal)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Andreas Schjelderup",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Benfica"
+        },
+        {
+          "name": "Luis Suarez",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "Sporting CP"
+        },
+        {
+          "name": "Maxi Araujo",
+          "nat": "Uruguay",
+          "n": 1,
+          "club": "Sporting CP"
+        },
+        {
+          "name": "Yannick Semedo",
+          "nat": "Cape Verde",
+          "n": 1,
+          "club": "Farense"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 3,
       "players": [
@@ -1938,24 +1992,6 @@
           "nat": "Norway",
           "n": 2,
           "club": "Bodø/Glimt"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Andreas Schjelderup",
-          "nat": "Norway",
-          "n": 1,
-          "club": "Benfica"
-        },
-        {
-          "name": "Maxi Araujo",
-          "nat": "Uruguay",
-          "n": 1,
-          "club": "Sporting CP"
         }
       ]
     },
@@ -2173,7 +2209,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 65,
+      "total": 67,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2214,7 +2250,7 @@
         {
           "name": "Emiliano Martinez",
           "nat": "Argentina",
-          "n": 2,
+          "n": 4,
           "club": "Aston Villa"
         }
       ]
@@ -2246,6 +2282,24 @@
           "nat": "Morocco",
           "n": 6,
           "club": "Al-Hilal"
+        }
+      ]
+    },
+    {
+      "league": "Primeira Liga (Portugal)",
+      "total": 32,
+      "players": [
+        {
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 18,
+          "club": "Chaves"
+        },
+        {
+          "name": "Diogo Costa",
+          "nat": "Portugal",
+          "n": 14,
+          "club": "Porto"
         }
       ]
     },
@@ -2318,24 +2372,6 @@
           "nat": "Senegal",
           "n": 4,
           "club": "Le Havre"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 29,
-      "players": [
-        {
-          "name": "Vozinha",
-          "nat": "Cape Verde",
-          "n": 15,
-          "club": "Chaves"
-        },
-        {
-          "name": "Diogo Costa",
-          "nat": "Portugal",
-          "n": 14,
-          "club": "Porto"
         }
       ]
     },
@@ -2659,7 +2695,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (86/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (87/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
