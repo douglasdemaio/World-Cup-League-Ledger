@@ -1,5 +1,5 @@
 {
-  "updated": "July 4, 2026 20:03 UTC — 89 of 104 matches played",
+  "updated": "July 4, 2026 22:45 UTC — 89 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2292,6 +2292,30 @@
       ]
     },
     {
+      "league": "Primera División (Argentina)",
+      "total": 33,
+      "players": [
+        {
+          "name": "Orlando Gill",
+          "nat": "Paraguay",
+          "n": 20,
+          "club": "San Lorenzo"
+        },
+        {
+          "name": "Hernan Galindez",
+          "nat": "Ecuador",
+          "n": 9,
+          "club": "Huracán"
+        },
+        {
+          "name": "Fernando Muslera",
+          "nat": "Uruguay",
+          "n": 4,
+          "club": "Estudiantes"
+        }
+      ]
+    },
+    {
       "league": "Primeira Liga (Portugal)",
       "total": 32,
       "players": [
@@ -2306,30 +2330,6 @@
           "nat": "Portugal",
           "n": 14,
           "club": "Porto"
-        }
-      ]
-    },
-    {
-      "league": "Primera División (Argentina)",
-      "total": 32,
-      "players": [
-        {
-          "name": "Orlando Gill",
-          "nat": "Paraguay",
-          "n": 19,
-          "club": "San Lorenzo"
-        },
-        {
-          "name": "Hernan Galindez",
-          "nat": "Ecuador",
-          "n": 9,
-          "club": "Huracán"
-        },
-        {
-          "name": "Fernando Muslera",
-          "nat": "Uruguay",
-          "n": 4,
-          "club": "Estudiantes"
         }
       ]
     },
