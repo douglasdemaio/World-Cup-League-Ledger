@@ -1,5 +1,5 @@
 {
-  "updated": "July 4, 2026 22:45 UTC — 89 of 104 matches played, 1 live",
+  "updated": "July 4, 2026 23:51 UTC — 90 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2293,12 +2293,12 @@
     },
     {
       "league": "Primera División (Argentina)",
-      "total": 33,
+      "total": 36,
       "players": [
         {
           "name": "Orlando Gill",
           "nat": "Paraguay",
-          "n": 20,
+          "n": 23,
           "club": "San Lorenzo"
         },
         {
@@ -2713,7 +2713,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (89/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (90/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
