@@ -1,5 +1,5 @@
 {
-  "updated": "July 4, 2026 05:35 UTC — 88 of 104 matches played",
+  "updated": "July 4, 2026 17:54 UTC — 88 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2257,7 +2257,7 @@
     },
     {
       "league": "Saudi Pro League",
-      "total": 37,
+      "total": 39,
       "players": [
         {
           "name": "Mohammed Alowais",
@@ -2272,16 +2272,16 @@
           "club": "Al-Ahli"
         },
         {
+          "name": "Yassine Bounou",
+          "nat": "Morocco",
+          "n": 8,
+          "club": "Al-Hilal"
+        },
+        {
           "name": "Orlando Mosquera",
           "nat": "Panama",
           "n": 7,
           "club": "Al-Fayha"
-        },
-        {
-          "name": "Yassine Bounou",
-          "nat": "Morocco",
-          "n": 6,
-          "club": "Al-Hilal"
         }
       ]
     },
@@ -2329,7 +2329,7 @@
     },
     {
       "league": "MLS (USA/Canada)",
-      "total": 30,
+      "total": 31,
       "players": [
         {
           "name": "Eloy Room",
@@ -2338,16 +2338,16 @@
           "club": "Miami FC"
         },
         {
+          "name": "Maxime Crepeau",
+          "nat": "Canada",
+          "n": 6,
+          "club": "Orlando City SC"
+        },
+        {
           "name": "Matt Freese",
           "nat": "USA",
           "n": 5,
           "club": "New York City FC"
-        },
-        {
-          "name": "Maxime Crepeau",
-          "nat": "Canada",
-          "n": 5,
-          "club": "Orlando City SC"
         }
       ]
     },
