@@ -1,5 +1,5 @@
 {
-  "updated": "July 4, 2026 18:52 UTC — 88 of 104 matches played, 1 live",
+  "updated": "July 4, 2026 20:03 UTC — 89 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -1010,6 +1010,18 @@
       ]
     },
     {
+      "league": "UAE Pro League",
+      "total": 2,
+      "players": [
+        {
+          "name": "Soufiane Rahimi",
+          "nat": "Morocco",
+          "n": 2,
+          "club": "Al Ain"
+        }
+      ]
+    },
+    {
       "league": "First League (Bulgaria)",
       "total": 1,
       "players": [
@@ -1126,18 +1138,6 @@
           "nat": "Ghana",
           "n": 1,
           "club": "Nordsjælland"
-        }
-      ]
-    },
-    {
-      "league": "UAE Pro League",
-      "total": 1,
-      "players": [
-        {
-          "name": "Soufiane Rahimi",
-          "nat": "Morocco",
-          "n": 1,
-          "club": "Al Ain"
         }
       ]
     }
@@ -1457,12 +1457,12 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 23,
+      "total": 24,
       "players": [
         {
           "name": "Brahim Diaz",
           "nat": "Morocco",
-          "n": 3,
+          "n": 4,
           "club": "Real Madrid"
         },
         {
@@ -2713,7 +2713,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (88/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (89/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
