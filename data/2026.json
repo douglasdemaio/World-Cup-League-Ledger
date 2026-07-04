@@ -1,5 +1,5 @@
 {
-  "updated": "July 4, 2026 17:54 UTC — 88 of 104 matches played, 1 live",
+  "updated": "July 4, 2026 18:52 UTC — 88 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -189,7 +189,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 31,
+      "total": 33,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -208,6 +208,12 @@
           "nat": "Brazil",
           "n": 4,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Azzedine Ounahi",
+          "nat": "Morocco",
+          "n": 2,
+          "club": "Girona"
         },
         {
           "name": "Jude Bellingham",
@@ -1451,12 +1457,12 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 22,
+      "total": 23,
       "players": [
         {
           "name": "Brahim Diaz",
           "nat": "Morocco",
-          "n": 2,
+          "n": 3,
           "club": "Real Madrid"
         },
         {
@@ -1577,8 +1583,14 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 18,
+      "total": 19,
       "players": [
+        {
+          "name": "Achraf Hakimi",
+          "nat": "Morocco",
+          "n": 2,
+          "club": "Paris Saint-Germain"
+        },
         {
           "name": "Breel Embolo",
           "nat": "Switzerland",
@@ -1595,12 +1607,6 @@
           "name": "Ousmane Dembele",
           "nat": "France",
           "n": 2,
-          "club": "Paris Saint-Germain"
-        },
-        {
-          "name": "Achraf Hakimi",
-          "nat": "Morocco",
-          "n": 1,
           "club": "Paris Saint-Germain"
         },
         {
@@ -2257,7 +2263,7 @@
     },
     {
       "league": "Saudi Pro League",
-      "total": 39,
+      "total": 40,
       "players": [
         {
           "name": "Mohammed Alowais",
@@ -2266,16 +2272,16 @@
           "club": "Al-Ula"
         },
         {
+          "name": "Yassine Bounou",
+          "nat": "Morocco",
+          "n": 9,
+          "club": "Al-Hilal"
+        },
+        {
           "name": "Edouard Mendy",
           "nat": "Senegal",
           "n": 8,
           "club": "Al-Ahli"
-        },
-        {
-          "name": "Yassine Bounou",
-          "nat": "Morocco",
-          "n": 8,
-          "club": "Al-Hilal"
         },
         {
           "name": "Orlando Mosquera",
