@@ -1,14 +1,14 @@
 {
-  "updated": "July 4, 2026 23:51 UTC — 90 of 104 matches played",
+  "updated": "July 5, 2026 21:49 UTC — 90 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 52,
+      "total": 53,
       "players": [
         {
           "name": "Erling Haaland",
           "nat": "Norway",
-          "n": 5,
+          "n": 6,
           "club": "Manchester City"
         },
         {
@@ -1840,6 +1840,36 @@
       ]
     },
     {
+      "league": "Primeira Liga (Portugal)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Andreas Schjelderup",
+          "nat": "Norway",
+          "n": 2,
+          "club": "Benfica"
+        },
+        {
+          "name": "Luis Suarez",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "Sporting CP"
+        },
+        {
+          "name": "Maxi Araujo",
+          "nat": "Uruguay",
+          "n": 1,
+          "club": "Sporting CP"
+        },
+        {
+          "name": "Yannick Semedo",
+          "nat": "Cape Verde",
+          "n": 1,
+          "club": "Farense"
+        }
+      ]
+    },
+    {
       "league": "Saudi Pro League",
       "total": 5,
       "players": [
@@ -1932,36 +1962,6 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Al Ahly"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Andreas Schjelderup",
-          "nat": "Norway",
-          "n": 1,
-          "club": "Benfica"
-        },
-        {
-          "name": "Luis Suarez",
-          "nat": "Colombia",
-          "n": 1,
-          "club": "Sporting CP"
-        },
-        {
-          "name": "Maxi Araujo",
-          "nat": "Uruguay",
-          "n": 1,
-          "club": "Sporting CP"
-        },
-        {
-          "name": "Yannick Semedo",
-          "nat": "Cape Verde",
-          "n": 1,
-          "club": "Farense"
         }
       ]
     },
@@ -2215,7 +2215,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 67,
+      "total": 70,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2226,7 +2226,7 @@
         {
           "name": "Alisson",
           "nat": "Brazil",
-          "n": 11,
+          "n": 14,
           "club": "Liverpool"
         },
         {
@@ -2358,6 +2358,36 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 30,
+      "players": [
+        {
+          "name": "Orjan Nyland",
+          "nat": "Norway",
+          "n": 9,
+          "club": "Sevilla"
+        },
+        {
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 9,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Luca Zidane",
+          "nat": "Algeria",
+          "n": 8,
+          "club": "Granada"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 4,
+          "club": "Athletic Bilbao"
+        }
+      ]
+    },
+    {
       "league": "Ligue 1 (France)",
       "total": 29,
       "players": [
@@ -2378,36 +2408,6 @@
           "nat": "Senegal",
           "n": 4,
           "club": "Le Havre"
-        }
-      ]
-    },
-    {
-      "league": "La Liga (Spain)",
-      "total": 27,
-      "players": [
-        {
-          "name": "Thibaut Courtois",
-          "nat": "Belgium",
-          "n": 9,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Luca Zidane",
-          "nat": "Algeria",
-          "n": 8,
-          "club": "Granada"
-        },
-        {
-          "name": "Orjan Nyland",
-          "nat": "Norway",
-          "n": 6,
-          "club": "Sevilla"
-        },
-        {
-          "name": "Unai Simon",
-          "nat": "Spain",
-          "n": 4,
-          "club": "Athletic Bilbao"
         }
       ]
     },
