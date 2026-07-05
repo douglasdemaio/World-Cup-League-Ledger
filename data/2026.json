@@ -1,14 +1,14 @@
 {
-  "updated": "July 5, 2026 21:49 UTC — 90 of 104 matches played, 1 live",
+  "updated": "July 5, 2026 22:48 UTC — 91 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 53,
+      "total": 54,
       "players": [
         {
           "name": "Erling Haaland",
           "nat": "Norway",
-          "n": 6,
+          "n": 7,
           "club": "Manchester City"
         },
         {
@@ -1768,6 +1768,36 @@
       ]
     },
     {
+      "league": "Primeira Liga (Portugal)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Andreas Schjelderup",
+          "nat": "Norway",
+          "n": 3,
+          "club": "Benfica"
+        },
+        {
+          "name": "Luis Suarez",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "Sporting CP"
+        },
+        {
+          "name": "Maxi Araujo",
+          "nat": "Uruguay",
+          "n": 1,
+          "club": "Sporting CP"
+        },
+        {
+          "name": "Yannick Semedo",
+          "nat": "Cape Verde",
+          "n": 1,
+          "club": "Farense"
+        }
+      ]
+    },
+    {
       "league": "Pro League (Belgium)",
       "total": 6,
       "players": [
@@ -1836,36 +1866,6 @@
           "nat": "Japan",
           "n": 1,
           "club": "Ajax"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 5,
-      "players": [
-        {
-          "name": "Andreas Schjelderup",
-          "nat": "Norway",
-          "n": 2,
-          "club": "Benfica"
-        },
-        {
-          "name": "Luis Suarez",
-          "nat": "Colombia",
-          "n": 1,
-          "club": "Sporting CP"
-        },
-        {
-          "name": "Maxi Araujo",
-          "nat": "Uruguay",
-          "n": 1,
-          "club": "Sporting CP"
-        },
-        {
-          "name": "Yannick Semedo",
-          "nat": "Cape Verde",
-          "n": 1,
-          "club": "Farense"
         }
       ]
     },
@@ -2334,6 +2334,36 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 31,
+      "players": [
+        {
+          "name": "Orjan Nyland",
+          "nat": "Norway",
+          "n": 10,
+          "club": "Sevilla"
+        },
+        {
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 9,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Luca Zidane",
+          "nat": "Algeria",
+          "n": 8,
+          "club": "Granada"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 4,
+          "club": "Athletic Bilbao"
+        }
+      ]
+    },
+    {
       "league": "MLS (USA/Canada)",
       "total": 31,
       "players": [
@@ -2354,36 +2384,6 @@
           "nat": "USA",
           "n": 5,
           "club": "New York City FC"
-        }
-      ]
-    },
-    {
-      "league": "La Liga (Spain)",
-      "total": 30,
-      "players": [
-        {
-          "name": "Orjan Nyland",
-          "nat": "Norway",
-          "n": 9,
-          "club": "Sevilla"
-        },
-        {
-          "name": "Thibaut Courtois",
-          "nat": "Belgium",
-          "n": 9,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Luca Zidane",
-          "nat": "Algeria",
-          "n": 8,
-          "club": "Granada"
-        },
-        {
-          "name": "Unai Simon",
-          "nat": "Spain",
-          "n": 4,
-          "club": "Athletic Bilbao"
         }
       ]
     },
@@ -2713,7 +2713,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (90/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (91/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
