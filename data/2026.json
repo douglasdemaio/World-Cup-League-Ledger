@@ -1,9 +1,9 @@
 {
-  "updated": "July 6, 2026 19:29 UTC — 92 of 104 matches played, 1 live",
+  "updated": "July 6, 2026 21:19 UTC — 93 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 54,
+      "total": 55,
       "players": [
         {
           "name": "Erling Haaland",
@@ -154,6 +154,12 @@
           "nat": "Argentina",
           "n": 1,
           "club": "Manchester United"
+        },
+        {
+          "name": "Mikel Merino",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Arsenal"
         },
         {
           "name": "Mohamed Salah",
@@ -1463,7 +1469,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 24,
+      "total": 25,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1518,6 +1524,12 @@
           "nat": "Austria",
           "n": 1,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Ferran Torres",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Barcelona"
         },
         {
           "name": "Gustavo Puerta",
@@ -2298,6 +2310,24 @@
       ]
     },
     {
+      "league": "Primeira Liga (Portugal)",
+      "total": 37,
+      "players": [
+        {
+          "name": "Diogo Costa",
+          "nat": "Portugal",
+          "n": 19,
+          "club": "Porto"
+        },
+        {
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 18,
+          "club": "Chaves"
+        }
+      ]
+    },
+    {
       "league": "Primera División (Argentina)",
       "total": 36,
       "players": [
@@ -2322,26 +2352,8 @@
       ]
     },
     {
-      "league": "Primeira Liga (Portugal)",
-      "total": 35,
-      "players": [
-        {
-          "name": "Vozinha",
-          "nat": "Cape Verde",
-          "n": 18,
-          "club": "Chaves"
-        },
-        {
-          "name": "Diogo Costa",
-          "nat": "Portugal",
-          "n": 17,
-          "club": "Porto"
-        }
-      ]
-    },
-    {
       "league": "La Liga (Spain)",
-      "total": 32,
+      "total": 33,
       "players": [
         {
           "name": "Orjan Nyland",
@@ -2364,7 +2376,7 @@
         {
           "name": "Unai Simon",
           "nat": "Spain",
-          "n": 5,
+          "n": 6,
           "club": "Athletic Bilbao"
         }
       ]
@@ -2719,7 +2731,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (92/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (93/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
