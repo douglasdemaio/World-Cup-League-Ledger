@@ -1,5 +1,5 @@
 {
-  "updated": "July 6, 2026 01:57 UTC — 91 of 104 matches played, 1 live",
+  "updated": "July 6, 2026 06:21 UTC — 92 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2221,7 +2221,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 72,
+      "total": 73,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2248,16 +2248,16 @@
           "club": "Millwall"
         },
         {
+          "name": "Jordan Pickford",
+          "nat": "England",
+          "n": 9,
+          "club": "Everton"
+        },
+        {
           "name": "Angus Gunn",
           "nat": "Scotland",
           "n": 8,
           "club": "Nottingham Forest"
-        },
-        {
-          "name": "Jordan Pickford",
-          "nat": "England",
-          "n": 8,
-          "club": "Everton"
         },
         {
           "name": "Emiliano Martinez",
@@ -2514,6 +2514,24 @@
       ]
     },
     {
+      "league": "Liga MX (Mexico)",
+      "total": 12,
+      "players": [
+        {
+          "name": "Raul Rangel",
+          "nat": "Mexico",
+          "n": 8,
+          "club": "Guadalajara"
+        },
+        {
+          "name": "Camilo Vargas",
+          "nat": "Colombia",
+          "n": 4,
+          "club": "Atlas"
+        }
+      ]
+    },
+    {
       "league": "Qatar Stars League",
       "total": 12,
       "players": [
@@ -2522,24 +2540,6 @@
           "nat": "Qatar",
           "n": 12,
           "club": "Al-Rayyan"
-        }
-      ]
-    },
-    {
-      "league": "Liga MX (Mexico)",
-      "total": 11,
-      "players": [
-        {
-          "name": "Raul Rangel",
-          "nat": "Mexico",
-          "n": 7,
-          "club": "Guadalajara"
-        },
-        {
-          "name": "Camilo Vargas",
-          "nat": "Colombia",
-          "n": 4,
-          "club": "Atlas"
         }
       ]
     },
@@ -2719,7 +2719,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (91/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (92/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
