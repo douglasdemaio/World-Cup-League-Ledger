@@ -1,5 +1,5 @@
 {
-  "updated": "July 6, 2026 06:21 UTC — 92 of 104 matches played",
+  "updated": "July 6, 2026 19:29 UTC — 92 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2323,7 +2323,7 @@
     },
     {
       "league": "Primeira Liga (Portugal)",
-      "total": 32,
+      "total": 35,
       "players": [
         {
           "name": "Vozinha",
@@ -2334,14 +2334,14 @@
         {
           "name": "Diogo Costa",
           "nat": "Portugal",
-          "n": 14,
+          "n": 17,
           "club": "Porto"
         }
       ]
     },
     {
       "league": "La Liga (Spain)",
-      "total": 31,
+      "total": 32,
       "players": [
         {
           "name": "Orjan Nyland",
@@ -2364,7 +2364,7 @@
         {
           "name": "Unai Simon",
           "nat": "Spain",
-          "n": 4,
+          "n": 5,
           "club": "Athletic Bilbao"
         }
       ]
