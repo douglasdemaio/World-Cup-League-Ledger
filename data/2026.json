@@ -1,5 +1,5 @@
 {
-  "updated": "July 5, 2026 22:48 UTC — 91 of 104 matches played",
+  "updated": "July 6, 2026 01:57 UTC — 91 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -189,12 +189,18 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 33,
+      "total": 35,
       "players": [
         {
           "name": "Kylian Mbappe",
           "nat": "France",
           "n": 6,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Jude Bellingham",
+          "nat": "England",
+          "n": 4,
           "club": "Real Madrid"
         },
         {
@@ -214,12 +220,6 @@
           "nat": "Morocco",
           "n": 2,
           "club": "Girona"
-        },
-        {
-          "name": "Jude Bellingham",
-          "nat": "England",
-          "n": 2,
-          "club": "Real Madrid"
         },
         {
           "name": "Nicolas Pepe",
@@ -609,12 +609,12 @@
     },
     {
       "league": "Saudi Pro League",
-      "total": 9,
+      "total": 10,
       "players": [
         {
           "name": "Julian Quinones",
           "nat": "Mexico",
-          "n": 3,
+          "n": 4,
           "club": "Al-Qadsiah"
         },
         {
@@ -1145,7 +1145,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 51,
+      "total": 52,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1158,6 +1158,12 @@
           "nat": "Sweden",
           "n": 3,
           "club": "Liverpool"
+        },
+        {
+          "name": "Bukayo Saka",
+          "nat": "England",
+          "n": 3,
+          "club": "Arsenal"
         },
         {
           "name": "Florian Wirtz",
@@ -1176,12 +1182,6 @@
           "nat": "England",
           "n": 2,
           "club": "Newcastle United"
-        },
-        {
-          "name": "Bukayo Saka",
-          "nat": "England",
-          "n": 2,
-          "club": "Arsenal"
         },
         {
           "name": "Chris Wood",
@@ -1343,7 +1343,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 25,
+      "total": 26,
       "players": [
         {
           "name": "Michael Olise",
@@ -1374,6 +1374,12 @@
           "nat": "Germany",
           "n": 1,
           "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Harry Kane",
+          "nat": "England",
+          "n": 1,
+          "club": "Bayern Munich"
         },
         {
           "name": "Josip Stanisic",
@@ -2215,7 +2221,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 70,
+      "total": 72,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2250,7 +2256,7 @@
         {
           "name": "Jordan Pickford",
           "nat": "England",
-          "n": 6,
+          "n": 8,
           "club": "Everton"
         },
         {
@@ -2520,6 +2526,24 @@
       ]
     },
     {
+      "league": "Liga MX (Mexico)",
+      "total": 11,
+      "players": [
+        {
+          "name": "Raul Rangel",
+          "nat": "Mexico",
+          "n": 7,
+          "club": "Guadalajara"
+        },
+        {
+          "name": "Camilo Vargas",
+          "nat": "Colombia",
+          "n": 4,
+          "club": "Atlas"
+        }
+      ]
+    },
+    {
       "league": "South African Premier Division",
       "total": 11,
       "players": [
@@ -2570,24 +2594,6 @@
           "nat": "Iraq",
           "n": 2,
           "club": "Al-Shorta"
-        }
-      ]
-    },
-    {
-      "league": "Liga MX (Mexico)",
-      "total": 10,
-      "players": [
-        {
-          "name": "Raul Rangel",
-          "nat": "Mexico",
-          "n": 6,
-          "club": "Guadalajara"
-        },
-        {
-          "name": "Camilo Vargas",
-          "nat": "Colombia",
-          "n": 4,
-          "club": "Atlas"
         }
       ]
     },
