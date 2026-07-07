@@ -307,21 +307,24 @@ footer.foot a{color:var(--gold);text-decoration:none}
   .poll-clock{text-align:left}
   .poll-result-row{grid-template-columns:1fr;gap:4px}
 }
-.site-swap{position:fixed;top:16px;right:16px;z-index:20;display:block;line-height:0;border-radius:12px;transition:transform .15s ease}
-.site-swap img{width:56px;height:56px;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.35);background:rgba(9,10,13,.6)}
+.hero-head{display:flex;align-items:center;justify-content:space-between;gap:18px;flex-wrap:wrap}
+.hero-head h1{margin:10px 0 8px}
+.site-swap{display:block;line-height:0;flex:0 0 auto;transition:transform .15s ease}
+.site-swap img{display:block;height:calc(2.04 * clamp(30px,5.4vw,52px));width:auto;border-radius:12px;box-shadow:0 4px 12px rgba(0,0,0,.35);background:rgba(9,10,13,.6)}
 .site-swap:hover,.site-swap:focus-visible{transform:translateY(-1px);outline:none}
 .site-swap:hover img,.site-swap:focus-visible img{box-shadow:0 6px 16px rgba(0,0,0,.55)}
-@media(max-width:560px){.site-swap{top:10px;right:10px}.site-swap img{width:44px;height:44px}}
 </style>
 </head>
 <body>
-<a class="site-swap" href="https://douglasdemaio.github.io/Euro-Cup-League-Ledger/" aria-label="Visit the UEFA European Championship club-league ledger">
-  <img src="image/logo.png" alt="Switch to the Euro ledger" width="90" height="90">
-</a>
 <div class="wrap">
   <header>
     <div class="kick">FIFA World Cup · Club-league ledger · Last five tournaments</div>
-    <h1>Where the goals<br><em>come from</em></h1>
+    <div class="hero-head">
+      <h1>Where the goals<br><em>come from</em></h1>
+      <a class="site-swap" href="https://douglasdemaio.github.io/Euro-Cup-League-Ledger/" aria-label="Visit the UEFA European Championship club-league ledger">
+        <img src="image/logo.png" alt="Switch to the Euro ledger">
+      </a>
+    </div>
     <p class="sub">Every FIFA World Cup goal, assist and save, credited back to the league the player earns his club paycheck in. The <strong>2026 tournament</strong> updates live; the ledgers for <strong>2022, 2018, 2014 and 2010</strong> are settled. Tap any league to see exactly who delivered.</p>
   </header>
 
