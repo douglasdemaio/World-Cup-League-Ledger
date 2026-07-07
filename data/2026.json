@@ -1,5 +1,5 @@
 {
-  "updated": "July 6, 2026 21:19 UTC — 93 of 104 matches played",
+  "updated": "July 7, 2026 02:12 UTC — 94 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -303,7 +303,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 23,
+      "total": 24,
       "players": [
         {
           "name": "Harry Kane",
@@ -322,6 +322,12 @@
           "nat": "Switzerland",
           "n": 3,
           "club": "SC Freiburg"
+        },
+        {
+          "name": "Malik Tillman",
+          "nat": "USA",
+          "n": 2,
+          "club": "Bayer Leverkusen"
         },
         {
           "name": "Antonio Nusa",
@@ -364,12 +370,6 @@
           "nat": "Colombia",
           "n": 1,
           "club": "Bayern Munich"
-        },
-        {
-          "name": "Malik Tillman",
-          "nat": "USA",
-          "n": 1,
-          "club": "Bayer Leverkusen"
         },
         {
           "name": "Marcel Sabitzer",
@@ -501,7 +501,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 14,
+      "total": 17,
       "players": [
         {
           "name": "Jonathan David",
@@ -512,8 +512,14 @@
         {
           "name": "Romelu Lukaku",
           "nat": "Belgium",
-          "n": 2,
+          "n": 3,
           "club": "Napoli"
+        },
+        {
+          "name": "Charles De Ketelaere",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Atalanta"
         },
         {
           "name": "Alexis Saelemaekers",
@@ -830,6 +836,36 @@
       ]
     },
     {
+      "league": "Pro League (Belgium)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Hans Vanaken",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Club Brugge"
+        },
+        {
+          "name": "Junya Ito",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Genk"
+        },
+        {
+          "name": "Nathan Saliba",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Anderlecht"
+        },
+        {
+          "name": "Promise David",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Union Saint-Gilloise"
+        }
+      ]
+    },
+    {
       "league": "Série A (Brazil)",
       "total": 4,
       "players": [
@@ -916,30 +952,6 @@
           "nat": "Cape Verde",
           "n": 1,
           "club": "Benfica"
-        }
-      ]
-    },
-    {
-      "league": "Pro League (Belgium)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Junya Ito",
-          "nat": "Japan",
-          "n": 1,
-          "club": "Genk"
-        },
-        {
-          "name": "Nathan Saliba",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Anderlecht"
-        },
-        {
-          "name": "Promise David",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Union Saint-Gilloise"
         }
       ]
     },
@@ -1151,7 +1163,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 52,
+      "total": 53,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1212,6 +1224,12 @@
           "nat": "Senegal",
           "n": 2,
           "club": "Everton"
+        },
+        {
+          "name": "Leandro Trossard",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Arsenal"
         },
         {
           "name": "Marc Cucurella",
@@ -1296,12 +1314,6 @@
           "nat": "Senegal",
           "n": 1,
           "club": "Crystal Palace"
-        },
-        {
-          "name": "Leandro Trossard",
-          "nat": "Belgium",
-          "n": 1,
-          "club": "Arsenal"
         },
         {
           "name": "Lisandro Martinez",
@@ -1697,7 +1709,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 10,
+      "total": 11,
       "players": [
         {
           "name": "Denzel Dumfries",
@@ -1710,6 +1722,12 @@
           "nat": "France",
           "n": 1,
           "club": "Milan"
+        },
+        {
+          "name": "Charles De Ketelaere",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Atalanta"
         },
         {
           "name": "Christian Pulisic",
@@ -1752,6 +1770,42 @@
           "nat": "Bosnia & Herzegovina",
           "n": 1,
           "club": "Atalanta"
+        }
+      ]
+    },
+    {
+      "league": "Pro League (Belgium)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Hans Vanaken",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Club Brugge"
+        },
+        {
+          "name": "Nathan Saliba",
+          "nat": "Canada",
+          "n": 2,
+          "club": "Anderlecht"
+        },
+        {
+          "name": "Jean-Kevin Duverne",
+          "nat": "Haiti",
+          "n": 1,
+          "club": "Gent"
+        },
+        {
+          "name": "Kevin Rodriguez",
+          "nat": "Ecuador",
+          "n": 1,
+          "club": "Union Saint-Gilloise"
+        },
+        {
+          "name": "Promise David",
+          "nat": "Canada",
+          "n": 1,
+          "club": "Union Saint-Gilloise"
         }
       ]
     },
@@ -1812,42 +1866,6 @@
           "nat": "Cape Verde",
           "n": 1,
           "club": "Farense"
-        }
-      ]
-    },
-    {
-      "league": "Pro League (Belgium)",
-      "total": 6,
-      "players": [
-        {
-          "name": "Nathan Saliba",
-          "nat": "Canada",
-          "n": 2,
-          "club": "Anderlecht"
-        },
-        {
-          "name": "Hans Vanaken",
-          "nat": "Belgium",
-          "n": 1,
-          "club": "Club Brugge"
-        },
-        {
-          "name": "Jean-Kevin Duverne",
-          "nat": "Haiti",
-          "n": 1,
-          "club": "Gent"
-        },
-        {
-          "name": "Kevin Rodriguez",
-          "nat": "Ecuador",
-          "n": 1,
-          "club": "Union Saint-Gilloise"
-        },
-        {
-          "name": "Promise David",
-          "nat": "Canada",
-          "n": 1,
-          "club": "Union Saint-Gilloise"
         }
       ]
     },
@@ -2020,6 +2038,18 @@
       ]
     },
     {
+      "league": "Scottish Premiership",
+      "total": 2,
+      "players": [
+        {
+          "name": "Nicolas Raskin",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Rangers"
+        }
+      ]
+    },
+    {
       "league": "Série A (Brazil)",
       "total": 2,
       "players": [
@@ -2166,18 +2196,6 @@
           "nat": "Qatar",
           "n": 1,
           "club": "Al-Duhail"
-        }
-      ]
-    },
-    {
-      "league": "Scottish Premiership",
-      "total": 1,
-      "players": [
-        {
-          "name": "Nicolas Raskin",
-          "nat": "Belgium",
-          "n": 1,
-          "club": "Rangers"
         }
       ]
     },
@@ -2353,7 +2371,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 33,
+      "total": 34,
       "players": [
         {
           "name": "Orjan Nyland",
@@ -2364,7 +2382,7 @@
         {
           "name": "Thibaut Courtois",
           "nat": "Belgium",
-          "n": 9,
+          "n": 10,
           "club": "Real Madrid"
         },
         {
@@ -2383,7 +2401,7 @@
     },
     {
       "league": "MLS (USA/Canada)",
-      "total": 31,
+      "total": 34,
       "players": [
         {
           "name": "Eloy Room",
@@ -2392,16 +2410,16 @@
           "club": "Miami FC"
         },
         {
+          "name": "Matt Freese",
+          "nat": "USA",
+          "n": 8,
+          "club": "New York City FC"
+        },
+        {
           "name": "Maxime Crepeau",
           "nat": "Canada",
           "n": 6,
           "club": "Orlando City SC"
-        },
-        {
-          "name": "Matt Freese",
-          "nat": "USA",
-          "n": 5,
-          "club": "New York City FC"
         }
       ]
     },
@@ -2731,7 +2749,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (93/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (94/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
