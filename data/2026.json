@@ -1,5 +1,5 @@
 {
-  "updated": "July 9, 2026 21:09 UTC — 96 of 104 matches played, 1 live",
+  "updated": "July 9, 2026 23:01 UTC — 97 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -207,12 +207,12 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 35,
+      "total": 36,
       "players": [
         {
           "name": "Kylian Mbappe",
           "nat": "France",
-          "n": 6,
+          "n": 7,
           "club": "Real Madrid"
         },
         {
@@ -417,12 +417,12 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 21,
+      "total": 22,
       "players": [
         {
           "name": "Ousmane Dembele",
           "nat": "France",
-          "n": 4,
+          "n": 5,
           "club": "Paris Saint-Germain"
         },
         {
@@ -1378,128 +1378,8 @@
       ]
     },
     {
-      "league": "Bundesliga (Germany)",
-      "total": 26,
-      "players": [
-        {
-          "name": "Michael Olise",
-          "nat": "France",
-          "n": 5,
-          "club": "Bayern Munich"
-        },
-        {
-          "name": "Deniz Undav",
-          "nat": "Germany",
-          "n": 2,
-          "club": "VfB Stuttgart"
-        },
-        {
-          "name": "Johan Manzambi",
-          "nat": "Switzerland",
-          "n": 2,
-          "club": "SC Freiburg"
-        },
-        {
-          "name": "Joshua Kimmich",
-          "nat": "Germany",
-          "n": 2,
-          "club": "Bayern Munich"
-        },
-        {
-          "name": "Felix Nmecha",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Borussia Dortmund"
-        },
-        {
-          "name": "Harry Kane",
-          "nat": "England",
-          "n": 1,
-          "club": "Bayern Munich"
-        },
-        {
-          "name": "Josip Stanisic",
-          "nat": "Croatia",
-          "n": 1,
-          "club": "Bayern Munich"
-        },
-        {
-          "name": "Kaishu Sano",
-          "nat": "Japan",
-          "n": 1,
-          "club": "Mainz 05"
-        },
-        {
-          "name": "Konrad Laimer",
-          "nat": "Austria",
-          "n": 1,
-          "club": "Bayern Munich"
-        },
-        {
-          "name": "Luis Diaz",
-          "nat": "Colombia",
-          "n": 1,
-          "club": "Bayern Munich"
-        },
-        {
-          "name": "Malik Tillman",
-          "nat": "USA",
-          "n": 1,
-          "club": "Bayer Leverkusen"
-        },
-        {
-          "name": "Michael Gregoritsch",
-          "nat": "Austria",
-          "n": 1,
-          "club": "FC Augsburg"
-        },
-        {
-          "name": "Nadiem Amiri",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Mainz 05"
-        },
-        {
-          "name": "Nathaniel Brown",
-          "nat": "Germany",
-          "n": 1,
-          "club": "Eintracht Frankfurt"
-        },
-        {
-          "name": "Nicolas Jackson",
-          "nat": "Senegal",
-          "n": 1,
-          "club": "Bayern Munich"
-        },
-        {
-          "name": "Ritsu Doan",
-          "nat": "Japan",
-          "n": 1,
-          "club": "Eintracht Frankfurt"
-        },
-        {
-          "name": "Vladimir Coufal",
-          "nat": "Czechia",
-          "n": 1,
-          "club": "TSG Hoffenheim"
-        },
-        {
-          "name": "Xaver Schlager",
-          "nat": "Austria",
-          "n": 1,
-          "club": "RB Leipzig"
-        },
-        {
-          "name": "Yan Diomande",
-          "nat": "Ivory Coast",
-          "n": 1,
-          "club": "RB Leipzig"
-        }
-      ]
-    },
-    {
       "league": "La Liga (Spain)",
-      "total": 26,
+      "total": 27,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1510,7 +1390,7 @@
         {
           "name": "Kylian Mbappe",
           "nat": "France",
-          "n": 2,
+          "n": 3,
           "club": "Real Madrid"
         },
         {
@@ -1636,8 +1516,128 @@
       ]
     },
     {
+      "league": "Bundesliga (Germany)",
+      "total": 26,
+      "players": [
+        {
+          "name": "Michael Olise",
+          "nat": "France",
+          "n": 5,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Deniz Undav",
+          "nat": "Germany",
+          "n": 2,
+          "club": "VfB Stuttgart"
+        },
+        {
+          "name": "Johan Manzambi",
+          "nat": "Switzerland",
+          "n": 2,
+          "club": "SC Freiburg"
+        },
+        {
+          "name": "Joshua Kimmich",
+          "nat": "Germany",
+          "n": 2,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Felix Nmecha",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Harry Kane",
+          "nat": "England",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Josip Stanisic",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Kaishu Sano",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Mainz 05"
+        },
+        {
+          "name": "Konrad Laimer",
+          "nat": "Austria",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Luis Diaz",
+          "nat": "Colombia",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Malik Tillman",
+          "nat": "USA",
+          "n": 1,
+          "club": "Bayer Leverkusen"
+        },
+        {
+          "name": "Michael Gregoritsch",
+          "nat": "Austria",
+          "n": 1,
+          "club": "FC Augsburg"
+        },
+        {
+          "name": "Nadiem Amiri",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Mainz 05"
+        },
+        {
+          "name": "Nathaniel Brown",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Eintracht Frankfurt"
+        },
+        {
+          "name": "Nicolas Jackson",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Ritsu Doan",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Eintracht Frankfurt"
+        },
+        {
+          "name": "Vladimir Coufal",
+          "nat": "Czechia",
+          "n": 1,
+          "club": "TSG Hoffenheim"
+        },
+        {
+          "name": "Xaver Schlager",
+          "nat": "Austria",
+          "n": 1,
+          "club": "RB Leipzig"
+        },
+        {
+          "name": "Yan Diomande",
+          "nat": "Ivory Coast",
+          "n": 1,
+          "club": "RB Leipzig"
+        }
+      ]
+    },
+    {
       "league": "Ligue 1 (France)",
-      "total": 19,
+      "total": 20,
       "players": [
         {
           "name": "Achraf Hakimi",
@@ -1680,6 +1680,12 @@
           "nat": "DR Congo",
           "n": 1,
           "club": "Lille"
+        },
+        {
+          "name": "Desire Doue",
+          "nat": "France",
+          "n": 1,
+          "club": "Paris Saint-Germain"
         },
         {
           "name": "Ernest Nuamah",
@@ -2347,7 +2353,7 @@
     },
     {
       "league": "Saudi Pro League",
-      "total": 43,
+      "total": 46,
       "players": [
         {
           "name": "Mohammed Alowais",
@@ -2358,7 +2364,7 @@
         {
           "name": "Yassine Bounou",
           "nat": "Morocco",
-          "n": 12,
+          "n": 15,
           "club": "Al-Hilal"
         },
         {
@@ -2521,7 +2527,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 20,
+      "total": 21,
       "players": [
         {
           "name": "Zion Suzuki",
@@ -2532,7 +2538,7 @@
         {
           "name": "Mike Maignan",
           "nat": "France",
-          "n": 8,
+          "n": 9,
           "club": "Milan"
         }
       ]
@@ -2797,7 +2803,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (96/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (97/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
