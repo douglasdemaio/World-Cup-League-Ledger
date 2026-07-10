@@ -1,9 +1,9 @@
 {
-  "updated": "July 10, 2026 20:12 UTC — 97 of 104 matches played, 1 live",
+  "updated": "July 10, 2026 21:49 UTC — 98 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 57,
+      "total": 58,
       "players": [
         {
           "name": "Erling Haaland",
@@ -74,6 +74,12 @@
         {
           "name": "Leandro Trossard",
           "nat": "Belgium",
+          "n": 2,
+          "club": "Arsenal"
+        },
+        {
+          "name": "Mikel Merino",
+          "nat": "Spain",
           "n": 2,
           "club": "Arsenal"
         },
@@ -166,12 +172,6 @@
           "nat": "Argentina",
           "n": 1,
           "club": "Manchester United"
-        },
-        {
-          "name": "Mikel Merino",
-          "nat": "Spain",
-          "n": 1,
-          "club": "Arsenal"
         },
         {
           "name": "Mohamed Salah",
@@ -2394,31 +2394,13 @@
       ]
     },
     {
-      "league": "Primeira Liga (Portugal)",
-      "total": 37,
-      "players": [
-        {
-          "name": "Diogo Costa",
-          "nat": "Portugal",
-          "n": 19,
-          "club": "Porto"
-        },
-        {
-          "name": "Vozinha",
-          "nat": "Cape Verde",
-          "n": 18,
-          "club": "Chaves"
-        }
-      ]
-    },
-    {
       "league": "La Liga (Spain)",
-      "total": 36,
+      "total": 39,
       "players": [
         {
           "name": "Thibaut Courtois",
           "nat": "Belgium",
-          "n": 12,
+          "n": 14,
           "club": "Real Madrid"
         },
         {
@@ -2436,8 +2418,26 @@
         {
           "name": "Unai Simon",
           "nat": "Spain",
-          "n": 6,
+          "n": 7,
           "club": "Athletic Bilbao"
+        }
+      ]
+    },
+    {
+      "league": "Primeira Liga (Portugal)",
+      "total": 37,
+      "players": [
+        {
+          "name": "Diogo Costa",
+          "nat": "Portugal",
+          "n": 19,
+          "club": "Porto"
+        },
+        {
+          "name": "Vozinha",
+          "nat": "Cape Verde",
+          "n": 18,
+          "club": "Chaves"
         }
       ]
     },
@@ -2815,7 +2815,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (97/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (98/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
