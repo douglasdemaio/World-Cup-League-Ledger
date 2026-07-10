@@ -1,5 +1,5 @@
 {
-  "updated": "July 9, 2026 23:01 UTC — 97 of 104 matches played",
+  "updated": "July 10, 2026 20:12 UTC — 97 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -417,7 +417,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 22,
+      "total": 23,
       "players": [
         {
           "name": "Ousmane Dembele",
@@ -458,6 +458,12 @@
         {
           "name": "Desire Doue",
           "nat": "France",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Fabian Ruiz",
+          "nat": "Spain",
           "n": 1,
           "club": "Paris Saint-Germain"
         },
@@ -513,8 +519,14 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 17,
+      "total": 18,
       "players": [
+        {
+          "name": "Charles De Ketelaere",
+          "nat": "Belgium",
+          "n": 3,
+          "club": "Atalanta"
+        },
         {
           "name": "Jonathan David",
           "nat": "Canada",
@@ -526,12 +538,6 @@
           "nat": "Belgium",
           "n": 3,
           "club": "Napoli"
-        },
-        {
-          "name": "Charles De Ketelaere",
-          "nat": "Belgium",
-          "n": 2,
-          "club": "Atalanta"
         },
         {
           "name": "Alexis Saelemaekers",
@@ -1181,7 +1187,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 53,
+      "total": 54,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1368,6 +1374,12 @@
           "nat": "Netherlands",
           "n": 1,
           "club": "Manchester City"
+        },
+        {
+          "name": "Timothy Castagne",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Fulham"
         },
         {
           "name": "Virgil Van Dijk",
@@ -2400,6 +2412,36 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 36,
+      "players": [
+        {
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 12,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Orjan Nyland",
+          "nat": "Norway",
+          "n": 10,
+          "club": "Sevilla"
+        },
+        {
+          "name": "Luca Zidane",
+          "nat": "Algeria",
+          "n": 8,
+          "club": "Granada"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 6,
+          "club": "Athletic Bilbao"
+        }
+      ]
+    },
+    {
       "league": "Primera División (Argentina)",
       "total": 36,
       "players": [
@@ -2420,36 +2462,6 @@
           "nat": "Uruguay",
           "n": 4,
           "club": "Estudiantes"
-        }
-      ]
-    },
-    {
-      "league": "La Liga (Spain)",
-      "total": 34,
-      "players": [
-        {
-          "name": "Orjan Nyland",
-          "nat": "Norway",
-          "n": 10,
-          "club": "Sevilla"
-        },
-        {
-          "name": "Thibaut Courtois",
-          "nat": "Belgium",
-          "n": 10,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Luca Zidane",
-          "nat": "Algeria",
-          "n": 8,
-          "club": "Granada"
-        },
-        {
-          "name": "Unai Simon",
-          "nat": "Spain",
-          "n": 6,
-          "club": "Athletic Bilbao"
         }
       ]
     },
