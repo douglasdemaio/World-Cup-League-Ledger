@@ -1,5 +1,5 @@
 {
-  "updated": "July 10, 2026 21:49 UTC — 98 of 104 matches played",
+  "updated": "July 11, 2026 21:38 UTC — 98 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -860,6 +860,30 @@
       ]
     },
     {
+      "league": "Primeira Liga (Portugal)",
+      "total": 4,
+      "players": [
+        {
+          "name": "Maxi Araujo",
+          "nat": "Uruguay",
+          "n": 2,
+          "club": "Sporting CP"
+        },
+        {
+          "name": "Andreas Schjelderup",
+          "nat": "Norway",
+          "n": 1,
+          "club": "Benfica"
+        },
+        {
+          "name": "Sidny Lopes Cabral",
+          "nat": "Cape Verde",
+          "n": 1,
+          "club": "Benfica"
+        }
+      ]
+    },
+    {
       "league": "Pro League (Belgium)",
       "total": 4,
       "players": [
@@ -958,24 +982,6 @@
           "nat": "Iran",
           "n": 1,
           "club": "Rostov"
-        }
-      ]
-    },
-    {
-      "league": "Primeira Liga (Portugal)",
-      "total": 3,
-      "players": [
-        {
-          "name": "Maxi Araujo",
-          "nat": "Uruguay",
-          "n": 2,
-          "club": "Sporting CP"
-        },
-        {
-          "name": "Sidny Lopes Cabral",
-          "nat": "Cape Verde",
-          "n": 1,
-          "club": "Benfica"
         }
       ]
     },
@@ -1187,13 +1193,19 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 54,
+      "total": 55,
       "players": [
         {
           "name": "Bruno Guimaraes",
           "nat": "Brazil",
           "n": 4,
           "club": "Newcastle United"
+        },
+        {
+          "name": "Martin Odegaard",
+          "nat": "Norway",
+          "n": 4,
+          "club": "Arsenal"
         },
         {
           "name": "Alexander Isak",
@@ -1212,12 +1224,6 @@
           "nat": "Germany",
           "n": 3,
           "club": "Liverpool"
-        },
-        {
-          "name": "Martin Odegaard",
-          "nat": "Norway",
-          "n": 3,
-          "club": "Arsenal"
         },
         {
           "name": "Anthony Gordon",
@@ -2317,7 +2323,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 73,
+      "total": 74,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2346,7 +2352,7 @@
         {
           "name": "Jordan Pickford",
           "nat": "England",
-          "n": 9,
+          "n": 10,
           "club": "Everton"
         },
         {
