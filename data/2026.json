@@ -1,5 +1,5 @@
 {
-  "updated": "July 11, 2026 21:38 UTC — 98 of 104 matches played, 1 live",
+  "updated": "July 11, 2026 22:35 UTC — 98 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -207,7 +207,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 36,
+      "total": 37,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -218,7 +218,7 @@
         {
           "name": "Jude Bellingham",
           "nat": "England",
-          "n": 4,
+          "n": 5,
           "club": "Real Madrid"
         },
         {
@@ -1193,7 +1193,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 55,
+      "total": 56,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1214,6 +1214,12 @@
           "club": "Liverpool"
         },
         {
+          "name": "Anthony Gordon",
+          "nat": "England",
+          "n": 3,
+          "club": "Newcastle United"
+        },
+        {
           "name": "Bukayo Saka",
           "nat": "England",
           "n": 3,
@@ -1224,12 +1230,6 @@
           "nat": "Germany",
           "n": 3,
           "club": "Liverpool"
-        },
-        {
-          "name": "Anthony Gordon",
-          "nat": "England",
-          "n": 2,
-          "club": "Newcastle United"
         },
         {
           "name": "Chris Wood",
@@ -2323,7 +2323,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 74,
+      "total": 75,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2344,16 +2344,16 @@
           "club": "Derby County"
         },
         {
+          "name": "Jordan Pickford",
+          "nat": "England",
+          "n": 11,
+          "club": "Everton"
+        },
+        {
           "name": "Max Crocombe",
           "nat": "New Zealand",
           "n": 11,
           "club": "Millwall"
-        },
-        {
-          "name": "Jordan Pickford",
-          "nat": "England",
-          "n": 10,
-          "club": "Everton"
         },
         {
           "name": "Angus Gunn",
@@ -2401,7 +2401,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 39,
+      "total": 40,
       "players": [
         {
           "name": "Thibaut Courtois",
@@ -2412,7 +2412,7 @@
         {
           "name": "Orjan Nyland",
           "nat": "Norway",
-          "n": 10,
+          "n": 11,
           "club": "Sevilla"
         },
         {
