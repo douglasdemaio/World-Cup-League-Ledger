@@ -1,5 +1,5 @@
 {
-  "updated": "July 11, 2026 22:35 UTC — 98 of 104 matches played, 1 live",
+  "updated": "July 11, 2026 23:41 UTC — 98 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -207,7 +207,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 37,
+      "total": 38,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -218,7 +218,7 @@
         {
           "name": "Jude Bellingham",
           "nat": "England",
-          "n": 5,
+          "n": 6,
           "club": "Real Madrid"
         },
         {
@@ -2323,7 +2323,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 75,
+      "total": 76,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2338,16 +2338,16 @@
           "club": "Liverpool"
         },
         {
+          "name": "Jordan Pickford",
+          "nat": "England",
+          "n": 12,
+          "club": "Everton"
+        },
+        {
           "name": "Jacob Widell Zetterstrom",
           "nat": "Sweden",
           "n": 11,
           "club": "Derby County"
-        },
-        {
-          "name": "Jordan Pickford",
-          "nat": "England",
-          "n": 11,
-          "club": "Everton"
         },
         {
           "name": "Max Crocombe",
@@ -2401,19 +2401,19 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 40,
+      "total": 45,
       "players": [
+        {
+          "name": "Orjan Nyland",
+          "nat": "Norway",
+          "n": 16,
+          "club": "Sevilla"
+        },
         {
           "name": "Thibaut Courtois",
           "nat": "Belgium",
           "n": 14,
           "club": "Real Madrid"
-        },
-        {
-          "name": "Orjan Nyland",
-          "nat": "Norway",
-          "n": 11,
-          "club": "Sevilla"
         },
         {
           "name": "Luca Zidane",
