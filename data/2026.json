@@ -1,9 +1,9 @@
 {
-  "updated": "July 11, 2026 23:41 UTC — 98 of 104 matches played, 1 live",
+  "updated": "July 12, 2026 01:25 UTC — 99 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 58,
+      "total": 59,
       "players": [
         {
           "name": "Erling Haaland",
@@ -104,6 +104,12 @@
         {
           "name": "Alexander Isak",
           "nat": "Sweden",
+          "n": 1,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Alexis Mac Allister",
+          "nat": "Argentina",
           "n": 1,
           "club": "Liverpool"
         },
@@ -1996,6 +2002,36 @@
       ]
     },
     {
+      "league": "MLS (USA/Canada)",
+      "total": 5,
+      "players": [
+        {
+          "name": "Lionel Messi",
+          "nat": "Argentina",
+          "n": 2,
+          "club": "Inter Miami CF"
+        },
+        {
+          "name": "Matias Galarza",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Atlanta United FC"
+        },
+        {
+          "name": "Rodrigo De Paul",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Inter Miami CF"
+        },
+        {
+          "name": "Sebastian Berhalter",
+          "nat": "USA",
+          "n": 1,
+          "club": "Vancouver Whitecaps FC"
+        }
+      ]
+    },
+    {
       "league": "Saudi Pro League",
       "total": 5,
       "players": [
@@ -2058,36 +2094,6 @@
           "nat": "Ivory Coast",
           "n": 1,
           "club": "Galatasaray"
-        }
-      ]
-    },
-    {
-      "league": "MLS (USA/Canada)",
-      "total": 4,
-      "players": [
-        {
-          "name": "Lionel Messi",
-          "nat": "Argentina",
-          "n": 1,
-          "club": "Inter Miami CF"
-        },
-        {
-          "name": "Matias Galarza",
-          "nat": "Paraguay",
-          "n": 1,
-          "club": "Atlanta United FC"
-        },
-        {
-          "name": "Rodrigo De Paul",
-          "nat": "Argentina",
-          "n": 1,
-          "club": "Inter Miami CF"
-        },
-        {
-          "name": "Sebastian Berhalter",
-          "nat": "USA",
-          "n": 1,
-          "club": "Vancouver Whitecaps FC"
         }
       ]
     },
@@ -2323,7 +2329,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 76,
+      "total": 77,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2364,7 +2370,7 @@
         {
           "name": "Emiliano Martinez",
           "nat": "Argentina",
-          "n": 4,
+          "n": 5,
           "club": "Aston Villa"
         }
       ]
@@ -2821,7 +2827,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (98/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (99/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
