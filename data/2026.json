@@ -1,9 +1,9 @@
 {
-  "updated": "July 12, 2026 01:25 UTC — 99 of 104 matches played, 1 live",
+  "updated": "July 12, 2026 05:14 UTC — 100 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 59,
+      "total": 60,
       "players": [
         {
           "name": "Erling Haaland",
@@ -58,6 +58,12 @@
           "nat": "Japan",
           "n": 2,
           "club": "Crystal Palace"
+        },
+        {
+          "name": "Dan Ndoye",
+          "nat": "Switzerland",
+          "n": 2,
+          "club": "Nottingham Forest"
         },
         {
           "name": "Daniel Munoz",
@@ -124,12 +130,6 @@
           "nat": "Argentina",
           "n": 1,
           "club": "Tottenham Hotspur"
-        },
-        {
-          "name": "Dan Ndoye",
-          "nat": "Switzerland",
-          "n": 1,
-          "club": "Nottingham Forest"
         },
         {
           "name": "Enzo Fernandez",
@@ -213,7 +213,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 38,
+      "total": 39,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -304,6 +304,12 @@
           "nat": "Argentina",
           "n": 1,
           "club": "Real Betis"
+        },
+        {
+          "name": "Julian Alvarez",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Atlético Madrid"
         },
         {
           "name": "Lamine Yamal",
@@ -525,7 +531,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 18,
+      "total": 19,
       "players": [
         {
           "name": "Charles De Ketelaere",
@@ -556,6 +562,12 @@
           "nat": "Belgium",
           "n": 1,
           "club": "Napoli"
+        },
+        {
+          "name": "Lautaro Martinez",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Inter Milan"
         },
         {
           "name": "Leo Ostigard",
@@ -1403,7 +1415,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 27,
+      "total": 28,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1518,6 +1530,12 @@
           "nat": "Senegal",
           "n": 1,
           "club": "Villarreal"
+        },
+        {
+          "name": "Ricardo Rodriguez",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Real Betis"
         },
         {
           "name": "Ruben Vargas",
@@ -2098,6 +2116,30 @@
       ]
     },
     {
+      "league": "Série A (Brazil)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Jose Manuel Lopez",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Palmeiras"
+        },
+        {
+          "name": "Lucas Paqueta",
+          "nat": "Brazil",
+          "n": 1,
+          "club": "Flamengo"
+        },
+        {
+          "name": "Memphis Depay",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "Corinthians"
+        }
+      ]
+    },
+    {
       "league": "Eliteserien (Norway)",
       "total": 2,
       "players": [
@@ -2136,24 +2178,6 @@
           "nat": "Belgium",
           "n": 2,
           "club": "Rangers"
-        }
-      ]
-    },
-    {
-      "league": "Série A (Brazil)",
-      "total": 2,
-      "players": [
-        {
-          "name": "Lucas Paqueta",
-          "nat": "Brazil",
-          "n": 1,
-          "club": "Flamengo"
-        },
-        {
-          "name": "Memphis Depay",
-          "nat": "Netherlands",
-          "n": 1,
-          "club": "Corinthians"
         }
       ]
     },
@@ -2329,7 +2353,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 77,
+      "total": 80,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2370,7 +2394,7 @@
         {
           "name": "Emiliano Martinez",
           "nat": "Argentina",
-          "n": 5,
+          "n": 8,
           "club": "Aston Villa"
         }
       ]
@@ -2502,6 +2526,30 @@
       ]
     },
     {
+      "league": "Bundesliga (Germany)",
+      "total": 31,
+      "players": [
+        {
+          "name": "Gregor Kobel",
+          "nat": "Switzerland",
+          "n": 20,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Nikola Vasilj",
+          "nat": "Bosnia & Herzegovina",
+          "n": 6,
+          "club": "FC St. Pauli"
+        },
+        {
+          "name": "Manuel Neuer",
+          "nat": "Germany",
+          "n": 5,
+          "club": "Bayern Munich"
+        }
+      ]
+    },
+    {
       "league": "Ligue 1 (France)",
       "total": 29,
       "players": [
@@ -2522,30 +2570,6 @@
           "nat": "Senegal",
           "n": 4,
           "club": "Le Havre"
-        }
-      ]
-    },
-    {
-      "league": "Bundesliga (Germany)",
-      "total": 27,
-      "players": [
-        {
-          "name": "Gregor Kobel",
-          "nat": "Switzerland",
-          "n": 16,
-          "club": "Borussia Dortmund"
-        },
-        {
-          "name": "Nikola Vasilj",
-          "nat": "Bosnia & Herzegovina",
-          "n": 6,
-          "club": "FC St. Pauli"
-        },
-        {
-          "name": "Manuel Neuer",
-          "nat": "Germany",
-          "n": 5,
-          "club": "Bayern Munich"
         }
       ]
     },
@@ -2827,7 +2851,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (99/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (100/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
