@@ -1,9 +1,9 @@
 {
-  "updated": "July 12, 2026 05:14 UTC — 100 of 104 matches played",
+  "updated": "July 14, 2026 21:45 UTC — 101 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 60,
+      "total": 61,
       "players": [
         {
           "name": "Erling Haaland",
@@ -88,6 +88,12 @@
           "nat": "Spain",
           "n": 2,
           "club": "Arsenal"
+        },
+        {
+          "name": "Pedro Porro",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Tottenham Hotspur"
         },
         {
           "name": "Raul Jimenez",
@@ -184,12 +190,6 @@
           "nat": "Egypt",
           "n": 1,
           "club": "Liverpool"
-        },
-        {
-          "name": "Pedro Porro",
-          "nat": "Spain",
-          "n": 1,
-          "club": "Tottenham Hotspur"
         },
         {
           "name": "Viktor Gyokeres",
@@ -1415,7 +1415,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 28,
+      "total": 29,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1428,6 +1428,12 @@
           "nat": "France",
           "n": 3,
           "club": "Real Madrid"
+        },
+        {
+          "name": "Dani Olmo",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Barcelona"
         },
         {
           "name": "Alex Baena",
@@ -1458,12 +1464,6 @@
           "nat": "Colombia",
           "n": 1,
           "club": "Real Betis"
-        },
-        {
-          "name": "Dani Olmo",
-          "nat": "Spain",
-          "n": 1,
-          "club": "Barcelona"
         },
         {
           "name": "David Alaba",
@@ -2400,6 +2400,36 @@
       ]
     },
     {
+      "league": "La Liga (Spain)",
+      "total": 48,
+      "players": [
+        {
+          "name": "Orjan Nyland",
+          "nat": "Norway",
+          "n": 16,
+          "club": "Sevilla"
+        },
+        {
+          "name": "Thibaut Courtois",
+          "nat": "Belgium",
+          "n": 14,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Unai Simon",
+          "nat": "Spain",
+          "n": 10,
+          "club": "Athletic Bilbao"
+        },
+        {
+          "name": "Luca Zidane",
+          "nat": "Algeria",
+          "n": 8,
+          "club": "Granada"
+        }
+      ]
+    },
+    {
       "league": "Saudi Pro League",
       "total": 46,
       "players": [
@@ -2426,36 +2456,6 @@
           "nat": "Panama",
           "n": 7,
           "club": "Al-Fayha"
-        }
-      ]
-    },
-    {
-      "league": "La Liga (Spain)",
-      "total": 45,
-      "players": [
-        {
-          "name": "Orjan Nyland",
-          "nat": "Norway",
-          "n": 16,
-          "club": "Sevilla"
-        },
-        {
-          "name": "Thibaut Courtois",
-          "nat": "Belgium",
-          "n": 14,
-          "club": "Real Madrid"
-        },
-        {
-          "name": "Luca Zidane",
-          "nat": "Algeria",
-          "n": 8,
-          "club": "Granada"
-        },
-        {
-          "name": "Unai Simon",
-          "nat": "Spain",
-          "n": 7,
-          "club": "Athletic Bilbao"
         }
       ]
     },
@@ -2851,7 +2851,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (100/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (101/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
