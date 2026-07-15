@@ -1,9 +1,9 @@
 {
-  "updated": "July 14, 2026 21:45 UTC — 101 of 104 matches played",
+  "updated": "July 15, 2026 21:02 UTC — 101 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 61,
+      "total": 63,
       "players": [
         {
           "name": "Erling Haaland",
@@ -72,6 +72,12 @@
           "club": "Crystal Palace"
         },
         {
+          "name": "Enzo Fernandez",
+          "nat": "Argentina",
+          "n": 2,
+          "club": "Chelsea"
+        },
+        {
           "name": "Kai Havertz",
           "nat": "Germany",
           "n": 2,
@@ -126,6 +132,12 @@
           "club": "Liverpool"
         },
         {
+          "name": "Anthony Gordon",
+          "nat": "England",
+          "n": 1,
+          "club": "Newcastle United"
+        },
+        {
           "name": "Casemiro",
           "nat": "Brazil",
           "n": 1,
@@ -136,12 +148,6 @@
           "nat": "Argentina",
           "n": 1,
           "club": "Tottenham Hotspur"
-        },
-        {
-          "name": "Enzo Fernandez",
-          "nat": "Argentina",
-          "n": 1,
-          "club": "Chelsea"
         },
         {
           "name": "Gabriel Martinelli",
@@ -531,7 +537,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 19,
+      "total": 20,
       "players": [
         {
           "name": "Charles De Ketelaere",
@@ -552,6 +558,12 @@
           "club": "Napoli"
         },
         {
+          "name": "Lautaro Martinez",
+          "nat": "Argentina",
+          "n": 2,
+          "club": "Inter Milan"
+        },
+        {
           "name": "Alexis Saelemaekers",
           "nat": "Belgium",
           "n": 1,
@@ -562,12 +574,6 @@
           "nat": "Belgium",
           "n": 1,
           "club": "Napoli"
-        },
-        {
-          "name": "Lautaro Martinez",
-          "nat": "Argentina",
-          "n": 1,
-          "club": "Inter Milan"
         },
         {
           "name": "Leo Ostigard",
@@ -1211,7 +1217,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 56,
+      "total": 57,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1380,6 +1386,12 @@
           "nat": "Croatia",
           "n": 1,
           "club": "Manchester City"
+        },
+        {
+          "name": "Morgan Rogers",
+          "nat": "England",
+          "n": 1,
+          "club": "Aston Villa"
         },
         {
           "name": "Pedro Neto",
@@ -1852,6 +1864,36 @@
       ]
     },
     {
+      "league": "MLS (USA/Canada)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Lionel Messi",
+          "nat": "Argentina",
+          "n": 4,
+          "club": "Inter Miami CF"
+        },
+        {
+          "name": "Matias Galarza",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Atlanta United FC"
+        },
+        {
+          "name": "Rodrigo De Paul",
+          "nat": "Argentina",
+          "n": 1,
+          "club": "Inter Miami CF"
+        },
+        {
+          "name": "Sebastian Berhalter",
+          "nat": "USA",
+          "n": 1,
+          "club": "Vancouver Whitecaps FC"
+        }
+      ]
+    },
+    {
       "league": "Pro League (Belgium)",
       "total": 7,
       "players": [
@@ -2016,36 +2058,6 @@
           "nat": "Japan",
           "n": 1,
           "club": "Ajax"
-        }
-      ]
-    },
-    {
-      "league": "MLS (USA/Canada)",
-      "total": 5,
-      "players": [
-        {
-          "name": "Lionel Messi",
-          "nat": "Argentina",
-          "n": 2,
-          "club": "Inter Miami CF"
-        },
-        {
-          "name": "Matias Galarza",
-          "nat": "Paraguay",
-          "n": 1,
-          "club": "Atlanta United FC"
-        },
-        {
-          "name": "Rodrigo De Paul",
-          "nat": "Argentina",
-          "n": 1,
-          "club": "Inter Miami CF"
-        },
-        {
-          "name": "Sebastian Berhalter",
-          "nat": "USA",
-          "n": 1,
-          "club": "Vancouver Whitecaps FC"
         }
       ]
     },
@@ -2353,7 +2365,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 80,
+      "total": 84,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2362,16 +2374,16 @@
           "club": "Brighton & Hove Albion"
         },
         {
+          "name": "Jordan Pickford",
+          "nat": "England",
+          "n": 15,
+          "club": "Everton"
+        },
+        {
           "name": "Alisson",
           "nat": "Brazil",
           "n": 14,
           "club": "Liverpool"
-        },
-        {
-          "name": "Jordan Pickford",
-          "nat": "England",
-          "n": 12,
-          "club": "Everton"
         },
         {
           "name": "Jacob Widell Zetterstrom",
@@ -2386,16 +2398,16 @@
           "club": "Millwall"
         },
         {
+          "name": "Emiliano Martinez",
+          "nat": "Argentina",
+          "n": 9,
+          "club": "Aston Villa"
+        },
+        {
           "name": "Angus Gunn",
           "nat": "Scotland",
           "n": 8,
           "club": "Nottingham Forest"
-        },
-        {
-          "name": "Emiliano Martinez",
-          "nat": "Argentina",
-          "n": 8,
-          "club": "Aston Villa"
         }
       ]
     },
