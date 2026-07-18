@@ -1,5 +1,5 @@
 {
-  "updated": "July 18, 2026 22:36 UTC — 102 of 104 matches played, 1 live",
+  "updated": "July 18, 2026 23:41 UTC — 103 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -237,7 +237,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 41,
+      "total": 42,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -248,7 +248,7 @@
         {
           "name": "Jude Bellingham",
           "nat": "England",
-          "n": 6,
+          "n": 7,
           "club": "Real Madrid"
         },
         {
@@ -346,6 +346,108 @@
           "nat": "England",
           "n": 1,
           "club": "Barcelona"
+        }
+      ]
+    },
+    {
+      "league": "Ligue 1 (France)",
+      "total": 25,
+      "players": [
+        {
+          "name": "Ousmane Dembele",
+          "nat": "France",
+          "n": 6,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Bradley Barcola",
+          "nat": "France",
+          "n": 3,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Folarin Balogun",
+          "nat": "USA",
+          "n": 3,
+          "club": "Monaco"
+        },
+        {
+          "name": "Achraf Hakimi",
+          "nat": "Morocco",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Amine Gouiri",
+          "nat": "Algeria",
+          "n": 1,
+          "club": "Marseille"
+        },
+        {
+          "name": "Breel Embolo",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Rennes"
+        },
+        {
+          "name": "Desire Doue",
+          "nat": "France",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Fabian Ruiz",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Gessime Yassine",
+          "nat": "Morocco",
+          "n": 1,
+          "club": "Strasbourg"
+        },
+        {
+          "name": "Goncalo Ramos",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Ibrahim Mbaye",
+          "nat": "Senegal",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Joao Neves",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Julio Enciso",
+          "nat": "Paraguay",
+          "n": 1,
+          "club": "Strasbourg"
+        },
+        {
+          "name": "Keito Nakamura",
+          "nat": "Japan",
+          "n": 1,
+          "club": "Reims"
+        },
+        {
+          "name": "Mousa Altamari",
+          "nat": "Jordan",
+          "n": 1,
+          "club": "Rennes"
+        },
+        {
+          "name": "Nuno Mendes",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Paris Saint-Germain"
         }
       ]
     },
@@ -448,108 +550,6 @@
           "nat": "Austria",
           "n": 1,
           "club": "Werder Bremen"
-        }
-      ]
-    },
-    {
-      "league": "Ligue 1 (France)",
-      "total": 24,
-      "players": [
-        {
-          "name": "Ousmane Dembele",
-          "nat": "France",
-          "n": 5,
-          "club": "Paris Saint-Germain"
-        },
-        {
-          "name": "Bradley Barcola",
-          "nat": "France",
-          "n": 3,
-          "club": "Paris Saint-Germain"
-        },
-        {
-          "name": "Folarin Balogun",
-          "nat": "USA",
-          "n": 3,
-          "club": "Monaco"
-        },
-        {
-          "name": "Achraf Hakimi",
-          "nat": "Morocco",
-          "n": 1,
-          "club": "Paris Saint-Germain"
-        },
-        {
-          "name": "Amine Gouiri",
-          "nat": "Algeria",
-          "n": 1,
-          "club": "Marseille"
-        },
-        {
-          "name": "Breel Embolo",
-          "nat": "Switzerland",
-          "n": 1,
-          "club": "Rennes"
-        },
-        {
-          "name": "Desire Doue",
-          "nat": "France",
-          "n": 1,
-          "club": "Paris Saint-Germain"
-        },
-        {
-          "name": "Fabian Ruiz",
-          "nat": "Spain",
-          "n": 1,
-          "club": "Paris Saint-Germain"
-        },
-        {
-          "name": "Gessime Yassine",
-          "nat": "Morocco",
-          "n": 1,
-          "club": "Strasbourg"
-        },
-        {
-          "name": "Goncalo Ramos",
-          "nat": "Portugal",
-          "n": 1,
-          "club": "Paris Saint-Germain"
-        },
-        {
-          "name": "Ibrahim Mbaye",
-          "nat": "Senegal",
-          "n": 1,
-          "club": "Paris Saint-Germain"
-        },
-        {
-          "name": "Joao Neves",
-          "nat": "Portugal",
-          "n": 1,
-          "club": "Paris Saint-Germain"
-        },
-        {
-          "name": "Julio Enciso",
-          "nat": "Paraguay",
-          "n": 1,
-          "club": "Strasbourg"
-        },
-        {
-          "name": "Keito Nakamura",
-          "nat": "Japan",
-          "n": 1,
-          "club": "Reims"
-        },
-        {
-          "name": "Mousa Altamari",
-          "nat": "Jordan",
-          "n": 1,
-          "club": "Rennes"
-        },
-        {
-          "name": "Nuno Mendes",
-          "nat": "Portugal",
-          "n": 1,
-          "club": "Paris Saint-Germain"
         }
       ]
     },
@@ -1601,7 +1601,7 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 28,
+      "total": 29,
       "players": [
         {
           "name": "Michael Olise",
@@ -1625,6 +1625,12 @@
           "name": "Joshua Kimmich",
           "nat": "Germany",
           "n": 2,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Dayot Upamecano",
+          "nat": "France",
+          "n": 1,
           "club": "Bayern Munich"
         },
         {
@@ -2395,7 +2401,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 88,
+      "total": 89,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2442,7 +2448,7 @@
         {
           "name": "Dean Henderson",
           "nat": "England",
-          "n": 4,
+          "n": 5,
           "club": "Crystal Palace"
         }
       ]
@@ -2623,12 +2629,12 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 24,
+      "total": 25,
       "players": [
         {
           "name": "Mike Maignan",
           "nat": "France",
-          "n": 12,
+          "n": 13,
           "club": "Milan"
         },
         {
@@ -2899,7 +2905,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (102/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (103/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
