@@ -1,9 +1,9 @@
 {
-  "updated": "July 18, 2026 21:39 UTC — 102 of 104 matches played, 1 live",
+  "updated": "July 18, 2026 22:36 UTC — 102 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 66,
+      "total": 67,
       "players": [
         {
           "name": "Erling Haaland",
@@ -40,6 +40,12 @@
           "nat": "Sweden",
           "n": 2,
           "club": "Newcastle United"
+        },
+        {
+          "name": "Bukayo Saka",
+          "nat": "England",
+          "n": 2,
+          "club": "Arsenal"
         },
         {
           "name": "Crysencio Summerville",
@@ -138,12 +144,6 @@
           "club": "Newcastle United"
         },
         {
-          "name": "Bukayo Saka",
-          "nat": "England",
-          "n": 1,
-          "club": "Arsenal"
-        },
-        {
           "name": "Casemiro",
           "nat": "Brazil",
           "n": 1,
@@ -237,12 +237,12 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 39,
+      "total": 41,
       "players": [
         {
           "name": "Kylian Mbappe",
           "nat": "France",
-          "n": 7,
+          "n": 9,
           "club": "Real Madrid"
         },
         {
@@ -453,7 +453,7 @@
     },
     {
       "league": "Ligue 1 (France)",
-      "total": 23,
+      "total": 24,
       "players": [
         {
           "name": "Ousmane Dembele",
@@ -462,16 +462,16 @@
           "club": "Paris Saint-Germain"
         },
         {
+          "name": "Bradley Barcola",
+          "nat": "France",
+          "n": 3,
+          "club": "Paris Saint-Germain"
+        },
+        {
           "name": "Folarin Balogun",
           "nat": "USA",
           "n": 3,
           "club": "Monaco"
-        },
-        {
-          "name": "Bradley Barcola",
-          "nat": "France",
-          "n": 2,
-          "club": "Paris Saint-Germain"
         },
         {
           "name": "Achraf Hakimi",
@@ -1235,7 +1235,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 58,
+      "total": 59,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1364,6 +1364,12 @@
           "club": "Wolverhampton Wanderers"
         },
         {
+          "name": "Eberechi Eze",
+          "nat": "England",
+          "n": 1,
+          "club": "Arsenal"
+        },
+        {
           "name": "Elliot Anderson",
           "nat": "England",
           "n": 1,
@@ -1445,7 +1451,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 30,
+      "total": 31,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1456,7 +1462,7 @@
         {
           "name": "Kylian Mbappe",
           "nat": "France",
-          "n": 3,
+          "n": 4,
           "club": "Real Madrid"
         },
         {
@@ -1595,12 +1601,12 @@
     },
     {
       "league": "Bundesliga (Germany)",
-      "total": 26,
+      "total": 28,
       "players": [
         {
           "name": "Michael Olise",
           "nat": "France",
-          "n": 5,
+          "n": 7,
           "club": "Bayern Munich"
         },
         {
@@ -2389,7 +2395,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 86,
+      "total": 88,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2436,7 +2442,7 @@
         {
           "name": "Dean Henderson",
           "nat": "England",
-          "n": 2,
+          "n": 4,
           "club": "Crystal Palace"
         }
       ]
@@ -2617,19 +2623,19 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 23,
+      "total": 24,
       "players": [
+        {
+          "name": "Mike Maignan",
+          "nat": "France",
+          "n": 12,
+          "club": "Milan"
+        },
         {
           "name": "Zion Suzuki",
           "nat": "Japan",
           "n": 12,
           "club": "Parma"
-        },
-        {
-          "name": "Mike Maignan",
-          "nat": "France",
-          "n": 11,
-          "club": "Milan"
         }
       ]
     },
