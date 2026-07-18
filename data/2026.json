@@ -1,9 +1,9 @@
 {
-  "updated": "July 15, 2026 22:45 UTC — 102 of 104 matches played",
+  "updated": "July 18, 2026 21:39 UTC — 102 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
-      "total": 63,
+      "total": 66,
       "players": [
         {
           "name": "Erling Haaland",
@@ -138,6 +138,12 @@
           "club": "Newcastle United"
         },
         {
+          "name": "Bukayo Saka",
+          "nat": "England",
+          "n": 1,
+          "club": "Arsenal"
+        },
+        {
           "name": "Casemiro",
           "nat": "Brazil",
           "n": 1,
@@ -148,6 +154,18 @@
           "nat": "Argentina",
           "n": 1,
           "club": "Tottenham Hotspur"
+        },
+        {
+          "name": "Declan Rice",
+          "nat": "England",
+          "n": 1,
+          "club": "Arsenal"
+        },
+        {
+          "name": "Ezri Konsa",
+          "nat": "England",
+          "n": 1,
+          "club": "Aston Villa"
         },
         {
           "name": "Gabriel Martinelli",
@@ -1217,7 +1235,7 @@
   "assists": [
     {
       "league": "Premier League (England)",
-      "total": 57,
+      "total": 58,
       "players": [
         {
           "name": "Bruno Guimaraes",
@@ -1266,6 +1284,12 @@
           "nat": "Netherlands",
           "n": 2,
           "club": "West Ham United"
+        },
+        {
+          "name": "Declan Rice",
+          "nat": "England",
+          "n": 2,
+          "club": "Arsenal"
         },
         {
           "name": "Hannibal Mejbri",
@@ -1338,12 +1362,6 @@
           "nat": "Norway",
           "n": 1,
           "club": "Wolverhampton Wanderers"
-        },
-        {
-          "name": "Declan Rice",
-          "nat": "England",
-          "n": 1,
-          "club": "Arsenal"
         },
         {
           "name": "Elliot Anderson",
@@ -1427,7 +1445,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 29,
+      "total": 30,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1518,6 +1536,12 @@
           "nat": "Spain",
           "n": 1,
           "club": "Atlético Madrid"
+        },
+        {
+          "name": "Marcus Rashford",
+          "nat": "England",
+          "n": 1,
+          "club": "Barcelona"
         },
         {
           "name": "Mikel Oyarzabal",
@@ -2365,7 +2389,7 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 84,
+      "total": 86,
       "players": [
         {
           "name": "Bart Verbruggen",
@@ -2408,6 +2432,12 @@
           "nat": "Scotland",
           "n": 8,
           "club": "Nottingham Forest"
+        },
+        {
+          "name": "Dean Henderson",
+          "nat": "England",
+          "n": 2,
+          "club": "Crystal Palace"
         }
       ]
     },
@@ -2587,7 +2617,7 @@
     },
     {
       "league": "Serie A (Italy)",
-      "total": 21,
+      "total": 23,
       "players": [
         {
           "name": "Zion Suzuki",
@@ -2598,7 +2628,7 @@
         {
           "name": "Mike Maignan",
           "nat": "France",
-          "n": 9,
+          "n": 11,
           "club": "Milan"
         }
       ]
