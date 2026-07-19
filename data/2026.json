@@ -1,5 +1,5 @@
 {
-  "updated": "July 19, 2026 21:40 UTC — 103 of 104 matches played, 1 live",
+  "updated": "July 19, 2026 22:39 UTC — 104 of 104 matches played",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -237,7 +237,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 42,
+      "total": 43,
       "players": [
         {
           "name": "Kylian Mbappe",
@@ -322,6 +322,12 @@
           "nat": "DR Congo",
           "n": 1,
           "club": "Castellón"
+        },
+        {
+          "name": "Ferran Torres",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Barcelona"
         },
         {
           "name": "Giovani Lo Celso",
@@ -1451,7 +1457,7 @@
     },
     {
       "league": "La Liga (Spain)",
-      "total": 31,
+      "total": 32,
       "players": [
         {
           "name": "Brahim Diaz",
@@ -1560,6 +1566,12 @@
           "nat": "Argentina",
           "n": 1,
           "club": "Atlético Madrid"
+        },
+        {
+          "name": "Nico Williams",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Athletic Bilbao"
         },
         {
           "name": "Nicolas Pepe",
@@ -2905,7 +2917,7 @@
     }
   ],
   "notes": {
-    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (103/104 matches)",
+    "goals": "Live from FIFA. Updated automatically; data through the most recent match. (104/104 matches)",
     "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
     "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted."
   }
