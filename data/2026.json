@@ -1,5 +1,5 @@
 {
-  "updated": "July 19, 2026 20:01 UTC — 103 of 104 matches played, 1 live",
+  "updated": "July 19, 2026 21:40 UTC — 103 of 104 matches played, 1 live",
   "goals": [
     {
       "league": "Premier League (England)",
@@ -2401,8 +2401,14 @@
   "saves": [
     {
       "league": "Premier League (England)",
-      "total": 91,
+      "total": 100,
       "players": [
+        {
+          "name": "Emiliano Martinez",
+          "nat": "Argentina",
+          "n": 20,
+          "club": "Aston Villa"
+        },
         {
           "name": "Bart Verbruggen",
           "nat": "Netherlands",
@@ -2420,12 +2426,6 @@
           "nat": "Brazil",
           "n": 14,
           "club": "Liverpool"
-        },
-        {
-          "name": "Emiliano Martinez",
-          "nat": "Argentina",
-          "n": 11,
-          "club": "Aston Villa"
         },
         {
           "name": "Jacob Widell Zetterstrom",
