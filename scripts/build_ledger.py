@@ -378,9 +378,22 @@ def validate_payload(payload):
 def write_if_changed(payload):
     new_text = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
     if OUT_FILE.exists():
-        old = OUT_FILE.read_text(encoding="utf-8")
+        try:
+            old = json.loads(OUT_FILE.read_text(encoding="utf-8"))
+            # If we couldn't fetch any new saves but had saves before, keep old saves
+            new_saves_empty = not payload.get("saves") or sum(r.get("total", 0) for r in payload.get("saves", [])) == 0
+            old_saves = old.get("saves") or []
+            old_saves_total = sum(r.get("total", 0) for r in old_saves)
+            if new_saves_empty and old_saves_total > 0:
+                payload["saves"] = old_saves
+                if payload.get("notes"):
+                    payload["notes"]["saves"] = old.get("notes", {}).get("saves") or "Restored from previous data (ESPN unavailable)."
+                new_text = json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+        except Exception:
+            pass
+        old_text = OUT_FILE.read_text(encoding="utf-8")
         # Compare ignoring the timestamp line so a no-op poll doesn't churn the file.
-        if scrub_updated(old) == scrub_updated(new_text):
+        if scrub_updated(old_text) == scrub_updated(new_text):
             print("No data change — leaving 2026.json untouched.", file=sys.stderr)
             return False
     OUT_FILE.write_text(new_text, encoding="utf-8")
