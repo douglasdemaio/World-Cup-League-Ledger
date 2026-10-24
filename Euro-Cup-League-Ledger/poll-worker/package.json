@@ -1,0 +1,14 @@
+{
+  "name": "wcll-poll",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Cloudflare Worker that collects R16 predictions for League Ledger.",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "devDependencies": {
+    "wrangler": "^3.78.0"
+  }
+}

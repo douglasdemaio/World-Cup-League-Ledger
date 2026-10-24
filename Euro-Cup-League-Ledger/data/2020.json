@@ -1,0 +1,843 @@
+{
+  "updated": "Final · Europe, 11 Jun – 11 Jul 2021",
+  "goals": [
+    {
+      "league": "Serie A (Italy)",
+      "total": 37,
+      "players": [
+        {
+          "name": "Cristiano Ronaldo",
+          "nat": "Portugal",
+          "n": 5,
+          "club": "Juventus"
+        },
+        {
+          "name": "Romelu Lukaku",
+          "nat": "Belgium",
+          "n": 4,
+          "club": "Inter Milan"
+        },
+        {
+          "name": "Álvaro Morata",
+          "nat": "Spain",
+          "n": 3,
+          "club": "Juventus"
+        },
+        {
+          "name": "Ivan Perišić",
+          "nat": "Croatia",
+          "n": 2,
+          "club": "Inter Milan"
+        },
+        {
+          "name": "Mikkel Damsgaard",
+          "nat": "Denmark",
+          "n": 2,
+          "club": "Sampdoria"
+        },
+        {
+          "name": "Joakim Mæhle",
+          "nat": "Denmark",
+          "n": 2,
+          "club": "Atalanta"
+        },
+        {
+          "name": "Federico Chiesa",
+          "nat": "Italy",
+          "n": 2,
+          "club": "Juventus"
+        },
+        {
+          "name": "Ciro Immobile",
+          "nat": "Italy",
+          "n": 2,
+          "club": "Lazio"
+        },
+        {
+          "name": "Lorenzo Insigne",
+          "nat": "Italy",
+          "n": 2,
+          "club": "Napoli"
+        },
+        {
+          "name": "Manuel Locatelli",
+          "nat": "Italy",
+          "n": 2,
+          "club": "Sassuolo"
+        },
+        {
+          "name": "Matteo Pessina",
+          "nat": "Italy",
+          "n": 2,
+          "club": "Atalanta"
+        },
+        {
+          "name": "Mario Pašalić",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Atalanta"
+        },
+        {
+          "name": "Robin Gosens",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Atalanta"
+        },
+        {
+          "name": "Nicolò Barella",
+          "nat": "Italy",
+          "n": 1,
+          "club": "Inter Milan"
+        },
+        {
+          "name": "Leonardo Bonucci",
+          "nat": "Italy",
+          "n": 1,
+          "club": "Juventus"
+        },
+        {
+          "name": "Goran Pandev",
+          "nat": "North Macedonia",
+          "n": 1,
+          "club": "Genoa"
+        },
+        {
+          "name": "Karol Linetty",
+          "nat": "Poland",
+          "n": 1,
+          "club": "Torino"
+        },
+        {
+          "name": "Aleksei Miranchuk",
+          "nat": "Russia",
+          "n": 1,
+          "club": "Atalanta"
+        },
+        {
+          "name": "Milan Škriniar",
+          "nat": "Slovakia",
+          "n": 1,
+          "club": "Inter Milan"
+        },
+        {
+          "name": "Aaron Ramsey",
+          "nat": "Wales",
+          "n": 1,
+          "club": "Juventus"
+        }
+      ]
+    },
+    {
+      "league": "Premier League (England)",
+      "total": 30,
+      "players": [
+        {
+          "name": "Harry Kane",
+          "nat": "England",
+          "n": 4,
+          "club": "Tottenham Hotspur"
+        },
+        {
+          "name": "Raheem Sterling",
+          "nat": "England",
+          "n": 3,
+          "club": "Manchester City"
+        },
+        {
+          "name": "Georginio Wijnaldum",
+          "nat": "Netherlands",
+          "n": 3,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Xherdan Shaqiri",
+          "nat": "Switzerland",
+          "n": 3,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Kai Havertz",
+          "nat": "Germany",
+          "n": 2,
+          "club": "Chelsea"
+        },
+        {
+          "name": "Ferran Torres",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Manchester City"
+        },
+        {
+          "name": "Andriy Yarmolenko",
+          "nat": "Ukraine",
+          "n": 2,
+          "club": "West Ham United"
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Manchester City"
+        },
+        {
+          "name": "Andreas Christensen",
+          "nat": "Denmark",
+          "n": 1,
+          "club": "Chelsea"
+        },
+        {
+          "name": "Jordan Henderson",
+          "nat": "England",
+          "n": 1,
+          "club": "Liverpool"
+        },
+        {
+          "name": "Harry Maguire",
+          "nat": "England",
+          "n": 1,
+          "club": "Manchester United"
+        },
+        {
+          "name": "Luke Shaw",
+          "nat": "England",
+          "n": 1,
+          "club": "Manchester United"
+        },
+        {
+          "name": "Paul Pogba",
+          "nat": "France",
+          "n": 1,
+          "club": "Manchester United"
+        },
+        {
+          "name": "Ezgjan Alioski",
+          "nat": "North Macedonia",
+          "n": 1,
+          "club": "Leeds United"
+        },
+        {
+          "name": "Diogo Jota",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Liverpool"
+        },
+        {
+          "name": "César Azpilicueta",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Chelsea"
+        },
+        {
+          "name": "Aymeric Laporte",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Manchester City"
+        },
+        {
+          "name": "Oleksandr Zinchenko",
+          "nat": "Ukraine",
+          "n": 1,
+          "club": "Manchester City"
+        }
+      ]
+    },
+    {
+      "league": "Bundesliga (Germany)",
+      "total": 29,
+      "players": [
+        {
+          "name": "Patrik Schick",
+          "nat": "Czech Republic",
+          "n": 5,
+          "club": "Bayer Leverkusen"
+        },
+        {
+          "name": "Emil Forsberg",
+          "nat": "Sweden",
+          "n": 4,
+          "club": "RB Leipzig"
+        },
+        {
+          "name": "Robert Lewandowski",
+          "nat": "Poland",
+          "n": 3,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Thorgan Hazard",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Yussuf Poulsen",
+          "nat": "Denmark",
+          "n": 2,
+          "club": "RB Leipzig"
+        },
+        {
+          "name": "Christoph Baumgartner",
+          "nat": "Austria",
+          "n": 1,
+          "club": "1899 Hoffenheim"
+        },
+        {
+          "name": "Michael Gregoritsch",
+          "nat": "Austria",
+          "n": 1,
+          "club": "FC Augsburg"
+        },
+        {
+          "name": "Saša Kalajdžić",
+          "nat": "Austria",
+          "n": 1,
+          "club": "VfB Stuttgart"
+        },
+        {
+          "name": "Stefan Lainer",
+          "nat": "Austria",
+          "n": 1,
+          "club": "Borussia Mönchengladbach"
+        },
+        {
+          "name": "Thomas Meunier",
+          "nat": "Belgium",
+          "n": 1,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Thomas Delaney",
+          "nat": "Denmark",
+          "n": 1,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Leon Goretzka",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "András Schäfer",
+          "nat": "Hungary",
+          "n": 1,
+          "club": "Union Berlin"
+        },
+        {
+          "name": "Ádám Szalai",
+          "nat": "Hungary",
+          "n": 1,
+          "club": "Mainz 05"
+        },
+        {
+          "name": "Wout Weghorst",
+          "nat": "Netherlands",
+          "n": 1,
+          "club": "VfL Wolfsburg"
+        },
+        {
+          "name": "Raphaël Guerreiro",
+          "nat": "Portugal",
+          "n": 1,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Joel Pohjanpalo",
+          "nat": "Finland",
+          "n": 1,
+          "club": "Union Berlin"
+        },
+        {
+          "name": "Breel Embolo",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Borussia Mönchengladbach"
+        }
+      ]
+    },
+    {
+      "league": "La Liga (Spain)",
+      "total": 8,
+      "players": [
+        {
+          "name": "Karim Benzema",
+          "nat": "France",
+          "n": 4,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Luka Modrić",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Real Madrid"
+        },
+        {
+          "name": "Martin Braithwaite",
+          "nat": "Denmark",
+          "n": 1,
+          "club": "Barcelona"
+        },
+        {
+          "name": "Antoine Griezmann",
+          "nat": "France",
+          "n": 1,
+          "club": "Barcelona"
+        },
+        {
+          "name": "Mikel Oyarzabal",
+          "nat": "Spain",
+          "n": 1,
+          "club": "Real Sociedad"
+        }
+      ]
+    },
+    {
+      "league": "Ligue 1 (France)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Kasper Dolberg",
+          "nat": "Denmark",
+          "n": 3,
+          "club": "Nice"
+        },
+        {
+          "name": "Memphis Depay",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "Lyon"
+        },
+        {
+          "name": "Pablo Sarabia",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Paris Saint-Germain"
+        }
+      ]
+    },
+    {
+      "league": "Russian Premier League",
+      "total": 3,
+      "players": [
+        {
+          "name": "Nikola Vlašić",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "CSKA Moscow"
+        },
+        {
+          "name": "Artem Dzyuba",
+          "nat": "Russia",
+          "n": 1,
+          "club": "Zenit Saint Petersburg"
+        },
+        {
+          "name": "Viktor Claesson",
+          "nat": "Sweden",
+          "n": 1,
+          "club": "Krasnodar"
+        }
+      ]
+    },
+    {
+      "league": "Primeira Liga (Portugal)",
+      "total": 3,
+      "players": [
+        {
+          "name": "Haris Seferović",
+          "nat": "Switzerland",
+          "n": 3,
+          "club": "Benfica"
+        }
+      ]
+    },
+    {
+      "league": "Eredivisie (Netherlands)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Denzel Dumfries",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "PSV Eindhoven"
+        }
+      ]
+    },
+    {
+      "league": "Pro League (Belgium)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Roman Yaremchuk",
+          "nat": "Ukraine",
+          "n": 2,
+          "club": "Gent"
+        }
+      ]
+    },
+    {
+      "league": "HNL (Croatia)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Mislav Oršić",
+          "nat": "Croatia",
+          "n": 1,
+          "club": "Dinamo Zagreb"
+        },
+        {
+          "name": "Mario Gavranović",
+          "nat": "Switzerland",
+          "n": 1,
+          "club": "Dinamo Zagreb"
+        }
+      ]
+    },
+    {
+      "league": "EFL Championship (England)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Kieffer Moore",
+          "nat": "Wales",
+          "n": 1,
+          "club": "Cardiff City"
+        },
+        {
+          "name": "Connor Roberts",
+          "nat": "Wales",
+          "n": 1,
+          "club": "Swansea City"
+        }
+      ]
+    },
+    {
+      "league": "Süper Lig (Turkey)",
+      "total": 1,
+      "players": [
+        {
+          "name": "İrfan Kahveci",
+          "nat": "Turkey",
+          "n": 1,
+          "club": "Fenerbahçe"
+        }
+      ]
+    },
+    {
+      "league": "Ukrainian Premier League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Artem Dovbyk",
+          "nat": "Ukraine",
+          "n": 1,
+          "club": "Dnipro-1"
+        }
+      ]
+    },
+    {
+      "league": "Scottish Premiership",
+      "total": 1,
+      "players": [
+        {
+          "name": "Callum McGregor",
+          "nat": "Scotland",
+          "n": 1,
+          "club": "Celtic"
+        }
+      ]
+    },
+    {
+      "league": "NB I (Hungary)",
+      "total": 1,
+      "players": [
+        {
+          "name": "Attila Fiola",
+          "nat": "Hungary",
+          "n": 1,
+          "club": "Fehérvár"
+        }
+      ]
+    },
+    {
+      "league": "Chinese Super League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Marko Arnautović",
+          "nat": "Austria",
+          "n": 1,
+          "club": "Shanghai Port"
+        }
+      ]
+    },
+    {
+      "league": "Czech First League",
+      "total": 1,
+      "players": [
+        {
+          "name": "Tomáš Holeš",
+          "nat": "Czech Republic",
+          "n": 1,
+          "club": "Slavia Prague"
+        }
+      ]
+    }
+  ],
+  "assists": [
+    {
+      "league": "Bundesliga (Germany)",
+      "total": 16,
+      "players": [
+        {
+          "name": "Steven Zuber",
+          "nat": "Switzerland",
+          "n": 4,
+          "club": "Eintracht Frankfurt"
+        },
+        {
+          "name": "Dani Olmo",
+          "nat": "Spain",
+          "n": 3,
+          "club": "RB Leipzig"
+        },
+        {
+          "name": "David Alaba",
+          "nat": "Austria",
+          "n": 2,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Thomas Meunier",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Borussia Dortmund"
+        },
+        {
+          "name": "Joshua Kimmich",
+          "nat": "Germany",
+          "n": 2,
+          "club": "Bayern Munich"
+        },
+        {
+          "name": "Roland Sallai",
+          "nat": "Hungary",
+          "n": 2,
+          "club": "SC Freiburg"
+        },
+        {
+          "name": "Leroy Sané",
+          "nat": "Germany",
+          "n": 1,
+          "club": "Bayern Munich"
+        }
+      ]
+    },
+    {
+      "league": "Premier League (England)",
+      "total": 14,
+      "players": [
+        {
+          "name": "Pierre-Emile Højbjerg",
+          "nat": "Denmark",
+          "n": 3,
+          "club": "Tottenham Hotspur"
+        },
+        {
+          "name": "Luke Shaw",
+          "nat": "England",
+          "n": 3,
+          "club": "Manchester United"
+        },
+        {
+          "name": "Kevin De Bruyne",
+          "nat": "Belgium",
+          "n": 2,
+          "club": "Manchester City"
+        },
+        {
+          "name": "Vladimír Coufal",
+          "nat": "Czech Republic",
+          "n": 2,
+          "club": "West Ham United"
+        },
+        {
+          "name": "Jack Grealish",
+          "nat": "England",
+          "n": 2,
+          "club": "Aston Villa"
+        },
+        {
+          "name": "Gareth Bale",
+          "nat": "Wales",
+          "n": 2,
+          "club": "Tottenham Hotspur"
+        }
+      ]
+    },
+    {
+      "league": "Serie A (Italy)",
+      "total": 8,
+      "players": [
+        {
+          "name": "Robin Gosens",
+          "nat": "Germany",
+          "n": 2,
+          "club": "Atalanta"
+        },
+        {
+          "name": "Domenico Berardi",
+          "nat": "Italy",
+          "n": 2,
+          "club": "Sassuolo"
+        },
+        {
+          "name": "Leonardo Spinazzola",
+          "nat": "Italy",
+          "n": 2,
+          "club": "Roma"
+        },
+        {
+          "name": "Dejan Kulusevski",
+          "nat": "Sweden",
+          "n": 2,
+          "club": "Juventus"
+        }
+      ]
+    },
+    {
+      "league": "Ligue 1 (France)",
+      "total": 7,
+      "players": [
+        {
+          "name": "Marco Verratti",
+          "nat": "Italy",
+          "n": 3,
+          "club": "Paris Saint-Germain"
+        },
+        {
+          "name": "Memphis Depay",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "Lyon"
+        },
+        {
+          "name": "Pablo Sarabia",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Paris Saint-Germain"
+        }
+      ]
+    },
+    {
+      "league": "La Liga (Spain)",
+      "total": 6,
+      "players": [
+        {
+          "name": "Jordi Alba",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Barcelona"
+        },
+        {
+          "name": "Gerard Moreno",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Villarreal"
+        },
+        {
+          "name": "Pau Torres",
+          "nat": "Spain",
+          "n": 2,
+          "club": "Villarreal"
+        }
+      ]
+    },
+    {
+      "league": "Eredivisie (Netherlands)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Donyell Malen",
+          "nat": "Netherlands",
+          "n": 2,
+          "club": "PSV Eindhoven"
+        }
+      ]
+    },
+    {
+      "league": "Primeira Liga (Portugal)",
+      "total": 2,
+      "players": [
+        {
+          "name": "Rafa Silva",
+          "nat": "Portugal",
+          "n": 2,
+          "club": "Benfica"
+        }
+      ]
+    }
+  ],
+  "saves": [
+    {
+      "league": "Premier League (England)",
+      "total": 52,
+      "players": [
+        {
+          "name": "Kasper Schmeichel",
+          "nat": "Denmark",
+          "n": 18,
+          "club": "Leicester City"
+        },
+        {
+          "name": "Danny Ward",
+          "nat": "Wales",
+          "n": 18,
+          "club": "Leicester City"
+        },
+        {
+          "name": "Jordan Pickford",
+          "nat": "England",
+          "n": 16,
+          "club": "Everton"
+        }
+      ]
+    },
+    {
+      "league": "Bundesliga (Germany)",
+      "total": 21,
+      "players": [
+        {
+          "name": "Yann Sommer",
+          "nat": "Switzerland",
+          "n": 21,
+          "club": "Borussia Mönchengladbach"
+        }
+      ]
+    },
+    {
+      "league": "Süper Lig (Turkey)",
+      "total": 18,
+      "players": [
+        {
+          "name": "Uğurcan Çakır",
+          "nat": "Turkey",
+          "n": 18,
+          "club": "Trabzonspor"
+        }
+      ]
+    },
+    {
+      "league": "Ukrainian Premier League",
+      "total": 15,
+      "players": [
+        {
+          "name": "Heorhiy Bushchan",
+          "nat": "Ukraine",
+          "n": 15,
+          "club": "Dynamo Kyiv"
+        }
+      ]
+    }
+  ]
+}

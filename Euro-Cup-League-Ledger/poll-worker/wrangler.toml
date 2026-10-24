@@ -1,0 +1,9 @@
+name = "wcll-poll"
+main = "src/index.js"
+compatibility_date = "2026-06-01"
+
+# Replace `id` with the KV namespace ID you get from:
+#   wrangler kv namespace create POLL
+[[kv_namespaces]]
+binding = "POLL"
+id = "ce3679170d2d43a0a47818e8b657ae7d"

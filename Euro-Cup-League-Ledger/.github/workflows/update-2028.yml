@@ -1,0 +1,40 @@
+name: update-euro-ledger
+
+on:
+  # schedule:
+  #   - cron: "0 * * * *"     # disabled — Euro 2028 has not started yet
+  workflow_dispatch: {}     # manual trigger from the Actions tab
+
+permissions:
+  contents: write           # needed to push the ledger data back to main
+
+concurrency:
+  group: update-euro-ledger
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build Euro ledger from public timelines
+        run: python3 scripts/build_ledger.py
+
+      - name: Commit if changed
+        run: |
+          if [[ -z "$(git status --porcelain data/2028.json)" ]]; then
+            echo "No ledger change. Nothing to commit."
+            exit 0
+          fi
+          git config user.name  "euro-ledger-bot"
+          git config user.email "euro-ledger-bot@users.noreply.github.com"
+          git add data/2028.json
+          git commit -m "data: refresh Euro ledger [skip ci]"
+          git push
