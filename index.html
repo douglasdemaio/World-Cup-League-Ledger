@@ -15,7 +15,7 @@
 </script>
 
 <title>League Ledger — World Cup goals, assists &amp; saves by club league (2026, 2022, 2018, 2014, 2010)</title>
-<meta name="description" content="Track every FIFA World Cup goal, assist and save credited back to the club league the player earns his living in. Live 2026 tournament plus full historical ledgers for 2022, 2018, 2014 and 2010 — Premier League, La Liga, Bundesliga, Serie A, Ligue 1, MLS, Saudi Pro League and more.">
+<meta name="description" content="Track every FIFA World Cup goal, assist and save credited back to the club league the player earns his living in. Complete 2026 tournament plus full historical ledgers for 2022, 2018, 2014 and 2010 — Premier League, La Liga, Bundesliga, Serie A, Ligue 1, MLS, Saudi Pro League and more.">
 <meta name="keywords" content="World Cup 2026, World Cup goals by league, Premier League World Cup, La Liga World Cup, Bundesliga World Cup, Ligue 1 World Cup, Serie A World Cup, MLS World Cup, Saudi Pro League World Cup, World Cup assists, World Cup goalkeeper saves, World Cup 2022, World Cup 2018, World Cup 2014, World Cup 2010, FIFA World Cup stats, club league ledger">
 <meta name="author" content="Douglas DeMaio">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
@@ -26,7 +26,7 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="League Ledger">
 <meta property="og:title" content="League Ledger — World Cup goals, assists &amp; saves by club league">
-<meta property="og:description" content="Live 2026 World Cup tracker plus full ledgers for 2022, 2018, 2014 and 2010 — every goal, assist and save sorted by the league the player plays his club football in.">
+<meta property="og:description" content="Complete 2026 World Cup ledger plus full ledgers for 2022, 2018, 2014 and 2010 — every goal, assist and save sorted by the league the player plays his club football in.">
 <meta property="og:url" content="https://wcclubtracker.com/">
 <meta property="og:image" content="https://wcclubtracker.com/image/preview.png">
 <meta property="og:image:secure_url" content="https://wcclubtracker.com/image/preview.png">
@@ -39,7 +39,7 @@
 <!-- Twitter / X -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="League Ledger — World Cup goals, assists &amp; saves by club league">
-<meta name="twitter:description" content="Every World Cup goal, assist and save credited back to the league the player earns his living in. 2026 live, plus 2022 / 2018 / 2014 / 2010.">
+<meta name="twitter:description" content="Every World Cup goal, assist and save credited back to the league the player earns his living in. 2026 final, plus 2022 / 2018 / 2014 / 2010.">
 <meta name="twitter:image" content="https://wcclubtracker.com/image/preview.png">
 <meta name="twitter:image:alt" content="League Ledger scoreboard graphic">
 
@@ -60,7 +60,7 @@
       "@id": "https://wcclubtracker.com/#website",
       "url": "https://wcclubtracker.com/",
       "name": "League Ledger",
-      "description": "World Cup goals, assists and saves credited to the player's club league. Live 2026 plus historical 2022, 2018, 2014, 2010.",
+      "description": "World Cup goals, assists and saves credited to the player's club league. Complete 2026 plus historical 2022, 2018, 2014, 2010.",
       "inLanguage": "en",
       "publisher": { "@id": "https://wcclubtracker.com/#publisher" }
     },
@@ -73,7 +73,7 @@
     {
       "@type": "Dataset",
       "name": "World Cup goals, assists and saves by club league (2010–2026)",
-      "description": "Per-player, per-club, per-league tallies for the last five FIFA World Cups. 2026 tracked live; 2022, 2018, 2014 and 2010 compiled from public match data.",
+      "description": "Per-player, per-club, per-league tallies for the last five FIFA World Cups. 2026 final; 2022, 2018, 2014 and 2010 compiled from public match data.",
       "keywords": ["FIFA World Cup","goals","assists","saves","Premier League","La Liga","Bundesliga","Serie A","Ligue 1","MLS","Saudi Pro League"],
       "license": "https://opensource.org/licenses/MIT",
       "creator": { "@id": "https://wcclubtracker.com/#publisher" },
@@ -325,7 +325,7 @@ footer.foot a{color:var(--gold);text-decoration:none}
         <img src="image/logo.png" alt="Switch to the Euro ledger">
       </a>
     </div>
-    <p class="sub">Every FIFA World Cup goal, assist and save, credited back to the league the player earns his club paycheck in. The <strong>2026 tournament</strong> updates live; the ledgers for <strong>2022, 2018, 2014 and 2010</strong> are settled. Tap any league to see exactly who delivered.</p>
+    <p class="sub">Every FIFA World Cup goal, assist and save, credited back to the league the player earns his club paycheck in. The <strong>2026, 2022, 2018, 2014 and 2010</strong> ledgers are settled. Tap any league to see exactly who delivered.</p>
   </header>
 
   <section class="poll" id="poll" aria-labelledby="poll-heading">
@@ -364,7 +364,7 @@ footer.foot a{color:var(--gold);text-decoration:none}
   <main class="board" aria-label="World Cup league ledger">
     <div class="board-top">
       <div class="switch" role="tablist" aria-label="Tournament">
-        <button id="t2026" class="on" data-t="2026" aria-pressed="true"><span class="live-dot" aria-hidden="true"></span>2026 · Live</button>
+        <button id="t2026" class="on" data-t="2026" aria-pressed="true">2026</button>
         <button id="t2022" data-t="2022">2022</button>
         <button id="t2018" data-t="2018">2018</button>
         <button id="t2014" data-t="2014">2014</button>
@@ -383,7 +383,7 @@ footer.foot a{color:var(--gold);text-decoration:none}
 
   <section class="method">
     <h2>Method &amp; sources</h2>
-    <p>Each goal, assist and save is credited to the player's <em>club at the time of that tournament</em>, then aggregated by the league that club competes in. Own goals are excluded from player totals (2022, for example: 170 player goals + 2 own goals = 172 official). Recent tournaments: goals and assists from worldfootball.net cross-checked against FIFA match reports; 2022 keeper saves from FOX Sports (regulation saves only, shootouts excluded). 2026 data is compiled from official match reports as the tournament unfolds.</p>
+    <p>Each goal, assist and save is credited to the player's <em>club at the time of that tournament</em>, then aggregated by the league that club competes in. Own goals are excluded from player totals (2022, for example: 170 player goals + 2 own goals = 172 official). Recent tournaments: goals and assists from worldfootball.net cross-checked against FIFA match reports; 2022 keeper saves from FOX Sports (regulation saves only, shootouts excluded). 2026 data is compiled from FIFA's official match timeline, including its Type 57 "Goal Prevention" save events.</p>
     <p style="margin-top:8px">Historical tournaments (2018, 2014, 2010) list the <strong>confirmed top contributors</strong> per league rather than every cameo — assist and save lists for those years pre-date consistent public attribution and are best-effort. Corrections welcome via <a href="https://github.com/douglasdemaio/World-Cup-League-Ledger">GitHub</a>. One judgment call worth knowing: Cristiano Ronaldo's 2022 goal is listed as "unattached" — Manchester United terminated his contract on 22 Nov 2022, two days before he scored.</p>
   </section>
 
@@ -405,7 +405,7 @@ footer.foot a{color:var(--gold);text-decoration:none}
  * ---------------------------------------------------------------- */
 const WC = {
   "2026": {
-    "updated": "June 12, 2026 — after Matchday 1 (2 of 104 matches)",
+    "updated": "Final · USA, Canada & Mexico, 11 Jun – 19 Jul 2026",
     "goals": [
       {"league":"Premier League (England)","total":2,"players":[
         {"name":"Raúl Jiménez","nat":"Mexico","n":1,"club":"Fulham"},
@@ -902,9 +902,9 @@ const WC = {
 };
 
 const NOTES = {
-  "2026-goals":"Two matches played. Assists and saves tables will fill in as official match data is compiled — check back after each matchday.",
-  "2026-assists":"Assist tracking begins once official tournament stats are compiled for Matchday 1. Known so far: Hwang In-beom (Feyenoord) and Lee Kang-in (Mallorca) assisted South Korea's goals; Vladimír Coufal's (West Ham) long throw set up Czechia's.",
-  "2026-saves":"Goalkeeper save totals will appear once official Matchday 1 stats are published.",
+  "2026-goals":"Final. 277 goals across 104 matches. The Premier League led the way with 67, powered by Erling Haaland's seven; Kylian Mbappé's nine for Real Madrid made La Liga the runner-up on 43.",
+  "2026-assists":"Final. 221 assists across 104 matches. The Premier League again topped the table with 59, while Michael Olise's seven for Bayern Munich lifted the Bundesliga to third.",
+  "2026-saves":"Final. 578 recorded goalkeeper saves across 104 matches. Emiliano Martínez (Aston Villa) and Jordan Pickford (Everton) shared the Premier League lead on 22 apiece, with Yassine Bounou's 20 for Al-Hilal putting the Saudi Pro League third overall.",
   "2022-goals":"170 goals by players + 2 own goals = 172 official tournament goals. Premier League players out-scored every other league, but Ligue 1 (Mbappé 8, Messi 7 — both PSG) closed hard in the knockouts.",
   "2022-assists":"126 assists credited by worldfootball.net (assist definitions vary slightly between data providers).",
   "2022-saves":"349 regulation saves across 40 goalkeepers. Note the Saudi Pro League in 2nd — its clubs employed not just Saudi Arabia's keepers but Cameroon's and Morocco's backups too.",
@@ -1273,8 +1273,8 @@ if(POLL_API_ENDPOINT){
 }
 
 /* ----------------------------------------------------------------
- * LIVE UPDATER — 2026
- * The 2026 ledger lives in data/2026.json so it can be updated by a
+ * LEDGER LOADER — 2026 (final)
+ * The full 2026 ledger lives in data/2026.json so it can be updated by a
  * commit (or a scheduled GitHub Action) without touching this file.
  * We fetch it on load and every 60s with cache-busting; if the
  * payload changed, we hot-swap WC["2026"] and re-render. The inline

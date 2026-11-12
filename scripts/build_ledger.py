@@ -8,7 +8,9 @@ player:
   - Type  1 = Assist -> assists
   - Type 57 = Goal Prevention (save) -> saves
 
-Joins each player to a club + league via data/players-2026.json and
+FIFA's timeline does carry saves (Type 57 "Goal Prevention"); ESPN match
+summaries are only a fallback for competitions where the timeline omits
+them. Joins each player to a club + league via data/players-2026.json and
 data/leagues.json, then groups into the {league, total, players[]} shape
 the front-end already renders.
 
@@ -35,25 +37,24 @@ LEAGUES_FILE = DATA_DIR / "leagues.json"
 OUT_FILE = DATA_DIR / "2026.json"
 
 UA = "Mozilla/5.0 (compatible; WCClubTrackerBot/1.0; +https://wcclubtracker.com)"
+# ESPN rejects the bot UA above with HTTP 403, so use a browser UA for ESPN only.
+ESPN_UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 FIFA = "https://api.fifa.com/api/v3"
 COMP = "17"
 SEASON = "285023"
 
-# FIFA's v3 timeline never emits save events for the World Cup (verified empty
-# on 2026 *and* 2022 — Type 57/60/14 are simply not in the feed), and FIFA's
-# /topsavers endpoint exists but stays empty until they decide to publish
-# keeper stats post-tournament. Until then we pull saves from ESPN's public
-# match-summary endpoint, which carries per-match keeper save totals as the
-# "saves" leader per team.
+# Primary save source is FIFA's v3 timeline (Type 57 "Goal Prevention").
+# ESPN's public match-summary endpoint is the fallback: it carries per-match
+# keeper save totals as each team's "saves" leader. Some competitions publish
+# saves late or not at all on FIFA, so we keep both paths.
 ESPN = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world"
 
 EVENT_GOAL = 0
 EVENT_ASSIST = 1
 EVENT_SAVE = 57
 
-# Save events have historically shown up under more than one code in FIFA's
-# v3 timeline depending on competition. We count the primary one but also
-# *watch* these so the diagnostics below tell us if saves live elsewhere.
+# Type 57 is the save. 60 is "Penalty missed" and 14 is not a keeper stat, so
+# they are listed here only as diagnostics to prove saves are not hiding there.
 SAVE_CANDIDATE_TYPES = {57, 60, 14}
 
 # Fields a timeline event may use to carry the acting player, in priority order.
@@ -92,10 +93,10 @@ def event_player_id(ev):
     return None
 
 
-def http_json(url, retries=3):
+def http_json(url, retries=3, ua=UA):
     last_err = None
     for attempt in range(retries):
-        req = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": UA})
+        req = urllib.request.Request(url, headers={"Accept": "application/json", "User-Agent": ua})
         try:
             with urllib.request.urlopen(req, timeout=30) as r:
                 return json.loads(r.read())
@@ -190,7 +191,7 @@ def fetch_espn_completed_events(dates):
     out = []
     for ds in dates:
         try:
-            d = http_json(f"{ESPN}/scoreboard?dates={ds}")
+            d = http_json(f"{ESPN}/scoreboard?dates={ds}", ua=ESPN_UA)
         except Exception as e:
             print(f"  ESPN scoreboard {ds}: {e}", file=sys.stderr)
             continue
@@ -214,7 +215,7 @@ def fetch_saves_from_espn(players, matches):
 
     for i, eid in enumerate(event_ids, 1):
         try:
-            d = http_json(f"{ESPN}/summary?event={eid}")
+            d = http_json(f"{ESPN}/summary?event={eid}", ua=ESPN_UA)
         except Exception as e:
             print(f"  ESPN summary {eid}: {e}", file=sys.stderr)
             continue
@@ -309,21 +310,35 @@ def aggregate():
     print(f"DIAG fields present on save-candidate events: {dict(save_probe['fields'])}", file=sys.stderr)
     print(f"DIAG raw counts (timeline): goals={len(counts['goals'])} assists={len(counts['assists'])} saves={len(counts['saves'])} players", file=sys.stderr)
 
-    # FIFA's timeline doesn't carry save events for this competition; pull them
-    # from ESPN's per-match summary leaders instead and aggregate the same way.
-    saves_counts = fetch_saves_from_espn(players, matches)
+    # Prefer FIFA's own Type 57 save events. Only fall back to ESPN match
+    # summaries when the timeline has no keeper events for the competition.
+    saves_counts = counts["saves"]
+    saves_source = "FIFA"
+    if not saves_counts and interesting:
+        print("No Type 57 saves in FIFA timeline — falling back to ESPN.", file=sys.stderr)
+        saves_counts = fetch_saves_from_espn(players, matches)
+        saves_source = "ESPN"
 
-    out = {
-        "updated": datetime.now(timezone.utc).strftime("%B %-d, %Y %H:%M UTC — ")
+    finished = played > 0 and played == total_in_tournament and live == 0
+    if finished:
+        updated = (f"Final · USA, Canada & Mexico, 11 Jun – 19 Jul 2026 — "
+                   f"{played} of {total_in_tournament} matches played")
+    else:
+        updated = (datetime.now(timezone.utc).strftime("%B %-d, %Y %H:%M UTC — ")
                    + f"{played} of {total_in_tournament} matches played"
-                   + (f", {live} live" if live else ""),
+                   + (f", {live} live" if live else ""))
+    out = {
+        "updated": updated,
         "goals": group_by_league(counts["goals"], players, leagues),
         "assists": group_by_league(counts["assists"], players, leagues),
         "saves": group_by_league(saves_counts, players, leagues),
         "notes": {
-            "goals": f"Live from FIFA. Updated automatically; data through the most recent match. ({played}/{total_in_tournament} matches)",
-            "assists": "Live from FIFA. Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
-            "saves": "Live from ESPN match summaries (FIFA's v3 timeline doesn't carry keeper events). Counts each team's top saver per match; goals conceded are not deducted.",
+            "goals": ("Final from FIFA. " if finished else "Live from FIFA. ")
+                     + f"Updated automatically; data through the most recent match. ({played}/{total_in_tournament} matches)",
+            "assists": ("Final from FIFA. " if finished else "Live from FIFA. ")
+                       + "Assists are credited only when FIFA's timeline records an Assist event (Type 1) for the pass before the goal — own goals and direct-free-kick goals don't generate one.",
+            "saves": (f"Final from {saves_source}. " if finished else f"Live from {saves_source}. ")
+                     + "Counts every recorded goalkeeper save (FIFA Type 57 \"Goal Prevention\" when available); penalty shootouts are not included.",
         },
     }
     return out
