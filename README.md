@@ -9,7 +9,7 @@ Sort by Premier League, La Liga, Bundesliga, Serie A, Ligue 1, MLS, Saudi Pro Le
 ## Files
 
 - `index.html` — the single-page app (vanilla JS, no build step)
-- `data/2026.json` — the full 2026 ledger. The page polls this file every 60s. Schema: `{updated, goals[], assists[], saves[], notes{}}`, each stat an array of `{league, total, players:[{name, nat, n, club}]}`.
+- `data/2026.json` — the full 2026 ledger. The page fetches this file once on load. Schema: `{updated, goals[], assists[], saves[], notes{}}`, each stat an array of `{league, total, players:[{name, nat, n, club}]}`.
 - `data/players-2026.json` — index of all ~1,248 tournament players, mapping FIFA `IdPlayer` → `{name, nat, club, clubnat}`. Seeded from FIFA's squad endpoints joined to Wikipedia's `2026 FIFA World Cup squads` page (FIFA's API doesn't expose club info).
 - `data/leagues.json` — club-country → league-name defaults, plus per-club overrides for second-tier and unusual cases (Championship, 2. Bundesliga, J2, etc.).
 - `scripts/build_ledger.py` — hourly aggregator. Reads FIFA match timelines (goals = event type 0, assists = 1, saves = 57), joins on the player index, buckets into leagues, writes `data/2026.json`. No secrets — FIFA + Wikipedia are public.
@@ -17,7 +17,7 @@ Sort by Premier League, La Liga, Bundesliga, Serie A, Ligue 1, MLS, Saudi Pro Le
 - `.github/workflows/update-2026.yml` — runs `build_ledger.py` every hour and commits `data/2026.json` back to `main` only when the payload changed.
 - `robots.txt`, `sitemap.xml` — SEO basics
 - `world-cup-league-tracker.html` — original prototype, kept for history
-- `poll-worker/` — optional Cloudflare Worker that aggregates the R16 predictions poll. Deploy with `cd poll-worker && npx wrangler deploy`, then paste the worker URL into `POLL_API_ENDPOINT` in `index.html`. Without it, the poll runs in local-only mode (each visitor sees only their own picks).
+- `poll-worker/` — optional Cloudflare Worker that aggregated the closed R16 predictions poll. Deploy with `cd poll-worker && npx wrangler deploy`, then paste the worker URL into `POLL_API_ENDPOINT` in `index.html`. Without it, the poll runs in local-only mode (each visitor sees only their own picks).
 
 ## Hosting
 

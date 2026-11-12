@@ -140,8 +140,7 @@ h1 em{font-style:normal;color:var(--gold)}
 }
 .switch button.on{background:var(--gold);color:#1d1505}
 .switch button:focus-visible{outline:2px solid var(--gold);outline-offset:2px}
-.live-dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:#ff5d5d;margin-right:6px;animation:pulse 1.4s infinite;vertical-align:middle}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+
 .updated{font-size:12.5px;color:var(--chalk-dim)}
 .tabs{display:flex;border-bottom:1px solid var(--line)}
 .tabs button{
@@ -187,9 +186,11 @@ h1 em{font-style:normal;color:var(--gold)}
 .method h2{font-family:'Archivo Expanded',sans-serif;font-size:13px;letter-spacing:.18em;text-transform:uppercase;color:var(--chalk);margin-bottom:8px}
 .method a{color:var(--gold)}
 
-/* --- Bamberg Quest promo --- */
+/* --- partner promos --- */
+.promos{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;margin-top:34px}
+.promos .quest{margin-top:0}
 .quest{
-  margin-top:34px;border:1px solid rgba(199,123,32,.35);border-radius:12px;
+  border:1px solid rgba(199,123,32,.35);border-radius:12px;
   padding:14px 16px;font-size:12.5px;line-height:1.6;color:var(--chalk-dim);
   background:linear-gradient(135deg, rgba(199,123,32,.08), rgba(245,217,142,.05));
 }
@@ -204,6 +205,13 @@ h1 em{font-style:normal;color:var(--gold)}
 .quest a:hover{color:#f5d98e;border-bottom-color:#f5d98e}
 .quest .tag{display:inline-block;font-size:10.5px;letter-spacing:.18em;text-transform:uppercase;color:#f5d98e;font-weight:700;margin-right:6px}
 
+/* Civil Unrest gets a revolutionary red accent. */
+.quest.civil{border-color:rgba(193,57,43,.4);background:linear-gradient(135deg, rgba(193,57,43,.10), rgba(224,168,76,.04))}
+.quest.civil h3 .brew{background:linear-gradient(90deg,#c1392b,#f5d98e);-webkit-background-clip:text;background-clip:text;color:transparent;font-weight:900}
+.quest.civil .tag{color:#ffb3a7}
+.quest.civil a{color:#e88a7d;border-bottom-color:rgba(232,138,125,.4)}
+.quest.civil a:hover{color:#ffb3a7;border-bottom-color:#ffb3a7}
+
 footer.foot{margin-top:30px;font-size:11.5px;color:var(--chalk-dim);text-align:center;line-height:1.55}
 footer.foot a{color:var(--gold);text-decoration:none}
 
@@ -214,7 +222,7 @@ footer.foot a{color:var(--gold);text-decoration:none}
   .switch{width:100%;overflow-x:auto;flex-wrap:nowrap}
   .switch button{flex-shrink:0}
 }
-@media (prefers-reduced-motion: reduce){ .bar{transition:none} .live-dot{animation:none} }
+@media (prefers-reduced-motion: reduce){ .bar{transition:none} }
 
 /* --- Predictions poll --- */
 .poll{
@@ -332,11 +340,11 @@ footer.foot a{color:var(--gold);text-decoration:none}
     <div class="poll-head">
       <div class="poll-title-wrap">
         <h2 id="poll-heading">Your call · 2026 ledger</h2>
-        <p class="poll-sub">Pick the league you reckon tops each ledger when the Round of 16 finishes — <strong>7 July 2026, 00:00 UTC</strong>. Voting locks heading into the quarter-finals so broadcasters have a clean snapshot of where the prediction lined up against the live numbers.</p>
+        <p class="poll-sub">The poll closed at the end of the Round of 16 on <strong>7 July 2026, 00:00 UTC</strong>. Your locked picks are compared with the final 2026 league leaders.</p>
       </div>
       <div class="poll-clock" aria-live="polite">
-        <span class="poll-clock-label">Voting closes in</span>
-        <span class="poll-clock-time" id="poll-clock-time">—</span>
+        <span class="poll-clock-label">Poll status</span>
+        <span class="poll-clock-time" id="poll-clock-time">Voting closed</span>
       </div>
     </div>
     <div class="poll-grid">
@@ -355,10 +363,10 @@ footer.foot a{color:var(--gold);text-decoration:none}
     </div>
     <div class="poll-actions">
       <button id="poll-submit" type="button">Lock in my picks</button>
-      <span class="poll-status" id="poll-status" aria-live="polite">Picks are saved in this browser — come back at the R16 deadline to see how you did.</span>
+      <span class="poll-status" id="poll-status" aria-live="polite">Voting has closed — your picks are compared with the final 2026 leaders below.</span>
     </div>
     <div class="poll-tally" id="poll-tally" aria-live="polite" hidden></div>
-    <div class="poll-results" id="poll-results" aria-label="Your picks vs the live leader"></div>
+    <div class="poll-results" id="poll-results" aria-label="Your picks vs the final leader"></div>
   </section>
 
   <main class="board" aria-label="World Cup league ledger">
@@ -387,10 +395,17 @@ footer.foot a{color:var(--gold);text-decoration:none}
     <p style="margin-top:8px">Historical tournaments (2018, 2014, 2010) list the <strong>confirmed top contributors</strong> per league rather than every cameo — assist and save lists for those years pre-date consistent public attribution and are best-effort. Corrections welcome via <a href="https://github.com/douglasdemaio/World-Cup-League-Ledger">GitHub</a>. One judgment call worth knowing: Cristiano Ronaldo's 2022 goal is listed as "unattached" — Manchester United terminated his contract on 22 Nov 2022, two days before he scored.</p>
   </section>
 
-  <aside class="quest" aria-label="Bamberg Quest — city adventure game">
-    <h3><span class="tag">Explore</span> <span class="brew">Bamberg Quest</span> · UNESCO World Heritage city</h3>
-    <p><strong>Bamberg Quest</strong> is a self-guided walking adventure through Bamberg, Germany — seven hills, nine breweries, one Beer Diploma. Solve riddles, discover hidden spots, and collect stamps at every brewery to unlock the <strong>Bamberger Bierdiplom</strong>. No app, no account — just your browser and the city. Visit <a href="https://bamberg.quest/">bamberg.quest</a> to start exploring.</p>
-  </aside>
+  <div class="promos">
+    <aside class="quest" aria-label="Bamberg Quest — city adventure game">
+      <h3><span class="tag">Explore</span> <span class="brew">Bamberg Quest</span> · UNESCO World Heritage city</h3>
+      <p><strong>Bamberg Quest</strong> is a self-guided walking adventure through Bamberg, Germany — seven hills, nine breweries, one Beer Diploma. Solve riddles, discover hidden spots, and collect stamps at every brewery to unlock the <strong>Bamberger Bierdiplom</strong>. No app, no account — just your browser and the city. Visit <a href="https://bamberg.quest/">bamberg.quest</a> to start exploring.</p>
+    </aside>
+
+    <aside class="quest civil" aria-label="Civil Unrest — strategy board game">
+      <h3><span class="tag">Play</span> <span class="brew">Civil Unrest</span> · Risk meets Monopoly</h3>
+      <p><strong>Civil Unrest</strong> is a 1–6 player strategy board game that blends Risk's territorial conquest with Monopoly's economic engine. Build alliances, seize resources, spark uprisings and outmaneuver your rivals — or play the full digital edition free in your browser. Visit <a href="https://civil-unrest-game.com/">civil-unrest-game.com</a> to start the revolution.</p>
+    </aside>
+  </div>
 
   <footer class="foot">
     <p>Made by <a href="https://github.com/douglasdemaio">Douglas DeMaio</a> · open-source on <a href="https://github.com/douglasdemaio/World-Cup-League-Ledger">GitHub</a> · MIT licensed · not affiliated with FIFA.</p>
@@ -987,26 +1002,25 @@ function render(){
   requestAnimationFrame(()=>requestAnimationFrame(()=>{
     el.querySelectorAll(".bar").forEach(b=>b.style.width=b.dataset.w+"%");
   }));
-  const liveNote=d.notes&&d.notes[stat];
-  const haveLiveRows=Array.isArray(d[stat])&&d[stat].length>0;
-  document.getElementById("note").textContent=(haveLiveRows&&liveNote)||NOTES[tournament+"-"+stat]||liveNote||"";
+  const dataNote=d.notes&&d.notes[stat];
+  const haveRows=Array.isArray(d[stat])&&d[stat].length>0;
+  document.getElementById("note").textContent=(haveRows&&dataNote)||NOTES[tournament+"-"+stat]||dataNote||"";
 }
 
 document.querySelectorAll(".switch button").forEach(b=>b.addEventListener("click",()=>setTournament(b.dataset.t)));
 document.querySelectorAll(".tabs button").forEach(b=>b.addEventListener("click",()=>setStat(b.dataset.s)));
 
 /* ----------------------------------------------------------------
- * PREDICTIONS POLL — closes 7 July 2026 00:00 UTC (end of R16)
+ * PREDICTIONS POLL — closed 7 July 2026 00:00 UTC (end of R16)
  * Per-visitor predictions for top league in goals/assists/saves.
- * Picks live in localStorage (always); when POLL_API_ENDPOINT is set
- * they're also POSTed to a Cloudflare Worker for aggregate tallying.
+ * Picks are stored in localStorage; when POLL_API_ENDPOINT is set
+ * they were also POSTed to a Cloudflare Worker for aggregate tallying.
  * Aggregate counts (when available) render under the actions row and
- * inside the closed-state results panel. After the deadline the panel
- * locks and shows pick-vs-live-leader (re-rendered when WC["2026"] refreshes).
+ * inside the closed-state results panel. The panel shows each pick
+ * against the final tournament leader.
  * Deploy the worker from poll-worker/ and paste its URL below.
  * ---------------------------------------------------------------- */
 const POLL_API_ENDPOINT = "https://wcll-poll.douglasdemaio.workers.dev"; // empty string = local-only mode
-const POLL_TALLY_REFRESH_MS = 60000;
 const POLL_DEADLINE = Date.UTC(2026, 6, 7, 0, 0, 0); // July is month 6 (0-indexed)
 const POLL_KEY = "wcll-prediction-v1";
 const POLL_CID_KEY = "wcll-cid-v1";
@@ -1137,7 +1151,7 @@ function tickPollClock(){
   el.textContent = `${d}d ${pad(h)}:${pad(m)}:${pad(s)}`;
 }
 
-function liveLeader(stat){
+function tournamentLeader(stat){
   const d = WC["2026"]; if(!d) return null;
   const rows = cleanRows(d[stat]||[]).sort((a,b)=>b.total-a.total);
   return rows.length ? rows[0] : null;
@@ -1149,7 +1163,7 @@ function renderPollResults(){
   const saved = loadPrediction() || {};
   wrap.innerHTML = POLL_STATS.map(stat=>{
     const pick = saved[stat] || "—";
-    const leader = liveLeader(stat);
+    const leader = tournamentLeader(stat);
     const leaderName = leader ? leader.league : "—";
     const leaderTotal = leader ? `${leader.total} ${stat}` : "no data yet";
     const hit = pick !== "—" && leader && pick === leader.league;
@@ -1165,7 +1179,7 @@ function renderPollResults(){
     return `<div class="poll-result-row${hit?" hit":""}">
       <div class="stat">${stat}</div>
       <div class="pick"><b>Your pick</b><span>${pick}</span></div>
-      <div class="actual"><b>Live leader</b><span>${leaderName}</span> · ${leaderTotal}${communityCell}</div>
+      <div class="actual"><b>Final leader</b><span>${leaderName}</span> · ${leaderTotal}${communityCell}</div>
     </div>`;
   }).join("");
 }
@@ -1181,7 +1195,7 @@ function closePoll(){
   if(btn){ btn.disabled = true; btn.textContent = "Voting closed"; }
   const saved = loadPrediction();
   setPollStatus(saved
-    ? "Voting closed at end of R16 — your locked picks shown below against the live 2026 leaders."
+    ? "Voting closed at end of R16 — your locked picks shown below against the final 2026 leaders."
     : "Voting closed at end of R16. No picks were locked in this browser.","closed");
   renderPollResults();
 }
@@ -1253,8 +1267,8 @@ function renderTallySummary(){
 
   el.hidden = false;
   el.innerHTML =
-    `<div class="tally-head"><span>Community picks · live</span>
-      <span class="tally-total">${participantsApprox.toLocaleString()} voter${participantsApprox===1?"":"s"} so far</span>
+    `<div class="tally-head"><span>Community picks · final</span>
+      <span class="tally-total">${participantsApprox.toLocaleString()} voter${participantsApprox===1?"":"s"}</span>
     </div>
     <div class="tally-stats">${statBlocks}</div>`;
 }
@@ -1264,40 +1278,31 @@ function cap(s){ return s.charAt(0).toUpperCase() + s.slice(1); }
 populatePollSelects();
 applySavedPrediction();
 tickPollClock();
-setInterval(tickPollClock, 1000);
 document.getElementById("poll-submit").addEventListener("click", savePrediction);
 if(POLL_API_ENDPOINT){
   refreshTally();
-  setInterval(refreshTally, POLL_TALLY_REFRESH_MS);
-  document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) refreshTally(); });
 }
 
 /* ----------------------------------------------------------------
  * LEDGER LOADER — 2026 (final)
- * The full 2026 ledger lives in data/2026.json so it can be updated by a
- * commit (or a scheduled GitHub Action) without touching this file.
- * We fetch it on load and every 60s with cache-busting; if the
- * payload changed, we hot-swap WC["2026"] and re-render. The inline
+ * The full 2026 ledger lives in data/2026.json so corrections can be
+ * committed without touching this file. We fetch it once on load with
+ * cache-busting, then hot-swap WC["2026"] and re-render. The inline
  * data above is the fallback (offline, file://, fetch blocked).
  * ---------------------------------------------------------------- */
-const LIVE_URL = "data/2026.json";
-const LIVE_POLL_MS = 60000;
-let liveEtag = "";
+const LEDGER_URL = "data/2026.json";
 
 function validLedger(d){
   return d && typeof d === "object"
     && Array.isArray(d.goals) && Array.isArray(d.assists) && Array.isArray(d.saves);
 }
 
-async function refreshLive(){
+async function loadLedger(){
   try{
-    const res = await fetch(`${LIVE_URL}?t=${Date.now()}`, {cache: "no-store"});
+    const res = await fetch(`${LEDGER_URL}?t=${Date.now()}`, {cache: "no-store"});
     if(!res.ok) return;
-    const text = await res.text();
-    if(text === liveEtag) return;           // nothing changed — skip re-render
-    const d = JSON.parse(text);
+    const d = await res.json();
     if(!validLedger(d)) return;             // malformed payload — keep current data
-    liveEtag = text;
     WC["2026"] = d;
     if(tournament === "2026") render();
     renderPollResults();
@@ -1306,11 +1311,7 @@ async function refreshLive(){
   }
 }
 
-refreshLive();
-setInterval(refreshLive, LIVE_POLL_MS);
-// Also refresh immediately when a backgrounded tab comes back into focus.
-document.addEventListener("visibilitychange", ()=>{ if(!document.hidden) refreshLive(); });
-
+loadLedger();
 render();
 </script>
 </body>
